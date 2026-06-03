@@ -1,0 +1,56 @@
+name: AI Daily Briefing
+
+on:
+  schedule:
+    # UTC 0:00 = 北京时间 8:00（夏令时）
+    # UTC 1:00 = 北京时间 9:00（冬令时）
+    - cron: '0 0 * * *'
+  workflow_dispatch:    # 允许手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# 同一时间只运行一个 workflow，新的会取消旧的
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate daily briefing & update data.json
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          HTTP_PROXY: ${{ secrets.HTTP_PROXY }}
+          HTTPS_PROXY: ${{ secrets.HTTP_PROXY }}
+        run: |
+          python ai_daily.py --update-json --max-news 20
+          echo "data.json updated:"
+          python -c "import json; d=json.load(open('data.json')); print(f'  {len(d)} days, latest: {d[0][\"date\"]} ({d[0][\"weekday\"]}), {len(d[0][\"news\"])} news items')"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'    # 上传整个目录（index.html + data.json）
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

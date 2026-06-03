@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>AI 新闻日报</title>
+<style>
+  /* ── Reset & Base ── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: #f4f5f7;
+    color: #1d1d1f;
+    line-height: 1.6;
+    padding: 0 0 48px 0;
+    min-height: 100vh;
+  }
+  a { color: #1d1d1f; text-decoration: none; }
+
+  /* ── Header ── */
+  .header {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+    color: #fff;
+    padding: 32px 20px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .header h1 {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+  }
+  .header .subtitle {
+    font-size: 12px;
+    opacity: 0.55;
+    margin-top: 2px;
+  }
+  .header-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 14px;
+  }
+  .header-controls label {
+    font-size: 12px;
+    opacity: 0.7;
+    white-space: nowrap;
+  }
+  .header-controls select {
+    flex: 1;
+    min-width: 140px;
+    padding: 7px 10px;
+    border: none;
+    border-radius: 6px;
+    font-size: 13px;
+    background: rgba(255,255,255,0.15);
+    color: #fff;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .header-controls select:hover { background: rgba(255,255,255,0.25); }
+  .header-controls select option { color: #1d1d1f; background: #fff; }
+  .header .date-badge {
+    display: inline-block;
+    font-size: 11px;
+    background: rgba(255,255,255,0.1);
+    padding: 3px 10px;
+    border-radius: 10px;
+    margin-top: 8px;
+  }
+
+  /* ── Loading & Error ── */
+  .loading, .error-container {
+    text-align: center;
+    padding: 60px 20px;
+  }
+  .loading .spinner {
+    width: 36px; height: 36px;
+    border: 3px solid #e0e0e0;
+    border-top-color: #4a6cf7;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 12px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .error-container { color: #e74c3c; }
+  .error-container .error-icon { font-size: 44px; margin-bottom: 10px; }
+  .error-container .hint {
+    font-size: 13px; color: #666; margin-top: 12px;
+    padding: 12px 16px; background: #fef3f2; border-radius: 8px;
+    display: inline-block; text-align: left;
+  }
+  .error-container .hint code {
+    background: #eee; padding: 2px 6px; border-radius: 4px; font-size: 12px;
+  }
+
+  /* ── Container ── */
+  .container {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 0 14px;
+  }
+
+  /* ── Summary Section ── */
+  .summary-section {
+    margin: 20px 0;
+    background: #fff;
+    border-radius: 14px;
+    padding: 18px 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .summary-section .label {
+    font-size: 12px;
+    font-weight: 600;
+    color: #4a6cf7;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+  }
+  .summary-section .text {
+    font-size: 14px;
+    line-height: 1.8;
+    color: #444;
+  }
+
+  /* ── Tag colors ── */
+  .tag-公司动态 { background: #e8f5e9; color: #2e7d32; }
+  .tag-产品发布 { background: #e3f2fd; color: #1565c0; }
+  .tag-行业动态 { background: #fff3e0; color: #e65100; }
+  .tag-投融资   { background: #fce4ec; color: #c62828; }
+  .tag-学术论文 { background: #f3e5f5; color: #6a1b9a; }
+  .tag-商业动态 { background: #e0f2f1; color: #00695c; }
+  .tag-开源项目 { background: #e8eaf6; color: #283593; }
+
+  /* ── News Section ── */
+  .news-section {
+    margin-top: 4px;
+  }
+  .news-section .section-header {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #1d1d1f;
+    padding: 8px 0 6px;
+  }
+  .news-section .section-header .count {
+    font-weight: 400;
+    font-size: 12px;
+    color: #999;
+  }
+
+  /* ── News Card ── */
+  .news-card {
+    background: #fff;
+    border-radius: 14px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    border: 1px solid #f0f0f0;
+    overflow: hidden;
+    transition: box-shadow 0.2s;
+  }
+  .news-card:hover {
+    box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+  }
+
+  /* ── Card top area (clickable to expand) ── */
+  .news-card .card-top {
+    padding: 14px 16px 0;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+  }
+  .news-card .tag {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    align-self: flex-start;
+    letter-spacing: 0.3px;
+  }
+  .news-card .title-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .news-card .title-row .title {
+    flex: 1;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #1d1d1f;
+  }
+  .news-card .title-row .expand-arrow {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #bbb;
+    font-size: 12px;
+    transition: transform 0.25s ease;
+    margin-top: 2px;
+  }
+  .news-card .title-row .expand-arrow.open {
+    transform: rotate(180deg);
+    color: #4a6cf7;
+  }
+
+  /* ── Collapsible detail area ── */
+  .news-card .detail-area {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.35s ease;
+  }
+  .news-card .detail-area.open {
+    max-height: 600px;
+  }
+  .news-card .detail-area .desc-text {
+    font-size: 13px;
+    line-height: 1.7;
+    color: #555;
+    padding: 6px 16px 12px;
+  }
+
+  /* ── Yellow button at bottom ── */
+  .news-card .link-bar {
+    padding: 0 16px 14px;
+  }
+  .news-card .link-bar a {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #8d6e00;
+    background: #fff8e1;
+    padding: 6px 14px;
+    border-radius: 8px;
+    transition: background 0.2s, transform 0.15s;
+  }
+  .news-card .link-bar a:hover {
+    background: #ffecb3;
+    transform: translateY(-1px);
+  }
+  .news-card .link-bar a:active {
+    transform: translateY(0);
+  }
+
+  /* ── Footer ── */
+  .footer {
+    text-align: center;
+    padding: 36px 16px 10px;
+    font-size: 12px;
+    color: #aaa;
+  }
+
+  /* ── Empty ── */
+  .empty-state {
+    text-align: center;
+    padding: 40px 20px;
+    color: #999;
+    font-size: 14px;
+  }
+  .empty-state .icon { font-size: 36px; margin-bottom: 6px; }
+
+  /* ── Responsive ── */
+  @media (max-width: 480px) {
+    .header { padding: 24px 16px 16px; }
+    .header h1 { font-size: 18px; }
+    .header-controls { flex-direction: column; align-items: stretch; }
+    .header-controls select { flex: none; }
+    .container { padding: 0 10px; }
+    .news-card .card-top { padding: 12px 14px 0; }
+    .news-card .link-bar { padding: 0 14px 12px; }
+    .news-card .detail-area .desc-text { padding: 4px 14px 10px; font-size: 12px; }
+    .news-card .title-row .title { font-size: 14px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ════════ Header ════════ -->
+<header class="header">
+  <h1>📰 AI 新闻日报</h1>
+  <div class="subtitle">每日人工智能领域要闻精选</div>
+  <div class="header-controls">
+    <label for="dateSelect">📅 日期</label>
+    <select id="dateSelect" onchange="onDateChange()">
+      <option value="">加载中…</option>
+    </select>
+  </div>
+  <div class="date-badge" id="dateBadge"></div>
+</header>
+
+<!-- ════════ Content ════════ -->
+<div class="container" id="app">
+
+  <!-- Loading -->
+  <div class="loading" id="loadingIndicator">
+    <div class="spinner"></div>
+    <p>正在加载数据…</p>
+  </div>
+
+  <!-- Error -->
+  <div class="error-container" id="errorContainer" style="display:none;">
+    <div class="error-icon">⚠️</div>
+    <h3>数据加载失败</h3>
+    <p id="errorMessage">无法读取 data.json 文件。</p>
+    <div class="hint">
+      <p><strong>可能的原因：</strong></p>
+      <p>• 使用 <code>file://</code> 协议直接打开，浏览器跨域限制禁止 fetch。</p>
+      <p>• <code>data.json</code> 文件不存在或格式错误。</p>
+      <br>
+      <p><strong>解决方法：</strong></p>
+      <p>① 启动一个本地 HTTP 服务器：</p>
+      <p style="margin:4px 0 8px 16px;">
+        <code>python -m http.server 8080</code><br>
+        <span style="font-size:12px;color:#888;">然后在浏览器打开 http://localhost:8080</span>
+      </p>
+      <p>② 或将 HTML 末尾的 INLINE_DATA 变量取消注释</p>
+    </div>
+  </div>
+
+  <!-- Main content -->
+  <div id="mainContent" style="display:none;">
+
+    <!-- Summary Card -->
+    <section class="summary-section">
+      <div class="label">📋 今日摘要</div>
+      <div class="text" id="summaryText"></div>
+    </section>
+
+    <!-- News List -->
+    <section class="news-section">
+      <div class="section-header">
+        📌 要闻 <span class="count" id="newsCount"></span>
+      </div>
+      <div id="newsList"></div>
+    </section>
+
+    <!-- Footer -->
+    <div class="footer">
+      🤖 AI 新闻日报 · 由 ai_daily.py 自动生成
+    </div>
+
+  </div>
+</div>
+
+<script>
+/* ================================================================
+   方案 A（默认）：fetch 加载 data.json
+   方案 B（离线）：取消注释 INLINE_DATA，注释掉 fetchData() 相关行
+   ================================================================ */
+
+// ═══ 方案 B 备用数据（取消注释即可离线使用） ═══
+// const INLINE_DATA = [];
+
+// ═══ State ═══
+let allData = [];
+let currentData = null;
+
+// ═══ DOM refs ═══
+const loadingEl    = document.getElementById('loadingIndicator');
+const errorEl      = document.getElementById('errorContainer');
+const errorMsg     = document.getElementById('errorMessage');
+const mainEl       = document.getElementById('mainContent');
+const dateSelect   = document.getElementById('dateSelect');
+const dateBadge    = document.getElementById('dateBadge');
+const summaryText  = document.getElementById('summaryText');
+const newsList     = document.getElementById('newsList');
+const newsCount    = document.getElementById('newsCount');
+
+// ═══ Helpers ═══
+function escapeHtml(str) {
+  const d = document.createElement('div');
+  d.textContent = str;
+  return d.innerHTML;
+}
+
+function formatDateFull(dateStr, weekdayStr) {
+  const p = dateStr.split('-');
+  return `${parseInt(p[0])}年${parseInt(p[1])}月${parseInt(p[2])}日 ${weekdayStr}`;
+}
+
+// ═══ Render ═══
+function renderNews() {
+  if (!currentData) {
+    newsList.innerHTML = '<div class="empty-state"><div class="icon">📭</div><p>暂无数据</p></div>';
+    summaryText.textContent = '';
+    dateBadge.textContent = '';
+    newsCount.textContent = '';
+    return;
+  }
+
+  dateBadge.textContent = formatDateFull(currentData.date, currentData.weekday);
+  summaryText.textContent = currentData.summary || '暂无摘要';
+  newsCount.textContent = `(${currentData.news.length} 条)`;
+
+  // Sort by sort_score descending
+  const sorted = [...currentData.news].sort((a, b) => (b.sort_score || 0) - (a.sort_score || 0));
+
+  let html = '';
+  sorted.forEach((item, index) => {
+    const tagClass = 'tag-' + (item.tag || '其他');
+    const tagText = item.tag || '其他';
+    const desc = item.description || '暂无';
+    const detail = item.detail || desc;
+
+    html += `
+      <div class="news-card" id="card_${index}">
+        <div class="card-top" onclick="toggleCard(${index})">
+          <span class="tag ${tagClass}">${escapeHtml(tagText)}</span>
+          <div class="title-row">
+            <div class="title">${escapeHtml(item.title)}</div>
+            <div class="expand-arrow" id="arrow_${index}">▾</div>
+          </div>
+        </div>
+        <div class="detail-area" id="detail_${index}">
+          <div class="desc-text">${escapeHtml(detail)}</div>
+        </div>
+        <div class="link-bar">
+          <a href="${item.link}" target="_blank" rel="noopener" onclick="event.stopPropagation()">
+            🔗 查看原文
+          </a>
+        </div>
+      </div>
+    `;
+  });
+  newsList.innerHTML = html;
+}
+
+// ═══ Toggle card detail ═══
+function toggleCard(index) {
+  const detail = document.getElementById(`detail_${index}`);
+  const arrow = document.getElementById(`arrow_${index}`);
+  if (!detail) return;
+  const isOpen = detail.classList.contains('open');
+  if (isOpen) {
+    detail.classList.remove('open');
+    if (arrow) arrow.classList.remove('open');
+  } else {
+    detail.classList.add('open');
+    if (arrow) arrow.classList.add('open');
+  }
+}
+
+// ═══ Date selection ═══
+function onDateChange() {
+  const val = dateSelect.value;
+  if (!val) return;
+  currentData = allData.find(d => d.date === val) || allData[0] || null;
+  renderNews();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// ═══ Populate dropdown ═══
+function populateSelect() {
+  dateSelect.innerHTML = '';
+  allData.forEach(d => {
+    const opt = document.createElement('option');
+    opt.value = d.date;
+    opt.textContent = `${d.date} ${d.weekday || ''}`;
+    dateSelect.appendChild(opt);
+  });
+  if (allData.length > 0) {
+    dateSelect.value = allData[0].date;
+    currentData = allData[0];
+  }
+}
+
+// ═══ Data loaded callback ═══
+function onDataLoaded(data) {
+  if (!Array.isArray(data) || data.length === 0) {
+    showError('数据格式错误：data.json 应包含至少一条记录。');
+    return;
+  }
+  for (const d of data) {
+    if (!d.date || !d.news || !Array.isArray(d.news)) {
+      showError('数据格式错误：请确保包含 date、news 字段。');
+      return;
+    }
+  }
+  allData = data;
+  loadingEl.style.display = 'none';
+  mainEl.style.display = 'block';
+  populateSelect();
+  renderNews();
+}
+
+function showError(msg) {
+  loadingEl.style.display = 'none';
+  errorEl.style.display = 'block';
+  if (msg) errorMsg.textContent = msg;
+}
+
+// ═══ Main ═══
+(function main() {
+  if (typeof INLINE_DATA !== 'undefined' && INLINE_DATA) {
+    onDataLoaded(INLINE_DATA);
+    return;
+  }
+
+  fetch('data.json?t=' + Date.now())
+    .then(res => {
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.json();
+    })
+    .then(data => onDataLoaded(data))
+    .catch(err => {
+      console.error(err);
+      if (location.protocol === 'file:') {
+        showError('⚠️ file:// 协议无法读取 data.json。<br>请使用 HTTP 服务器：<code>python -m http.server 8080</code>');
+      } else {
+        showError('无法加载数据：' + err.message);
+      }
+    });
+})();
+</script>
+
+</body>
+</html>
