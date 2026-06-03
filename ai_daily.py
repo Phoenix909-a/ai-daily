@@ -20,6 +20,13 @@ Usage:
     NEWSAPI_KEY         可选   NewsAPI Key (https://newsapi.org/register)
     HTTP_PROXY          可选   HTTP 代理地址
     HTTPS_PROXY         可选   HTTPS 代理地址 (requests 自动读取)
+
+    # 邮件推送（可选，使用 --send-email 时需配置）
+    EMAIL_SMTP_SERVER   可选   SMTP 服务器地址 (默认 smtp.163.com)
+    EMAIL_SMTP_PORT     可选   SMTP 端口 (默认 465)
+    EMAIL_ADDRESS       可选   发件邮箱地址
+    EMAIL_PASSWORD      可选   SMTP 授权码（不是登录密码）
+    EMAIL_TO            可选   收件邮箱地址（默认发给发件人）
 """
 
 import os
@@ -29,10 +36,13 @@ import json
 import time
 import logging
 import argparse
+import smtplib
 import xml.etree.ElementTree as ET
 from datetime import datetime, date, timedelta
 from typing import Optional
 from email.utils import parsedate_to_datetime
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -576,6 +586,248 @@ def fetch_rss_feeds(target_date: date) -> list[dict]:
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
+#  Source 6: Hacker News (via Firebase API — free, no key needed)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+def fetch_hackernews(target_date: date) -> list[dict]:
+    """Fetch top stories from Hacker News for the target date."""
+    logger.info("[HN]  Fetching …")
+
+    # Get top story IDs
+    resp = _rget("https://hacker-news.firebaseio.com/v0/topstories.json")
+    if not resp:
+        return []
+
+    try:
+        ids = resp.json()[:60]  # top 60
+    except json.JSONDecodeError:
+        return []
+
+    items = []
+    for story_id in ids:
+        resp = _rget(f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json")
+        if not resp:
+            continue
+        try:
+            story = resp.json()
+        except json.JSONDecodeError:
+            continue
+
+        ts = story.get("time", 0)
+        story_date = datetime.utcfromtimestamp(ts).date()
+        if story_date != target_date:
+            continue
+
+        title = story.get("title", "")
+        url = story.get("url", f"https://news.ycombinator.com/item?id={story_id}")
+        score = story.get("score", 0)
+        descendants = story.get("descendants", 0)
+        by = story.get("by", "")
+
+        items.append({
+            "title": title,
+            "link": url,
+            "description": f"[HN] +{score} points · {descendants} comments · by {by}",
+            "score": score,
+            "source": "hackernews",
+        })
+        time.sleep(0.1)  # be gentle
+
+    items.sort(key=lambda x: x["score"], reverse=True)
+    logger.info("  -> %d stories", len(items))
+    return items[:15]
+
+
+# ═══════════════════════════════════════════════════════════════════════════════
+#  Source 7: GitHub Trending (via GitHub Search API — no key needed for public)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+def fetch_github_trending(target_date: date) -> list[dict]:
+    """Fetch trending AI/ML repos from GitHub (created or recently updated)."""
+    logger.info("[GitHub]  Fetching trending repos …")
+
+    # Search for repos created recently with AI/ML topics, sorted by stars
+    date_s = target_date.strftime("%Y-%m-%d")
+    query = (
+        f"(topic:artificial-intelligence OR topic:machine-learning "
+        f"OR topic:deep-learning OR topic:llm OR topic:large-language-model "
+        f"OR topic:generative-ai)"
+        f"+created:>={date_s}"
+    )
+
+    params = {
+        "q": query,
+        "sort": "stars",
+        "order": "desc",
+        "per_page": 15,
+    }
+
+    resp = _rget("https://api.github.com/search/repositories", params=params)
+    if not resp:
+        # Try trending page fallback
+        logger.debug("  Search API failed, trying trending RSS …")
+        return _fetch_github_trending_rss(target_date)
+
+    try:
+        body = resp.json()
+    except json.JSONDecodeError:
+        return []
+
+    items = []
+    for r in body.get("items", []):
+        created = r.get("created_at", "")[:10]
+        if created != date_s:
+            continue
+        items.append({
+            "title": r["full_name"],
+            "link": r["html_url"],
+            "description": (r.get("description") or "")[:300],
+            "stars": r.get("stargazers_count", 0),
+            "forks": r.get("forks_count", 0),
+            "lang": r.get("language") or "unknown",
+            "source": "github",
+        })
+
+    items.sort(key=lambda x: x["stars"], reverse=True)
+    logger.info("  -> %d repos", len(items))
+    return items[:10]
+
+
+def _fetch_github_trending_rss(target_date: date) -> list[dict]:
+    """Fallback: GitHub trending page scraped via RSS bridge."""
+    logger.debug("  [Fallback] GitHub trending …")
+
+    url = "https://github.com/trending"
+    resp = _rget(url, headers={"User-Agent": USER_AGENT,
+                                "Accept": "text/html"})
+    if not resp:
+        return []
+
+    # Parse HTML for trending repos (basic regex approach)
+    html = resp.text
+    items = []
+
+    # Match repo blocks: <h2><a href="/owner/repo">...</a></h2>
+    repo_pattern = re.compile(r'href="/([^/"]+/([^/"]+))"[^>]*>.*?</h2>')
+    desc_pattern = re.compile(r'<p class="col-9[^"]*"[^>]*>(.*?)</p>')
+    star_pattern = re.compile(r'(?:(\d[\d,]*)\s+stars)', re.IGNORECASE)
+
+    repo_matches = repo_pattern.findall(html)
+    desc_matches = desc_pattern.findall(html)
+
+    for i, (full_name, _) in enumerate(repo_matches[:15]):
+        desc = ""
+        if i < len(desc_matches):
+            desc = re.sub(r"<[^>]+>", "", desc_matches[i]).strip()
+
+        items.append({
+            "title": full_name,
+            "link": f"https://github.com/{full_name}",
+            "description": desc[:300],
+            "stars": 0,
+            "source": "github",
+        })
+
+    logger.debug("  -> %d repos", len(items))
+    return items
+
+
+# ═══════════════════════════════════════════════════════════════════════════════
+#  Email Sender
+# ═══════════════════════════════════════════════════════════════════════════════
+
+def _build_email_html(content: str, target_date: date) -> str:
+    """Build a nice HTML email from the markdown briefing content."""
+    # Simple markdown → HTML conversion for key elements
+    html = content
+
+    # Convert markdown links
+    html = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2" style="color:#2563eb;">\1</a>', html)
+
+    # Convert headings
+    html = re.sub(r'^### (.+)$', r'<h3 style="margin:16px 0 8px;color:#111;">\1</h3>', html, flags=re.M)
+    html = re.sub(r'^## (.+)$', r'<h2 style="margin:20px 0 10px;color:#222;border-bottom:1px solid #eee;padding-bottom:6px;">\1</h2>', html, flags=re.M)
+
+    # Convert list items
+    html = re.sub(r'^- (.+)$', r'<li style="margin:4px 0;line-height:1.6;">\1</li>', html, flags=re.M)
+
+    # Wrap lists
+    html = re.sub(r'(<li.*>(\n|<li.*>)*)', r'<ul style="padding-left:20px;">\1', html)
+    html = re.sub(r'(</li>\n?)+', r'</li></ul>', html)
+
+    # Wrap in proper document
+    date_str = target_date.strftime("%Y-%m-%d")
+    full_html = f"""<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"></head>
+<body style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;max-width:640px;margin:0 auto;padding:20px;background:#f8f9fa;">
+<div style="background:#fff;border-radius:12px;padding:24px;box-shadow:0 1px 3px rgba(0,0,0,0.08);">
+<div style="text-align:center;margin-bottom:20px;">
+<h1 style="font-size:22px;margin:0;color:#111;">📰 AI 新闻日报</h1>
+<p style="color:#888;font-size:13px;">{date_str}</p>
+</div>
+{html}
+<hr style="border:none;border-top:1px solid #eee;margin:24px 0;">
+<p style="text-align:center;font-size:12px;color:#aaa;">
+本简报由 AI 自动生成 · <a href="https://phoenix909-a.github.io/ai-daily/" style="color:#2563eb;">查看网页版</a>
+</p>
+</div>
+</body>
+</html>"""
+
+    return full_html
+
+
+def send_email(content: str, target_date: date) -> bool:
+    """Send the briefing via email using SMTP.
+
+    Requires env vars: EMAIL_ADDRESS, EMAIL_PASSWORD (SMTP authorization code).
+    Optional: EMAIL_SMTP_SERVER (default smtp.163.com), EMAIL_SMTP_PORT (default 465),
+              EMAIL_TO (default = EMAIL_ADDRESS).
+    """
+    smtp_server = os.environ.get("EMAIL_SMTP_SERVER", "smtp.163.com")
+    smtp_port = int(os.environ.get("EMAIL_SMTP_PORT", "465"))
+    email_from = os.environ.get("EMAIL_ADDRESS", "")
+    email_pass = os.environ.get("EMAIL_PASSWORD", "")
+    email_to = os.environ.get("EMAIL_TO", email_from)
+
+    if not email_from or not email_pass:
+        logger.warning("[Email]  EMAIL_ADDRESS or EMAIL_PASSWORD not set, skipped")
+        return False
+
+    logger.info("[Email]  Sending to %s via %s:%d …", email_to, smtp_server, smtp_port)
+
+    date_s = target_date.strftime("%Y-%m-%d")
+    subject = f"AI 新闻日报 — {date_s}"
+
+    # Build HTML email
+    html_content = _build_email_html(content, target_date)
+
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = subject
+    msg["From"] = email_from
+    msg["To"] = email_to
+
+    # Plain text fallback
+    msg.attach(MIMEText(content, "plain", "utf-8"))
+    # HTML version
+    msg.attach(MIMEText(html_content, "html", "utf-8"))
+
+    try:
+        with smtplib.SMTP_SSL(smtp_server, smtp_port, timeout=30) as server:
+            server.login(email_from, email_pass)
+            server.sendmail(email_from, email_to, msg.as_string())
+        logger.info("  -> Email sent successfully!")
+        return True
+    except smtplib.SMTPException as e:
+        logger.error("  SMTP error: %s", e)
+        return False
+    except Exception as e:
+        logger.error("  Email error: %s", e)
+        return False
+
+
+# ═══════════════════════════════════════════════════════════════════════════════
 #  DeepSeek API
 # ═══════════════════════════════════════════════════════════════════════════════
 
@@ -921,9 +1173,13 @@ def _enrich_news_deepseek(raw_news: list, target_date: date) -> list:
 
 def _build_json_entry(target_date: date, papers: list, news_api: list,
                       reddit: list, rss: list, md_content: str,
-                      max_news: int = 20) -> dict:
+                      max_news: int = 20,
+                      hackernews: Optional[list] = None,
+                      github: Optional[list] = None) -> dict:
     """Build a single data.json entry from all collected data sources."""
     weekday_str = WEEKDAY_CN[target_date.weekday()]
+    hackernews = hackernews or []
+    github = github or []
 
     # ── Summary ──
     summary = _extract_summary_from_md(md_content)
@@ -956,6 +1212,30 @@ def _build_json_entry(target_date: date, papers: list, news_api: list,
                 "description": item.get("description", ""),
                 "link": url,
                 "source": item.get("source", ""),
+            })
+
+    # Hacker News
+    for item in hackernews:
+        url = item.get("link", "")
+        if url and url not in seen_urls:
+            seen_urls.add(url)
+            raw_items.append({
+                "title": item["title"],
+                "description": item.get("description", ""),
+                "link": url,
+                "source": "hackernews",
+            })
+
+    # GitHub Trending
+    for item in github:
+        url = item.get("link", "")
+        if url and url not in seen_urls:
+            seen_urls.add(url)
+            raw_items.append({
+                "title": item["title"],
+                "description": item.get("description", ""),
+                "link": url,
+                "source": "github",
             })
 
     # Top papers (with summaries)
@@ -1018,13 +1298,15 @@ def _build_json_entry(target_date: date, papers: list, news_api: list,
 
 def update_data_json(filepath: str, papers: list, news_api: list,
                      reddit: list, rss: list, md_content: str,
-                     target_date: date, max_news: int = 20) -> bool:
+                     target_date: date, max_news: int = 20,
+                     hackernews: Optional[list] = None,
+                     github: Optional[list] = None) -> bool:
     """Update data.json: add/replace today's entry, keep existing ones."""
     logger.info("[JSON]  Updating %s …", filepath)
 
     old_data = _load_data_json(filepath)
     entry = _build_json_entry(target_date, papers, news_api, reddit, rss,
-                              md_content, max_news)
+                              md_content, max_news, hackernews, github)
 
     # Replace if same date exists, else prepend
     date_str = entry["date"]
@@ -1128,9 +1410,9 @@ Examples:
   python ai_daily.py --proxy http://127.0.0.1:7890       # proxy
   python ai_daily.py --verbose                          # verbose logging
 
-  # Generate + update data.json for web page (one-command workflow):
-  python ai_daily.py --update-json
-  python ai_daily.py --update-json -o E:/Claude\\ code/AI\\日报
+  # Generate + update data.json + send to email (one-command workflow):
+  python ai_daily.py --update-json --send-email
+  python ai_daily.py --update-json --send-email -o E:/Claude\\ code/AI\\日报
         """,
     )
     parser.add_argument("--date", "-d", default=None,
@@ -1149,6 +1431,12 @@ Examples:
                         help="Update data.json for web page (combine with -o to set path)")
     parser.add_argument("--max-news", type=int, default=20,
                         help="Max news items in JSON output (default: 20)")
+    parser.add_argument("--send-email", action="store_true",
+                        help="Send briefing via email (needs EMAIL_* env vars)")
+    parser.add_argument("--no-hackernews", action="store_true",
+                        help="Skip Hacker News source")
+    parser.add_argument("--no-github", action="store_true",
+                        help="Skip GitHub Trending source")
     args = parser.parse_args()
 
     setup_logging(args.verbose)
@@ -1197,14 +1485,24 @@ Examples:
 
     # 5. RSS feeds (Chinese media — always fetched)
     rss = fetch_rss_feeds(target_date)
+    time.sleep(GENTLE_DELAY)
+
+    # 6. Hacker News
+    hackernews = fetch_hackernews(target_date) if not args.no_hackernews else []
+    time.sleep(GENTLE_DELAY)
+
+    # 7. GitHub Trending
+    github = fetch_github_trending(target_date) if not args.no_github else []
+    time.sleep(GENTLE_DELAY)
 
     # ── Summary & Generate ──
 
     logger.info("")
-    logger.info("-" * 46)
-    logger.info("  Papers: %d  |  News: %d  |  Reddit: %d  |  RSS: %d",
-                len(papers_arxiv), len(news), len(reddit), len(rss))
-    logger.info("-" * 46)
+    logger.info("-" * 58)
+    logger.info("  Papers: %d  |  News: %d  |  Reddit: %d  |  RSS: %d  |  HN: %d  |  GitHub: %d",
+                len(papers_arxiv), len(news), len(reddit), len(rss),
+                len(hackernews), len(github))
+    logger.info("-" * 58)
     logger.info("")
 
     content = generate_briefing(
@@ -1217,7 +1515,12 @@ Examples:
     if args.update_json:
         json_path = os.path.join(args.output, DATA_JSON_FILENAME)
         update_data_json(json_path, papers_arxiv, news, reddit, rss,
-                         content, target_date, args.max_news)
+                         content, target_date, args.max_news,
+                         hackernews, github)
+
+    # ── Send email if requested ──
+    if args.send_email:
+        send_email(content, target_date)
 
     logger.info("Done!")
     return 0

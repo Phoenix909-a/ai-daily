@@ -41,8 +41,14 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           HTTP_PROXY: ${{ secrets.HTTP_PROXY }}
           HTTPS_PROXY: ${{ secrets.HTTP_PROXY }}
+          # Email config (optional)
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_SMTP_SERVER: ${{ secrets.EMAIL_SMTP_SERVER }}
+          EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
         run: |
-          python ai_daily.py --update-json --max-news 20
+          python ai_daily.py --update-json --max-news 20 --send-email
           echo "data.json updated:"
           python -c "import json; d=json.load(open('data.json')); print(f'  {len(d)} days, latest: {d[0][\"date\"]} ({d[0][\"weekday\"]}), {len(d[0][\"news\"])} news items')"
 
