@@ -800,7 +800,6 @@ def _extract_summary_from_md(markdown: str) -> str:
     """Extract the first paragraph under a summary heading from markdown."""
     if not markdown:
         return ""
-    # Match "## 今日摘要" or "## 摘要" or "## Summary" followed by text
     lines = markdown.split("\n")
     in_summary = False
     summary_parts = []
@@ -811,26 +810,124 @@ def _extract_summary_from_md(markdown: str) -> str:
             continue
         if in_summary:
             if re.match(r"^#{1,3}\s", stripped):
-                break  # next heading
+                break
             if stripped and not stripped.startswith(">"):
                 summary_parts.append(stripped)
     text = " ".join(summary_parts).strip()
-    # Keep 3-5 sentences max (split by Chinese/English sentence terminators)
     sentences = re.split(r"(?<=[。！？.!?])\s*", text)
     return "".join(sentences[:5]).strip()
+
+
+def _clean_title(title: str) -> str:
+    """Clean up clickbait / news prefixes from titles."""
+    # Common prefixes to strip
+    prefixes = [
+        r"^刚刚[，,：:]?\s*",
+        r"^独家[丨|]?\s*",
+        r"^独家[：:]\s*",
+        r"^独家实拍[丨|]?\s*",
+        r"^雷峰网[：:]?\s*",
+        r"^36氪[丨|]?\s*",
+        r"^36氪独家[丨|]?\s*",
+        r"^IT之家[：:]?\s*",
+    ]
+    for p in prefixes:
+        title = re.sub(p, "", title)
+    # Clean trailing markers like ｜
+    title = re.sub(r"\s*[丨|]\s*$", "", title)
+    return title.strip()
+
+
+def _categorize_news(item: dict) -> str:
+    """Rule-based category guessing. Used as fallback when DeepSeek unavailable."""
+    title = item.get("title", "")
+    source = item.get("source", "")
+    url = item.get("link", "")
+    all_text = f"{title} {source} {url}".lower()
+
+    # Keyword-based classification
+    if any(k in all_text for k in ["arxiv.org", "论文", "benchmark", "sota", "模型", "transformer"]):
+        return "学术论文"
+    if any(k in all_text for k in ["融资", "估值", "投资", "轮融资", "亿元"]):
+        return "投融资"
+    if any(k in all_text for k in ["发布", "开源", "上线", "推出", "全新"]):
+        return "产品发布"
+    if any(k in all_text for k in ["收购", "ipo", "招股书", "财报", "营收", "挖走", "加盟"]):
+        return "公司动态"
+    if any(k in all_text for k in ["开源", "github", "开放源码"]):
+        return "开源项目"
+    if any(k in all_text for k in ["行业", "市场", "增长", "目标", "赛道"]):
+        return "商业动态"
+    return "行业动态"
+
+
+def _enrich_news_deepseek(raw_news: list, target_date: date) -> list:
+    """Use DeepSeek to enrich news items with tags, details, and scores."""
+    if not raw_news:
+        return []
+
+    # Build a compact prompt
+    news_text = ""
+    for i, item in enumerate(raw_news[:25], 1):
+        desc = item.get("description", "")[:100]
+        news_text += f"{i}. {item['title']}\n   {desc}\n"
+
+    system_prompt = """你是一个 AI 新闻编辑。你的任务是将原始新闻列表加工成结构化数据。
+对每条新闻，你需要：
+1. 清洗标题：去掉"刚刚"、"独家｜"等前缀，改写成"主体 + 事件"的新闻标题风格
+2. 添加分类标签：从 [公司动态, 产品发布, 行业动态, 投融资, 学术论文, 商业动态, 开源项目] 中选择
+3. 写一句话简介（15-30字）
+4. 写详细摘要（2-4句话，50-100字）
+5. 给重要度打分（1-100），综合考量行业影响力、话题热度和技术突破性
+
+严格按照以下 JSON 格式输出（只输出 JSON，不要其他文字）：
+{
+  "news": [
+    {
+      "title": "清洗后的标题",
+      "description": "一句话简介",
+      "detail": "详细摘要（2-4句话）",
+      "tag": "分类标签",
+      "sort_score": 85
+    }
+  ]
+}"""
+
+    user_prompt = f"请处理以下 {target_date} 的 AI 新闻：\n\n{news_text}"
+
+    result = call_deepseek(system_prompt, user_prompt,
+                           temperature=0.2, max_tokens=4096)
+    if not result:
+        return []
+
+    # Extract JSON from response (handle markdown code blocks)
+    json_match = re.search(r"```(?:json)?\s*([\s\S]*?)```", result)
+    if json_match:
+        json_str = json_match.group(1)
+    else:
+        json_str = result.strip()
+
+    try:
+        parsed = json.loads(json_str)
+        enriched = parsed.get("news", [])
+        if enriched:
+            logger.info("  DeepSeek enriched %d news items", len(enriched))
+            return enriched
+    except (json.JSONDecodeError, TypeError) as e:
+        logger.warning("  DeepSeek JSON parse failed: %s", e)
+
+    return []
 
 
 def _build_json_entry(target_date: date, papers: list, news_api: list,
                       reddit: list, rss: list, md_content: str,
                       max_news: int = 20) -> dict:
     """Build a single data.json entry from all collected data sources."""
-    # ── Weekday ──
     weekday_str = WEEKDAY_CN[target_date.weekday()]
 
-    # ── Summary from DeepSeek output ──
+    # ── Summary ──
     summary = _extract_summary_from_md(md_content)
     if not summary:
-        # Fallback: count-based summary
         paper_count = len(papers)
         news_count = len(news_api) + len(rss)
         summary = f"今日共收录 {paper_count} 篇论文、{news_count} 条新闻。"
@@ -838,51 +935,78 @@ def _build_json_entry(target_date: date, papers: list, news_api: list,
             sources = set(item.get("source", "") for item in rss)
             summary += f" 来源包括：{', '.join(sorted(sources))}。"
 
-    # ── News items: prioritize RSS + NewsAPI, then top papers ──
-    news_items = []
-
-    # Add from RSS (Chinese media) — most relevant
+    # ── Build raw news items with URL dedup ──
+    raw_items = []
     seen_urls = set()
+
+    # RSS first
     for item in rss:
         url = item.get("link", "")
         if url and url not in seen_urls:
             seen_urls.add(url)
-            news_items.append({
-                "title": item.get("title", ""),
-                "link": url,
-                "description": item.get("description", "")[:200],
-            })
+            raw_items.append(item)
 
-    # Add from NewsAPI
+    # NewsAPI
     for item in news_api:
         url = item.get("url", "")
         if url and url not in seen_urls:
             seen_urls.add(url)
-            news_items.append({
-                "title": item.get("title", ""),
+            raw_items.append({
+                "title": item["title"],
+                "description": item.get("description", ""),
                 "link": url,
-                "description": item.get("description", "")[:200],
+                "source": item.get("source", ""),
             })
 
-    # Add top papers (with summaries are more interesting)
+    # Top papers (with summaries)
     for p in papers:
         url = p.get("link", "")
         if not url or url in seen_urls:
             continue
         desc = p.get("summary", "")[:200]
         if not desc:
-            desc = f"arXiv 新论文 · 分类: {', '.join(p.get('categories', []))}"
-        news_items.append({
-            "title": p.get("title", ""),
-            "link": url,
+            desc = f"arXiv · {', '.join(p.get('categories', []))}"
+        raw_items.append({
+            "title": p["title"],
             "description": desc,
+            "link": url,
+            "source": "arxiv",
         })
         seen_urls.add(url)
-        if len(news_items) >= max_news + len(rss) + len(news_api):
+        if len(raw_items) >= max_news + 10:
             break
 
-    # Trim to max
-    news_items = news_items[:max_news]
+    raw_items = raw_items[:max_news]
+
+    # ── Enrich with DeepSeek ──
+    enriched = _enrich_news_deepseek(raw_items, target_date)
+
+    if enriched and len(enriched) == len(raw_items):
+        # Merge enriched fields back, preserving URLs
+        news_items = []
+        for raw, enr in zip(raw_items, enriched):
+            news_items.append({
+                "title": enr.get("title", _clean_title(raw.get("title", ""))),
+                "link": raw.get("link", raw.get("url", "")),
+                "description": enr.get("description", raw.get("description", ""))[:200],
+                "detail": enr.get("detail", raw.get("description", ""))[:500],
+                "tag": enr.get("tag", _categorize_news(raw)),
+                "sort_score": enr.get("sort_score", 70),
+            })
+    else:
+        # Fallback: rule-based
+        news_items = []
+        for item in raw_items:
+            title = _clean_title(item.get("title", ""))
+            desc = item.get("description", "")[:200]
+            news_items.append({
+                "title": title,
+                "link": item.get("link", item.get("url", "")),
+                "description": desc,
+                "detail": desc,
+                "tag": _categorize_news(item),
+                "sort_score": 70,
+            })
 
     return {
         "date": target_date.strftime("%Y-%m-%d"),
