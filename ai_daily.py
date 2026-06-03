@@ -22,9 +22,9 @@ Usage:
     HTTPS_PROXY         可选   HTTPS 代理地址 (requests 自动读取)
 
     # 邮件推送（可选，使用 --send-email 时需配置）
-    EMAIL_SMTP_SERVER   可选   SMTP 服务器地址 (默认 smtp.163.com)
+    EMAIL_HOST          可选   SMTP 服务器地址 (默认 smtp.163.com)
     EMAIL_SMTP_PORT     可选   SMTP 端口 (默认 465)
-    EMAIL_ADDRESS       可选   发件邮箱地址
+    EMAIL_USER          可选   发件邮箱地址
     EMAIL_PASSWORD      可选   SMTP 授权码（不是登录密码）
     EMAIL_TO            可选   收件邮箱地址（默认发给发件人）
 """
@@ -781,18 +781,18 @@ def _build_email_html(content: str, target_date: date) -> str:
 def send_email(content: str, target_date: date) -> bool:
     """Send the briefing via email using SMTP.
 
-    Requires env vars: EMAIL_ADDRESS, EMAIL_PASSWORD (SMTP authorization code).
-    Optional: EMAIL_SMTP_SERVER (default smtp.163.com), EMAIL_SMTP_PORT (default 465),
-              EMAIL_TO (default = EMAIL_ADDRESS).
+    Requires env vars: EMAIL_USER, EMAIL_PASSWORD (SMTP authorization code).
+    Optional: EMAIL_HOST (default smtp.163.com), EMAIL_SMTP_PORT (default 465),
+              EMAIL_TO (default = EMAIL_USER).
     """
-    smtp_server = os.environ.get("EMAIL_SMTP_SERVER", "smtp.163.com")
+    smtp_server = os.environ.get("EMAIL_HOST", "smtp.163.com")
     smtp_port = int(os.environ.get("EMAIL_SMTP_PORT", "465"))
-    email_from = os.environ.get("EMAIL_ADDRESS", "")
+    email_from = os.environ.get("EMAIL_USER", "")
     email_pass = os.environ.get("EMAIL_PASSWORD", "")
     email_to = os.environ.get("EMAIL_TO", email_from)
 
     if not email_from or not email_pass:
-        logger.warning("[Email]  EMAIL_ADDRESS or EMAIL_PASSWORD not set, skipped")
+        logger.warning("[Email]  EMAIL_USER or EMAIL_PASSWORD not set, skipped")
         return False
 
     logger.info("[Email]  Sending to %s via %s:%d …", email_to, smtp_server, smtp_port)

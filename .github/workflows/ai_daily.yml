@@ -41,11 +41,11 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           HTTP_PROXY: ${{ secrets.HTTP_PROXY }}
           HTTPS_PROXY: ${{ secrets.HTTP_PROXY }}
-          # Email config (optional)
-          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          # Email config (参见 GitHub Secrets)
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
-          EMAIL_SMTP_SERVER: ${{ secrets.EMAIL_SMTP_SERVER }}
+          EMAIL_HOST: ${{ secrets.EMAIL_HOST }}
           EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
         run: |
           python ai_daily.py --update-json --max-news 20 --send-email
