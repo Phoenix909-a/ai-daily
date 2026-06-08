@@ -52,6 +52,15 @@ jobs:
           echo "data.json updated:"
           python -c "import json; d=json.load(open('data.json')); print(f'  {len(d)} days, latest: {d[0][\"date\"]} ({d[0][\"weekday\"]}), {len(d[0][\"news\"])} news items')"
 
+      - name: Commit & push data.json back to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          # Only commit if data.json actually changed (prevents empty commits)
+          git diff --cached --quiet || git commit -m "chore: update data.json for $(date +'%Y-%m-%d')"
+          git push
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
