@@ -2,9 +2,11 @@ name: AI Daily Briefing
 
 on:
   schedule:
-    # UTC 0:00 = 北京时间 8:00（夏令时）
-    # UTC 1:00 = 北京时间 9:00（冬令时）
-    - cron: '0 0 * * *'
+    # 每天跑两次，避免 GitHub Actions 排队跳过
+    # UTC 1:00 = 北京时间 9:00（主运行，抓取当天最新内容）
+    # UTC 4:00 = 北京时间 12:00（备用，防止第一次被跳过或延迟）
+    - cron: '0 1 * * *'
+    - cron: '0 4 * * *'
   workflow_dispatch:    # 允许手动触发
 
 permissions:
