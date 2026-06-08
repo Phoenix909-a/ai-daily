@@ -8,6 +8,15 @@ on:
     - cron: '0 1 * * *'
     - cron: '0 4 * * *'
   workflow_dispatch:    # 允许手动触发
+    inputs:
+      mode:
+        description: '运行模式'
+        type: choice
+        required: true
+        default: 'daily'
+        options:
+          - daily       # 每日正常运行（生成当天 + 发邮件）
+          - backfill    # 补历史数据（生成指定日期范围的数据，不发邮件）
 
 permissions:
   contents: write
@@ -38,7 +47,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      # ── 每日模式（schedule 或 workflow_dispatch daily） ──
       - name: Generate daily briefing & update data.json
+        if: ${{ github.event.inputs.mode != 'backfill' }}
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           HTTP_PROXY: ${{ secrets.HTTP_PROXY }}
@@ -53,6 +64,16 @@ jobs:
           python ai_daily.py --update-json --max-news 35 --send-email
           echo "data.json updated:"
           python -c "import json; d=json.load(open('data.json')); print(f'  {len(d)} days, latest: {d[0][\"date\"]} ({d[0][\"weekday\"]}), {len(d[0][\"news\"])} news items')"
+
+      # ── 补数据模式（workflow_dispatch backfill） ──
+      - name: Backfill historical data (no email)
+        if: ${{ github.event.inputs.mode == 'backfill' }}
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          HTTP_PROXY: ${{ secrets.HTTP_PROXY }}
+          HTTPS_PROXY: ${{ secrets.HTTP_PROXY }}
+        run: |
+          python backfill.py
 
       - name: Commit & push data.json back to repository
         run: |
