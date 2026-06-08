@@ -1238,7 +1238,9 @@ def _build_json_entry(target_date: date, papers: list, news_api: list,
                 "source": "github",
             })
 
-    # Top papers (with summaries)
+    # Top papers (with summaries) — limit to 5 to keep focus on news/hot topics
+    paper_count = 0
+    MAX_PAPERS = 5
     for p in papers:
         url = p.get("link", "")
         if not url or url in seen_urls:
@@ -1253,7 +1255,8 @@ def _build_json_entry(target_date: date, papers: list, news_api: list,
             "source": "arxiv",
         })
         seen_urls.add(url)
-        if len(raw_items) >= max_news + 10:
+        paper_count += 1
+        if paper_count >= MAX_PAPERS or len(raw_items) >= max_news + 10:
             break
 
     raw_items = raw_items[:max_news]
@@ -1287,6 +1290,11 @@ def _build_json_entry(target_date: date, papers: list, news_api: list,
                 "tag": _categorize_news(item),
                 "sort_score": 70,
             })
+
+    # ── Demote academic papers to the bottom ──
+    for item in news_items:
+        if item.get("tag") == "学术论文":
+            item["sort_score"] = 0
 
     return {
         "date": target_date.strftime("%Y-%m-%d"),
@@ -1429,8 +1437,8 @@ Examples:
                         help="Skip Reddit source")
     parser.add_argument("--update-json", action="store_true",
                         help="Update data.json for web page (combine with -o to set path)")
-    parser.add_argument("--max-news", type=int, default=20,
-                        help="Max news items in JSON output (default: 20)")
+    parser.add_argument("--max-news", type=int, default=35,
+                        help="Max news items in JSON output (default: 35)")
     parser.add_argument("--send-email", action="store_true",
                         help="Send briefing via email (needs EMAIL_* env vars)")
     parser.add_argument("--no-hackernews", action="store_true",

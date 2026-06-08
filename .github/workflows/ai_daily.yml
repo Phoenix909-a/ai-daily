@@ -48,7 +48,7 @@ jobs:
           EMAIL_HOST: ${{ secrets.EMAIL_HOST }}
           EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
         run: |
-          python ai_daily.py --update-json --max-news 20 --send-email
+          python ai_daily.py --update-json --max-news 35 --send-email
           echo "data.json updated:"
           python -c "import json; d=json.load(open('data.json')); print(f'  {len(d)} days, latest: {d[0][\"date\"]} ({d[0][\"weekday\"]}), {len(d[0][\"news\"])} news items')"
 
