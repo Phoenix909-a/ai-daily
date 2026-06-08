@@ -1,5 +1,292 @@
 [
   {
+    "date": "2026-06-08",
+    "weekday": "星期一",
+    "summary": "今日多篇论文聚焦于AI Agent的安全性与可靠性，包括通过形式化方法验证工作流、在控制评估中模拟攻击者以暴露安全漏洞，以及为物理AI提供早期故障预警。同时，关于AI科学本质的讨论文章呼吁不应仅关注模型“后处理”，而应深入研究训练动态。中文科技媒体方面，蚂蚁集团推出海外AI支付解决方案，高德发布3D原生场景生成模型ABot-Earth0.5。",
+    "news": [
+      {
+        "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+        "link": "https://www.qbitai.com/2026/06/432587.html",
+        "description": "协助用户与商家判断智能体可信赖程度",
+        "detail": "协助用户与商家判断智能体可信赖程度",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+        "link": "https://www.qbitai.com/2026/06/432489.html",
+        "description": "ABot-Earth0.5正式开放内测",
+        "detail": "ABot-Earth0.5正式开放内测",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+        "link": "https://www.qbitai.com/2026/06/432425.html",
+        "description": "豆包硬刚ChatGPT",
+        "detail": "豆包硬刚ChatGPT",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+        "link": "https://www.qbitai.com/2026/06/432581.html",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+        "link": "https://www.qbitai.com/2026/06/432417.html",
+        "description": "轻视它就会错过整个时代",
+        "detail": "轻视它就会错过整个时代",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
+        "link": "https://www.qbitai.com/2026/06/432084.html",
+        "description": "最值得看的不是火箭是AI",
+        "detail": "最值得看的不是火箭是AI",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机",
+        "link": "https://www.qbitai.com/2026/06/432062.html",
+        "description": "黄仁勋要算一万步，这家公司的芯片只需一步",
+        "detail": "黄仁勋要算一万步，这家公司的芯片只需一步",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "高通点赞广汽埃安N60智驾大赛获亚军，文远知行WRD 3.0亮相高通峰会",
+        "link": "https://www.qbitai.com/2026/06/432055.html",
+        "description": "文远知行携L2++ 一段式端到端方案WRD 3.0参展",
+        "detail": "文远知行携L2++ 一段式端到端方案WRD 3.0参展",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "对腾讯来说，AI为什么是一场「长期游戏」？",
+        "link": "https://www.leiphone.com/category/industrynews/e6NKPw4t7jJlxPpd.html",
+        "description": "姚顺雨加入腾讯后，第一次线下大型活动的公开亮相，是在6月5日的2026腾讯云AI产业应用大会上。他与腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生的同台对谈，吸引了无数观众涌入线下会场和线上直播间。人们涌向这里，不仅是为了一睹这位从OpenAI加盟腾讯的AI首席科学家的风采，更是为了从这场对谈中探知腾讯的AI战略：AI下半场，腾讯需要正视的核心问题是什么？从QQ时代到AI时代，腾讯做产品的",
+        "detail": "姚顺雨加入腾讯后，第一次线下大型活动的公开亮相，是在6月5日的2026腾讯云AI产业应用大会上。他与腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生的同台对谈，吸引了无数观众涌入线下会场和线上直播间。人们涌向这里，不仅是为了一睹这位从OpenAI加盟腾讯的AI首席科学家的风采，更是为了从这场对谈中探知腾讯的AI战略：AI下半场，腾讯需要正视的核心问题是什么？从QQ时代到AI时代，腾讯做产品的",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "瑞浦兰钧AIDC电芯年底量产，终端客户是阿里腾讯",
+        "link": "https://www.leiphone.com/category/transportation/mOmmRp3HA5LMXY70.html",
+        "description": "作者丨马诗晴编辑丨李雨晨6月3日，上海SNEC展会现场，瑞浦兰钧在展台发布两大新品：AIDC（智算中心）储能电芯以及钠离子电芯。据知情人士透露，此次发布的AIDC电芯为85Ah，采用实心磷酸铁锂，支持10C放电倍率，计划于年底量产；钠离子电芯为320Ah，具有循环性能好、宽温性能佳、长生命周期维持成本相对较低的优势，目前处于A样阶段，计划明年量产。成本上，据知情人士介绍，当前常规储能电芯成本约4毛",
+        "detail": "作者丨马诗晴编辑丨李雨晨6月3日，上海SNEC展会现场，瑞浦兰钧在展台发布两大新品：AIDC（智算中心）储能电芯以及钠离子电芯。据知情人士透露，此次发布的AIDC电芯为85Ah，采用实心磷酸铁锂，支持10C放电倍率，计划于年底量产；钠离子电芯为320Ah，具有循环性能好、宽温性能佳、长生命周期维持成本相对较低的优势，目前处于A样阶段，计划明年量产。成本上，据知情人士介绍，当前常规储能电芯成本约4毛",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "阿里巴巴成立Token Foundry事业部",
+        "link": "https://www.leiphone.com/category/industrynews/dwh5Z104IRXqJPY8.html",
+        "description": "阿里巴巴面向AI未来，持续对组织进行升级。6月8日，阿里巴巴宣布合并通义大模型事业部和未来生活实验室，成立Token Foundry事业部，由集团CEO吴泳铭直接负责。据了解，此次调整涉及到一批AI业务。周靖人将担任阿里巴巴首席科学家，牵头成立阿里巴巴AI未来研究院，专注前沿AI科技的探索与突破。郑波带领Happy Horse、Happy Oyster等加入Token Foundry事业部。此次升",
+        "detail": "阿里巴巴面向AI未来，持续对组织进行升级。6月8日，阿里巴巴宣布合并通义大模型事业部和未来生活实验室，成立Token Foundry事业部，由集团CEO吴泳铭直接负责。据了解，此次调整涉及到一批AI业务。周靖人将担任阿里巴巴首席科学家，牵头成立阿里巴巴AI未来研究院，专注前沿AI科技的探索与突破。郑波带领Happy Horse、Happy Oyster等加入Token Foundry事业部。此次升",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "从“工具箱”到“操盘手”：跨境电商AI的闭环突围",
+        "link": "https://www.leiphone.com/category/industrynews/b0TuuC0QsZerbmzN.html",
+        "description": "在跨境电商圈里，2026年的夏天，AI的喧嚣似乎进入了一个微妙的沉淀期。两年前，当大模型初露锋芒时，卖家们还在为一个能写Listing的插件而兴奋；年初，各种“全能Agent”涌现，大家开始尝试用自然语言指挥电脑干活。然而，当新鲜感褪去，一个普遍的困惑在从业者心中蔓延：为什么工具装了一大堆，生意却好像越做越累？“我的电脑里有五六个AI工具，写文案用一个，看数据用一个，做图用一个。最后我还是得像个‘",
+        "detail": "在跨境电商圈里，2026年的夏天，AI的喧嚣似乎进入了一个微妙的沉淀期。两年前，当大模型初露锋芒时，卖家们还在为一个能写Listing的插件而兴奋；年初，各种“全能Agent”涌现，大家开始尝试用自然语言指挥电脑干活。然而，当新鲜感褪去，一个普遍的困惑在从业者心中蔓延：为什么工具装了一大堆，生意却好像越做越累？“我的电脑里有五六个AI工具，写文案用一个，看数据用一个，做图用一个。最后我还是得像个‘",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "SoulAgent 即将亮相北京智源大会，探索个人智能体在知识服务场景中的应用",
+        "link": "https://www.leiphone.com/category/ai/DSC6lA4s08K9DMu1.html",
+        "description": "2026年6月，北京智源大会即将开启。对于大型学术会议的参会者而言，平行论坛密集、重磅议题交叉、专家交流机会有限，常常带来“想听的太多、能到场的太少、想追问却没机会”的困境。围绕这一高密度知识场景，智源将正式推出面向个人的专属智能体 SoulAgent，为参会者提供全新的智能参会体验。&nbsp;SoulAgent 不只是一次性的问答工具，而是一个会在长期交互中持续成长、越用越懂用户的 AI 伙伴",
+        "detail": "2026年6月，北京智源大会即将开启。对于大型学术会议的参会者而言，平行论坛密集、重磅议题交叉、专家交流机会有限，常常带来“想听的太多、能到场的太少、想追问却没机会”的困境。围绕这一高密度知识场景，智源将正式推出面向个人的专属智能体 SoulAgent，为参会者提供全新的智能参会体验。&nbsp;SoulAgent 不只是一次性的问答工具，而是一个会在长期交互中持续成长、越用越懂用户的 AI 伙伴",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "CVPR 2026完美落幕！D4RT封神最佳论文、牛津VGG两连冠，中国本科生泰坦显卡逆袭引爆全网",
+        "link": "https://www.leiphone.com/category/ai/nVFDeZEAzBxQCiiP.html",
+        "description": "CVPR 2026主会议于6月7日落下帷幕，三大重磅信号同频共振：奖项端，Google DeepMind的D4RT摘得最佳论文奖，Oxford VGG实现CVPR最佳论文「背靠背」两连冠，何恺明的ResNet/YOLO同获Longuet-Higgins时间检验奖，微软×清华的TRELLIS.2斩获最佳学生论文奖；数据基建端，号称「视觉物理ImageNet时刻」的PhysInOne以2M视频、150",
+        "detail": "CVPR 2026主会议于6月7日落下帷幕，三大重磅信号同频共振：奖项端，Google DeepMind的D4RT摘得最佳论文奖，Oxford VGG实现CVPR最佳论文「背靠背」两连冠，何恺明的ResNet/YOLO同获Longuet-Higgins时间检验奖，微软×清华的TRELLIS.2斩获最佳学生论文奖；数据基建端，号称「视觉物理ImageNet时刻」的PhysInOne以2M视频、150",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "ICRA 2026上的灵巧手们，到底有多“卷”？",
+        "link": "https://www.leiphone.com/category/robot/sSt61ymYYgw7OVO6.html",
+        "description": "原文作者：公众号“NE时代智能体”原文链接：https://mp.weixin.qq.com/s/qWvJdOFTkD2iOjM2hlWlWw全球机器人行业顶会ICRA 2026圆满落幕，从展会各家前沿方案的密集发布来看，灵巧手正加速脱离传统「工业末端夹爪」的刻板印象，向着高自由度、拟人化感知和手脑协同的具身智能核心终端演进。本次ICRA展会释放了明确的信号：仿生灵巧手已经跨越了“能不能动”的初级",
+        "detail": "原文作者：公众号“NE时代智能体”原文链接：https://mp.weixin.qq.com/s/qWvJdOFTkD2iOjM2hlWlWw全球机器人行业顶会ICRA 2026圆满落幕，从展会各家前沿方案的密集发布来看，灵巧手正加速脱离传统「工业末端夹爪」的刻板印象，向着高自由度、拟人化感知和手脑协同的具身智能核心终端演进。本次ICRA展会释放了明确的信号：仿生灵巧手已经跨越了“能不能动”的初级",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "ICRA 2026最佳论文奖，千寻智能首席科学家、清华高阳团队FP3入围",
+        "link": "https://www.leiphone.com/category/robot/tTanpzX7mu3CDICJ.html",
+        "description": "原文作者：谭梓馨原文链接：https://mp.weixin.qq.com/s/llcXE2be4oNWItL_0ydVZw2026年IEEE国际机器人与自动化会议（IEEE ICRA 2026）是机器人与自动化领域的顶级学术盛会，于6月1日至5日在奥地利维也纳举办。今年，FP3、HITTER等多篇华人团队论文入围最佳论文奖提名，头部科技此前曾报道过HITTER，今天来看另一篇研究FP3。FP3论",
+        "detail": "原文作者：谭梓馨原文链接：https://mp.weixin.qq.com/s/llcXE2be4oNWItL_0ydVZw2026年IEEE国际机器人与自动化会议（IEEE ICRA 2026）是机器人与自动化领域的顶级学术盛会，于6月1日至5日在奥地利维也纳举办。今年，FP3、HITTER等多篇华人团队论文入围最佳论文奖提名，头部科技此前曾报道过HITTER，今天来看另一篇研究FP3。FP3论",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "智能戒指爆发前夜，RingConn走到哪一步了？",
+        "link": "https://www.leiphone.com/category/weiwu/f6k18uKTJjmKBYwd.html",
+        "description": "作者 | 吴优编辑 | 刘伟“智能戒指在世界上依然是一个小众市场，年销量几百万枚，但我相信它在未来一定会跟上智能手表的步伐，实现全球上亿只的销量”。作为上海交通大学特聘教授及RingConn品牌创始人的王国兴教授，5月30日在深圳 INNO100 全球创新旗舰店内发表了对智能戒指未来的看法。这天是 RingConn Gen3 的产品发布会，王国兴教授着装浅绿衬衫，手戴三枚智能戒指出席了本次活动，向",
+        "detail": "作者 | 吴优编辑 | 刘伟“智能戒指在世界上依然是一个小众市场，年销量几百万枚，但我相信它在未来一定会跟上智能手表的步伐，实现全球上亿只的销量”。作为上海交通大学特聘教授及RingConn品牌创始人的王国兴教授，5月30日在深圳 INNO100 全球创新旗舰店内发表了对智能戒指未来的看法。这天是 RingConn Gen3 的产品发布会，王国兴教授着装浅绿衬衫，手戴三枚智能戒指出席了本次活动，向",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "华为天才少年王裕鑫创业，首月完成数千万级首轮融资",
+        "link": "https://www.leiphone.com/category/yanxishe/SinorLMYmWes9Kqq.html",
+        "description": "聚焦「流式视频生成」，攻破实时视频生成难题。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+        "detail": "聚焦「流式视频生成」，攻破实时视频生成难题。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+        "tag": "投融资",
+        "sort_score": 70
+      },
+      {
+        "title": "“柔性按需+数字化升级”，希音为闽货出海按下“快进键”",
+        "link": "https://www.leiphone.com/category/industrynews/xUv8I6FoA9P83vjh.html",
+        "description": "6月8日，第六届中国（厦门）国际跨境电商展览会正式启幕。本届展会围绕“跨境互联 货通全球”主题，持续深耕“跨境电商+产业带”融合路径，集中展出包括石狮、晋江本土鞋服箱包等在内的优势产业成果，打通优质制造产能与全球终端市场的对接通道。全球知名时尚品牌、跨境电商龙头希音（SHEIN）携“自营+平台”双业务招商团队亮相展会现场，面向福建纺织服装产业带商家开展热门品类招商对接，还带来最新的招商全景解读，拆",
+        "detail": "6月8日，第六届中国（厦门）国际跨境电商展览会正式启幕。本届展会围绕“跨境互联 货通全球”主题，持续深耕“跨境电商+产业带”融合路径，集中展出包括石狮、晋江本土鞋服箱包等在内的优势产业成果，打通优质制造产能与全球终端市场的对接通道。全球知名时尚品牌、跨境电商龙头希音（SHEIN）携“自营+平台”双业务招商团队亮相展会现场，面向福建纺织服装产业带商家开展热门品类招商对接，还带来最新的招商全景解读，拆",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "让机器人行动更有依据：复旦等提出 GuidedVLA，提升 VLA 可控可解释能力",
+        "link": "https://www.leiphone.com/category/ai/BOuZx0Z8ALLO18p8.html",
+        "description": "GuidedVLA：以目标、阶段和空间约束，重塑 VLA 动作生成过程。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+        "detail": "GuidedVLA：以目标、阶段和空间约束，重塑 VLA 动作生成过程。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "CVPR 2026 几何智能研究盘点：从看见形状，到理解运动与交互",
+        "link": "https://www.leiphone.com/category/ai/DY9VohqHITkbu2i9.html",
+        "description": "可动结构、4D 表征与高效重建登场。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+        "detail": "可动结构、4D 表征与高效重建登场。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "CVPR 2026 | 支撑春晚合肥 7 分钟的4K画面奇观  PS-SR让视频超分不用在速度与质量间为难",
+        "link": "https://www.leiphone.com/category/ai/zXTiqznDMhoIzvbh.html",
+        "description": "鱼灯破水，凌空游城；火狮踏焰，奋跃腾空；一群剪纸奔马通体透亮，在壁中狂奔；一纸诗词垂挂成瀑，于天幕间翻卷——2026年央视春晚合肥分会场《合韵满江淮》，用一连串美轮美奂的超现实奇观，刷新了虚实融合的想象边界。鲜有人知的是，支撑这些4K级画面的技术核心，来自智象未来团队提出的PS-SR，一个「伪单步」（Pseudo-Single-Step）视频超分框架。凭借这一突破性工作，该成果被计算机视觉顶级会议",
+        "detail": "鱼灯破水，凌空游城；火狮踏焰，奋跃腾空；一群剪纸奔马通体透亮，在壁中狂奔；一纸诗词垂挂成瀑，于天幕间翻卷——2026年央视春晚合肥分会场《合韵满江淮》，用一连串美轮美奂的超现实奇观，刷新了虚实融合的想象边界。鲜有人知的是，支撑这些4K级画面的技术核心，来自智象未来团队提出的PS-SR，一个「伪单步」（Pseudo-Single-Step）视频超分框架。凭借这一突破性工作，该成果被计算机视觉顶级会议",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "CVPR 开幕式：全场泪目缅怀孙剑，广工本科生靠「古董显卡」逆袭 | CVPR 2026",
+        "link": "https://www.leiphone.com/category/ai/6Ftw05ZU0izgNdJT.html",
+        "description": "算力时代“微光”，广工本科生靠古早Titan显卡拼下顶会大奖；十年树木，CV社区将最高荣誉授予已故先驱孙剑。&nbsp; &nbsp; 作者丨小雷哥&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+        "detail": "算力时代“微光”，广工本科生靠古早Titan显卡拼下顶会大奖；十年树木，CV社区将最高荣誉授予已故先驱孙剑。&nbsp; &nbsp; 作者丨小雷哥&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "CVPR 2026现场直击：CV与机器人的物理结界被彻底打破",
+        "link": "https://www.leiphone.com/category/ai/dD8WSfVt3bwq1sEe.html",
+        "description": "6月4日，当维也纳多瑙河畔的 ICRA 2026 进入正会的最后一天，大洋彼岸的美国丹佛科罗拉多会议中心（Colorado Convention Center）已经人声鼎沸。许多我们前几天还在维也纳见到的熟悉面孔，各大顶尖高校的学者和硬科技企业的高管，此刻都正拖着行李箱，马不停蹄地出现在丹佛的街头。这种罕见的“全球双城赶场”现象背后，是计算机视觉（CVPR）与机器人（ICRA）两大顶会赛道正在发生",
+        "detail": "6月4日，当维也纳多瑙河畔的 ICRA 2026 进入正会的最后一天，大洋彼岸的美国丹佛科罗拉多会议中心（Colorado Convention Center）已经人声鼎沸。许多我们前几天还在维也纳见到的熟悉面孔，各大顶尖高校的学者和硬科技企业的高管，此刻都正拖着行李箱，马不停蹄地出现在丹佛的街头。这种罕见的“全球双城赶场”现象背后，是计算机视觉（CVPR）与机器人（ICRA）两大顶会赛道正在发生",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "斯坦福Jeannette Bohg教授：抛弃“人手崇拜”，灵巧手要「解构物理」 | ICRA 2026",
+        "link": "https://www.leiphone.com/category/robot/7bIdz0Vi001jq6lt.html",
+        "description": "&nbsp;2026年6月3日，ICRA 2026维也纳会议“操作、控制与具身设计”主题Keynote环节，斯坦福大学计算机科学系的副教授，同时也是斯坦福交互式感知实验室（Interactive Perception Lab）的负责人Jeannette Bohg以一个反问开场——“我们还需要灵巧手吗？”&nbsp;这个问题之所以有力，恰恰因为它指向了当下机器人操作领域最真实的张力：二指夹爪（two",
+        "detail": "&nbsp;2026年6月3日，ICRA 2026维也纳会议“操作、控制与具身设计”主题Keynote环节，斯坦福大学计算机科学系的副教授，同时也是斯坦福交互式感知实验室（Interactive Perception Lab）的负责人Jeannette Bohg以一个反问开场——“我们还需要灵巧手吗？”&nbsp;这个问题之所以有力，恰恰因为它指向了当下机器人操作领域最真实的张力：二指夹爪（two",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "普渡大学Aniket Bera教授：可靠自主机器人的“安全阀”，藏在“可检查接口”里 | ICRA 2026",
+        "link": "https://www.leiphone.com/category/robot/msKJXBpOWYL23WVc.html",
+        "description": "&nbsp;&nbsp;2026年6月2日，国际机器人与自动化会议（ICRA 2026）在奥地利维也纳进入第二天。普渡大学（Purdue University）计算机科学系教授、IDEAS Lab实验室主任Aniket Bera发表了题为&quot;RobotsSafe Navigation in Unstructured &amp; Human-Centered Environments&quo",
+        "detail": "&nbsp;&nbsp;2026年6月2日，国际机器人与自动化会议（ICRA 2026）在奥地利维也纳进入第二天。普渡大学（Purdue University）计算机科学系教授、IDEAS Lab实验室主任Aniket Bera发表了题为&quot;RobotsSafe Navigation in Unstructured &amp; Human-Centered Environments&quo",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "3D 还是 2D？哥大李昀烛：通用机器人基础模型的解药在“中间地带”  | ICRA 2026",
+        "link": "https://www.leiphone.com/category/robot/LPcnomdfvrGTm2cO.html",
+        "description": "&nbsp;作者｜岑峰2026年6月1日，机器人领域最重要的学术会议国际机器人与自动化会议（ICRA）在奥地利维也纳召开。在首日举行的“Synthetic Data for Robot Learning” Workshop上，哥伦比亚大学助理教授李昀烛（Yunzhu Li）发表了题为“Structured &nbsp;World Models as Scalable Data Enginesfor",
+        "detail": "&nbsp;作者｜岑峰2026年6月1日，机器人领域最重要的学术会议国际机器人与自动化会议（ICRA）在奥地利维也纳召开。在首日举行的“Synthetic Data for Robot Learning” Workshop上，哥伦比亚大学助理教授李昀烛（Yunzhu Li）发表了题为“Structured &nbsp;World Models as Scalable Data Enginesfor",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "集齐1000种方式，抖音精选创作者为高考生“放大招”",
+        "link": "https://www.leiphone.com/category/industrynews/Jv4WkDnUENee7Lby.html",
+        "description": "今天，1290万考生阔步踏入高考考场。为迎接这一刻，自2026年3月起，抖音、抖音精选集结名师、学霸、名校及各赛道创作者，发起「抖音精选高考应援联盟」，他们用自己的方式出招出策，为每一位考生应援：从考前备考复习的系统课程，联合名师公益出题送题，号召学长学姐直播义诊有问必答，再到千人高考应援接力……1000种应援方式，只为今日护你冲向主场。01.“数学帝”葛军老师领衔，独家课程为你应援高考百日百课高",
+        "detail": "今天，1290万考生阔步踏入高考考场。为迎接这一刻，自2026年3月起，抖音、抖音精选集结名师、学霸、名校及各赛道创作者，发起「抖音精选高考应援联盟」，他们用自己的方式出招出策，为每一位考生应援：从考前备考复习的系统课程，联合名师公益出题送题，号召学长学姐直播义诊有问必答，再到千人高考应援接力……1000种应援方式，只为今日护你冲向主场。01.“数学帝”葛军老师领衔，独家课程为你应援高考百日百课高",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
+        "link": "https://36kr.com/p/3844018911889924?f=rss",
+        "description": "\n \n \n  文｜王毓婵\n  编辑｜张雨忻\n  6月5日，腾讯云AI产业应用大会最受外界关注的是什么？\n  毫无疑问，是汤道生与姚顺雨的对话。\n  在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。\n  腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科学家、",
+        "detail": "\n \n \n  文｜王毓婵\n  编辑｜张雨忻\n  6月5日，腾讯云AI产业应用大会最受外界关注的是什么？\n  毫无疑问，是汤道生与姚顺雨的对话。\n  在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。\n  腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科学家、",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "改变全球速度的AI，付款却卡在上一个时代",
+        "link": "https://36kr.com/p/3844199957236227?f=rss",
+        "description": "\n \n \n  \n  2026年，全球平均每小时就有一家新的AI公司诞生。&nbsp;\n  AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。\n  但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，",
+        "detail": "\n \n \n  \n  2026年，全球平均每小时就有一家新的AI公司诞生。&nbsp;\n  AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。\n  但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+        "link": "https://36kr.com/p/3844006775360002?f=rss",
+        "description": "\n \n \n  作者&nbsp;|&nbsp;邱晓芬\n  编辑&nbsp;|&nbsp;袁斯来\n  「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。\n  作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。\n  但范典做第一款产品用了三年。\n",
+        "detail": "\n \n \n  作者&nbsp;|&nbsp;邱晓芬\n  编辑&nbsp;|&nbsp;袁斯来\n  「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。\n  作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。\n  但范典做第一款产品用了三年。\n",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+        "link": "https://36kr.com/p/3841459663030532?f=rss",
+        "description": "\n \n \n  文｜胡香赟\n  编辑｜海若镜\n  36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。\n  华超神控于2025年创立，创始人李昕是中国科学院与德国弗劳恩霍夫IGD研究所联合培养生物医学工程博士",
+        "detail": "\n \n \n  文｜胡香赟\n  编辑｜海若镜\n  36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。\n  华超神控于2025年创立，创始人李昕是中国科学院与德国弗劳恩霍夫IGD研究所联合培养生物医学工程博士",
+        "tag": "投融资",
+        "sort_score": 70
+      },
+      {
+        "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
+        "link": "https://36kr.com/p/3843764238174729?f=rss",
+        "description": "\n \n \n  今日热点导览\n  AI等机器网络请求量首超人类\n  瑞幸咖啡回应拿铁去冰仅半杯\n  宗馥莉自有品牌KELLYONE回归\n  多家低成本航空公司对登机箱登机收费\n  黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案\n  TOP3大新闻\n  八家上市公司集中公告“补税”&nbsp;\n  6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿",
+        "detail": "\n \n \n  今日热点导览\n  AI等机器网络请求量首超人类\n  瑞幸咖啡回应拿铁去冰仅半杯\n  宗馥莉自有品牌KELLYONE回归\n  多家低成本航空公司对登机箱登机收费\n  黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案\n  TOP3大新闻\n  八家上市公司集中公告“补税”&nbsp;\n  6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+        "link": "https://36kr.com/p/3840996342073604?f=rss",
+        "description": "\n \n \n  今日热点导览\n  SpaceX据悉将其IPO的日本融资目标提高至25亿美元\n  二手房挂牌量回落新房库存下降，楼市供需关系向好\n  B站宣布启动AI创造公开赛\n  TOP3大新闻\n  数据显示，豆包推出付费后月活减少610万&nbsp;\n  据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2",
+        "detail": "\n \n \n  今日热点导览\n  SpaceX据悉将其IPO的日本融资目标提高至25亿美元\n  二手房挂牌量回落新房库存下降，楼市供需关系向好\n  B站宣布启动AI创造公开赛\n  TOP3大新闻\n  数据显示，豆包推出付费后月活减少610万&nbsp;\n  据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
+        "link": "https://36kr.com/p/3840267945969929?f=rss",
+        "description": "\n \n \n  大公司：\n  首关15亿元，英诺科创三期基金持续聚焦早期科技投资\n  36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。\n  比特币“金库”公司市值蒸发620亿美元\n  比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做",
+        "detail": "\n \n \n  大公司：\n  首关15亿元，英诺科创三期基金持续聚焦早期科技投资\n  36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。\n  比特币“金库”公司市值蒸发620亿美元\n  比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做",
+        "tag": "行业动态",
+        "sort_score": 70
+      }
+    ]
+  },
+  {
     "date": "2026-06-03",
     "weekday": "星期三",
     "summary": "今日 AI 领域热闹非凡。Anthropic 提交招股书启动 IPO，Meta 发布全新 Skill 框架；具身智能方面，千寻智能在 ICRA 2026 击败英伟达夺冠，多款机器人新品亮相。学术方面，多篇 Agent、推理、多模态论文引发关注。",
