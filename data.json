@@ -2,8 +2,16 @@
   {
     "date": "2026-06-17",
     "weekday": "星期三",
-    "summary": "今日AI领域聚焦于Agent系统的深度优化与评估，多篇论文探讨了如何通过多样化初始化、自我进化机制和结构化不确定性来提升Agent性能。具身智能与医疗AI成为热点，星海图提出三层技术路线，国产医疗AI在关键测评上超越GPT-5.5。此外，林俊旸新公司卜拉格首轮估值135亿，Grok 4.3正式登陆Amazon Bedrock。",
+    "summary": "今日AI领域聚焦于智能体（Agent）的自我进化与评估，多篇论文探讨了如何通过轨迹分析、结构不确定性量化及经验记忆来提升Agent的推理与决策能力。同时，具身智能与医疗AI领域迎来重要进展，北京宣布建设10万P算力AI工厂，头部具身大脑公司再获数亿美元融资。此外，研究揭示了LLM在推荐系统中的品牌偏见问题，并探索了模型发现数学概念“0”的可能性。",
     "news": [
+      {
+        "title": "北京建了一座AI工厂：目标10万P算力，日产10万亿Token！",
+        "link": "https://www.qbitai.com/2026/06/436456.html",
+        "description": "计划1000倍综合降本",
+        "detail": "计划1000倍综合降本",
+        "tag": "商业动态",
+        "sort_score": 70
+      },
       {
         "title": "AI转型最大的门槛，不是技术，是人",
         "link": "https://www.qbitai.com/2026/06/436435.html",
@@ -74,14 +82,6 @@
         "description": "高榕创投与红杉中国联合领投，各出资1亿美元。腾讯跟投2000万美元",
         "detail": "高榕创投与红杉中国联合领投，各出资1亿美元。腾讯跟投2000万美元",
         "tag": "投融资",
-        "sort_score": 70
-      },
-      {
-        "title": "Grok 4.3现已在Amazon Bedrock上正式可用",
-        "link": "https://www.qbitai.com/2026/06/436134.html",
-        "description": "xAI正式成为Amazon Bedrock的模型供应商之一",
-        "detail": "xAI正式成为Amazon Bedrock的模型供应商之一",
-        "tag": "行业动态",
         "sort_score": 70
       },
       {
