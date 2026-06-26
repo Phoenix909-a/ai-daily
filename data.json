@@ -1,5 +1,292 @@
 [
   {
+    "date": "2026-06-26",
+    "weekday": "星期五",
+    "summary": "今日多篇论文聚焦AI Agent的评估与治理，包括基准饱和后的多维评估、提示组合系统中的指令泄漏问题，以及编码Agent奖励机制的局限性。同时，数据驱动机器学习的逻辑推理极限被理论探讨，而谷歌一位关键AI研究员跳槽Meta引发关注。中文科技媒体方面，Claude Fable 5分批上线，英伟达开源MoE微调加速工具。",
+    "news": [
+      {
+        "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
+        "link": "https://www.qbitai.com/2026/06/438848.html",
+        "description": "Coding为王",
+        "detail": "Coding为王",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
+        "link": "https://www.qbitai.com/2026/06/438789.html",
+        "description": "这不能是营销计划的一部分吧？",
+        "detail": "这不能是营销计划的一部分吧？",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
+        "link": "https://www.qbitai.com/2026/06/438750.html",
+        "description": "精准识别设计系统",
+        "detail": "精准识别设计系统",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
+        "link": "https://www.qbitai.com/2026/06/438741.html",
+        "description": "共建工业物理智能“数据底座与智能大脑”",
+        "detail": "共建工业物理智能“数据底座与智能大脑”",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
+        "link": "https://www.qbitai.com/2026/06/438701.html",
+        "description": "提前200毫秒预判",
+        "detail": "提前200毫秒预判",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "英伟达MoE新开源：一行import，微调加速3.7倍",
+        "link": "https://www.qbitai.com/2026/06/438703.html",
+        "description": "在Transformers v5的基础上，增加了专家并行、DeepEP和TransformerEngine",
+        "detail": "在Transformers v5的基础上，增加了专家并行、DeepEP和TransformerEngine",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
+        "link": "https://www.qbitai.com/2026/06/438698.html",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+        "link": "https://www.qbitai.com/2026/06/438690.html",
+        "description": "Macbook涨了2500元",
+        "detail": "Macbook涨了2500元",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "31.98万元~34.98万元，腾势N8L闪充版正式上市",
+        "link": "https://www.leiphone.com/category/transportation/c3LqX3eKnZMSvGBO.html",
+        "description": "6月23日，腾势N8L闪充版正式上市，官方指导价31.98万元~34.98万元。本次，腾势N8L闪充版推出闪充尊荣型、闪充旗舰型2个版本，标配第二代刀片电池与闪充技术、易三方、天神之眼 5.0、云辇-A智能空气车身控制系统，并首搭超级智能体「迪迪虾」等领先科技，带来「闪充」「安全」「操控」「体验」四大无可替代，是家庭豪华大六座首选，美好出行，「家」倍精彩！即日下订腾势N8L闪充版，可享至高价值约1",
+        "detail": "6月23日，腾势N8L闪充版正式上市，官方指导价31.98万元~34.98万元。本次，腾势N8L闪充版推出闪充尊荣型、闪充旗舰型2个版本，标配第二代刀片电池与闪充技术、易三方、天神之眼 5.0、云辇-A智能空气车身控制系统，并首搭超级智能体「迪迪虾」等领先科技，带来「闪充」「安全」「操控」「体验」四大无可替代，是家庭豪华大六座首选，美好出行，「家」倍精彩！即日下订腾势N8L闪充版，可享至高价值约1",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "全网疯抢体脂秤背后，阿福找到了健康AI的正确打开方式",
+        "link": "https://www.leiphone.com/category/healthai/TzDqHHO6ZgMXs0is.html",
+        "description": "“一代人有一代人的鸡蛋要领”，这次轮到了体脂秤。6月25日，蚂蚁阿福发起的“科学减重1亿斤”健康行动正式上线，同时向全网发放“骨折价体脂秤”。除了9.9元快递费，网友只需1分钱就能领到手，参与科学减重。社交平台上，晒单和讨论同步发酵，抢到的人晒出订单截图，纷纷表示“已下单”“等发货”“真香”；没抢到的在评论区急得团团转，追问领取方式，反复确认阿福真的给出了“地板价”。据蚂蚁阿福旗舰店数据显示，这款",
+        "detail": "“一代人有一代人的鸡蛋要领”，这次轮到了体脂秤。6月25日，蚂蚁阿福发起的“科学减重1亿斤”健康行动正式上线，同时向全网发放“骨折价体脂秤”。除了9.9元快递费，网友只需1分钱就能领到手，参与科学减重。社交平台上，晒单和讨论同步发酵，抢到的人晒出订单截图，纷纷表示“已下单”“等发货”“真香”；没抢到的在评论区急得团团转，追问领取方式，反复确认阿福真的给出了“地板价”。据蚂蚁阿福旗舰店数据显示，这款",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "RoboScience机器科学发布通用具身大模型Visics，首次完整展示VLOA双引擎架构",
+        "link": "https://www.leiphone.com/category/robot/Kwpq9tYiIohzAJ7f.html",
+        "description": "雷峰网获悉，6月24日，通用具身智能企业RoboScience机器科学在深圳成功举办通用具身大模型发布会。会上，公司首次完整披露了自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在多项真实场景的应用，包括全球最复杂具身操作任务家具拼装。&nbsp;RoboScience机器科学创始人兼CEO田野、联合创始人兼执行总裁汪涛深度解读了",
+        "detail": "雷峰网获悉，6月24日，通用具身智能企业RoboScience机器科学在深圳成功举办通用具身大模型发布会。会上，公司首次完整披露了自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在多项真实场景的应用，包括全球最复杂具身操作任务家具拼装。&nbsp;RoboScience机器科学创始人兼CEO田野、联合创始人兼执行总裁汪涛深度解读了",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "对话超维传感李炎辉：为什么那么多具身智能公司，都来抢着做「触觉」？",
+        "link": "https://www.leiphone.com/category/robot/Q6XEzSSNN50X3wwt.html",
+        "description": "当视觉缺席具身智能“最后一厘米”，触觉就成了最大的需求。&nbsp; &nbsp; 作者丨高景辉&nbsp; &nbsp; 编辑丨林觉民&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "detail": "当视觉缺席具身智能“最后一厘米”，触觉就成了最大的需求。&nbsp; &nbsp; 作者丨高景辉&nbsp; &nbsp; 编辑丨林觉民&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "ICML2026 |SEER：自动增强+替换Patch，同时搞定噪声、异常、缺失、分布偏移的新SOTA模型！",
+        "link": "https://www.leiphone.com/category/private/OYtuKM1pHAtIdW6U.html",
+        "description": "原文作者：公众号-时序大模型原文链接：https://mp.weixin.qq.com/s/ZJfbE2OFeV9kZ6kBrLTsDg雷峰网转载本篇论文来自ICML2026，最新前沿时序技术，针对时间序列预测，提出了名为SEER的Transformer鲁棒时序预测框架，首次实现多类型低质量时序数据的统一鲁棒建模。文章信息论文名称：SEER:Transformer-based Robust Tim",
+        "detail": "原文作者：公众号-时序大模型原文链接：https://mp.weixin.qq.com/s/ZJfbE2OFeV9kZ6kBrLTsDg雷峰网转载本篇论文来自ICML2026，最新前沿时序技术，针对时间序列预测，提出了名为SEER的Transformer鲁棒时序预测框架，首次实现多类型低质量时序数据的统一鲁棒建模。文章信息论文名称：SEER:Transformer-based Robust Tim",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "市占登顶，设计封王：MOVA割草机器人获红点设计大奖，铸就全球多维第一",
+        "link": "https://www.leiphone.com/category/industrynews/i6DJmITnO2cIntfS.html",
+        "description": "素有“设计界奥斯卡”之称的红点产品设计奖（Red Dot Award: Product Design）2026年度评选结果正式揭晓，MOVA以一项空前纪录震动业界：一次性申报的LiDAX Ultra、LiDAX Ultra AWD、NAVAX AWD等共七款智能割草机器人全部成功斩获大奖，创下全球智能割草赛道获奖总数第一、申报获奖率100%第一的双料纪录。这不仅是红点奖智能庭院品类有史以来的最佳战",
+        "detail": "素有“设计界奥斯卡”之称的红点产品设计奖（Red Dot Award: Product Design）2026年度评选结果正式揭晓，MOVA以一项空前纪录震动业界：一次性申报的LiDAX Ultra、LiDAX Ultra AWD、NAVAX AWD等共七款智能割草机器人全部成功斩获大奖，创下全球智能割草赛道获奖总数第一、申报获奖率100%第一的双料纪录。这不仅是红点奖智能庭院品类有史以来的最佳战",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "原子重塑AtomForm Palette 300 荣膺伦敦设计奖金奖",
+        "link": "https://www.leiphone.com/category/industrynews/qeUu7gHdsUrxWDTz.html",
+        "description": "&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;近日，原子重塑AtomForm旗舰产品Palette 300&nbsp;凭借出色的工业设计与突破性技术创新，成功斩获2026&nbsp;伦敦设计奖（London Design Awards）金奖。作为全球设计领域极具权威性与影响力的奖项之一，此次获奖不仅是对原子重塑AtomForm产品力的国际权威认证，更彰显了品牌在桌面级3D打印赛道",
+        "detail": "&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;近日，原子重塑AtomForm旗舰产品Palette 300&nbsp;凭借出色的工业设计与突破性技术创新，成功斩获2026&nbsp;伦敦设计奖（London Design Awards）金奖。作为全球设计领域极具权威性与影响力的奖项之一，此次获奖不仅是对原子重塑AtomForm产品力的国际权威认证，更彰显了品牌在桌面级3D打印赛道",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "MOVA V70 Ultra Complete横扫欧洲权威评测榜单，多家媒体授予最高评价",
+        "link": "https://www.leiphone.com/category/industrynews/mFSpJI5LepHU9nke.html",
+        "description": "近日，全球高端智慧生活品牌MOVA旗下最新旗舰款扫地机器人MOVA V70 Ultra Complete在欧洲市场接连获得多家权威媒体、专业榜单及科技达人的高度认可，成为高端扫地机器人市场备受关注的新品。德国权威科技媒体Connect授予其最高评级“Überragend（卓越）”，并评价其“开启了扫地机器人历史的新篇章”；德国领先智能家居媒体Home&amp;Smart在累计测试超过125款扫地机",
+        "detail": "近日，全球高端智慧生活品牌MOVA旗下最新旗舰款扫地机器人MOVA V70 Ultra Complete在欧洲市场接连获得多家权威媒体、专业榜单及科技达人的高度认可，成为高端扫地机器人市场备受关注的新品。德国权威科技媒体Connect授予其最高评级“Überragend（卓越）”，并评价其“开启了扫地机器人历史的新篇章”；德国领先智能家居媒体Home&amp;Smart在累计测试超过125款扫地机",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "速卖通618战报：品牌成交同比增长90%，一批中国品牌迎来海外爆发",
+        "link": "https://www.leiphone.com/category/industrynews/GJaTWaT1fZ3mjaSf.html",
+        "description": "今年海外618，一批新品类、新品牌在速卖通迎来集体爆发，多类目涌现百万美金级冠军品牌。&nbsp;记者获悉，本次618大促，速卖通品牌GMV同比实现90%增长，177个品牌实现环比三月大促3倍以上爆发式增长，品牌成交渗透率逼近40%，进一步巩固速卖通品牌出海全新主场地位。&nbsp;&nbsp;&nbsp;此外，速卖通还发布“海外618超级品牌榜”，参与Brand+“超级品牌日”的十余个品牌均在各",
+        "detail": "今年海外618，一批新品类、新品牌在速卖通迎来集体爆发，多类目涌现百万美金级冠军品牌。&nbsp;记者获悉，本次618大促，速卖通品牌GMV同比实现90%增长，177个品牌实现环比三月大促3倍以上爆发式增长，品牌成交渗透率逼近40%，进一步巩固速卖通品牌出海全新主场地位。&nbsp;&nbsp;&nbsp;此外，速卖通还发布“海外618超级品牌榜”，参与Brand+“超级品牌日”的十余个品牌均在各",
+        "tag": "商业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "MOVA割草机器人出货量破50万！增速登顶全球割草赛道",
+        "link": "https://www.leiphone.com/category/industrynews/2J73t9lAS4yr7Gnw.html",
+        "description": "当欧美品牌垄断高端智能庭院设备近半个世纪后，一张来自中国智造的成绩单，彻底改写了这片蓝海的格局。截至2026年5月，MOVA智能割草机器人累计出货量突破50万台，全年出货量向百万台大关冲刺。这一数字不仅刷新了全球智能割草机器人行业的增长纪录，更奠定了MOVA割草全球头部玩家的市场站位。从欧洲突围到全球覆盖，完整产品矩阵吃透主流市场MOVA割草机器人的爆发，并非单一爆款的偶然，而是提前布局全球化与全",
+        "detail": "当欧美品牌垄断高端智能庭院设备近半个世纪后，一张来自中国智造的成绩单，彻底改写了这片蓝海的格局。截至2026年5月，MOVA智能割草机器人累计出货量突破50万台，全年出货量向百万台大关冲刺。这一数字不仅刷新了全球智能割草机器人行业的增长纪录，更奠定了MOVA割草全球头部玩家的市场站位。从欧洲突围到全球覆盖，完整产品矩阵吃透主流市场MOVA割草机器人的爆发，并非单一爆款的偶然，而是提前布局全球化与全",
+        "tag": "商业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "速卖通618战报：品牌成交同比增长90%，多类目涌现百万美金冠军",
+        "link": "https://www.leiphone.com/category/industrynews/BuzrH6nc50Oz03g5.html",
+        "description": "记者获悉，2026年海外618大促，速卖通品牌成交同比90%增长，177个品牌环比三月大促实现3倍以上爆发，品牌成交渗透率逼近40%，进一步巩固速卖通品牌出海全新主场地位。此外，速卖通发布“海外618超级品牌榜”，参与Brand+“超级品牌日”的十余个品牌均在各自细分品类中拿下成交或增速第一，骑行轮组ELITEWHEELS、3D打印ANYCUBIC、泳池机器人SEAUTO、游戏手柄GAMESIR等",
+        "detail": "记者获悉，2026年海外618大促，速卖通品牌成交同比90%增长，177个品牌环比三月大促实现3倍以上爆发，品牌成交渗透率逼近40%，进一步巩固速卖通品牌出海全新主场地位。此外，速卖通发布“海外618超级品牌榜”，参与Brand+“超级品牌日”的十余个品牌均在各自细分品类中拿下成交或增速第一，骑行轮组ELITEWHEELS、3D打印ANYCUBIC、泳池机器人SEAUTO、游戏手柄GAMESIR等",
+        "tag": "商业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "【ICML 2026】刷新高光谱图像恢复任务SOTA!DAMP：面向高光谱影像恢复的退化感知度量提示框架",
+        "link": "https://www.leiphone.com/category/private/bdbSOKMZf2Nt5pbN.html",
+        "description": "现有的统一高光谱图像恢复方法还存在不少缺点：如果用显式退化先验，很难适配真实场景里的未知退化；采用黑盒隐式表征的话，又容易过拟合训练数据的分布，对于未见退化的泛化效果不好，光谱保真度也普遍偏低。针对这一问题，文中提出了一个可解释的空间-光谱度量，得到连续的退化提示，然后再搭配上退化自适应专家混合结构，以度量作为路由动态激活对应的专用专家，最终只用单个模型就能够满足多种不同退化类型的情况。从实验结果",
+        "detail": "现有的统一高光谱图像恢复方法还存在不少缺点：如果用显式退化先验，很难适配真实场景里的未知退化；采用黑盒隐式表征的话，又容易过拟合训练数据的分布，对于未见退化的泛化效果不好，光谱保真度也普遍偏低。针对这一问题，文中提出了一个可解释的空间-光谱度量，得到连续的退化提示，然后再搭配上退化自适应专家混合结构，以度量作为路由动态激活对应的专用专家，最终只用单个模型就能够满足多种不同退化类型的情况。从实验结果",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "豆包推出专业版，能成为你的「工作搭子」吗？",
+        "link": "https://www.leiphone.com/category/industrynews/G8Tqx355YsGfzxVy.html",
+        "description": "你熟悉的豆包，变了。6月24日，豆包发布基于最新豆包2.1系列大模型的豆包专业版。过去大家用 AI，常见姿势是：问问题、写文案、改稿子、做总结、生成图片。AI 给一段答案，后面的复制、整理、排版、填表、做 PPT、搭网页，还是自己来。豆包专业版想往前多走一步，让 AI 从对话框里走出来，进入真实复杂工作任务。专业版新增 Agent 驱动的办公任务模式，它不是简单把免费版的额度放大，也不只是把模型换",
+        "detail": "你熟悉的豆包，变了。6月24日，豆包发布基于最新豆包2.1系列大模型的豆包专业版。过去大家用 AI，常见姿势是：问问题、写文案、改稿子、做总结、生成图片。AI 给一段答案，后面的复制、整理、排版、填表、做 PPT、搭网页，还是自己来。豆包专业版想往前多走一步，让 AI 从对话框里走出来，进入真实复杂工作任务。专业版新增 Agent 驱动的办公任务模式，它不是简单把免费版的额度放大，也不只是把模型换",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "Gartner发布企业级AI Coding报告，阿里云入围挑战者象限",
+        "link": "https://www.leiphone.com/category/industrynews/67SmvNKmB2QcjyW4.html",
+        "description": "近日，国际权威市场研究机构Gartner®发布了《2026年企业级AI代码智能体魔力象限》报告，全球仅12家企业入围，凭借Qoder领先的产品能力和市场认可度，阿里云连续三年进入“挑战者”象限，也是唯一进入该象限的中国公司。&nbsp;图说：阿里云在“2026年企业级AI代码智能体”魔力象限中位列挑战者象限。（报告截图）Gartner认为，当前全球软件工程正从传统的代码辅助，向具备自主规划能力的&",
+        "detail": "近日，国际权威市场研究机构Gartner®发布了《2026年企业级AI代码智能体魔力象限》报告，全球仅12家企业入围，凭借Qoder领先的产品能力和市场认可度，阿里云连续三年进入“挑战者”象限，也是唯一进入该象限的中国公司。&nbsp;图说：阿里云在“2026年企业级AI代码智能体”魔力象限中位列挑战者象限。（报告截图）Gartner认为，当前全球软件工程正从传统的代码辅助，向具备自主规划能力的&",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "GAIR Paper 107｜高校联合腾讯发布 GameCraft-Bench：AI已能端到端开发游戏，Claude Opus 四成达到可玩水平",
+        "link": "https://www.leiphone.com/category/private/Youopgc5vvNteXQS.html",
+        "description": "Coding Agent 的下一站，是动态交互系统的构建。&nbsp; &nbsp; 作者丨GameCraft-Bench Team&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+        "detail": "Coding Agent 的下一站，是动态交互系统的构建。&nbsp; &nbsp; 作者丨GameCraft-Bench Team&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "无界动力完成超2亿美元天使轮融资，加速具身通用大脑与世界模型开发",
+        "link": "https://www.leiphone.com/category/industrynews/R0KdLxNZMHJPM7yA.html",
+        "description": "6月26日，通用具身智能机器人公司无界动力宣布完成超 2 亿美元天使轮融资。最新天使轮融资由京东关联基金、C 资本、弘毅投资、盛宇投资、丰源投资等多家知名机构联合投资，老股东线性资本、红杉中国、华业天成、雅瑞资本等跟投，所获资金将持续用于具身通用大脑研发、技术基础设施建设以及全球规模化交付。同时，Pre-A 轮近 2 亿美元的融资也接近完成，持续获得顶级产业资本、头部美元和人民币资本的支持。本轮融",
+        "detail": "6月26日，通用具身智能机器人公司无界动力宣布完成超 2 亿美元天使轮融资。最新天使轮融资由京东关联基金、C 资本、弘毅投资、盛宇投资、丰源投资等多家知名机构联合投资，老股东线性资本、红杉中国、华业天成、雅瑞资本等跟投，所获资金将持续用于具身通用大脑研发、技术基础设施建设以及全球规模化交付。同时，Pre-A 轮近 2 亿美元的融资也接近完成，持续获得顶级产业资本、头部美元和人民币资本的支持。本轮融",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "元点Zeroth迎来拉美首秀 全球首款自主回充机器人掀起全球具身新热潮",
+        "link": "https://www.leiphone.com/category/industrynews/ndkePEOeiP8UBww4.html",
+        "description": "从巴西展会走向全球家庭 元点Zeroth持续引领全球具身智能落地应用2026年6月22日，巴西圣保罗——当消费级机器人逐步从实验室走向真实家庭，具身智能产业正在进入全球化落地的关键阶段。全球具身智能全栈品牌元点Zeroth正式亮相拉丁美洲规模最大、影响力最强的消费电子展会 Eletrolar Show 2026，首次向拉美市场展示其面向未来家庭生活打造的完整消费级具身智能产品矩阵。此次亮相不仅标志",
+        "detail": "从巴西展会走向全球家庭 元点Zeroth持续引领全球具身智能落地应用2026年6月22日，巴西圣保罗——当消费级机器人逐步从实验室走向真实家庭，具身智能产业正在进入全球化落地的关键阶段。全球具身智能全栈品牌元点Zeroth正式亮相拉丁美洲规模最大、影响力最强的消费电子展会 Eletrolar Show 2026，首次向拉美市场展示其面向未来家庭生活打造的完整消费级具身智能产品矩阵。此次亮相不仅标志",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "马斯克 SpaceX 还没把数据中心送上太空，中国 GobiX 已在戈壁落地",
+        "link": "https://www.leiphone.com/category/transportation/xYypGspPg2OhtNK7.html",
+        "description": "&nbsp;远景扎根戈壁，AI电力系统让绿电长出智力，拓宽人类文明疆界。&nbsp; &nbsp; 作者丨马诗晴&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+        "detail": "&nbsp;远景扎根戈壁，AI电力系统让绿电长出智力，拓宽人类文明疆界。&nbsp; &nbsp; 作者丨马诗晴&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "ICML 2026 | 面向视觉语言模型的语义鲁棒性认证",
+        "link": "https://www.leiphone.com/category/private/d6elsBWhBfMQcPwV.html",
+        "description": "原文作者：公众号“专知”原文链接：https://mp.weixin.qq.com/s/8GZParVJfj9fBuflTFTzlA 雷峰网转载ICML 2026 | 面向视觉语言模型的语义鲁棒性认证：用文本提示刻画可证的语义变化区间论文题目：Semantic Robustness Certification for Vision-Language Models论文链接：https://arxiv",
+        "detail": "原文作者：公众号“专知”原文链接：https://mp.weixin.qq.com/s/8GZParVJfj9fBuflTFTzlA 雷峰网转载ICML 2026 | 面向视觉语言模型的语义鲁棒性认证：用文本提示刻画可证的语义变化区间论文题目：Semantic Robustness Certification for Vision-Language Models论文链接：https://arxiv",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "高通发布面向智能体AI时代的数据中心技术路线图，推出全新高通飞龙产品组合",
+        "link": "https://www.leiphone.com/category/industrynews/ysX5UfFT4AN2gjf9.html",
+        "description": "要点：推出全新数据中心解决方案，涵盖高通飞龙C1000 CPU、高通高带宽计算（HBC）技术、高通飞龙AI300推理加速器、领先的连接产品以及定制化芯片解决方案。高通飞龙AI300与AI200、AI250共同组成高通逐年迭代的多代AI加速器技术路线图。&nbsp;全新高通高带宽计算（HBC）技术突破内存带宽瓶颈，显著降低单位Token能耗。与多家领先AI及数据中心企业达成多年、多代数据中心产品合作",
+        "detail": "要点：推出全新数据中心解决方案，涵盖高通飞龙C1000 CPU、高通高带宽计算（HBC）技术、高通飞龙AI300推理加速器、领先的连接产品以及定制化芯片解决方案。高通飞龙AI300与AI200、AI250共同组成高通逐年迭代的多代AI加速器技术路线图。&nbsp;全新高通高带宽计算（HBC）技术突破内存带宽瓶颈，显著降低单位Token能耗。与多家领先AI及数据中心企业达成多年、多代数据中心产品合作",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "《走进AIE》，谁是下一个主角",
+        "link": "https://36kr.com/p/3869838577620231?f=rss",
+        "description": "\n \n \n  一展两地，链接全球 &nbsp; &nbsp;AIE 电子展成为龙头企业的必选舞台\n  全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。\n  技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。为此，AIE 组委会",
+        "detail": "\n \n \n  一展两地，链接全球 &nbsp; &nbsp;AIE 电子展成为龙头企业的必选舞台\n  全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。\n  技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。为此，AIE 组委会",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
+        "link": "https://36kr.com/p/3866837793952769?f=rss",
+        "description": "\n \n \n  文 | 海若镜\n  访谈 | 海若镜 巴芮\n  6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。\n  访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。\n  五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第",
+        "detail": "\n \n \n  文 | 海若镜\n  访谈 | 海若镜 巴芮\n  6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。\n  访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。\n  五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
+        "link": "https://36kr.com/p/3869622921041156?f=rss",
+        "description": "\n \n \n  本文约900字，建议阅读2分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。\n  \n  关于中科闻歌深度报道，可查看此",
+        "detail": "\n \n \n  本文约900字，建议阅读2分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。\n  \n  关于中科闻歌深度报道，可查看此",
+        "tag": "公司动态",
+        "sort_score": 70
+      },
+      {
+        "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
+        "link": "https://36kr.com/p/3869474592363528?f=rss",
+        "description": "\n \n \n  北京时间&nbsp;&nbsp;2026 年 6 月 25 日，DSC Holdings Ltd.（以下简称\"大搜车\"或\"公司\"，纳斯达克代码：\"DSC\"）正式在美国纳斯达克全球市场挂牌交易，成为 2026 年首家赴美上市的中国企业。公司本次发行 3,000,000 份美国存托股份（ADS），发行价定为每股 ADS 17.00 美元，总发行规模约 5,100 万美元（未计超额配售权）",
+        "detail": "\n \n \n  北京时间&nbsp;&nbsp;2026 年 6 月 25 日，DSC Holdings Ltd.（以下简称\"大搜车\"或\"公司\"，纳斯达克代码：\"DSC\"）正式在美国纳斯达克全球市场挂牌交易，成为 2026 年首家赴美上市的中国企业。公司本次发行 3,000,000 份美国存托股份（ADS），发行价定为每股 ADS 17.00 美元，总发行规模约 5,100 万美元（未计超额配售权）",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
+        "link": "https://36kr.com/p/3869445453305090?f=rss",
+        "description": "\n \n \n  文｜王欣逸\n  编辑｜周鑫雨\n  半年前，我们第一次和基点起源创始人兼&nbsp;CEO&nbsp;戴宗宏交流时，这家逆流入局&nbsp;B&nbsp;端定制化的AI公司，刚刚推进了&nbsp;7、8&nbsp;个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。\n  半年后，基点对质疑声的回应，是数千万元的在手订单。\n  戴宗宏对《智能涌现》透露，基点起源",
+        "detail": "\n \n \n  文｜王欣逸\n  编辑｜周鑫雨\n  半年前，我们第一次和基点起源创始人兼&nbsp;CEO&nbsp;戴宗宏交流时，这家逆流入局&nbsp;B&nbsp;端定制化的AI公司，刚刚推进了&nbsp;7、8&nbsp;个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。\n  半年后，基点对质疑声的回应，是数千万元的在手订单。\n  戴宗宏对《智能涌现》透露，基点起源",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "年入27亿，一颗中国糖果拿捏「美国味」",
+        "link": "https://36kr.com/p/3868550907237636?f=rss",
+        "description": "\n \n \n  作者 |&nbsp;谢芸子\n  编辑 | 张帆\n  在TikTok国际版，一条关于果汁剥皮软糖皮乐士Peelerz的测评视频，共获得点赞量258万。皮乐士Peelerz是阿麦斯Amos旗下的主打品牌。\n  走进美国的Costco或山姆会员店，阿麦斯几乎是货架上仅有的中国糖果。欧美会员店的选品口碑“回流”至国内。\n  打开中国山姆APP，阿麦斯旗下的两款产品Peelerz与“贝欧宝Bi",
+        "detail": "\n \n \n  作者 |&nbsp;谢芸子\n  编辑 | 张帆\n  在TikTok国际版，一条关于果汁剥皮软糖皮乐士Peelerz的测评视频，共获得点赞量258万。皮乐士Peelerz是阿麦斯Amos旗下的主打品牌。\n  走进美国的Costco或山姆会员店，阿麦斯几乎是货架上仅有的中国糖果。欧美会员店的选品口碑“回流”至国内。\n  打开中国山姆APP，阿麦斯旗下的两款产品Peelerz与“贝欧宝Bi",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
+        "link": "https://36kr.com/p/3869378164397313?f=rss",
+        "description": "\n \n \n  “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业",
+        "detail": "\n \n \n  “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业",
+        "tag": "行业动态",
+        "sort_score": 70
+      }
+    ]
+  },
+  {
     "date": "2026-06-25",
     "weekday": "星期四",
     "summary": "今日论文聚焦Agentic AI系统构建与安全，多篇工作探讨了自主智能体的复合错误、说服策略及长期记忆机制。视觉语言模型与人类视觉搜索的类比研究揭示了推理token与反应时间的对应关系。中文科技媒体方面，科大讯飞发布企业服务Claw平台，中国AI应用领域出现首个3亿ARR独角兽，同时LPU芯片因推理时代需求翻红。",
