@@ -1,5 +1,292 @@
 [
   {
+    "date": "2026-06-29",
+    "weekday": "星期一",
+    "summary": "今日AI领域聚焦于**智能体规划与安全**，多篇论文探讨了世界模型如何减少幻觉传播、提升长程任务规划能力。同时，**具身智能**与**社会规范**的结合成为热点，新基准测试关注AI在物理世界中的社交合规性。产业方面，**DeepSeek**与北大联合开源推理加速方案，**智平方**成为大湾区首个200亿估值具身智能独角兽，而**Claude Mythos**的成功促使梁文锋决定融资。此外，关于“机器遗忘”概念的滥用也引发了学界反思。",
+    "news": [
+      {
+        "title": "Claude Mythos让梁文锋决定融资",
+        "link": "https://www.qbitai.com/2026/06/439863.html",
+        "description": "DeepSeek不储备弹药根本没法打下去了",
+        "detail": "DeepSeek不储备弹药根本没法打下去了",
+        "tag": "投融资",
+        "sort_score": 70
+      },
+      {
+        "title": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
+        "link": "https://www.qbitai.com/2026/06/439876.html",
+        "description": "让AI真正“读懂”企业",
+        "detail": "让AI真正“读懂”企业",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片",
+        "link": "https://www.qbitai.com/2026/06/439861.html",
+        "description": "大湾区首个200亿具身智能独角兽诞生！“最像特斯拉”智平方吸金50亿，全矩阵顶级资本重仓",
+        "detail": "大湾区首个200亿具身智能独角兽诞生！“最像特斯拉”智平方吸金50亿，全矩阵顶级资本重仓",
+        "tag": "投融资",
+        "sort_score": 70
+      },
+      {
+        "title": "AI当老板，快给10家公司干破产了…",
+        "link": "https://www.qbitai.com/2026/06/439864.html",
+        "description": "画出那个矩阵的能力——还属于人类。",
+        "detail": "画出那个矩阵的能力——还属于人类。",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "啥？做AI短剧可以免费，免费，免费了！",
+        "link": "https://www.qbitai.com/2026/06/439750.html",
+        "description": "我反手做了个修仙爽剧",
+        "detail": "我反手做了个修仙爽剧",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "“词元盗用”正在成为AI商业化面临的新风险",
+        "link": "https://www.qbitai.com/2026/06/439746.html",
+        "description": "有人盯上的不是钱，而是 Token",
+        "detail": "有人盯上的不是钱，而是 Token",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了",
+        "link": "https://www.qbitai.com/2026/06/439728.html",
+        "description": "把天基计算推进到可验证、可迭代的工程路线",
+        "detail": "把天基计算推进到可验证、可迭代的工程路线",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "从 VCloud 到 Agentic VCloud：Agent 时代的范式重构",
+        "link": "https://www.leiphone.com/category/industrynews/WqCn3r8LHkqFKmhZ.html",
+        "description": "站在大同善化寺的大雄宝殿中，我打开与豆包的视频通话，将镜头对准殿左右的金代彩塑，问道：“给我讲讲这些金代彩塑，哪几尊塑像最值得细细端详？”豆包会像真人讲解一样，先“看到和认出”彩塑，再“听懂”问题，然后“思考”如何回答，最后说出答案。如果你也在景点或展览中这样向豆包提问过，会发现豆包的讲解能力已经接近普通真人讲解员的水准。留心观察，你会发现越来越多像豆包一样能看能听、能想能说的 Agent 正出现",
+        "detail": "站在大同善化寺的大雄宝殿中，我打开与豆包的视频通话，将镜头对准殿左右的金代彩塑，问道：“给我讲讲这些金代彩塑，哪几尊塑像最值得细细端详？”豆包会像真人讲解一样，先“看到和认出”彩塑，再“听懂”问题，然后“思考”如何回答，最后说出答案。如果你也在景点或展览中这样向豆包提问过，会发现豆包的讲解能力已经接近普通真人讲解员的水准。留心观察，你会发现越来越多像豆包一样能看能听、能想能说的 Agent 正出现",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "单用户提速 60-85% ！DeepSeek 联手北大开源 DSpark ，突破推理加速工程问题",
+        "link": "https://www.leiphone.com/category/ai/3QqhbnrdnlxcrD1R.html",
+        "description": "把算力花在刀刃上，梁文锋再次大幅降低推理优化门槛。&nbsp; &nbsp; 作者丨樊天骄&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+        "detail": "把算力花在刀刃上，梁文锋再次大幅降低推理优化门槛。&nbsp; &nbsp; 作者丨樊天骄&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "有道把 AI 订阅装进词典笔，学习硬件商业模式迎来变化",
+        "link": "https://www.leiphone.com/category/industrynews/OrsinRYjaqk6Id9F.html",
+        "description": "6月29日，网易有道正式发布新一代旗舰学习硬件——有道词典笔X8系列。与学习硬件行业往年强调&quot;更大屏幕、更大词库&quot;的套路不同，这次有道提了一个词：「按需订阅」。基础查词、教材同步、全科答疑终身免费；课堂笔记实时整理、深度答疑、同声传译等进阶AI能力，则需额外付费解锁。X8 Pro默认赠送2年会员，X8基础版售价899元，全套订阅价1399元。这可能是行业从「硬件参数内卷」转向「",
+        "detail": "6月29日，网易有道正式发布新一代旗舰学习硬件——有道词典笔X8系列。与学习硬件行业往年强调&quot;更大屏幕、更大词库&quot;的套路不同，这次有道提了一个词：「按需订阅」。基础查词、教材同步、全科答疑终身免费；课堂笔记实时整理、深度答疑、同声传译等进阶AI能力，则需额外付费解锁。X8 Pro默认赠送2年会员，X8基础版售价899元，全套订阅价1399元。这可能是行业从「硬件参数内卷」转向「",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "Karpathy 65 行文档狂砍 17.6 万星，阻止 Coding 犯大错只需这四点",
+        "link": "https://www.leiphone.com/category/ai/F04bdF68h7QJTFUl.html",
+        "description": "在 Github 上把 Anthropic 官方文档甩在身后，怪不得 Dario 要把他招回去。&nbsp; &nbsp; 作者丨樊天骄、郑佳美&nbsp; &nbsp; 编辑丨郑佳美&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+        "detail": "在 Github 上把 Anthropic 官方文档甩在身后，怪不得 Dario 要把他招回去。&nbsp; &nbsp; 作者丨樊天骄、郑佳美&nbsp; &nbsp; 编辑丨郑佳美&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "市场份额从41%掉到26%，Cursor凭什么还值600亿？",
+        "link": "https://www.leiphone.com/category/ai/IuG8AWhW3lhmQFPR.html",
+        "description": "“AI编程工具的决胜点不是谁的模型最强，而是谁能率先融入程序员的肌肉记忆，Cursor三年前就把这个坑给占了。”AI产品负责人马哲远告诉雷峰网，与其说Cursor是一个编程工具，不如说它是AI To B时代的关键入口。这也是为什么马斯克在SpaceX上市后仅第四天，就迫不及待以 600 亿美元的全股票对价，将 Cursor纳入麾下。按常规创投逻辑，这家公司可能早就倒在了巨头混战中。给它第一笔孵化资",
+        "detail": "“AI编程工具的决胜点不是谁的模型最强，而是谁能率先融入程序员的肌肉记忆，Cursor三年前就把这个坑给占了。”AI产品负责人马哲远告诉雷峰网，与其说Cursor是一个编程工具，不如说它是AI To B时代的关键入口。这也是为什么马斯克在SpaceX上市后仅第四天，就迫不及待以 600 亿美元的全股票对价，将 Cursor纳入麾下。按常规创投逻辑，这家公司可能早就倒在了巨头混战中。给它第一笔孵化资",
+        "tag": "商业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "多篇成果入选，快手邀您共赴ICML 2026！",
+        "link": "https://www.leiphone.com/category/private/U39vz3DLoafyqcew.html",
+        "description": "原文作者：公众号快手官方原文链接：https://mp.weixin.qq.com/s/mUmIq5h1qq5Ig_2FMjycUQ雷峰网转载在ICML 2026国际顶级学术会议上，快手技术团队多篇论文成功入选，其中1篇入选“spotlight papers”展示，研究覆盖大语言模型、强化学习、信息检索、计算机视觉等关键方向——它们让AI更智能、更可控、更可解释，也帮助我们从数据中挖掘更本质的规律",
+        "detail": "原文作者：公众号快手官方原文链接：https://mp.weixin.qq.com/s/mUmIq5h1qq5Ig_2FMjycUQ雷峰网转载在ICML 2026国际顶级学术会议上，快手技术团队多篇论文成功入选，其中1篇入选“spotlight papers”展示，研究覆盖大语言模型、强化学习、信息检索、计算机视觉等关键方向——它们让AI更智能、更可控、更可解释，也帮助我们从数据中挖掘更本质的规律",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "解读丨Urtopia联创再创业：Oura是「严父」，我要做「慈母」",
+        "link": "https://www.leiphone.com/category/weiwu/455eeQwSDJyMjNAA.html",
+        "description": "一位创业老炮，为健康做了「妈味」戒指。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀获悉，前&nbsp;URTOPIA&nbsp;联合创始人、CFO&nbsp;李东豪正式离职，创办消费级智能硬件品牌AIVELA，打造面向全球市场的&nbsp;AI&nbsp;可穿戴品牌，已经完成数百万美元天使轮融资，本轮由线性资本领投，锋领资本跟投，URTOPIA等产业方共同加注。据&nbsp;Kickstarter&nbsp",
+        "detail": "一位创业老炮，为健康做了「妈味」戒指。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀获悉，前&nbsp;URTOPIA&nbsp;联合创始人、CFO&nbsp;李东豪正式离职，创办消费级智能硬件品牌AIVELA，打造面向全球市场的&nbsp;AI&nbsp;可穿戴品牌，已经完成数百万美元天使轮融资，本轮由线性资本领投，锋领资本跟投，URTOPIA等产业方共同加注。据&nbsp;Kickstarter&nbsp",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "凡人修仙传首度联名小家电，友望除螨仪的“含金量”几何？",
+        "link": "https://www.leiphone.com/category/industrynews/TMiFelendY0h8V6E.html",
+        "description": "5月底，《凡人修仙传》与清洁暖科技品牌友望联合推出联名款除螨仪。这是该IP首次与小家电品类展开联名合作。一个清洁电器品牌，一部修仙题材的国漫，为何走到一起？这次联名究竟能产生多大的商业价值？行业颇具与IP联名的解题逻辑除螨仪行业正处于高速增长通道。2024年中国除螨仪行业市场规模已从2015年的2.8亿元增长至34.6亿元，年复合增长率超过30%，其中友望作为除螨仪市场占有率超过50%的绝对领导者",
+        "detail": "5月底，《凡人修仙传》与清洁暖科技品牌友望联合推出联名款除螨仪。这是该IP首次与小家电品类展开联名合作。一个清洁电器品牌，一部修仙题材的国漫，为何走到一起？这次联名究竟能产生多大的商业价值？行业颇具与IP联名的解题逻辑除螨仪行业正处于高速增长通道。2024年中国除螨仪行业市场规模已从2015年的2.8亿元增长至34.6亿元，年复合增长率超过30%，其中友望作为除螨仪市场占有率超过50%的绝对领导者",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "一句「Make it better」，Fable 5 直接把贪吃蛇炼成「逆反人格」",
+        "link": "https://www.leiphone.com/category/ai/rM0uSgeIJJ5477ZC.html",
+        "description": "一个小游戏，藏着 AI Agent 的工程考题。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+        "detail": "一个小游戏，藏着 AI Agent 的工程考题。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "美媒：快手可灵拟引入泛大西洋投资，投后估值1300亿",
+        "link": "https://www.leiphone.com/category/ai/awNbSNygrWrx5PLw.html",
+        "description": "雷峰网获悉，彭博社最新报道称，快手正与美国知名投资机构 General Atlantic （泛大西洋投资集团）洽谈，为旗下视频生成大模型业务可灵（Kling AI） 引入首轮融资，以期在IPO前引入一家具有代表性的美国投资机构作为重要股东。据知情人士透露，可灵此次计划融资超过20亿美元，投后估值约为180亿美元（约1300亿人民币）。雷峰网了解到，此前，快手曾以约200亿美元估值与潜在投资人进行初",
+        "detail": "雷峰网获悉，彭博社最新报道称，快手正与美国知名投资机构 General Atlantic （泛大西洋投资集团）洽谈，为旗下视频生成大模型业务可灵（Kling AI） 引入首轮融资，以期在IPO前引入一家具有代表性的美国投资机构作为重要股东。据知情人士透露，可灵此次计划融资超过20亿美元，投后估值约为180亿美元（约1300亿人民币）。雷峰网了解到，此前，快手曾以约200亿美元估值与潜在投资人进行初",
+        "tag": "投融资",
+        "sort_score": 70
+      },
+      {
+        "title": "美媒：腾讯参投林俊旸AI公司2000万美元",
+        "link": "https://www.leiphone.com/category/ai/m0uu1Ameqlu1vdFe.html",
+        "description": "雷峰网获悉，据The Information最新独家报道，腾讯在林俊旸创立的新人工智能实验室的第一轮融资中投资了2000万美元。目前，该人工智能实验室已筹集了数亿美元，投后估值约为20亿美元。雷峰网得知，知情人士表示这一轮融资由高榕资本与红杉中国领导，各投资1亿美元。完成交易后，林俊旸已经在寻求再筹集一轮资金。",
+        "detail": "雷峰网获悉，据The Information最新独家报道，腾讯在林俊旸创立的新人工智能实验室的第一轮融资中投资了2000万美元。目前，该人工智能实验室已筹集了数亿美元，投后估值约为20亿美元。雷峰网得知，知情人士表示这一轮融资由高榕资本与红杉中国领导，各投资1亿美元。完成交易后，林俊旸已经在寻求再筹集一轮资金。",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "ICML 2026｜上智院、上交大、复旦联合提出FLAG扩散框架，还原空间转录组的基因-空间双重结构",
+        "link": "https://www.leiphone.com/category/private/xumpnjfyYU2IwseH.html",
+        "description": "原文作者：公众号“ScienceAi”原文链接：https://mp.weixin.qq.com/s/lhrWc1-ABA4dZObLAuHMHQ 雷峰网转载空间转录组学（Spatial Transcriptomics, ST）能在保留细胞空间位置的同时测量基因表达，对解析组织微环境与疾病微生态至关重要，但测序成本高、通量低。相比之下，H&amp;E 染色的全切片图像（WSI）在临床中比较容易获取",
+        "detail": "原文作者：公众号“ScienceAi”原文链接：https://mp.weixin.qq.com/s/lhrWc1-ABA4dZObLAuHMHQ 雷峰网转载空间转录组学（Spatial Transcriptomics, ST）能在保留细胞空间位置的同时测量基因表达，对解析组织微环境与疾病微生态至关重要，但测序成本高、通量低。相比之下，H&amp;E 染色的全切片图像（WSI）在临床中比较容易获取",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "专访｜苏炜杰加入OpenAI：Scaling Law撞墙后为什么需要数学家出手？",
+        "link": "https://www.leiphone.com/category/ai/OUht6XHTbsegepIk.html",
+        "description": "大模型正在走进一片没有地图的深水区。Scaling Law开始撞墙、高质量数据接近枯竭、AI解释性问题依然没有解决，行业逐渐进入后Scaling时代。越来越多人开始意识到，那些最关键的瓶颈，单靠工程经验已经无法突破了。问题摆在眼前，能回答它的人开始登场。5月30日，宾夕法尼亚大学沃顿商学院统计学教授苏炜杰宣布加入OpenAI，参与模型训练相关工作。他是2026 COPSS会长奖得主，统计学界40岁",
+        "detail": "大模型正在走进一片没有地图的深水区。Scaling Law开始撞墙、高质量数据接近枯竭、AI解释性问题依然没有解决，行业逐渐进入后Scaling时代。越来越多人开始意识到，那些最关键的瓶颈，单靠工程经验已经无法突破了。问题摆在眼前，能回答它的人开始登场。5月30日，宾夕法尼亚大学沃顿商学院统计学教授苏炜杰宣布加入OpenAI，参与模型训练相关工作。他是2026 COPSS会长奖得主，统计学界40岁",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "ICML 2026 | 当大模型开始发明自己的语言：如何让 LLM 用更少 Token 完成高强度推理",
+        "link": "https://www.leiphone.com/category/private/Ixd3nLMA98imcSnA.html",
+        "description": "原文作者：公众号“专知”原文链接：https://mp.weixin.qq.com/s/GYp8zFf-C5pXqHMSDNT2Aw 雷峰网转载论文标题：&nbsp;When LLMs Develop Languages: Symbolic Communication for Efficient Multi-Agent Reasoning论文作者：&nbsp;Zhengqi Pei, Qingmi",
+        "detail": "原文作者：公众号“专知”原文链接：https://mp.weixin.qq.com/s/GYp8zFf-C5pXqHMSDNT2Aw 雷峰网转载论文标题：&nbsp;When LLMs Develop Languages: Symbolic Communication for Efficient Multi-Agent Reasoning论文作者：&nbsp;Zhengqi Pei, Qingmi",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "解读｜OpenAI 为什么要冒死“脱离群众”？",
+        "link": "https://www.leiphone.com/category/ai/Ql6vKtKEYLm7Tuin.html",
+        "description": "谁能想到，在 IPO 临门一脚的前夕，靠 To C 聊天起家、日活高达9亿的 OpenAI，会选择冒死“背叛”撑起它高估值的群众。过去一周，它用两个动作宣告，C端不再是ChatGPT的主战场。先是把Codex嵌进ChatGPT，紧接着在Codex一口气上线六大角色插件。这六个角色插件覆盖销售、数据分析、投行、投研、产品设计和创意制作等场景。每一个功能背后，站着的都是一个具体的职场角色，而不是随便打",
+        "detail": "谁能想到，在 IPO 临门一脚的前夕，靠 To C 聊天起家、日活高达9亿的 OpenAI，会选择冒死“背叛”撑起它高估值的群众。过去一周，它用两个动作宣告，C端不再是ChatGPT的主战场。先是把Codex嵌进ChatGPT，紧接着在Codex一口气上线六大角色插件。这六个角色插件覆盖销售、数据分析、投行、投研、产品设计和创意制作等场景。每一个功能背后，站着的都是一个具体的职场角色，而不是随便打",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "一线对谈丨「龙虾」过后，百度不想再卷Token了",
+        "link": "https://www.leiphone.com/category/industrynews/AM817za4mjx5twCo.html",
+        "description": "李彦宏第一次提到“DAA”这个新词，是今年元旦前后，在百度内部的一次汇报会上。当时团队展示了一家车企的智能体应用情况，汇报中列出了调用次数、Token消耗等常见指标。李彦宏却追问了一个问题：有多少个智能体在活跃？后来，这个问题逐渐演变成了 Create 大会上被正式提出的 DAA（Daily Active Agent，日活跃智能体数）。如果说移动互联网时代最重要的指标是 DAU，那么在智能体时代，",
+        "detail": "李彦宏第一次提到“DAA”这个新词，是今年元旦前后，在百度内部的一次汇报会上。当时团队展示了一家车企的智能体应用情况，汇报中列出了调用次数、Token消耗等常见指标。李彦宏却追问了一个问题：有多少个智能体在活跃？后来，这个问题逐渐演变成了 Create 大会上被正式提出的 DAA（Daily Active Agent，日活跃智能体数）。如果说移动互联网时代最重要的指标是 DAU，那么在智能体时代，",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "ICML26 重磅成果！清华 UDS 智能筛选训练样本，大模型微调算力直接减半",
+        "link": "https://www.leiphone.com/category/private/bOlZPie2LmGifkJo.html",
+        "description": "原文作者：公众号“AI典型场景产品”原文链接：https://mp.weixin.qq.com/s/zf6OJe5pM8JYkzywwlgyVQ 雷峰网转载近日国际顶级机器学习会议 ICML 2026 公布多篇核心论文成果，清华大学自动化系团队带来全新在线样本筛选框架 UDS，彻底颠覆大模型监督微调 SFT “全量数据投喂” 的传统模式。该技术无需完整遍历全部训练数据集，依托模型前向传播原生 lo",
+        "detail": "原文作者：公众号“AI典型场景产品”原文链接：https://mp.weixin.qq.com/s/zf6OJe5pM8JYkzywwlgyVQ 雷峰网转载近日国际顶级机器学习会议 ICML 2026 公布多篇核心论文成果，清华大学自动化系团队带来全新在线样本筛选框架 UDS，彻底颠覆大模型监督微调 SFT “全量数据投喂” 的传统模式。该技术无需完整遍历全部训练数据集，依托模型前向传播原生 lo",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "AI 技术 | ICML论文盛宴、多模态代码综述、共失效天花板理论",
+        "link": "https://www.leiphone.com/category/private/lo0HqtoG1AxZv5Zv.html",
+        "description": "原文作者：公众号“发光植物群”原文链接：https://mp.weixin.qq.com/s/DPQEzhf6Ez6DIl_zq4dAlQ雷峰网转载前沿技术英伟达NitroGen获CVPR 2026最佳论文荣誉提名英伟达（NVIDIA）凭借图像生成新范式 NitroGen 获得CVPR 2026最佳论文荣誉提名（Best Paper Honorable Mention），延续了英伟达在CVPR的强",
+        "detail": "原文作者：公众号“发光植物群”原文链接：https://mp.weixin.qq.com/s/DPQEzhf6Ez6DIl_zq4dAlQ雷峰网转载前沿技术英伟达NitroGen获CVPR 2026最佳论文荣誉提名英伟达（NVIDIA）凭借图像生成新范式 NitroGen 获得CVPR 2026最佳论文荣誉提名（Best Paper Honorable Mention），延续了英伟达在CVPR的强",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "【ICML 2026】基于响应自举的LVLM安全微调框架 BYORn",
+        "link": "https://www.leiphone.com/category/private/RNwzWwYNUvFU3jha.html",
+        "description": "原文作者：公众号“学术摘星人的每日签”原文链接：https://mp.weixin.qq.com/s/JoWhUDPK4mfIqLNBKP0wyA 雷峰网转载众所周知，Supervised Fine-Tuning (SFT) 是让多模态大模型听懂人话、对齐人类意图的关键步骤。但在享受指令微调带来的红利时，你有没有想过：如果微调数据被“投毒”了怎么办？&nbsp;近期研究表明，LVLMs 在 SFT",
+        "detail": "原文作者：公众号“学术摘星人的每日签”原文链接：https://mp.weixin.qq.com/s/JoWhUDPK4mfIqLNBKP0wyA 雷峰网转载众所周知，Supervised Fine-Tuning (SFT) 是让多模态大模型听懂人话、对齐人类意图的关键步骤。但在享受指令微调带来的红利时，你有没有想过：如果微调数据被“投毒”了怎么办？&nbsp;近期研究表明，LVLMs 在 SFT",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "“物理AI第一股”Momenta开启招股：14家超豪华基石护航，基石席位“一票难求”",
+        "link": "https://www.leiphone.com/category/industrynews/cWATkKQ0a3yy8sWE.html",
+        "description": "2026年6月29日，全球领先的物理AI公司Momenta披露全球发售文件，正式启动招股，并计划以“6880”为股票代码在港交所挂牌上市，成为“物理AI第一股”。&nbsp;根据发行方案，Momenta本次IPO计划全球发售19,938,300股，其中香港发售1,993,840股，国际发售17,944,460股，分别占全球发售股份总数的10%和90%；此次发行另配有15%的绿鞋（超额配股权）机制。",
+        "detail": "2026年6月29日，全球领先的物理AI公司Momenta披露全球发售文件，正式启动招股，并计划以“6880”为股票代码在港交所挂牌上市，成为“物理AI第一股”。&nbsp;根据发行方案，Momenta本次IPO计划全球发售19,938,300股，其中香港发售1,993,840股，国际发售17,944,460股，分别占全球发售股份总数的10%和90%；此次发行另配有15%的绿鞋（超额配股权）机制。",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "烧光5000亿后，京东方开始给股民赚钱",
+        "link": "https://36kr.com/p/3874045136720899?f=rss",
+        "description": "\n \n \n  作者&nbsp;|&nbsp;范亮\n  编辑&nbsp;|&nbsp;张帆\n  很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。\n  人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价为4.17元/股。二十多年过去，股价累计涨幅只有",
+        "detail": "\n \n \n  作者&nbsp;|&nbsp;范亮\n  编辑&nbsp;|&nbsp;张帆\n  很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。\n  人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价为4.17元/股。二十多年过去，股价累计涨幅只有",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+        "link": "https://36kr.com/p/3873626425332743?f=rss",
+        "description": "\n \n \n  大公司：\n  蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家\n  36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。\n  中国移动确认设立To",
+        "detail": "\n \n \n  大公司：\n  蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家\n  36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。\n  中国移动确认设立To",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+        "link": "https://36kr.com/p/3874015941645570?f=rss",
+        "description": "\n \n \n  作者｜黄楠\n  编辑｜袁斯来\n  近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于消费级陪伴产品，\n  一个不可忽视的事实是，在语音和视觉占据智能产品交互主流的今天，触觉作为人类出生后最先发育、最本能的感觉通道，在消费级智能硬件中的潜力尚未被充分释放。大多",
+        "detail": "\n \n \n  作者｜黄楠\n  编辑｜袁斯来\n  近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于消费级陪伴产品，\n  一个不可忽视的事实是，在语音和视觉占据智能产品交互主流的今天，触觉作为人类出生后最先发育、最本能的感觉通道，在消费级智能硬件中的潜力尚未被充分释放。大多",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
+        "link": "https://36kr.com/p/3873965241931014?f=rss",
+        "description": "\n \n \n  \n  “每一代模型，我们都在押注一个非共识。”\n  文｜邓咏仪\n  编辑｜张雨忻\n  Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。\n  Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故事也已经被讲过很多遍：在上一段创业“光年之外”戛然而止后，曹越很快就投入到 Sand.ai 的创业中，做视频生成模型。\n  彼时，市场的主流",
+        "detail": "\n \n \n  \n  “每一代模型，我们都在押注一个非共识。”\n  文｜邓咏仪\n  编辑｜张雨忻\n  Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。\n  Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故事也已经被讲过很多遍：在上一段创业“光年之外”戛然而止后，曹越很快就投入到 Sand.ai 的创业中，做视频生成模型。\n  彼时，市场的主流",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
+        "link": "https://36kr.com/p/3873902389794053?f=rss",
+        "description": "\n \n \n  继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据，2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40%。\n  其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业样本。CGM学名称作“持续葡萄糖监测系统”，能够连续监测人体血糖变化，在“控糖”成为流行生活方式的当下，迅速走进普罗大众的生活。\n  2020年前",
+        "detail": "\n \n \n  继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据，2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40%。\n  其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业样本。CGM学名称作“持续葡萄糖监测系统”，能够连续监测人体血糖变化，在“控糖”成为流行生活方式的当下，迅速走进普罗大众的生活。\n  2020年前",
+        "tag": "公司动态",
+        "sort_score": 70
+      },
+      {
+        "title": "首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资",
+        "link": "https://36kr.com/p/3873806295274756?f=rss",
+        "description": "\n \n \n  作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，广州宸思通讯科技有限公司（以下简称“宸思科技”）近日完成新一轮融资，由厦门高新投独家投资。本轮资金将主要用于核心技术研发和产品储备，加速数字相控阵芯片及模组产品的迭代升级。\n  宸思科技成立于2020年，总部位于广州黄埔区，聚焦数字相控阵芯片及模组研发，具备���芯片+模组+产品”的垂直整合",
+        "detail": "\n \n \n  作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，广州宸思通讯科技有限公司（以下简称“宸思科技”）近日完成新一轮融资，由厦门高新投独家投资。本轮资金将主要用于核心技术研发和产品储备，加速数字相控阵芯片及模组产品的迭代升级。\n  宸思科技成立于2020年，总部位于广州黄埔区，聚焦数字相控阵芯片及模组研发，具备���芯片+模组+产品”的垂直整合",
+        "tag": "投融资",
+        "sort_score": 70
+      },
+      {
+        "title": "被健康家电「背刺」后，这届年轻人更会买了",
+        "link": "https://36kr.com/p/3873786445813001?f=rss",
+        "description": "\n \n \n  那些年，我们交过的“健康”智商税\n  马上就要撞到墙了。\n  王焱的大脑还没反应过来，身体已经感觉到了一股推背感。在试驾这辆主打“智能”与“安全”的新能源汽车时，他不小心把油门当成了刹车，一脚踩了下去，等他意识到的时候，车子正在像头野兽一般往前猛窜。\n  在极其危险的几秒里，王焱以为这款车在发布会上被吹上天的风险预警与瞬间干预能立刻奏效。然而，智驾系统一片死寂，没有任何警报声，更没有",
+        "detail": "\n \n \n  那些年，我们交过的“健康”智商税\n  马上就要撞到墙了。\n  王焱的大脑还没反应过来，身体已经感觉到了一股推背感。在试驾这辆主打“智能”与“安全”的新能源汽车时，他不小心把油门当成了刹车，一脚踩了下去，等他意识到的时候，车子正在像头野兽一般往前猛窜。\n  在极其危险的几秒里，王焱以为这款车在发布会上被吹上天的风险预警与瞬间干预能立刻奏效。然而，智驾系统一片死寂，没有任何警报声，更没有",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "首发 | URTOPIA联创做了款智能指环，众筹已破千万元",
+        "link": "https://36kr.com/p/3873710996902912?f=rss",
+        "description": "\n \n \n  作者&nbsp;|&nbsp;张子怡\n  编辑&nbsp;|&nbsp;袁斯来\n  近日，AI可穿戴品牌AIVELA宣布完成数百万美元首轮融资。本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。\n  本轮融资将主要用于下一代AI可穿戴产品研发、健康数据与AI Agent能力建设、全球市场拓展以及核心团队扩张。AIVELA将以智能指环、智能手链等",
+        "detail": "\n \n \n  作者&nbsp;|&nbsp;张子怡\n  编辑&nbsp;|&nbsp;袁斯来\n  近日，AI可穿戴品牌AIVELA宣布完成数百万美元首轮融资。本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。\n  本轮融资将主要用于下一代AI可穿戴产品研发、健康数据与AI Agent能力建设、全球市场拓展以及核心团队扩张。AIVELA将以智能指环、智能手链等",
+        "tag": "行业动态",
+        "sort_score": 70
+      }
+    ]
+  },
+  {
     "date": "2026-06-28",
     "weekday": "星期日",
     "summary": "今日多篇论文聚焦于提升AI Agent的推理与工具使用能力，揭示了多步工具使用强化学习中的“灾难性崩溃”问题，并提出通过监督信号来修复。同时，研究指出多模型组合系统的性能存在“共失效上限”，其增益受限于最差模型。在视频理解与生成领域，有工作提出了解决“盲目信任”问题的工具编排框架，以及基于3D网格的物理世界模型。此外，中文科技媒体关注到梁文锋署名的DSpark模型、百度开源的新OCR技术，以及滴滴首次公开其安全预警系统。",
