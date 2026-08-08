@@ -1,5 +1,292 @@
 [
   {
+    "date": "2026-08-08",
+    "weekday": "星期六",
+    "summary": "今日共收录 50 篇论文、26 条新闻。 来源包括：IT之家。",
+    "news": [
+      {
+        "title": "广汽传祺 E8 HEV+ 新车申报：7 座布局 MPV，轴距 3 米",
+        "link": "https://www.ithome.com/0/987/263.htm",
+        "description": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，广汽传祺 E8 HEV+ 完成申报。本次申报的车型为汽油 / 电混合动力多用途乘用车，不支持外接充电，车身采用承载式底盘结构。车身尺寸方面，新车长宽高分别为 5000 mm / 1900 mm / 1786 mm，轴距为 3000 mm，前轮距 1621 mm，后轮距 1636 mm，前悬 915 ",
+        "detail": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，广汽传祺 E8 HEV+ 完成申报。本次申报的车型为汽油 / 电混合动力多用途乘用车，不支持外接充电，车身采用承载式底盘结构。车身尺寸方面，新车长宽高分别为 5000 mm / 1900 mm / 1786 mm，轴距为 3000 mm，前轮距 1621 mm，后轮距 1636 mm，前悬 915 ",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "内存占用约 35MB：网友 AI 自制开源工具，避免华硕 RTX 5080 和 5090 显卡烧熔",
+        "link": "https://www.ithome.com/0/987/262.htm",
+        "description": "IT之家 8 月 8 日消息，科技媒体 NeoWin 昨日（8 月 7 日）发布博文，报道称网友在 AI 编程辅助下，针对华硕的 ROG Astral RTX 5090/5080 显卡，推出了一款开源工具，避免显卡出现过热烧熔情况。该开源工具名为 12VHPWR Guard，目前仅适用于华硕 ROG Astral RTX 5080 和 RTX 5090 显卡（主要原因是上述两张显卡配有传感器，可以",
+        "detail": "IT之家 8 月 8 日消息，科技媒体 NeoWin 昨日（8 月 7 日）发布博文，报道称网友在 AI 编程辅助下，针对华硕的 ROG Astral RTX 5090/5080 显卡，推出了一款开源工具，避免显卡出现过热烧熔情况。该开源工具名为 12VHPWR Guard，目前仅适用于华硕 ROG Astral RTX 5080 和 RTX 5090 显卡（主要原因是上述两张显卡配有传感器，可以",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "极氪 8X 新增曜夜套件：前格栅、车窗饰条等超 20 处熏黑处理，限时售价 5000 元",
+        "link": "https://www.ithome.com/0/987/261.htm",
+        "description": "IT之家 8 月 8 日消息，极氪官方今日表示，极氪 8X 正式上新曜夜套件，包括前格栅、车窗饰条、行李架、后扩散器等超 20 处熏黑处理，曜夜套件原价 12,000 元，限时售价 5,000 元。Max、Ultra 及 Ultra+ 三个版本全车色可选。此外，原来仅供极夜黑可选的曜夜套装，现也开放全车色可选。Max、Ultra 选装限时售价 20,000 元；Ultra+ 选装限时售价 10,0",
+        "detail": "IT之家 8 月 8 日消息，极氪官方今日表示，极氪 8X 正式上新曜夜套件，包括前格栅、车窗饰条、行李架、后扩散器等超 20 处熏黑处理，曜夜套件原价 12,000 元，限时售价 5,000 元。Max、Ultra 及 Ultra+ 三个版本全车色可选。此外，原来仅供极夜黑可选的曜夜套装，现也开放全车色可选。Max、Ultra 选装限时售价 20,000 元；Ultra+ 选装限时售价 10,0",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "发布 326 天，苹果 iOS 26 在 iPhone 11/iPad 9 等机型上迎来首次越狱",
+        "link": "https://www.ithome.com/0/987/260.htm",
+        "description": "IT之家 8 月 8 日消息，科技媒体 MacRumors 今天（8 月 8 日）发布博文，在 iOS 26 系统正式发布 326 天（2025 年 9 月 15 日发布）后，终于迎来了首次越狱，不过仅限于搭载 A12/A13 芯片机型。开发者 Lars Fröder（又名 opa334）今天发布了 Dopamine 3.0，该版本新增支持多个固件版本，包括搭载 A12 或 A13 芯片的设备上的",
+        "detail": "IT之家 8 月 8 日消息，科技媒体 MacRumors 今天（8 月 8 日）发布博文，在 iOS 26 系统正式发布 326 天（2025 年 9 月 15 日发布）后，终于迎来了首次越狱，不过仅限于搭载 A12/A13 芯片机型。开发者 Lars Fröder（又名 opa334）今天发布了 Dopamine 3.0，该版本新增支持多个固件版本，包括搭载 A12 或 A13 芯片的设备上的",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "华为鸿蒙电脑 HarmonyOS 7 花粉 Beta 版开启推送",
+        "link": "https://www.ithome.com/0/987/259.htm",
+        "description": "IT之家 8 月 8 日消息，今日，华为鸿蒙电脑 HarmonyOS 7 花粉 Beta 版开启推送，版本号为 7.0.0.102 SP5，安装包体积为 15.46 GB。据官方介绍，新版本为用户带来更精致的沉浸光感视效、更好用的小艺慧记，同时还在图库、备忘录、邮件等常用应用的使用方面新增诸多便捷、好用的新功能。IT之家附主要内容如下：沉浸光感新增全新视效，覆盖更多场景，例如鼠标悬浮 Dock 栏",
+        "detail": "IT之家 8 月 8 日消息，今日，华为鸿蒙电脑 HarmonyOS 7 花粉 Beta 版开启推送，版本号为 7.0.0.102 SP5，安装包体积为 15.46 GB。据官方介绍，新版本为用户带来更精致的沉浸光感视效、更好用的小艺慧记，同时还在图库、备忘录、邮件等常用应用的使用方面新增诸多便捷、好用的新功能。IT之家附主要内容如下：沉浸光感新增全新视效，覆盖更多场景，例如鼠标悬浮 Dock 栏",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "凯越 800X 硬汉摩托车上市：799cc 双缸水冷发动机、整备质量 194kg，4.28 万元",
+        "link": "https://www.ithome.com/0/987/257.htm",
+        "description": "IT之家 8 月 8 日消息，凯越机车今日宣布，800X 硬汉摩托车上市，售价 42,800 元。800X 硬汉有铁血黑和荣光白两种颜色可选，整备质量 194kg，座高 875mm、离地间隙 265mm、轴距 1540mm、转向角 35°；整车配件布局重新优化，重心下沉且聚拢，大幅削弱行驶颠簸与侧晃。新车搭载预载 / 阻尼可调 KYB 减震（前减震行程 240mm、后减震行程 230mm），采用钻",
+        "detail": "IT之家 8 月 8 日消息，凯越机车今日宣布，800X 硬汉摩托车上市，售价 42,800 元。800X 硬汉有铁血黑和荣光白两种颜色可选，整备质量 194kg，座高 875mm、离地间隙 265mm、轴距 1540mm、转向角 35°；整车配件布局重新优化，重心下沉且聚拢，大幅削弱行驶颠簸与侧晃。新车搭载预载 / 阻尼可调 KYB 减震（前减震行程 240mm、后减震行程 230mm），采用钻",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "Claude Code v2.1.224 现支持 AI 跨会话消息传递",
+        "link": "https://www.ithome.com/0/987/256.htm",
+        "description": "IT之家 8 月 8 日消息，Anthropic 旗下官方账号 @ClaudeDevs 今天（8 月 8 日）在 X 平台发布推文，宣布从 Claude Code v2.1.224 开始，会话之间可以互相发送消息。根据官方介绍，自该版本 Claude Code 开始，不同的会话可以互相发送消息，更新和其他相关信息，方便用户在多个会话中协同项目的各个部分。IT之家翻译官方文档介绍如下：跨会话消息传递",
+        "detail": "IT之家 8 月 8 日消息，Anthropic 旗下官方账号 @ClaudeDevs 今天（8 月 8 日）在 X 平台发布推文，宣布从 Claude Code v2.1.224 开始，会话之间可以互相发送消息。根据官方介绍，自该版本 Claude Code 开始，不同的会话可以互相发送消息，更新和其他相关信息，方便用户在多个会话中协同项目的各个部分。IT之家翻译官方文档介绍如下：跨会话消息传递",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "广汽传祺越 7 方盒子 SUV 内饰官图公布：一键纯平大床，1.1 米全景贯穿屏",
+        "link": "https://www.ithome.com/0/987/255.htm",
+        "description": "IT之家 8 月 8 日消息，8 月 7 日，广汽传祺越 7 启动先享计划，并宣布 9 月初开启预售。官方现已公布新车内饰及部分配置信息。IT之家从官方介绍获悉，传祺越 7 同级首创一键电动能伸懒腰的 1.9 米纯平大床，成床后容积 1860L；配备二排 170mm 超长电动滑轨，带来最大 1015mm 二排腿部空间。该车还搭载星河智舱，号称“最高等级 L3 智能座舱”，全球越野首搭 1.1 米全",
+        "detail": "IT之家 8 月 8 日消息，8 月 7 日，广汽传祺越 7 启动先享计划，并宣布 9 月初开启预售。官方现已公布新车内饰及部分配置信息。IT之家从官方介绍获悉，传祺越 7 同级首创一键电动能伸懒腰的 1.9 米纯平大床，成床后容积 1860L；配备二排 170mm 超长电动滑轨，带来最大 1015mm 二排腿部空间。该车还搭载星河智舱，号称“最高等级 L3 智能座舱”，全球越野首搭 1.1 米全",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "212 越野车 X03 新车申报：柴油动力硬派越野车型，可选拖挂",
+        "link": "https://www.ithome.com/0/987/254.htm",
+        "description": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，北京汽车制造厂二一二牌 212 X03 完成申报。这款车型为越野乘用车，采用柴油燃料，车身外形尺寸长 5095 mm、宽 2038 mm、高 1945 mm，轴距为 2950 mm，整备质量 2570 kg，总质量 3070 kg，额定载客（含驾驶员）座位数为 5 座。动力方面，该车搭载东风轻型发动",
+        "detail": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，北京汽车制造厂二一二牌 212 X03 完成申报。这款车型为越野乘用车，采用柴油燃料，车身外形尺寸长 5095 mm、宽 2038 mm、高 1945 mm，轴距为 2950 mm，整备质量 2570 kg，总质量 3070 kg，额定载客（含驾驶员）座位数为 5 座。动力方面，该车搭载东风轻型发动",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "降幅 10~15%：苹果美国扩充官翻 Mac、Apple Watch、Apple TV 4K 等产品",
+        "link": "https://www.ithome.com/0/987/253.htm",
+        "description": "IT之家 8 月 8 日消息，消息源 9to5Mac 昨日（8 月 7 日）发布博文，报道称苹果美国官网扩充翻新产品阵容，新增多款 Mac、Apple TV 4K、Studio Display XDR 显示器，以及部分 Apple Watch 和 iPhone 机型，降幅 10.01~ 15%。苹果称，翻新商品经过严格翻新流程，购买后仍享有 1 年有限保修、14 天退货政策，且可加购 AppleC",
+        "detail": "IT之家 8 月 8 日消息，消息源 9to5Mac 昨日（8 月 7 日）发布博文，报道称苹果美国官网扩充翻新产品阵容，新增多款 Mac、Apple TV 4K、Studio Display XDR 显示器，以及部分 Apple Watch 和 iPhone 机型，降幅 10.01~ 15%。苹果称，翻新商品经过严格翻新流程，购买后仍享有 1 年有限保修、14 天退货政策，且可加购 AppleC",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "微软宣布 Edge 浏览器将逐步取消 Manifest V2 扩展程序支持，影响广告拦截工具 uBlock Origin 等",
+        "link": "https://www.ithome.com/0/987/251.htm",
+        "description": "IT之家 8 月 8 日消息，当地时间 8 月 7 日，微软宣布，自 2026 年 8 月起，Edge 浏览器将启动面向普通消费者的过渡计划，逐步停止对 MV2 扩展的支持并全面转向 MV3。目标是在 2026 年底前完成面向普通用户的过渡，并于 2027 年初正式面向企业客户弃用 MV2。微软表示，Edge 浏览器的 Manifest Version 2（MV2）扩展程序正加速向 MV3 迁移，",
+        "detail": "IT之家 8 月 8 日消息，当地时间 8 月 7 日，微软宣布，自 2026 年 8 月起，Edge 浏览器将启动面向普通消费者的过渡计划，逐步停止对 MV2 扩展的支持并全面转向 MV3。目标是在 2026 年底前完成面向普通用户的过渡，并于 2027 年初正式面向企业客户弃用 MV2。微软表示，Edge 浏览器的 Manifest Version 2（MV2）扩展程序正加速向 MV3 迁移，",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "苹果庆祝“全国健身日”邀请 Apple Watch 用户今日挑战：健身 20+ 分钟解锁限量奖章",
+        "link": "https://www.ithome.com/0/987/250.htm",
+        "description": "IT之家 8 月 8 日消息，苹果公司为庆祝中国“全国健身日”，邀请 Apple Watch 用户参与今天（8 月 8 日）的健身活动挑战，记录至少 20 分钟的锻炼，即可获得限量版奖章。用户可以使用 Apple Watch 自带的「体能训练」App，或任何能够将运动数据记录至「健康」App 的第三方应用。完成挑战后，用户将获得：健身 App 中的专属虚拟奖章iOS 系统中的 4 款动态贴纸奖励I",
+        "detail": "IT之家 8 月 8 日消息，苹果公司为庆祝中国“全国健身日”，邀请 Apple Watch 用户参与今天（8 月 8 日）的健身活动挑战，记录至少 20 分钟的锻炼，即可获得限量版奖章。用户可以使用 Apple Watch 自带的「体能训练」App，或任何能够将运动数据记录至「健康」App 的第三方应用。完成挑战后，用户将获得：健身 App 中的专属虚拟奖章iOS 系统中的 4 款动态贴纸奖励I",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
+        "link": "https://www.ithome.com/0/987/249.htm",
+        "description": "IT之家 8 月 8 日消息，Anthropic 今天（8 月 8 日）发布公告，宣布将于 8 月 14 日开始，针对 Pro、Max 和 Team 订阅用户，调整 Claude Code 的默认权限模式为自动模式（Auto Mode）。IT之家援引博文介绍，自动模式是指 Claude Code 使用独立的 AI 分类器（classifier），实时评估每次工具调用和 Shell 命令，放行安全操",
+        "detail": "IT之家 8 月 8 日消息，Anthropic 今天（8 月 8 日）发布公告，宣布将于 8 月 14 日开始，针对 Pro、Max 和 Team 订阅用户，调整 Claude Code 的默认权限模式为自动模式（Auto Mode）。IT之家援引博文介绍，自动模式是指 Claude Code 使用独立的 AI 分类器（classifier），实时评估每次工具调用和 Shell 命令，放行安全操",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "狼蛛推出 BG 联名款 BOX63 磁轴键盘，899-999 元",
+        "link": "https://www.ithome.com/0/987/248.htm",
+        "description": "IT之家 8 月 8 日消息，狼蛛推出 BG 联名款 BOX63 磁轴键盘，将于 8 月 14 日 20:00 开售，售价 899 元起：标准版（下灯位、星耀磁轴）：899 元旗舰版（双灯位、黑曜磁轴）：999 元这款键盘采用全铝 CNC 精雕工艺，采用四层双面铺铜 PCB、碳纤维定位板；有深空灰、月光银、普罗旺斯紫、云上舞白四种配色可选。这款键盘采用硅胶豆软 Gasket 架构，支持 8K 回报",
+        "detail": "IT之家 8 月 8 日消息，狼蛛推出 BG 联名款 BOX63 磁轴键盘，将于 8 月 14 日 20:00 开售，售价 899 元起：标准版（下灯位、星耀磁轴）：899 元旗舰版（双灯位、黑曜磁轴）：999 元这款键盘采用全铝 CNC 精雕工艺，采用四层双面铺铜 PCB、碳纤维定位板；有深空灰、月光银、普罗旺斯紫、云上舞白四种配色可选。这款键盘采用硅胶豆软 Gasket 架构，支持 8K 回报",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "千问闪购首次上车，极狐阿尔法 T7 支持“一句话点奶茶”",
+        "link": "https://www.ithome.com/0/987/247.htm",
+        "description": "IT之家 8 月 8 日消息，极狐汽车 8 月 7 日宣布千问闪购首次上车，极狐阿尔法 T7 支持“一句话点奶茶”。根据官方此前预热，极狐阿尔法 T7 搭载 17.3 英寸同级最大 3K 中控屏 + 1.1m 同级唯一超宽全景 PHUD。除了与千问达成合作外，新车还有华为乾崑、宁德时代、麦格纳三重加持，将于 8 月 26 日开启预售。外观方面，该车搭载极狐首款 1700mm 一体式贯通大灯，支持远",
+        "detail": "IT之家 8 月 8 日消息，极狐汽车 8 月 7 日宣布千问闪购首次上车，极狐阿尔法 T7 支持“一句话点奶茶”。根据官方此前预热，极狐阿尔法 T7 搭载 17.3 英寸同级最大 3K 中控屏 + 1.1m 同级唯一超宽全景 PHUD。除了与千问达成合作外，新车还有华为乾崑、宁德时代、麦格纳三重加持，将于 8 月 26 日开启预售。外观方面，该车搭载极狐首款 1700mm 一体式贯通大灯，支持远",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "18 核 / 20 核英伟达 RTX Spark 笔记本跑分曝光：64GB 统一内存",
+        "link": "https://www.ithome.com/0/987/245.htm",
+        "description": "IT之家 8 月 8 日消息，科技媒体 Wccftech 昨日（8 月 7 日）发布博文，报道称在 GeekBench 7.0.0 跑分库中，发现了两款搭载英伟达 RTX Spark 处理器的笔记本电脑。IT之家援引博文介绍，本次现身跑分库的 2 款设备均配备 64GB 的统一内存：型号为“OEMQAJ 766_MIS Product Name DV”的设备搭载 20 核 CPU型号为“OEMQA",
+        "detail": "IT之家 8 月 8 日消息，科技媒体 Wccftech 昨日（8 月 7 日）发布博文，报道称在 GeekBench 7.0.0 跑分库中，发现了两款搭载英伟达 RTX Spark 处理器的笔记本电脑。IT之家援引博文介绍，本次现身跑分库的 2 款设备均配备 64GB 的统一内存：型号为“OEMQAJ 766_MIS Product Name DV”的设备搭载 20 核 CPU型号为“OEMQA",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "五菱代步车全球销量突破 300 万辆，MINIEV 卖出 195 万辆",
+        "link": "https://www.ithome.com/0/987/244.htm",
+        "description": "IT之家 8 月 8 日消息，8 月 7 日，在宏光 MINIEV 上市六周年之际，五菱宣布旗下代步车全球销量正式突破 300 万辆。据官方透露，从 2017 年 E100 诞生至今，五菱代步车累计销量突破 300 万辆。其中，宏光 MINIEV 蝉联 72 个月全球微型新能源销冠，六年累计销量突破 195 万辆；缤果家族卖出超 75 万辆。IT之家查询获悉，上汽通用五菱 7 月全球销量 1200",
+        "detail": "IT之家 8 月 8 日消息，8 月 7 日，在宏光 MINIEV 上市六周年之际，五菱宣布旗下代步车全球销量正式突破 300 万辆。据官方透露，从 2017 年 E100 诞生至今，五菱代步车累计销量突破 300 万辆。其中，宏光 MINIEV 蝉联 72 个月全球微型新能源销冠，六年累计销量突破 195 万辆；缤果家族卖出超 75 万辆。IT之家查询获悉，上汽通用五菱 7 月全球销量 1200",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "长安启源 Q06 个性改装版官宣即将上线：升级越野轮毂轮胎、定制宽体轮眉",
+        "link": "https://www.ithome.com/0/987/243.htm",
+        "description": "IT之家 8 月 8 日消息，长安启源昨日宣布，长安启源 Q06 个性改装版即将上线。根据预热海报，可以看到长安启源 Q06 个性改装版有以下特性：升级越野轮毂轮胎4 种车身高度，适应多路况定制宽体轮眉全车改色膜长安启源 Q06 车身尺寸为 4837mm×1970mm×1670mm，轴距 2940mm，定位中大型轿跑 SUV；基于长安 SDA 天枢架构打造，采用 800V 碳化硅超高压平台 + 6",
+        "detail": "IT之家 8 月 8 日消息，长安启源昨日宣布，长安启源 Q06 个性改装版即将上线。根据预热海报，可以看到长安启源 Q06 个性改装版有以下特性：升级越野轮毂轮胎4 种车身高度，适应多路况定制宽体轮眉全车改色膜长安启源 Q06 车身尺寸为 4837mm×1970mm×1670mm，轴距 2940mm，定位中大型轿跑 SUV；基于长安 SDA 天枢架构打造，采用 800V 碳化硅超高压平台 + 6",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "Cabletime 推出 ScreenDock：八合一扩展坞配 5.5 英寸 720P 屏幕",
+        "link": "https://www.ithome.com/0/987/242.htm",
+        "description": "IT之家 8 月 8 日消息，科技媒体 TechPowerUp 昨日（8 月 7 日）发布博文，报道称 Cabletime 在 Kickstarter 平台众筹推出 ScreenDock，定位是 8 合 1 USB-C 扩展坞，内置 5.5 英寸 720P 屏幕。在定位方面，ScreenDock 目标是缓解桌面空间不足问题，在扩展连接能力的同时提供一块独立显示区域。IT之家援引博文介绍，用户可以像",
+        "detail": "IT之家 8 月 8 日消息，科技媒体 TechPowerUp 昨日（8 月 7 日）发布博文，报道称 Cabletime 在 Kickstarter 平台众筹推出 ScreenDock，定位是 8 合 1 USB-C 扩展坞，内置 5.5 英寸 720P 屏幕。在定位方面，ScreenDock 目标是缓解桌面空间不足问题，在扩展连接能力的同时提供一块独立显示区域。IT之家援引博文介绍，用户可以像",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "18999 元：2026 款微星泰坦 18 笔记本新增“Ultra 9 275HX + RTX 5070Ti”版本，16GB+1TB",
+        "link": "https://www.ithome.com/0/987/241.htm",
+        "description": "IT之家 8 月 8 日消息，2026 款微星泰坦 18 笔记本新增“Ultra 9 275HX + RTX 5070Ti”版本，搭载 16GB DDR5 内存和 1TB 硬盘，售价 18999 元，将于 8 月 11 日 10:00 开售。该机搭载英特尔酷睿 Ultra 9 275HX 处理器（24 核 24 线程，至高睿频 5.4GHz）与英伟达 GeForce RTX 5070Ti 显卡（1",
+        "detail": "IT之家 8 月 8 日消息，2026 款微星泰坦 18 笔记本新增“Ultra 9 275HX + RTX 5070Ti”版本，搭载 16GB DDR5 内存和 1TB 硬盘，售价 18999 元，将于 8 月 11 日 10:00 开售。该机搭载英特尔酷睿 Ultra 9 275HX 处理器（24 核 24 线程，至高睿频 5.4GHz）与英伟达 GeForce RTX 5070Ti 显卡（1",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "全球首款 5K Mini LED 镜面双模式游戏显示器：微星 MPG 271KRAW18 被曝已无限期搁置",
+        "link": "https://www.ithome.com/0/987/239.htm",
+        "description": "IT之家 8 月 8 日消息，科技媒体 @TFTCentral 昨日（8 月 7 日）发布博文，报道称因“技术可行性”问题，微星（MSI）已“无限期”搁置 MPG 271KRAW18 27 英寸 5K Mini LED 游戏显示器。微星曾在 2026 年台北国际电脑展上展示这款 27 英寸 5K Mini LED 游戏显示器，声称是“全球首款 5K Mini-LED 镜面双模式游戏显示器”，原计划",
+        "detail": "IT之家 8 月 8 日消息，科技媒体 @TFTCentral 昨日（8 月 7 日）发布博文，报道称因“技术可行性”问题，微星（MSI）已“无限期”搁置 MPG 271KRAW18 27 英寸 5K Mini LED 游戏显示器。微星曾在 2026 年台北国际电脑展上展示这款 27 英寸 5K Mini LED 游戏显示器，声称是“全球首款 5K Mini-LED 镜面双模式游戏显示器”，原计划",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "2026 全球智能制造与电子产品博览会 12 月广州举办，特斯拉、蔚来、荣耀、OPPO、vivo 等参展",
+        "link": "https://www.ithome.com/0/987/238.htm",
+        "description": "IT之家 8 月 8 日消息，据央视新闻报道，8 月 7 日，2026 全球智能制造与电子产品博览会（AIE 电子展）新闻发布会在广州举行。据悉，本届博览会定于 12 月 3 日至 5 日举办，延续首届“一展双城”办展模式，锚定“中国智造首发平台”定位，聚焦人工智能全产业链，着力打造大湾区智能制造链接全球的重要窗口。本届博览会将在珠海、澳门两地同步开展。在首届展会基础上，第二届 AIE 电子展进一",
+        "detail": "IT之家 8 月 8 日消息，据央视新闻报道，8 月 7 日，2026 全球智能制造与电子产品博览会（AIE 电子展）新闻发布会在广州举行。据悉，本届博览会定于 12 月 3 日至 5 日举办，延续首届“一展双城”办展模式，锚定“中国智造首发平台”定位，聚焦人工智能全产业链，着力打造大湾区智能制造链接全球的重要窗口。本届博览会将在珠海、澳门两地同步开展。在首届展会基础上，第二届 AIE 电子展进一",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "英特尔人事调整：任命贾纳克为首席销售官，效力 27 年的恩斯离职",
+        "link": "https://www.ithome.com/0/987/237.htm",
+        "description": "IT之家 8 月 8 日消息，英特尔公司昨日（8 月 7 日）发布公告，任命迪恩 · 贾纳克（Dean Jarnac）为公司执行副总裁兼首席销售官，负责领导英特尔的全球销售团队，加强英特尔与客户的关系。英特尔首席执行官陈立武表示：英特尔战略和未来成功的核心，是始终以客户为中心，并高效推进各项措施落地。迪恩是一位经验丰富的领导者，拥有深厚的行业人脉和打造高效销售团队的卓越业绩。他以客户为先的理念、严",
+        "detail": "IT之家 8 月 8 日消息，英特尔公司昨日（8 月 7 日）发布公告，任命迪恩 · 贾纳克（Dean Jarnac）为公司执行副总裁兼首席销售官，负责领导英特尔的全球销售团队，加强英特尔与客户的关系。英特尔首席执行官陈立武表示：英特尔战略和未来成功的核心，是始终以客户为中心，并高效推进各项措施落地。迪恩是一位经验丰富的领导者，拥有深厚的行业人脉和打造高效销售团队的卓越业绩。他以客户为先的理念、严",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "长城魏牌全新高山 8 申报：前脸设计焕新，Hi4 混合动力",
+        "link": "https://www.ithome.com/0/987/236.htm",
+        "description": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，长城魏牌全新高山 8 Hi4 完成申报，前脸设计焕新。该车型为混合动力多用途乘用车，燃料种类为汽油 / 电混合动力，不允许外接充电。车身外形尺寸为长 5280 mm × 宽 1960 mm × 高 1900 mm，轴距为 3145 mm，额定载客（含驾驶员）座位数为 7 座。动力方面，该车搭载型号为",
+        "detail": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，长城魏牌全新高山 8 Hi4 完成申报，前脸设计焕新。该车型为混合动力多用途乘用车，燃料种类为汽油 / 电混合动力，不允许外接充电。车身外形尺寸为长 5280 mm × 宽 1960 mm × 高 1900 mm，轴距为 3145 mm，额定载客（含驾驶员）座位数为 7 座。动力方面，该车搭载型号为",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "1099 元：优派推出 27 英寸 2K 280Hz 显示器“VX27G23-2K-2”",
+        "link": "https://www.ithome.com/0/987/235.htm",
+        "description": "IT之家 8 月 8 日消息，优派 VX27G23-2K-2 显示器现已开售，售价 1099 元。这款显示器搭载了一块 27 英寸 2K（2560×1440）分辨率原生 280Hz 刷新率 FastIPS 屏幕，支持 10bit（8bit+FRC）色深，色域覆盖 97% DCI-P3、100% sRGB，色准 ΔE ≤ 2；采用硬件低蓝光技术，亮度 350nits。这款显示器内置多项游戏辅助功能：",
+        "detail": "IT之家 8 月 8 日消息，优派 VX27G23-2K-2 显示器现已开售，售价 1099 元。这款显示器搭载了一块 27 英寸 2K（2560×1440）分辨率原生 280Hz 刷新率 FastIPS 屏幕，支持 10bit（8bit+FRC）色深，色域覆盖 97% DCI-P3、100% sRGB，色准 ΔE ≤ 2；采用硬件低蓝光技术，亮度 350nits。这款显示器内置多项游戏辅助功能：",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "有望成诺兰执导的最高票房电影，《奥德赛》全球票房突破 10 亿美元",
+        "link": "https://www.ithome.com/0/987/234.htm",
+        "description": "IT之家 8 月 8 日消息，克里斯托弗 · 诺兰执导的史诗大片《奥德赛》全球票房已正式突破 10 亿美元（IT之家注：现汇率约合 67.63 亿元人民币）大关，成为诺兰导演生涯中第三部迈入“十亿俱乐部”的作品，同时也推动环球影业成为 2026 年度首家全球票房突破 40 亿美元（现汇率约合 270.54 亿元人民币）的电影公司。《奥德赛》全球票房最新超过 10 亿美元。全球开始上映三周（截至本周",
+        "detail": "IT之家 8 月 8 日消息，克里斯托弗 · 诺兰执导的史诗大片《奥德赛》全球票房已正式突破 10 亿美元（IT之家注：现汇率约合 67.63 亿元人民币）大关，成为诺兰导演生涯中第三部迈入“十亿俱乐部”的作品，同时也推动环球影业成为 2026 年度首家全球票房突破 40 亿美元（现汇率约合 270.54 亿元人民币）的电影公司。《奥德赛》全球票房最新超过 10 亿美元。全球开始上映三周（截至本周",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "The Nixpkgs core team has disbanded",
+        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+        "description": "[HN] +110 points · 40 comments · by Meleagris",
+        "detail": "[HN] +110 points · 40 comments · by Meleagris",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "Should AI labs be treated like the owners of dangerous animals?",
+        "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+        "description": "[HN] +36 points · 50 comments · by reasonableklout",
+        "detail": "[HN] +36 points · 50 comments · by reasonableklout",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+        "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+        "description": "[HN] +29 points · 1 comments · by wglb",
+        "detail": "[HN] +29 points · 1 comments · by wglb",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "I'm Pulling ColorCopy from the macOS App Store",
+        "link": "https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/",
+        "description": "[HN] +6 points · 1 comments · by claviska",
+        "detail": "[HN] +6 points · 1 comments · by claviska",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
+        "link": "https://arxiv.org/abs/2608.01492",
+        "description": "Selecting a complete 3D object from a reconstructed scene with minimal user effort is essential for practical scene editing and embodied interaction. Existing 3DGS-based methods either retrain the Gau",
+        "detail": "Selecting a complete 3D object from a reconstructed scene with minimal user effort is essential for practical scene editing and embodied interaction. Existing 3DGS-based methods either retrain the Gau",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
+        "link": "https://arxiv.org/abs/2608.01851",
+        "description": "Robot learning is splitting into two bets: policies that bake competence into frozen weights (vision-language-action, or VLA, models), and agents that write and refine their own executable skills as c",
+        "detail": "Robot learning is splitting into two bets: policies that bake competence into frozen weights (vision-language-action, or VLA, models), and agents that write and refine their own executable skills as c",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
+        "link": "https://arxiv.org/abs/2608.01049",
+        "description": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Arch",
+        "detail": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Arch",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
+        "link": "https://arxiv.org/abs/2608.05798",
+        "description": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce",
+        "detail": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
+        "link": "https://arxiv.org/abs/2608.05784",
+        "description": "Computer-use agents pay full frontier inference to re-derive routines their user has already performed, because an agent's memory today records what the user said, not what the user did. We compile pa",
+        "detail": "Computer-use agents pay full frontier inference to re-derive routines their user has already performed, because an agent's memory today records what the user said, not what the user did. We compile pa",
+        "tag": "学术论文",
+        "sort_score": 0
+      }
+    ]
+  },
+  {
     "date": "2026-08-07",
     "weekday": "星期五",
     "summary": "今日共收录 714 篇论文、74 条新闻。 来源包括：IT之家, 量子位, 雷锋网。",
