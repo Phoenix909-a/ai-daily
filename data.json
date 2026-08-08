@@ -2,8 +2,160 @@
   {
     "date": "2026-08-08",
     "weekday": "星期六",
-    "summary": "今日共收录 50 篇论文、26 条新闻。 来源包括：IT之家。",
+    "summary": "今日共收录 50 篇论文、45 条新闻。 来源包括：IT之家, 量子位。",
     "news": [
+      {
+        "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+        "link": "https://www.qbitai.com/2026/08/468398.html",
+        "description": "再花15亿美元买现成AI编程团队",
+        "detail": "再花15亿美元买现成AI编程团队",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+        "link": "https://www.qbitai.com/2026/08/468338.html",
+        "description": "啊，这真是个AI“失控”的夏天",
+        "detail": "啊，这真是个AI“失控”的夏天",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "《GTA 6》《NBA 2K27》在列，Take-Two 正研发 29 款游戏",
+        "link": "https://www.ithome.com/0/987/298.htm",
+        "description": "IT之家 8 月 8 日消息，在 2027 财年（2026 年 4 月 1 日至 2027 年 3 月 31 日）第 1 财季（2026 年 4 月 1 日 ~6 月 30 日）财报中，Take-Two Interactive 披露称目前正在开发 29 款游戏。本次披露的 29 款游戏主要由旗下 Rockstar Games、2K Games 和 Zynga 推进，前两家工作室覆盖主机、PC 和移",
+        "detail": "IT之家 8 月 8 日消息，在 2027 财年（2026 年 4 月 1 日至 2027 年 3 月 31 日）第 1 财季（2026 年 4 月 1 日 ~6 月 30 日）财报中，Take-Two Interactive 披露称目前正在开发 29 款游戏。本次披露的 29 款游戏主要由旗下 Rockstar Games、2K Games 和 Zynga 推进，前两家工作室覆盖主机、PC 和移",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "均配 48GB 统一内存：网友发帖称前东家计划销毁超 100 台苹果 M4 MacBook Pro",
+        "link": "https://www.ithome.com/0/987/297.htm",
+        "description": "IT之家 8 月 8 日消息，网友 u/ExtensionPut2939 昨日（8 月 7 日）在 Reddit 社区发帖，爆料称在全球内存极度短缺的背景下，其前雇主计划销毁超过 100 台 MacBook Pro。该网友此前供职于一家大型科技公司，在近期的裁员浪潮中，该公司决定关闭某个市场的办事处，因此决定销毁现存的计算机等相关资产。该网友指出这批规划销毁的设备超过 100 台，并非即将进入电子",
+        "detail": "IT之家 8 月 8 日消息，网友 u/ExtensionPut2939 昨日（8 月 7 日）在 Reddit 社区发帖，爆料称在全球内存极度短缺的背景下，其前雇主计划销毁超过 100 台 MacBook Pro。该网友此前供职于一家大型科技公司，在近期的裁员浪潮中，该公司决定关闭某个市场的办事处，因此决定销毁现存的计算机等相关资产。该网友指出这批规划销毁的设备超过 100 台，并非即将进入电子",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "Nothing CMF Clip Pro 耳夹耳机开售：充电盒搭载智能旋钮，549 元起",
+        "link": "https://www.ithome.com/0/987/295.htm",
+        "description": "IT之家 8 月 8 日消息，Nothing CMF Clip Pro 耳夹耳机今日正式开售，售价 549 元，礼盒版售价 599 元。CMF Clip Pro 耳夹耳机有黑色、白色、珊瑚橙三种颜色可选；单耳重 5.9 克，支持 IP54 级防尘防水；内置 10.8 毫米单线圈双磁路动圈单元，蓝牙 5.4 支持双设备连接，支持 LDAC、AAC 和 SBC 协议。CMF Clip Pro 耳夹耳机",
+        "detail": "IT之家 8 月 8 日消息，Nothing CMF Clip Pro 耳夹耳机今日正式开售，售价 549 元，礼盒版售价 599 元。CMF Clip Pro 耳夹耳机有黑色、白色、珊瑚橙三种颜色可选；单耳重 5.9 克，支持 IP54 级防尘防水；内置 10.8 毫米单线圈双磁路动圈单元，蓝牙 5.4 支持双设备连接，支持 LDAC、AAC 和 SBC 协议。CMF Clip Pro 耳夹耳机",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "小米 SU7 OTA 1.17 版本开启推送：新增多项泊车辅助等功能",
+        "link": "https://www.ithome.com/0/987/294.htm",
+        "description": "IT之家 8 月 8 日消息，小米汽车今日发布 OTA 1.17 版本，带来多项新增功能、多项体验优化，推送车型包含第一代、第二代 Xiaomi SU7，更新涵盖辅助驾驶、智能座舱两大维度。IT之家附主要更新内容如下：辅助驾驶（第一代 SU7 Pro &amp; Max、第二代 SU7 全系）泊车辅助新增画框泊车辅助功能，支持在无车位线的空地便捷泊车，只需在中控屏上拖动车位框，自定义目标位置后泊入",
+        "detail": "IT之家 8 月 8 日消息，小米汽车今日发布 OTA 1.17 版本，带来多项新增功能、多项体验优化，推送车型包含第一代、第二代 Xiaomi SU7，更新涵盖辅助驾驶、智能座舱两大维度。IT之家附主要更新内容如下：辅助驾驶（第一代 SU7 Pro &amp; Max、第二代 SU7 全系）泊车辅助新增画框泊车辅助功能，支持在无车位线的空地便捷泊车，只需在中控屏上拖动车位框，自定义目标位置后泊入",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "小米 SU7 Ultra OTA 1.17 版本开启推送：新增画框泊车辅助等功能",
+        "link": "https://www.ithome.com/0/987/281.htm",
+        "description": "IT之家 8 月 8 日消息，小米 SU7 Ultra 今日发布 OTA 1.17 版本，本次更新分为 辅助驾驶、智能座舱 两大维度，带来多项新增功能与体验优化，推送车型为小米 SU7 Ultra。IT之家附主要更新内容如下：辅助驾驶泊车辅助（新增）画框泊车辅助功能，支持在无车位线的空地便捷泊车，只需在中控屏上拖动车位框，自定义目标位置后泊入即可车头泊入辅助功能，支持在泊车辅助页面一键调转车头 /",
+        "detail": "IT之家 8 月 8 日消息，小米 SU7 Ultra 今日发布 OTA 1.17 版本，本次更新分为 辅助驾驶、智能座舱 两大维度，带来多项新增功能与体验优化，推送车型为小米 SU7 Ultra。IT之家附主要更新内容如下：辅助驾驶泊车辅助（新增）画框泊车辅助功能，支持在无车位线的空地便捷泊车，只需在中控屏上拖动车位框，自定义目标位置后泊入即可车头泊入辅助功能，支持在泊车辅助页面一键调转车头 /",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "小米汽车 YU7 OTA 1.17 版本开启推送：辅助驾驶、智能座舱迎来多项更新",
+        "link": "https://www.ithome.com/0/987/282.htm",
+        "description": "IT之家 8 月 8 日消息，小米汽车今日发布 OTA 1.17 版本，带来多项新增功能、多项体验优化，推送车型包含小米 YU7 全系列车型，更新分为辅助驾驶、智能座舱两大维度。IT之家附主要更新内容如下：辅助驾驶01 泊车辅助新增画框泊车辅助功能，支持在无车位线的空地便捷泊车，只需在中控屏上拖动车位框，自定义目标位置后泊入即可（注意不要在坑洼、河边、台阶等有高度差路面，以及悬空障碍物处放置画框车",
+        "detail": "IT之家 8 月 8 日消息，小米汽车今日发布 OTA 1.17 版本，带来多项新增功能、多项体验优化，推送车型包含小米 YU7 全系列车型，更新分为辅助驾驶、智能座舱两大维度。IT之家附主要更新内容如下：辅助驾驶01 泊车辅助新增画框泊车辅助功能，支持在无车位线的空地便捷泊车，只需在中控屏上拖动车位框，自定义目标位置后泊入即可（注意不要在坑洼、河边、台阶等有高度差路面，以及悬空障碍物处放置画框车",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "苹果官网曝光尼康新相机 Z70，支持 ProRes RAW 录制",
+        "link": "https://www.ithome.com/0/987/277.htm",
+        "description": "IT之家 8 月 8 日消息，苹果官网“Apple ProRes 和 ProRes RAW 授权产品”页面显示，尼康新相机 Z70 获得相应授权。IT之家注：由于尼康 Z7 II 等相机仅支持 ProRes Raw 外录，基本可以排除机型打错的情况。Nikon Rumors 今年 7 月爆料称，尼康有一款 APS-C（DX）新相机，当时报道称这可能是带有 RED 技术的迷你尼康 ZR 型号。根据爆",
+        "detail": "IT之家 8 月 8 日消息，苹果官网“Apple ProRes 和 ProRes RAW 授权产品”页面显示，尼康新相机 Z70 获得相应授权。IT之家注：由于尼康 Z7 II 等相机仅支持 ProRes Raw 外录，基本可以排除机型打错的情况。Nikon Rumors 今年 7 月爆料称，尼康有一款 APS-C（DX）新相机，当时报道称这可能是带有 RED 技术的迷你尼康 ZR 型号。根据爆",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "比亚迪腾势 Z9S 首批展车到店：预售 31.98 万元起，CLTC 纯电续航 1100km 全球第一",
+        "link": "https://www.ithome.com/0/987/275.htm",
+        "description": "IT之家 8 月 8 日消息，比亚迪腾势今日宣布腾势 Z9S 首批展车到店，该车于 8 月 3 日开启预售，价格为 31.98 万元起，标配天神之眼 5.0、第二代刀片电池等。IT之家整理门店如下：安徽：合肥包河汽车城腾势中心北京：北京北方瑞鹏腾势中心重庆：重庆汽博腾势中心福建：厦门建发宾腾腾势中心广东：广州天河腾势中心、深圳坪山总部腾势中心、深圳龙华腾势中心、佛山南海腾势中心、东莞寮步汽车城腾势",
+        "detail": "IT之家 8 月 8 日消息，比亚迪腾势今日宣布腾势 Z9S 首批展车到店，该车于 8 月 3 日开启预售，价格为 31.98 万元起，标配天神之眼 5.0、第二代刀片电池等。IT之家整理门店如下：安徽：合肥包河汽车城腾势中心北京：北京北方瑞鹏腾势中心重庆：重庆汽博腾势中心福建：厦门建发宾腾腾势中心广东：广州天河腾势中心、深圳坪山总部腾势中心、深圳龙华腾势中心、佛山南海腾势中心、东莞寮步汽车城腾势",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "微软预告 Win10/Win11 经典版 Outlook 更新：基于上下文 AI 解释用户选中文本",
+        "link": "https://www.ithome.com/0/987/274.htm",
+        "description": "IT之家 8 月 8 日消息，科技媒体 Windows Latest 昨日（8 月 7 日）发布博文，报道称面向 Windows 10、Windows 11 经典版 Outlook 应用，微软开始推送名为 Explain This 的 Copilot AI 功能。功能方面，用户打开邮件后，只需选中任意文本，Copilot 就会结合整封邮件的内容，给出贴切的上下文解释。微软在更新说明里写道，这项改进",
+        "detail": "IT之家 8 月 8 日消息，科技媒体 Windows Latest 昨日（8 月 7 日）发布博文，报道称面向 Windows 10、Windows 11 经典版 Outlook 应用，微软开始推送名为 Explain This 的 Copilot AI 功能。功能方面，用户打开邮件后，只需选中任意文本，Copilot 就会结合整封邮件的内容，给出贴切的上下文解释。微软在更新说明里写道，这项改进",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "蔚来第五代换电站在北上广深投运，firefly 萤火虫正式接入",
+        "link": "https://www.ithome.com/0/987/273.htm",
+        "description": "IT之家 8 月 8 日消息，8 月 7 日，蔚来首批第五代换电站在北京、上海、广州、苏州、合肥、成都、泉州七座城市投入运营，蔚来第 4,000 座换电站暨首座第五代换电站在福建泉州侨乡体育馆落成，firefly 萤火虫正式接入蔚来换电体系。首批投入运营第五代换电站：NO.4000 蔚来换电站 | 泉州侨乡体育馆NO.4001 蔚来换电站 | 广州琶洲会展中心NO.4002 蔚来换电站 | 北京四",
+        "detail": "IT之家 8 月 8 日消息，8 月 7 日，蔚来首批第五代换电站在北京、上海、广州、苏州、合肥、成都、泉州七座城市投入运营，蔚来第 4,000 座换电站暨首座第五代换电站在福建泉州侨乡体育馆落成，firefly 萤火虫正式接入蔚来换电体系。首批投入运营第五代换电站：NO.4000 蔚来换电站 | 泉州侨乡体育馆NO.4001 蔚来换电站 | 广州琶洲会展中心NO.4002 蔚来换电站 | 北京四",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "乘联分会崔东树：2026 年 7 月中国汽车出口 109 万辆，同比增长 57%",
+        "link": "https://www.ithome.com/0/987/272.htm",
+        "description": "IT之家 8 月 8 日消息，乘联分会秘书长崔东树昨日发文，2026 年 1-7 月汽车出口 640 万台，同比大增 54%，大幅甩开往年同期水平。其中 7 月出口 109.2 万台，同比增长 57%，环比增长 2%。2026 年 1-7 月汽车出口总额 1,108 亿美元（IT之家注：现汇率约合 7,489.72 亿元人民币），同比大增 55%；7 月汽车整车出口 190 亿美元（现汇率约合 1",
+        "detail": "IT之家 8 月 8 日消息，乘联分会秘书长崔东树昨日发文，2026 年 1-7 月汽车出口 640 万台，同比大增 54%，大幅甩开往年同期水平。其中 7 月出口 109.2 万台，同比增长 57%，环比增长 2%。2026 年 1-7 月汽车出口总额 1,108 亿美元（IT之家注：现汇率约合 7,489.72 亿元人民币），同比大增 55%；7 月汽车整车出口 190 亿美元（现汇率约合 1",
+        "tag": "商业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "微软 Win10/Win11 新版 Outlook 收件箱塞入 Copilot，AI 摘要过去 8 小时邮件",
+        "link": "https://www.ithome.com/0/987/271.htm",
+        "description": "IT之家 8 月 8 日消息，科技媒体 Windows Latest 昨日（8 月 7 日）发布博文，报道称针对 Windows 10、Windows 11 平台新版 Outlook，微软计划引入“每日小结”（Wrap up your day） AI 功能。产品布局方面，该媒体指出微软通过该功能，进一步扩充 Copilot 入口，将其整合到收件箱场景中。在 Windows 10、Windows 1",
+        "detail": "IT之家 8 月 8 日消息，科技媒体 Windows Latest 昨日（8 月 7 日）发布博文，报道称针对 Windows 10、Windows 11 平台新版 Outlook，微软计划引入“每日小结”（Wrap up your day） AI 功能。产品布局方面，该媒体指出微软通过该功能，进一步扩充 Copilot 入口，将其整合到收件箱场景中。在 Windows 10、Windows 1",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "影响约 245 款：戴尔公布 7 月 Win11 更新兼容事件受影响机型",
+        "link": "https://www.ithome.com/0/987/269.htm",
+        "description": "IT之家 8 月 8 日消息，科技媒体 Windows Latest 昨日（8 月 7 日）发布博文，报道称戴尔公司最新公布了“7 月 Windows 11 更新兼容性”事件受影响清单，波及约 245 款戴尔设备。本次 Windows 11 更新兼容性事件，可以追溯到微软 6 月 23 日发布的 Windows 11 可选更新 KB5095093，并在 7 月 14 日发布的 KB5101650 ",
+        "detail": "IT之家 8 月 8 日消息，科技媒体 Windows Latest 昨日（8 月 7 日）发布博文，报道称戴尔公司最新公布了“7 月 Windows 11 更新兼容性”事件受影响清单，波及约 245 款戴尔设备。本次 Windows 11 更新兼容性事件，可以追溯到微软 6 月 23 日发布的 Windows 11 可选更新 KB5095093，并在 7 月 14 日发布的 KB5101650 ",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "2027 款比亚迪海豹 06 官宣 8 月 11 日上市，定位“B 级满配家轿”",
+        "link": "https://www.ithome.com/0/987/268.htm",
+        "description": "IT之家 8 月 8 日消息，今日，比亚迪汽车海洋网销售事业部总经理张卓发布了海豹 06 预热视频，新车将于 8 月 11 日 19:30 在深圳上市，定位“B 级满配家轿”。视频显示，新车采用全新海洋美学，配备逐浪星河大灯，搭载天神之眼 B-辅助驾驶激光版，全新贯穿式尾灯，DM-i 和 EV 动力全都有。此外，该车拥有 2820mm 超长轴距，提供极汐绿、亚特兰蒂斯灰、云海灰、暖阳白、雪域白等车",
+        "detail": "IT之家 8 月 8 日消息，今日，比亚迪汽车海洋网销售事业部总经理张卓发布了海豹 06 预热视频，新车将于 8 月 11 日 19:30 在深圳上市，定位“B 级满配家轿”。视频显示，新车采用全新海洋美学，配备逐浪星河大灯，搭载天神之眼 B-辅助驾驶激光版，全新贯穿式尾灯，DM-i 和 EV 动力全都有。此外，该车拥有 2820mm 超长轴距，提供极汐绿、亚特兰蒂斯灰、云海灰、暖阳白、雪域白等车",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "消息称小米平板 9/9 Pro 搭载 11.2 英寸 LCD 超高刷大屏、骁龙 8 系平台",
+        "link": "https://www.ithome.com/0/987/267.htm",
+        "description": "IT之家 8 月 8 日消息，博主 @数码闲聊站 今日爆料，小米平板 9/9 Pro 屏幕物理尺寸为 11.16 英寸，大概率是一块标称 11.2 英寸 3.2K LCD 超高刷大屏，电池是 9720mAh，标准版支持 45W 快充，Pro 版支持 67W 快充，骁龙 8 系平台，主打长续航影音体验。IT之家注意到，小米有一款型号为 M656BA 的平板电脑于 7 月 17 日通过国家 3C 认证",
+        "detail": "IT之家 8 月 8 日消息，博主 @数码闲聊站 今日爆料，小米平板 9/9 Pro 屏幕物理尺寸为 11.16 英寸，大概率是一块标称 11.2 英寸 3.2K LCD 超高刷大屏，电池是 9720mAh，标准版支持 45W 快充，Pro 版支持 67W 快充，骁龙 8 系平台，主打长续航影音体验。IT之家注意到，小米有一款型号为 M656BA 的平板电脑于 7 月 17 日通过国家 3C 认证",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "消息称英伟达拟向“星际之门”项目电力服务商 Lancium 投资至多 30 亿美元",
+        "link": "https://www.ithome.com/0/987/266.htm",
+        "description": "IT之家 8 月 8 日消息，据 The Information 消息，英伟达拟向电力基础设施开发商 Lancium 投资至多 30 亿美元（现汇率约合 202.79 亿元人民币）。Lancium 是由黑石集团支持的电力基础设施企业，其位于得克萨斯州阿比林的“清洁园区”（Clean Campus）正是“星际之门”（Stargate）AI 超算数据中心项目首期所在地。“星际之门”是由软银、OpenA",
+        "detail": "IT之家 8 月 8 日消息，据 The Information 消息，英伟达拟向电力基础设施开发商 Lancium 投资至多 30 亿美元（现汇率约合 202.79 亿元人民币）。Lancium 是由黑石集团支持的电力基础设施企业，其位于得克萨斯州阿比林的“清洁园区”（Clean Campus）正是“星际之门”（Stargate）AI 超算数据中心项目首期所在地。“星际之门”是由软银、OpenA",
+        "tag": "投融资",
+        "sort_score": 70
+      },
+      {
+        "title": "网友反馈 2022 年购买的《指环王》电影从片库消失，谷歌回应无法退款",
+        "link": "https://www.ithome.com/0/987/265.htm",
+        "description": "IT之家 8 月 8 日消息，网友 u/ugoindownsaka1 在 Reddit 社区发帖，声称其于 2022 年从 Google Play 购买了《指环王》三部曲电影，但近期重温观看时发现相关片源已从其片库中消失。该网友在 Reddit 社区分享了他和谷歌的客服聊天记录，客服表示由于购买时间太久，超过了公司标准的 120 天退款期限，且系统无法追溯交易历史，因此无法退款。该用户随后询问，在",
+        "detail": "IT之家 8 月 8 日消息，网友 u/ugoindownsaka1 在 Reddit 社区发帖，声称其于 2022 年从 Google Play 购买了《指环王》三部曲电影，但近期重温观看时发现相关片源已从其片库中消失。该网友在 Reddit 社区分享了他和谷歌的客服聊天记录，客服表示由于购买时间太久，超过了公司标准的 120 天退款期限，且系统无法追溯交易历史，因此无法退款。该用户随后询问，在",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
       {
         "title": "广汽传祺 E8 HEV+ 新车申报：7 座布局 MPV，轴距 3 米",
         "link": "https://www.ithome.com/0/987/263.htm",
@@ -131,158 +283,6 @@
         "detail": "IT之家 8 月 8 日消息，科技媒体 Wccftech 昨日（8 月 7 日）发布博文，报道称在 GeekBench 7.0.0 跑分库中，发现了两款搭载英伟达 RTX Spark 处理器的笔记本电脑。IT之家援引博文介绍，本次现身跑分库的 2 款设备均配备 64GB 的统一内存：型号为“OEMQAJ 766_MIS Product Name DV”的设备搭载 20 核 CPU型号为“OEMQA",
         "tag": "行业动态",
         "sort_score": 70
-      },
-      {
-        "title": "五菱代步车全球销量突破 300 万辆，MINIEV 卖出 195 万辆",
-        "link": "https://www.ithome.com/0/987/244.htm",
-        "description": "IT之家 8 月 8 日消息，8 月 7 日，在宏光 MINIEV 上市六周年之际，五菱宣布旗下代步车全球销量正式突破 300 万辆。据官方透露，从 2017 年 E100 诞生至今，五菱代步车累计销量突破 300 万辆。其中，宏光 MINIEV 蝉联 72 个月全球微型新能源销冠，六年累计销量突破 195 万辆；缤果家族卖出超 75 万辆。IT之家查询获悉，上汽通用五菱 7 月全球销量 1200",
-        "detail": "IT之家 8 月 8 日消息，8 月 7 日，在宏光 MINIEV 上市六周年之际，五菱宣布旗下代步车全球销量正式突破 300 万辆。据官方透露，从 2017 年 E100 诞生至今，五菱代步车累计销量突破 300 万辆。其中，宏光 MINIEV 蝉联 72 个月全球微型新能源销冠，六年累计销量突破 195 万辆；缤果家族卖出超 75 万辆。IT之家查询获悉，上汽通用五菱 7 月全球销量 1200",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "长安启源 Q06 个性改装版官宣即将上线：升级越野轮毂轮胎、定制宽体轮眉",
-        "link": "https://www.ithome.com/0/987/243.htm",
-        "description": "IT之家 8 月 8 日消息，长安启源昨日宣布，长安启源 Q06 个性改装版即将上线。根据预热海报，可以看到长安启源 Q06 个性改装版有以下特性：升级越野轮毂轮胎4 种车身高度，适应多路况定制宽体轮眉全车改色膜长安启源 Q06 车身尺寸为 4837mm×1970mm×1670mm，轴距 2940mm，定位中大型轿跑 SUV；基于长安 SDA 天枢架构打造，采用 800V 碳化硅超高压平台 + 6",
-        "detail": "IT之家 8 月 8 日消息，长安启源昨日宣布，长安启源 Q06 个性改装版即将上线。根据预热海报，可以看到长安启源 Q06 个性改装版有以下特性：升级越野轮毂轮胎4 种车身高度，适应多路况定制宽体轮眉全车改色膜长安启源 Q06 车身尺寸为 4837mm×1970mm×1670mm，轴距 2940mm，定位中大型轿跑 SUV；基于长安 SDA 天枢架构打造，采用 800V 碳化硅超高压平台 + 6",
-        "tag": "产品发布",
-        "sort_score": 70
-      },
-      {
-        "title": "Cabletime 推出 ScreenDock：八合一扩展坞配 5.5 英寸 720P 屏幕",
-        "link": "https://www.ithome.com/0/987/242.htm",
-        "description": "IT之家 8 月 8 日消息，科技媒体 TechPowerUp 昨日（8 月 7 日）发布博文，报道称 Cabletime 在 Kickstarter 平台众筹推出 ScreenDock，定位是 8 合 1 USB-C 扩展坞，内置 5.5 英寸 720P 屏幕。在定位方面，ScreenDock 目标是缓解桌面空间不足问题，在扩展连接能力的同时提供一块独立显示区域。IT之家援引博文介绍，用户可以像",
-        "detail": "IT之家 8 月 8 日消息，科技媒体 TechPowerUp 昨日（8 月 7 日）发布博文，报道称 Cabletime 在 Kickstarter 平台众筹推出 ScreenDock，定位是 8 合 1 USB-C 扩展坞，内置 5.5 英寸 720P 屏幕。在定位方面，ScreenDock 目标是缓解桌面空间不足问题，在扩展连接能力的同时提供一块独立显示区域。IT之家援引博文介绍，用户可以像",
-        "tag": "产品发布",
-        "sort_score": 70
-      },
-      {
-        "title": "18999 元：2026 款微星泰坦 18 笔记本新增“Ultra 9 275HX + RTX 5070Ti”版本，16GB+1TB",
-        "link": "https://www.ithome.com/0/987/241.htm",
-        "description": "IT之家 8 月 8 日消息，2026 款微星泰坦 18 笔记本新增“Ultra 9 275HX + RTX 5070Ti”版本，搭载 16GB DDR5 内存和 1TB 硬盘，售价 18999 元，将于 8 月 11 日 10:00 开售。该机搭载英特尔酷睿 Ultra 9 275HX 处理器（24 核 24 线程，至高睿频 5.4GHz）与英伟达 GeForce RTX 5070Ti 显卡（1",
-        "detail": "IT之家 8 月 8 日消息，2026 款微星泰坦 18 笔记本新增“Ultra 9 275HX + RTX 5070Ti”版本，搭载 16GB DDR5 内存和 1TB 硬盘，售价 18999 元，将于 8 月 11 日 10:00 开售。该机搭载英特尔酷睿 Ultra 9 275HX 处理器（24 核 24 线程，至高睿频 5.4GHz）与英伟达 GeForce RTX 5070Ti 显卡（1",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "全球首款 5K Mini LED 镜面双模式游戏显示器：微星 MPG 271KRAW18 被曝已无限期搁置",
-        "link": "https://www.ithome.com/0/987/239.htm",
-        "description": "IT之家 8 月 8 日消息，科技媒体 @TFTCentral 昨日（8 月 7 日）发布博文，报道称因“技术可行性”问题，微星（MSI）已“无限期”搁置 MPG 271KRAW18 27 英寸 5K Mini LED 游戏显示器。微星曾在 2026 年台北国际电脑展上展示这款 27 英寸 5K Mini LED 游戏显示器，声称是“全球首款 5K Mini-LED 镜面双模式游戏显示器”，原计划",
-        "detail": "IT之家 8 月 8 日消息，科技媒体 @TFTCentral 昨日（8 月 7 日）发布博文，报道称因“技术可行性”问题，微星（MSI）已“无限期”搁置 MPG 271KRAW18 27 英寸 5K Mini LED 游戏显示器。微星曾在 2026 年台北国际电脑展上展示这款 27 英寸 5K Mini LED 游戏显示器，声称是“全球首款 5K Mini-LED 镜面双模式游戏显示器”，原计划",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "2026 全球智能制造与电子产品博览会 12 月广州举办，特斯拉、蔚来、荣耀、OPPO、vivo 等参展",
-        "link": "https://www.ithome.com/0/987/238.htm",
-        "description": "IT之家 8 月 8 日消息，据央视新闻报道，8 月 7 日，2026 全球智能制造与电子产品博览会（AIE 电子展）新闻发布会在广州举行。据悉，本届博览会定于 12 月 3 日至 5 日举办，延续首届“一展双城”办展模式，锚定“中国智造首发平台”定位，聚焦人工智能全产业链，着力打造大湾区智能制造链接全球的重要窗口。本届博览会将在珠海、澳门两地同步开展。在首届展会基础上，第二届 AIE 电子展进一",
-        "detail": "IT之家 8 月 8 日消息，据央视新闻报道，8 月 7 日，2026 全球智能制造与电子产品博览会（AIE 电子展）新闻发布会在广州举行。据悉，本届博览会定于 12 月 3 日至 5 日举办，延续首届“一展双城”办展模式，锚定“中国智造首发平台”定位，聚焦人工智能全产业链，着力打造大湾区智能制造链接全球的重要窗口。本届博览会将在珠海、澳门两地同步开展。在首届展会基础上，第二届 AIE 电子展进一",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "英特尔人事调整：任命贾纳克为首席销售官，效力 27 年的恩斯离职",
-        "link": "https://www.ithome.com/0/987/237.htm",
-        "description": "IT之家 8 月 8 日消息，英特尔公司昨日（8 月 7 日）发布公告，任命迪恩 · 贾纳克（Dean Jarnac）为公司执行副总裁兼首席销售官，负责领导英特尔的全球销售团队，加强英特尔与客户的关系。英特尔首席执行官陈立武表示：英特尔战略和未来成功的核心，是始终以客户为中心，并高效推进各项措施落地。迪恩是一位经验丰富的领导者，拥有深厚的行业人脉和打造高效销售团队的卓越业绩。他以客户为先的理念、严",
-        "detail": "IT之家 8 月 8 日消息，英特尔公司昨日（8 月 7 日）发布公告，任命迪恩 · 贾纳克（Dean Jarnac）为公司执行副总裁兼首席销售官，负责领导英特尔的全球销售团队，加强英特尔与客户的关系。英特尔首席执行官陈立武表示：英特尔战略和未来成功的核心，是始终以客户为中心，并高效推进各项措施落地。迪恩是一位经验丰富的领导者，拥有深厚的行业人脉和打造高效销售团队的卓越业绩。他以客户为先的理念、严",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "长城魏牌全新高山 8 申报：前脸设计焕新，Hi4 混合动力",
-        "link": "https://www.ithome.com/0/987/236.htm",
-        "description": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，长城魏牌全新高山 8 Hi4 完成申报，前脸设计焕新。该车型为混合动力多用途乘用车，燃料种类为汽油 / 电混合动力，不允许外接充电。车身外形尺寸为长 5280 mm × 宽 1960 mm × 高 1900 mm，轴距为 3145 mm，额定载客（含驾驶员）座位数为 7 座。动力方面，该车搭载型号为",
-        "detail": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，长城魏牌全新高山 8 Hi4 完成申报，前脸设计焕新。该车型为混合动力多用途乘用车，燃料种类为汽油 / 电混合动力，不允许外接充电。车身外形尺寸为长 5280 mm × 宽 1960 mm × 高 1900 mm，轴距为 3145 mm，额定载客（含驾驶员）座位数为 7 座。动力方面，该车搭载型号为",
-        "tag": "产品发布",
-        "sort_score": 70
-      },
-      {
-        "title": "1099 元：优派推出 27 英寸 2K 280Hz 显示器“VX27G23-2K-2”",
-        "link": "https://www.ithome.com/0/987/235.htm",
-        "description": "IT之家 8 月 8 日消息，优派 VX27G23-2K-2 显示器现已开售，售价 1099 元。这款显示器搭载了一块 27 英寸 2K（2560×1440）分辨率原生 280Hz 刷新率 FastIPS 屏幕，支持 10bit（8bit+FRC）色深，色域覆盖 97% DCI-P3、100% sRGB，色准 ΔE ≤ 2；采用硬件低蓝光技术，亮度 350nits。这款显示器内置多项游戏辅助功能：",
-        "detail": "IT之家 8 月 8 日消息，优派 VX27G23-2K-2 显示器现已开售，售价 1099 元。这款显示器搭载了一块 27 英寸 2K（2560×1440）分辨率原生 280Hz 刷新率 FastIPS 屏幕，支持 10bit（8bit+FRC）色深，色域覆盖 97% DCI-P3、100% sRGB，色准 ΔE ≤ 2；采用硬件低蓝光技术，亮度 350nits。这款显示器内置多项游戏辅助功能：",
-        "tag": "产品发布",
-        "sort_score": 70
-      },
-      {
-        "title": "有望成诺兰执导的最高票房电影，《奥德赛》全球票房突破 10 亿美元",
-        "link": "https://www.ithome.com/0/987/234.htm",
-        "description": "IT之家 8 月 8 日消息，克里斯托弗 · 诺兰执导的史诗大片《奥德赛》全球票房已正式突破 10 亿美元（IT之家注：现汇率约合 67.63 亿元人民币）大关，成为诺兰导演生涯中第三部迈入“十亿俱乐部”的作品，同时也推动环球影业成为 2026 年度首家全球票房突破 40 亿美元（现汇率约合 270.54 亿元人民币）的电影公司。《奥德赛》全球票房最新超过 10 亿美元。全球开始上映三周（截至本周",
-        "detail": "IT之家 8 月 8 日消息，克里斯托弗 · 诺兰执导的史诗大片《奥德赛》全球票房已正式突破 10 亿美元（IT之家注：现汇率约合 67.63 亿元人民币）大关，成为诺兰导演生涯中第三部迈入“十亿俱乐部”的作品，同时也推动环球影业成为 2026 年度首家全球票房突破 40 亿美元（现汇率约合 270.54 亿元人民币）的电影公司。《奥德赛》全球票房最新超过 10 亿美元。全球开始上映三周（截至本周",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "The Nixpkgs core team has disbanded",
-        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-        "description": "[HN] +110 points · 40 comments · by Meleagris",
-        "detail": "[HN] +110 points · 40 comments · by Meleagris",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "Should AI labs be treated like the owners of dangerous animals?",
-        "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-        "description": "[HN] +36 points · 50 comments · by reasonableklout",
-        "detail": "[HN] +36 points · 50 comments · by reasonableklout",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
-        "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-        "description": "[HN] +29 points · 1 comments · by wglb",
-        "detail": "[HN] +29 points · 1 comments · by wglb",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "I'm Pulling ColorCopy from the macOS App Store",
-        "link": "https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/",
-        "description": "[HN] +6 points · 1 comments · by claviska",
-        "detail": "[HN] +6 points · 1 comments · by claviska",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
-        "link": "https://arxiv.org/abs/2608.01492",
-        "description": "Selecting a complete 3D object from a reconstructed scene with minimal user effort is essential for practical scene editing and embodied interaction. Existing 3DGS-based methods either retrain the Gau",
-        "detail": "Selecting a complete 3D object from a reconstructed scene with minimal user effort is essential for practical scene editing and embodied interaction. Existing 3DGS-based methods either retrain the Gau",
-        "tag": "学术论文",
-        "sort_score": 0
-      },
-      {
-        "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
-        "link": "https://arxiv.org/abs/2608.01851",
-        "description": "Robot learning is splitting into two bets: policies that bake competence into frozen weights (vision-language-action, or VLA, models), and agents that write and refine their own executable skills as c",
-        "detail": "Robot learning is splitting into two bets: policies that bake competence into frozen weights (vision-language-action, or VLA, models), and agents that write and refine their own executable skills as c",
-        "tag": "学术论文",
-        "sort_score": 0
-      },
-      {
-        "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
-        "link": "https://arxiv.org/abs/2608.01049",
-        "description": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Arch",
-        "detail": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Arch",
-        "tag": "学术论文",
-        "sort_score": 0
-      },
-      {
-        "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
-        "link": "https://arxiv.org/abs/2608.05798",
-        "description": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce",
-        "detail": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce",
-        "tag": "学术论文",
-        "sort_score": 0
-      },
-      {
-        "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
-        "link": "https://arxiv.org/abs/2608.05784",
-        "description": "Computer-use agents pay full frontier inference to re-derive routines their user has already performed, because an agent's memory today records what the user said, not what the user did. We compile pa",
-        "detail": "Computer-use agents pay full frontier inference to re-derive routines their user has already performed, because an agent's memory today records what the user said, not what the user did. We compile pa",
-        "tag": "学术论文",
-        "sort_score": 0
       }
     ]
   },
