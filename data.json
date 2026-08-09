@@ -2,8 +2,88 @@
   {
     "date": "2026-08-09",
     "weekday": "星期日",
-    "summary": "今日共收录 50 篇论文、23 条新闻。 来源包括：IT之家。",
+    "summary": "今日共收录 50 篇论文、33 条新闻。 来源包括：IT之家, 量子位。",
     "news": [
+      {
+        "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+        "link": "https://www.qbitai.com/2026/08/468766.html",
+        "description": "据说GPT-5.6很适合拿来做游戏",
+        "detail": "据说GPT-5.6很适合拿来做游戏",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+        "link": "https://www.qbitai.com/2026/08/468715.html",
+        "description": "谷歌缓兵之计把人留下",
+        "detail": "谷歌缓兵之计把人留下",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "星舰第 13 次试飞上面级溅落后保持完整，但马斯克称回收情况不乐观",
+        "link": "https://www.ithome.com/0/987/536.htm",
+        "description": "IT之家 8 月 9 日消息，看来，星舰为期两周的海上之旅可能不会迎来一个圆满结局。SpaceX 这款巨型火箭于 7 月 24 日进行了第 13 次试飞，从公司位于得克萨斯州南部的 Starbase 基地升空。此次试飞整体表现相当不错，尤其是星舰高达 171 英尺（约 52 米）的上面级飞船“Ship”。它按照计划在澳大利亚西部外海的印度洋海域溅落。更令人意外的是，Ship 首次在溅落后成功保持完",
+        "detail": "IT之家 8 月 9 日消息，看来，星舰为期两周的海上之旅可能不会迎来一个圆满结局。SpaceX 这款巨型火箭于 7 月 24 日进行了第 13 次试飞，从公司位于得克萨斯州南部的 Starbase 基地升空。此次试飞整体表现相当不错，尤其是星舰高达 171 英尺（约 52 米）的上面级飞船“Ship”。它按照计划在澳大利亚西部外海的印度洋海域溅落。更令人意外的是，Ship 首次在溅落后成功保持完",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "首个全国产 10 万卡 AI 超集群投用：每秒峰值算力相当全人类持续计算 200 年",
+        "link": "https://www.ithome.com/0/987/535.htm",
+        "description": "IT之家 8 月 9 日消息，据央视新闻今日报道，记者从国家发展改革委了解到，今年以来，我国算力底座进一步夯实，首个全国产 10 万卡人工智能超集群日前正式投用。标志着我国算力基础设施建设迈入 10 万卡级部署新阶段。报道提到，全国多个算力节点迎来新一轮算力扩容。在国家超算互联网郑州核心节点，首个全国产 10 万卡人工智能超集群投入运行。工作人员告诉记者，这里的特别之处在于，科学计算加智能计算的融",
+        "detail": "IT之家 8 月 9 日消息，据央视新闻今日报道，记者从国家发展改革委了解到，今年以来，我国算力底座进一步夯实，首个全国产 10 万卡人工智能超集群日前正式投用。标志着我国算力基础设施建设迈入 10 万卡级部署新阶段。报道提到，全国多个算力节点迎来新一轮算力扩容。在国家超算互联网郑州核心节点，首个全国产 10 万卡人工智能超集群投入运行。工作人员告诉记者，这里的特别之处在于，科学计算加智能计算的融",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "马斯克：SpaceX 将在月球建造工厂，一定会实现",
+        "link": "https://www.ithome.com/0/987/534.htm",
+        "description": "IT之家 8 月 9 日消息，一如既往，SpaceX 的目标依然十分宏大。SpaceX 计划未来在月球上建设工厂，并利用机器人承担大量繁重工作。埃隆 · 马斯克在周二（8 月 4 日）举行的 SpaceX 首次季度财报电话会上表示了这一计划。马斯克说：“我们会向月球运送大量物资。我们会在月球上建造工厂，而机器人将对此提供很大帮助。”这并不是 SpaceX 首次提出这一愿景。马斯克今年 2 月在一篇",
+        "detail": "IT之家 8 月 9 日消息，一如既往，SpaceX 的目标依然十分宏大。SpaceX 计划未来在月球上建设工厂，并利用机器人承担大量繁重工作。埃隆 · 马斯克在周二（8 月 4 日）举行的 SpaceX 首次季度财报电话会上表示了这一计划。马斯克说：“我们会向月球运送大量物资。我们会在月球上建造工厂，而机器人将对此提供很大帮助。”这并不是 SpaceX 首次提出这一愿景。马斯克今年 2 月在一篇",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "天玑 9500 新变体曝光，iQOO Neo 11 至尊版首发搭载",
+        "link": "https://www.ithome.com/0/987/532.htm",
+        "description": "IT之家 8 月 9 日消息，一款型号为 V2573A 新机于 8 月 8 日现身跑分平台 Geekbench，博主 @体验more 预测该机为 iQOO Neo 11 至尊版。该机搭载天玑 9500 的新变体：CPU：1*4.21GHz C1-Ultra+3*3.50GHz C1-Premium+4*2.70GHz C1-Pro，GPU：Mali G1-Ultra MC11该博主透露，相比天玑 ",
+        "detail": "IT之家 8 月 9 日消息，一款型号为 V2573A 新机于 8 月 8 日现身跑分平台 Geekbench，博主 @体验more 预测该机为 iQOO Neo 11 至尊版。该机搭载天玑 9500 的新变体：CPU：1*4.21GHz C1-Ultra+3*3.50GHz C1-Premium+4*2.70GHz C1-Pro，GPU：Mali G1-Ultra MC11该博主透露，相比天玑 ",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "韶音推出“OpenFit 2 AI”开放式耳机：升级千问大模型，1698 元",
+        "link": "https://www.ithome.com/0/987/531.htm",
+        "description": "IT之家 8 月 9 日消息，韶音现已在天猫上架“OpenFit 2 AI”开放式耳机，相对于标准款 OpenFit 2/2+ 主要升级 AI 功能，定价为 1698 元，将于 8 月 17 日发售。这款耳机采用左右分体挂耳式海豚弧耳挂设计，贴耳处采用双层硅胶包裹，内层硅胶使用为 Shokz Ultra-Soft Silicone 2.0 超零度硅胶，耳挂内嵌极细柔性钛合金丝，号称“即使用户进行大",
+        "detail": "IT之家 8 月 9 日消息，韶音现已在天猫上架“OpenFit 2 AI”开放式耳机，相对于标准款 OpenFit 2/2+ 主要升级 AI 功能，定价为 1698 元，将于 8 月 17 日发售。这款耳机采用左右分体挂耳式海豚弧耳挂设计，贴耳处采用双层硅胶包裹，内层硅胶使用为 Shokz Ultra-Soft Silicone 2.0 超零度硅胶，耳挂内嵌极细柔性钛合金丝，号称“即使用户进行大",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "技嘉推出小雕 360 系列一体式水冷散热器：双腔水泵、冷头配全彩 LCD 显示屏",
+        "link": "https://www.ithome.com/0/987/530.htm",
+        "description": "IT之家 8 月 9 日消息，技嘉宣布推出小雕 360 系列一体式水冷散热器，系列产品配备双腔水泵、全彩 LCD 显示屏，内置 87 颗 LED 灯珠并支持双区灯光独立调控，提供黑白双色可选，国行将于近期发售。小雕 360 系列冷头配备带侧边可视设计的圆形全彩 LCD 显示屏，可实时监测 11 项电脑硬件运行数据，同步显示 CPU、显卡、内存等硬件状态，最多同时展示 4 组监控参数。除硬件监测功能",
+        "detail": "IT之家 8 月 9 日消息，技嘉宣布推出小雕 360 系列一体式水冷散热器，系列产品配备双腔水泵、全彩 LCD 显示屏，内置 87 颗 LED 灯珠并支持双区灯光独立调控，提供黑白双色可选，国行将于近期发售。小雕 360 系列冷头配备带侧边可视设计的圆形全彩 LCD 显示屏，可实时监测 11 项电脑硬件运行数据，同步显示 CPU、显卡、内存等硬件状态，最多同时展示 4 组监控参数。除硬件监测功能",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "平台钻级≠官方星级，央视曝光酒店评级标识消费陷阱",
+        "link": "https://www.ithome.com/0/987/512.htm",
+        "description": "IT之家 8 月 9 日消息，据央视新闻今日报道，出差、旅游时，不少人都会通过线上平台预订酒店，平台的评级、评分是大家判断酒店档次的重要参考。但有消费者反映，一些主流在线旅游平台对于酒店星级、钻级的展示边界十分模糊，筛选页面将两类标识混排，且图标样式相近，很容易产生混淆。报道称，不少游客花高价订房，入住后才发现所谓“高档酒店”只是平台评定的钻级酒店，而非文旅认证挂牌的星级酒店，硬件、服务都有很大差",
+        "detail": "IT之家 8 月 9 日消息，据央视新闻今日报道，出差、旅游时，不少人都会通过线上平台预订酒店，平台的评级、评分是大家判断酒店档次的重要参考。但有消费者反映，一些主流在线旅游平台对于酒店星级、钻级的展示边界十分模糊，筛选页面将两类标识混排，且图标样式相近，很容易产生混淆。报道称，不少游客花高价订房，入住后才发现所谓“高档酒店”只是平台评定的钻级酒店，而非文旅认证挂牌的星级酒店，硬件、服务都有很大差",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才",
+        "link": "https://www.ithome.com/0/987/511.htm",
+        "description": "IT之家 8 月 9 日消息，据 Chosun 报道，三星电子将为其位于得克萨斯州的先进晶圆代工（半导体代工制造）工厂启动首批实习生招聘工作，该工厂定于今年年底开始运营。据业内人士消息，三星电子近日启动了美国泰勒晶圆厂明年夏季实习生的招聘工作。三星电子每年都会在全球主要业务基地开展实习项目，而明年的实习计划首次将泰勒晶圆厂纳入其中。此次实习项目为期 11 周，参与者将与现有工程师一起参与实际项目，",
+        "detail": "IT之家 8 月 9 日消息，据 Chosun 报道，三星电子将为其位于得克萨斯州的先进晶圆代工（半导体代工制造）工厂启动首批实习生招聘工作，该工厂定于今年年底开始运营。据业内人士消息，三星电子近日启动了美国泰勒晶圆厂明年夏季实习生的招聘工作。三星电子每年都会在全球主要业务基地开展实习项目，而明年的实习计划首次将泰勒晶圆厂纳入其中。此次实习项目为期 11 周，参与者将与现有工程师一起参与实际项目，",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
       {
         "title": "微软 Teams 会议软件 Live Chat 实时聊天功能将于 10 月 5 日停用",
         "link": "https://www.ithome.com/0/987/504.htm",
@@ -189,84 +269,20 @@
         "sort_score": 70
       },
       {
-        "title": "The AI Apocalypse Is Here",
-        "link": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-        "description": "[HN] +28 points · 18 comments · by reasonableklout",
-        "detail": "[HN] +28 points · 18 comments · by reasonableklout",
+        "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+        "link": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+        "description": "[HN] +57 points · 4 comments · by minimaxir",
+        "detail": "[HN] +57 points · 4 comments · by minimaxir",
         "tag": "行业动态",
         "sort_score": 70
       },
       {
         "title": "The phone book that led us to Assad's spy chief in hiding",
         "link": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
-        "description": "[HN] +12 points · 1 comments · by cwwc",
-        "detail": "[HN] +12 points · 1 comments · by cwwc",
+        "description": "[HN] +37 points · 19 comments · by cwwc",
+        "detail": "[HN] +37 points · 19 comments · by cwwc",
         "tag": "行业动态",
         "sort_score": 70
-      },
-      {
-        "title": "A viral mosquito-killing laser device could be coming to the U.S.",
-        "link": "https://www.npr.org/2026/06/07/nx-s1-5839969/a-viral-mosquito-killing-laser-device-could-be-coming-to-the-u-s",
-        "description": "[HN] +9 points · 3 comments · by toomuchtodo",
-        "detail": "[HN] +9 points · 3 comments · by toomuchtodo",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "ChatGPT starts blocking direct requests to copy an author's style",
-        "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-        "description": "[HN] +6 points · 0 comments · by Eloissssss",
-        "detail": "[HN] +6 points · 0 comments · by Eloissssss",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
-        "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
-        "description": "[HN] +6 points · 0 comments · by Eloissssss",
-        "detail": "[HN] +6 points · 0 comments · by Eloissssss",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
-        "link": "https://arxiv.org/abs/2608.01492",
-        "description": "Selecting a complete 3D object from a reconstructed scene with minimal user effort is essential for practical scene editing and embodied interaction. Existing 3DGS-based methods either retrain the Gau",
-        "detail": "Selecting a complete 3D object from a reconstructed scene with minimal user effort is essential for practical scene editing and embodied interaction. Existing 3DGS-based methods either retrain the Gau",
-        "tag": "学术论文",
-        "sort_score": 0
-      },
-      {
-        "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
-        "link": "https://arxiv.org/abs/2608.01851",
-        "description": "Robot learning is splitting into two bets: policies that bake competence into frozen weights (vision-language-action, or VLA, models), and agents that write and refine their own executable skills as c",
-        "detail": "Robot learning is splitting into two bets: policies that bake competence into frozen weights (vision-language-action, or VLA, models), and agents that write and refine their own executable skills as c",
-        "tag": "学术论文",
-        "sort_score": 0
-      },
-      {
-        "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
-        "link": "https://arxiv.org/abs/2608.01049",
-        "description": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Arch",
-        "detail": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Arch",
-        "tag": "学术论文",
-        "sort_score": 0
-      },
-      {
-        "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
-        "link": "https://arxiv.org/abs/2608.05798",
-        "description": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce",
-        "detail": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce",
-        "tag": "学术论文",
-        "sort_score": 0
-      },
-      {
-        "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
-        "link": "https://arxiv.org/abs/2608.05784",
-        "description": "Computer-use agents pay full frontier inference to re-derive routines their user has already performed, because an agent's memory today records what the user said, not what the user did. We compile pa",
-        "detail": "Computer-use agents pay full frontier inference to re-derive routines their user has already performed, because an agent's memory today records what the user said, not what the user did. We compile pa",
-        "tag": "学术论文",
-        "sort_score": 0
       }
     ]
   },
