@@ -1,5 +1,276 @@
 [
   {
+    "date": "2026-08-09",
+    "weekday": "星期日",
+    "summary": "今日共收录 50 篇论文、23 条新闻。 来源包括：IT之家。",
+    "news": [
+      {
+        "title": "微软 Teams 会议软件 Live Chat 实时聊天功能将于 10 月 5 日停用",
+        "link": "https://www.ithome.com/0/987/504.htm",
+        "description": "IT之家 8 月 9 日消息，微软宣布旗下 Teams 会议软件中的 Live Chat 实时聊天功能，此举是为了“将资源投入到更新的客户互动和沟通体验中”。根据微软官方文档，Teams Live Chat 将于 10 月 5 日正式停止服务，届时客户发送的消息将无法继续进入 Teams。微软已正式停止新用户配置该功能，并要求现有用户在服务关闭前从网站中移除聊天组件。服务终止后，仍未删除的聊天入口",
+        "detail": "IT之家 8 月 9 日消息，微软宣布旗下 Teams 会议软件中的 Live Chat 实时聊天功能，此举是为了“将资源投入到更新的客户互动和沟通体验中”。根据微软官方文档，Teams Live Chat 将于 10 月 5 日正式停止服务，届时客户发送的消息将无法继续进入 Teams。微软已正式停止新用户配置该功能，并要求现有用户在服务关闭前从网站中移除聊天组件。服务终止后，仍未删除的聊天入口",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "微软 Win11 天气应用内存占用达苹果 macOS 天气应用 5 倍，且内置广告",
+        "link": "https://www.ithome.com/0/987/503.htm",
+        "description": "IT之家 8 月 9 日消息，据 Windows Latest 报道，Windows 11 自带的天气应用，本质上就是套着天气预报外壳的 MSN 广告软件。它占用的内存大约是 macOS 原生天气应用的 5 倍，却还要在用户已经付费购买的操作系统中展示广告。报道称，在没有点击或滚动浏览应用的情况下，Windows 11 自带的天气应用的内存占用竟然超过了 1.2GB。更让人意外的是，天气应用里还有",
+        "detail": "IT之家 8 月 9 日消息，据 Windows Latest 报道，Windows 11 自带的天气应用，本质上就是套着天气预报外壳的 MSN 广告软件。它占用的内存大约是 macOS 原生天气应用的 5 倍，却还要在用户已经付费购买的操作系统中展示广告。报道称，在没有点击或滚动浏览应用的情况下，Windows 11 自带的天气应用的内存占用竟然超过了 1.2GB。更让人意外的是，天气应用里还有",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "苹果 macOS 平台 ClickFix 钓鱼攻击升级，黑客在网页端加入设备筛选功能精准“定位”受害者",
+        "link": "https://www.ithome.com/0/987/500.htm",
+        "description": "IT之家 8 月 9 日消息，微软发文，披露近期有黑客针对 macOS 平台发起新一轮 ClickFix 攻击活动。黑客在恶意网站中加入服务器端设备识别能力，先识别访客使用的设备和浏览环境，再决定是否展示恶意内容。微软表示，黑客曾经会直接将恶意指令写入网页源代码，但如今他改变策略，改为先让网页执行一段 JavaScript 程序，收集访客的浏览器信息、硬件配置以及运行环境数据，再将这些信息发送至服",
+        "detail": "IT之家 8 月 9 日消息，微软发文，披露近期有黑客针对 macOS 平台发起新一轮 ClickFix 攻击活动。黑客在恶意网站中加入服务器端设备识别能力，先识别访客使用的设备和浏览环境，再决定是否展示恶意内容。微软表示，黑客曾经会直接将恶意指令写入网页源代码，但如今他改变策略，改为先让网页执行一段 JavaScript 程序，收集访客的浏览器信息、硬件配置以及运行环境数据，再将这些信息发送至服",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "技嘉 B850 AORUS ELITE X3D 主板发售：支持 X3D 鸡血模式 2.0，1999 元",
+        "link": "https://www.ithome.com/0/987/499.htm",
+        "description": "IT之家 8 月 9 日消息，技嘉旗下 B850 AORUS ELITE X3D 主板现已在京东发售，定价为 1999 元。B850 AORUS ELITE X3D 基于 AMD AM5 平台打造，支持 AMD Ryzen 9000/8000/7000 系列处理器，并针对 X3D 处理器特性进行平台级优化。其搭载 X3D 鸡血模式 2.0，可根据不同使用场景释放处理器潜力，帮助玩家在游戏与高负载应",
+        "detail": "IT之家 8 月 9 日消息，技嘉旗下 B850 AORUS ELITE X3D 主板现已在京东发售，定价为 1999 元。B850 AORUS ELITE X3D 基于 AMD AM5 平台打造，支持 AMD Ryzen 9000/8000/7000 系列处理器，并针对 X3D 处理器特性进行平台级优化。其搭载 X3D 鸡血模式 2.0，可根据不同使用场景释放处理器潜力，帮助玩家在游戏与高负载应",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "技嘉推出钛金雕 1600PG5 AI TOP 钛金电源：1600W 功率、搭全彩 LCD 屏",
+        "link": "https://www.ithome.com/0/987/498.htm",
+        "description": "IT之家 8 月 9 日消息，技嘉科技宣布正式发布钛金雕 1600PG5 AI TOP 钛金电源（AP1600TM PG5 AI TOP），国行将于近期上市。该电源尺寸为 160x150x86mm，提供 1600W 额定功率与 80PLUS 钛金能效；支持 ATX 3.1 与 PCIe 5.1 规范，搭载全彩 LCD 监控屏，硬件运行状态直观可视。用户可直接通过电源查看整机功耗数据，搭配技嘉智能管",
+        "detail": "IT之家 8 月 9 日消息，技嘉科技宣布正式发布钛金雕 1600PG5 AI TOP 钛金电源（AP1600TM PG5 AI TOP），国行将于近期上市。该电源尺寸为 160x150x86mm，提供 1600W 额定功率与 80PLUS 钛金能效；支持 ATX 3.1 与 PCIe 5.1 规范，搭载全彩 LCD 监控屏，硬件运行状态直观可视。用户可直接通过电源查看整机功耗数据，搭配技嘉智能管",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "国家统计局：人工智能推动消费电子产品迭代升级，需求增加、价格上涨，平板电脑、计算机和移动电话机分别上涨 11.3%、5.5% 和 1.0%",
+        "link": "https://www.ithome.com/0/987/497.htm",
+        "description": "IT之家 8 月 9 日消息，国家统计局今日公布数据，7 月份，受国际输入性因素影响，居民消费价格指数（CPI）环比下降 0.1%，同比上涨 0.5%，扣除食品和能源价格的核心 CPI 环比上涨 0.3%，同比上涨 0.9%，CPI 总体保持温和上涨。国家统计局数据显示，人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别上涨 11.3%、5.5% 和",
+        "detail": "IT之家 8 月 9 日消息，国家统计局今日公布数据，7 月份，受国际输入性因素影响，居民消费价格指数（CPI）环比下降 0.1%，同比上涨 0.5%，扣除食品和能源价格的核心 CPI 环比上涨 0.3%，同比上涨 0.9%，CPI 总体保持温和上涨。国家统计局数据显示，人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别上涨 11.3%、5.5% 和",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "Steam 客户端 Preview / Beta 通道更新发布：修复创意工坊项目更新异常问题",
+        "link": "https://www.ithome.com/0/987/224.htm",
+        "description": "IT之家 8 月 9 日消息，Valve 现已向 Steam 客户端的 Preview / Beta 测试通道推送了新版本更新，主要修复了创意工坊相关的异常问题。通用更新修复了部分 Steam 创意工坊项目无法正常更新的问题本次更新目前仅面向参与 Preview / Beta 测试通道的用户推送，普通正式版通道用户暂未收到该版本更新，后续相关修复也将在完成稳定性验证后推送至全量正式版本。本文由机器",
+        "detail": "IT之家 8 月 9 日消息，Valve 现已向 Steam 客户端的 Preview / Beta 测试通道推送了新版本更新，主要修复了创意工坊相关的异常问题。通用更新修复了部分 Steam 创意工坊项目无法正常更新的问题本次更新目前仅面向参与 Preview / Beta 测试通道的用户推送，普通正式版通道用户暂未收到该版本更新，后续相关修复也将在完成稳定性验证后推送至全量正式版本。本文由机器",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "Meta CTO：AI 省下的时间，不是用来休假的",
+        "link": "https://www.ithome.com/0/987/495.htm",
+        "description": "IT之家 8 月 9 日消息，AI 赋能的科技工作者生产力大幅提升后，是否应该获得更多休假时间？Meta 首席技术官 Andrew Bosworth 给出的答案是否定的。据 Business Insider 报道，三名参加这场会议的人士透露，Bosworth 在 7 月初举行的一场员工问答会上谈到了这一问题。一名 Meta 员工询问，AI 带来的生产力提升是否可以转化为更多的休假时间，尤其是重新恢",
+        "detail": "IT之家 8 月 9 日消息，AI 赋能的科技工作者生产力大幅提升后，是否应该获得更多休假时间？Meta 首席技术官 Andrew Bosworth 给出的答案是否定的。据 Business Insider 报道，三名参加这场会议的人士透露，Bosworth 在 7 月初举行的一场员工问答会上谈到了这一问题。一名 Meta 员工询问，AI 带来的生产力提升是否可以转化为更多的休假时间，尤其是重新恢",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "V社悄悄下调 Steam Frame 游戏认证帧率要求，要求 VR 游戏最低帧率达 72FPS",
+        "link": "https://www.ithome.com/0/987/494.htm",
+        "description": "IT之家 8 月 9 日消息，V社现已悄悄调整了 Steam Frame 游戏认证标准，降低了希望获得原生运行认证游戏的性能要求。作为参考，V社在 2026 年度游戏开发者大会（GDC 2026）首次公布了 Steam Frame 的游戏认证规则，开发者如果希望自己的游戏获得“Steam Frame Verified”（Steam Frame 已验证）标识，则游戏在平台最低运行帧率必须达到 90 ",
+        "detail": "IT之家 8 月 9 日消息，V社现已悄悄调整了 Steam Frame 游戏认证标准，降低了希望获得原生运行认证游戏的性能要求。作为参考，V社在 2026 年度游戏开发者大会（GDC 2026）首次公布了 Steam Frame 的游戏认证规则，开发者如果希望自己的游戏获得“Steam Frame Verified”（Steam Frame 已验证）标识，则游戏在平台最低运行帧率必须达到 90 ",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "13 代酷睿 +RTX30 系卷土重来：6499 元机械革命旷世 15 新增“i5-13420H + 16G + 512G + RTX3050”版本",
+        "link": "https://www.ithome.com/0/987/493.htm",
+        "description": "IT之家 8 月 9 日消息，机械革命现已为旗下旷世 15 笔记本带回“i5-13420H + 16GB RAM + 512GB SSD + RTX3050”规格，定价为 6499 元。京东机械革命旷世 15i5-13420H + 16GB RAM + 512GB SSD + RTX30506499 元直达链接该机厚度约 23mm，重量 2 千克，B 面配备一块 1920x1080 分辨率 144",
+        "detail": "IT之家 8 月 9 日消息，机械革命现已为旗下旷世 15 笔记本带回“i5-13420H + 16GB RAM + 512GB SSD + RTX3050”规格，定价为 6499 元。京东机械革命旷世 15i5-13420H + 16GB RAM + 512GB SSD + RTX30506499 元直达链接该机厚度约 23mm，重量 2 千克，B 面配备一块 1920x1080 分辨率 144",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "零跑 A05 全套车色公布：松岚灰、莓莓蓝等，预计明日上市",
+        "link": "https://www.ithome.com/0/987/492.htm",
+        "description": "IT之家 8 月 9 日消息，8 月 8 日，零跑汽车公布零跑 A05 全套七种车色，包括摩根粉、雾凇米、海苔绿、苔原灰、松岚灰、莓莓蓝以及零跑 A05s 金属黑。零跑 A05 已于 7 月 27 日开启盲订，99 元下订享 5000 专属能量积分权益。有消息称，这款纯电小车将于 8 月 10 日上市。零跑 A05 整体风格较为圆润，匹配悬浮式车顶，可选激光雷达。车身使用半隐藏式门把手；车尾两侧尾",
+        "detail": "IT之家 8 月 9 日消息，8 月 8 日，零跑汽车公布零跑 A05 全套七种车色，包括摩根粉、雾凇米、海苔绿、苔原灰、松岚灰、莓莓蓝以及零跑 A05s 金属黑。零跑 A05 已于 7 月 27 日开启盲订，99 元下订享 5000 专属能量积分权益。有消息称，这款纯电小车将于 8 月 10 日上市。零跑 A05 整体风格较为圆润，匹配悬浮式车顶，可选激光雷达。车身使用半隐藏式门把手；车尾两侧尾",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "联想推出来酷平板 Mini：8 英寸面板、支持 4G 通信，899 元",
+        "link": "https://www.ithome.com/0/987/491.htm",
+        "description": "IT之家 8 月 9 日消息，联想现已在京东上架来酷平板 Mini，该产品配备一块 8 英寸面板，支持 4G 通信上网，定价为 899 元，部分地区国补后低至 679.2 元。京东来酷平板 Mini 899 元直达链接该机整体厚度 8.45mm，重量 324g，配备一块 8 英寸未标注分辨率的 IPS 面板，匹配 5Mp 自拍摄像头，后置 13 Mp 主摄。该机搭载联发科处理器（未标注具体 SoC",
+        "detail": "IT之家 8 月 9 日消息，联想现已在京东上架来酷平板 Mini，该产品配备一块 8 英寸面板，支持 4G 通信上网，定价为 899 元，部分地区国补后低至 679.2 元。京东来酷平板 Mini 899 元直达链接该机整体厚度 8.45mm，重量 324g，配备一块 8 英寸未标注分辨率的 IPS 面板，匹配 5Mp 自拍摄像头，后置 13 Mp 主摄。该机搭载联发科处理器（未标注具体 SoC",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "AI 浪潮催生高薪数据中心岗位，美国电工、安装工等需求大增",
+        "link": "https://www.ithome.com/0/987/490.htm",
+        "description": "IT之家 8 月 9 日消息，Indeed 的一项最新研究显示，如今美国增长最快的一些科技岗位，已经不再局限于传统的软件开发人员，而是包括电工、安装工、维护人员以及负责建设 AI 数据中心的工程师。过去两年，美国数据中心相关职位的招聘信息数量增加了一倍以上，而同期美国整体招聘岗位数量却有所下降。如今，美国每 1,000 个招聘岗位中，就有约 6 个与数据中心有关，是 2023 年这一比例的 3 倍",
+        "detail": "IT之家 8 月 9 日消息，Indeed 的一项最新研究显示，如今美国增长最快的一些科技岗位，已经不再局限于传统的软件开发人员，而是包括电工、安装工、维护人员以及负责建设 AI 数据中心的工程师。过去两年，美国数据中心相关职位的招聘信息数量增加了一倍以上，而同期美国整体招聘岗位数量却有所下降。如今，美国每 1,000 个招聘岗位中，就有约 6 个与数据中心有关，是 2023 年这一比例的 3 倍",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "海备思推出墨水屏数显 NVMe 固态硬盘盒：配备超级电容技术、10Gbps 速率，首发价 219 元",
+        "link": "https://www.ithome.com/0/987/489.htm",
+        "description": "IT之家 8 月 9 日消息，制造商海备思宣布推出一款墨水屏数显 NVMe 固态硬盘盒，该产品配备墨水屏面板，同时采用了超级电容技术，定价为 282 元，首发价 219 元。该产品尺寸为 51x12x115mm，采用银色圆角 CNC 工艺铝合金机身，正面墨水屏可显示硬盘容量、健康度、温度、累计写入量、通电循环次数、通电时间及电压等信息，同时还可查看超级电容状态。在用户拔下数据线后，屏幕内容仍可继续",
+        "detail": "IT之家 8 月 9 日消息，制造商海备思宣布推出一款墨水屏数显 NVMe 固态硬盘盒，该产品配备墨水屏面板，同时采用了超级电容技术，定价为 282 元，首发价 219 元。该产品尺寸为 51x12x115mm，采用银色圆角 CNC 工艺铝合金机身，正面墨水屏可显示硬盘容量、健康度、温度、累计写入量、通电循环次数、通电时间及电压等信息，同时还可查看超级电容状态。在用户拔下数据线后，屏幕内容仍可继续",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+        "link": "https://www.ithome.com/0/987/488.htm",
+        "description": "IT之家 8 月 9 日消息，据“大厂青年”公众号 8 月 7 日消息，小米机器人事业部大调整：内部新成立具身智能与应用部，由前字节 Seed Robotics 具身智能负责人孔涛挂帅。按照调整方案，这个新部门已将陈龙的 VLA 团队、蔡锐的机器人具身部等一并收拢。此次调整后，小米整个具身赛道的各个业务方向，都归到了孔涛的管辖之下。文章称，孔涛（Jason kong）此前加入小米，主要负责机器人基",
+        "detail": "IT之家 8 月 9 日消息，据“大厂青年”公众号 8 月 7 日消息，小米机器人事业部大调整：内部新成立具身智能与应用部，由前字节 Seed Robotics 具身智能负责人孔涛挂帅。按照调整方案，这个新部门已将陈龙的 VLA 团队、蔡锐的机器人具身部等一并收拢。此次调整后，小米整个具身赛道的各个业务方向，都归到了孔涛的管辖之下。文章称，孔涛（Jason kong）此前加入小米，主要负责机器人基",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "海信墨水屏手机 A10 系列实机外观照片曝光：磁吸彩色 LCD 背屏、一键切换双屏",
+        "link": "https://www.ithome.com/0/987/486.htm",
+        "description": "IT之家 8 月 9 日消息，海信墨水屏手机项目负责人“老左”发文，展示了即将在 8 月 28 日上市的海信墨水屏手机 A10 系列手机实机图，可以看到该产品背屏边框较窄，同时还提供了配套手机壳。据介绍，海信墨水屏手机 A10 提供三种屏幕切换方式。在安装彩色背屏后，用户可通过单击“墨智键”，在正面墨水屏与背部彩屏之间快速切换；也可以从手机顶部下拉控制中心，点击“切换屏幕”快捷开关完成切换。用户亦",
+        "detail": "IT之家 8 月 9 日消息，海信墨水屏手机项目负责人“老左”发文，展示了即将在 8 月 28 日上市的海信墨水屏手机 A10 系列手机实机图，可以看到该产品背屏边框较窄，同时还提供了配套手机壳。据介绍，海信墨水屏手机 A10 提供三种屏幕切换方式。在安装彩色背屏后，用户可通过单击“墨智键”，在正面墨水屏与背部彩屏之间快速切换；也可以从手机顶部下拉控制中心，点击“切换屏幕”快捷开关完成切换。用户亦",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "马斯克发布 Terafab 渲染视频：Optimus 人形机器人、Robovan 无人车齐亮相",
+        "link": "https://www.ithome.com/0/987/485.htm",
+        "description": "IT之家 8 月 9 日消息，埃隆 · 马斯克当地时间周四上午在 X 平台发布了一段 Terafab 的新视频，而视频中最引人注目的并不是厂房本身，而是两款仍在等待量产的产品：Optimus 人形机器人和 Robovan 无人车。这段由 SpaceX 提供概念图的渲染视频显示，Optimus 机器人正在这座规划中的大型厂区内工作。该设施计划建于得克萨斯州格莱姆斯县的 Gibbons Creek 地",
+        "detail": "IT之家 8 月 9 日消息，埃隆 · 马斯克当地时间周四上午在 X 平台发布了一段 Terafab 的新视频，而视频中最引人注目的并不是厂房本身，而是两款仍在等待量产的产品：Optimus 人形机器人和 Robovan 无人车。这段由 SpaceX 提供概念图的渲染视频显示，Optimus 机器人正在这座规划中的大型厂区内工作。该设施计划建于得克萨斯州格莱姆斯县的 Gibbons Creek 地",
+        "tag": "产品发布",
+        "sort_score": 70
+      },
+      {
+        "title": "中国代表队首次参加国际核科学奥赛，获一金三银",
+        "link": "https://www.ithome.com/0/987/484.htm",
+        "description": "IT之家 8 月 9 日消息，据新华社报道，2026 年国际核科学奥林匹克竞赛 8 月 8 日晚在沙特阿拉伯西部城市吉达闭幕，中国代表队首次参赛，4 名选手获得一金三银，总成绩居参赛国家前列。国际核科学奥林匹克竞赛是在国际原子能机构支持下举办的、全球首个以核科学为主题的国际青少年奥林匹克赛事，旨在激发青少年对核科学的兴趣，促进国际青少年交流，引导更多青少年投身核科学与核技术领域。该赛事创办于 20",
+        "detail": "IT之家 8 月 9 日消息，据新华社报道，2026 年国际核科学奥林匹克竞赛 8 月 8 日晚在沙特阿拉伯西部城市吉达闭幕，中国代表队首次参赛，4 名选手获得一金三银，总成绩居参赛国家前列。国际核科学奥林匹克竞赛是在国际原子能机构支持下举办的、全球首个以核科学为主题的国际青少年奥林匹克赛事，旨在激发青少年对核科学的兴趣，促进国际青少年交流，引导更多青少年投身核科学与核技术领域。该赛事创办于 20",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "苹果首款折叠 iPhone 配色曝光：iPhone Ultra 有望提供银色、深蓝色",
+        "link": "https://www.ithome.com/0/987/483.htm",
+        "description": "IT之家 8 月 9 日消息，苹果预计将在下个月发布旗下首款折叠 iPhone。今日有爆料称，这款被称为 iPhone Ultra 的折叠机可能会提供银色和深蓝色两种配色。IT之家注意到，爆料人士 Sonny Dickson 今天在社交媒体上分享了两张图片，展示了两款分别采用银色和深蓝色的 iPhone 摄像头保护盖。这些配件用于覆盖 iPhone Ultra 的摄像头凸起部分。需要注意的是，这些",
+        "detail": "IT之家 8 月 9 日消息，苹果预计将在下个月发布旗下首款折叠 iPhone。今日有爆料称，这款被称为 iPhone Ultra 的折叠机可能会提供银色和深蓝色两种配色。IT之家注意到，爆料人士 Sonny Dickson 今天在社交媒体上分享了两张图片，展示了两款分别采用银色和深蓝色的 iPhone 摄像头保护盖。这些配件用于覆盖 iPhone Ultra 的摄像头凸起部分。需要注意的是，这些",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "奕境 X9 鸿蒙座舱 HarmonySpace 6 全球首秀明日举行",
+        "link": "https://www.ithome.com/0/987/482.htm",
+        "description": "IT之家 8 月 9 日消息，奕境汽车 8 月 8 日宣布，奕境 X9 鸿蒙座舱 HarmonySpace6 全球首秀将于 8 月 10 日 18:00 举行，地点位于湖州莫干山。IT之家注意到，奕境汽车官方此前已经公布奕境 X9 的内饰情况。据介绍，奕境 X9 定位 9 系旗舰车型，首批搭载鸿蒙座舱 HarmonySpace 6。从官图可以看到，奕境 X9 的前排座椅可安装小桌板，中控扶手箱处设",
+        "detail": "IT之家 8 月 9 日消息，奕境汽车 8 月 8 日宣布，奕境 X9 鸿蒙座舱 HarmonySpace6 全球首秀将于 8 月 10 日 18:00 举行，地点位于湖州莫干山。IT之家注意到，奕境汽车官方此前已经公布奕境 X9 的内饰情况。据介绍，奕境 X9 定位 9 系旗舰车型，首批搭载鸿蒙座舱 HarmonySpace 6。从官图可以看到，奕境 X9 的前排座椅可安装小桌板，中控扶手箱处设",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "微软承认 Win11 需要提升运行速度、减少广告，部分修复已推送",
+        "link": "https://www.ithome.com/0/987/480.htm",
+        "description": "IT之家 8 月 9 日消息，据 Windows Latest 报道，今年以来，消费者可能已经看到不少关于 Windows 11 改进的消息，例如重新设计系统对话框、任务栏可以移动，以及减少 Copilot 的整合程度。如今，微软内部一位级别很高的工程师也确认，Windows 11 的运行速度同样正在得到提升。多年来，Windows 11 面临的主要问题有：只要不是高端硬件，系统运行就容易显得迟缓",
+        "detail": "IT之家 8 月 9 日消息，据 Windows Latest 报道，今年以来，消费者可能已经看到不少关于 Windows 11 改进的消息，例如重新设计系统对话框、任务栏可以移动，以及减少 Copilot 的整合程度。如今，微软内部一位级别很高的工程师也确认，Windows 11 的运行速度同样正在得到提升。多年来，Windows 11 面临的主要问题有：只要不是高端硬件，系统运行就容易显得迟缓",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "小米汽车：澎程 N90 Max 四门可选智能电动门，支持开门杀预警和避障",
+        "link": "https://www.ithome.com/0/987/479.htm",
+        "description": "IT之家 8 月 9 日消息，小米汽车昨晚发布答网友问（第 272 集），对于小米澎程的车门设计、对坐模式等进行了详解。据官方介绍，小米澎程全系后门都可实现近 90 度开合。为了实现这个近 90 度的体验，团队核心做了三方面的工作：车门铰链车身页加高设计，将铰链轴线到车身页安装面高度从常规的约 60mm 增大至 72mm，让门在旋转时能避开螺栓、侧围以确保安全间隙；采用锻造铰链，锻压一体成型，强度",
+        "detail": "IT之家 8 月 9 日消息，小米汽车昨晚发布答网友问（第 272 集），对于小米澎程的车门设计、对坐模式等进行了详解。据官方介绍，小米澎程全系后门都可实现近 90 度开合。为了实现这个近 90 度的体验，团队核心做了三方面的工作：车门铰链车身页加高设计，将铰链轴线到车身页安装面高度从常规的约 60mm 增大至 72mm，让门在旋转时能避开螺栓、侧围以确保安全间隙；采用锻造铰链，锻压一体成型，强度",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "海贝 HiBy CR06 mini 桌搭发售：支持 PD 60W 有线充电、配 USB-A 接口可作扩展坞，298 元",
+        "link": "https://www.ithome.com/0/987/478.htm",
+        "description": "IT之家 8 月 9 日消息，海贝音乐旗下 HiBy CR06 mini 桌搭现已在京东发售，该产品主打“充电 + 散热 + 扩展”三合一，售价 298 元。京东海贝 HiBy CR06 mini 桌搭 298 元直达链接该产品是一款专为桌面场景设计的手机 / 平板支架配件，采用全铝合金材质外壳，利用金属导热特性实现无风扇被动散热，运行零噪音，同时提升整体质感与手感。该产品配备 USB-C 接口，",
+        "detail": "IT之家 8 月 9 日消息，海贝音乐旗下 HiBy CR06 mini 桌搭现已在京东发售，该产品主打“充电 + 散热 + 扩展”三合一，售价 298 元。京东海贝 HiBy CR06 mini 桌搭 298 元直达链接该产品是一款专为桌面场景设计的手机 / 平板支架配件，采用全铝合金材质外壳，利用金属导热特性实现无风扇被动散热，运行零噪音，同时提升整体质感与手感。该产品配备 USB-C 接口，",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "The AI Apocalypse Is Here",
+        "link": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+        "description": "[HN] +28 points · 18 comments · by reasonableklout",
+        "detail": "[HN] +28 points · 18 comments · by reasonableklout",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "The phone book that led us to Assad's spy chief in hiding",
+        "link": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
+        "description": "[HN] +12 points · 1 comments · by cwwc",
+        "detail": "[HN] +12 points · 1 comments · by cwwc",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "A viral mosquito-killing laser device could be coming to the U.S.",
+        "link": "https://www.npr.org/2026/06/07/nx-s1-5839969/a-viral-mosquito-killing-laser-device-could-be-coming-to-the-u-s",
+        "description": "[HN] +9 points · 3 comments · by toomuchtodo",
+        "detail": "[HN] +9 points · 3 comments · by toomuchtodo",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "ChatGPT starts blocking direct requests to copy an author's style",
+        "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+        "description": "[HN] +6 points · 0 comments · by Eloissssss",
+        "detail": "[HN] +6 points · 0 comments · by Eloissssss",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+        "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+        "description": "[HN] +6 points · 0 comments · by Eloissssss",
+        "detail": "[HN] +6 points · 0 comments · by Eloissssss",
+        "tag": "行业动态",
+        "sort_score": 70
+      },
+      {
+        "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
+        "link": "https://arxiv.org/abs/2608.01492",
+        "description": "Selecting a complete 3D object from a reconstructed scene with minimal user effort is essential for practical scene editing and embodied interaction. Existing 3DGS-based methods either retrain the Gau",
+        "detail": "Selecting a complete 3D object from a reconstructed scene with minimal user effort is essential for practical scene editing and embodied interaction. Existing 3DGS-based methods either retrain the Gau",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
+        "link": "https://arxiv.org/abs/2608.01851",
+        "description": "Robot learning is splitting into two bets: policies that bake competence into frozen weights (vision-language-action, or VLA, models), and agents that write and refine their own executable skills as c",
+        "detail": "Robot learning is splitting into two bets: policies that bake competence into frozen weights (vision-language-action, or VLA, models), and agents that write and refine their own executable skills as c",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
+        "link": "https://arxiv.org/abs/2608.01049",
+        "description": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Arch",
+        "detail": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Arch",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
+        "link": "https://arxiv.org/abs/2608.05798",
+        "description": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce",
+        "detail": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce",
+        "tag": "学术论文",
+        "sort_score": 0
+      },
+      {
+        "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
+        "link": "https://arxiv.org/abs/2608.05784",
+        "description": "Computer-use agents pay full frontier inference to re-derive routines their user has already performed, because an agent's memory today records what the user said, not what the user did. We compile pa",
+        "detail": "Computer-use agents pay full frontier inference to re-derive routines their user has already performed, because an agent's memory today records what the user said, not what the user did. We compile pa",
+        "tag": "学术论文",
+        "sort_score": 0
+      }
+    ]
+  },
+  {
     "date": "2026-08-08",
     "weekday": "星期六",
     "summary": "今日共收录 50 篇论文、45 条新闻。 来源包括：IT之家, 量子位。",
