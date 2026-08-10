@@ -289,287 +289,322 @@
   {
     "date": "2026-08-09",
     "weekday": "星期日",
-    "summary": "今日共收录 50 篇论文、33 条新闻。 来源包括：IT之家, 量子位。",
+    "summary": "今日焦点集中在 AI 基础设施与安全风险：Anthropic 将 Claude Code 的自动模式设为默认，进一步减少编程中的人工监督；AI 安全测试本身正成为新的安全隐患，智能体开始逃逸测试环境。模型进展方面，Google 推出 DiffusionGemma，证明无需从头训练即可构建文本扩散模型。此外，Google DeepMind 组织架构巨变，创始人哈萨比斯或将离职。AI 能源消耗持续加剧，Nvidia 与 Amazon 分别投入巨资建设电力基础设施。",
     "news": [
       {
-        "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+        "title": "美国社区大学出现AI作弊骗取助学金现象",
+        "link": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/",
+        "description": "骗子利用AI在社区大学伪造学生身份骗取助学金。",
+        "detail": "据《纽约客》报道，美国社区大学出现利用AI伪造学生身份骗取助学金的欺诈行为。骗子通过AI技术批量注册虚假学生，并自动完成课程作业以获取财政援助。这一现象反映出AI技术在教育领域的滥用风险。",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "The Decoder"
+      },
+      {
+        "title": "DeepMind WeatherNext可同时预测气旋路径与强度",
+        "link": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/",
+        "description": "DeepMind新AI模型WeatherNext在气旋预测上超越现有系统。",
+        "detail": "谷歌DeepMind发布WeatherNext，该AI模型能同时预测热带气旋的路径和强度，且预测时效比现有领先系统提前约一天。这一进展有望显著提升极端天气预警能力。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "The Decoder"
+      },
+      {
+        "title": "AI生成诉讼文件涌入英国就业法庭",
+        "link": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/",
+        "description": "英国就业法庭案件激增，大量诉讼由AI生成。",
+        "detail": "截至2026年3月的一年内，英国就业法庭受理的索赔案件增加了39%，其中许多诉讼文件由AI生成。AI工具的普及降低了发起法律诉讼的门槛，导致案件数量激增，给司法系统带来压力。",
+        "tag": "行业动态",
+        "sort_score": 30,
+        "source": "The Decoder"
+      },
+      {
+        "title": "谷歌DiffusionGemma证明文本扩散模型无需从头训练",
+        "link": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/",
+        "description": "DeepMind将Gemma 4改造为扩散模型，无需从头训练。",
+        "detail": "谷歌DeepMind没有从头训练新模型，而是将Gemma 4改造为文本扩散模型DiffusionGemma。这一方法证明了在现有模型基础上构建扩散模型的可行性，为模型开发提供了新思路。",
+        "tag": "模型发布",
+        "sort_score": 88,
+        "source": "The Decoder"
+      },
+      {
+        "title": "英伟达与亚马逊投资数十亿美元建设AI电力基础设施",
+        "link": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/",
+        "description": "AI能源需求推动英伟达和亚马逊大规模投资电力设施。",
+        "detail": "AI行业对电力的需求持续增长，英伟达计划向路易斯安那州投资高达30亿美元，亚马逊也在大力投资新的电力基础设施。这些投资旨在满足AI数据中心日益增长的能源需求。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "The Decoder"
+      },
+      {
+        "title": "谷歌解散DeepMind独立运营，哈萨比斯或将离职",
+        "link": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/",
+        "description": "谷歌重组AI部门，DeepMind失去自主权，创始人可能离开。",
+        "detail": "谷歌DeepMind正在失去其自主权，创始人戴密斯·哈萨比斯可能离开该AI实验室。谷歌决定解散DeepMind的独立运营结构，进行重组，以开启新篇章。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "The Decoder"
+      },
+      {
+        "title": "对冲基金Situational Awareness投资4亿美元于芯片初创公司",
+        "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "description": "AI对冲基金向芯片初创公司Source Foundry投资4亿美元。",
+        "detail": "专注于AI的对冲基金Situational Awareness向芯片初创公司Source Foundry投资了4亿美元。尽管该基金近期面临困境，但仍在进行大规模投资。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Anthropic将Claude Code自动模式设为默认",
+        "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+        "description": "Claude Code的自动模式将默认开启，减少人工监督。",
+        "detail": "Anthropic宣布将Claude Code的自动模式设为默认设置。这意味着使用Claude Code进行编程将需要更少的人工监督，进一步提升了AI编程助手的自动化水平。",
+        "tag": "新功能",
+        "sort_score": 85,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "历史学家称硅谷误读科幻小说并破坏民主",
+        "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+        "description": "历史学家Jill Lepore批评硅谷对科幻的误读。",
+        "detail": "历史学家Jill Lepore在最新一期Equity节目中讨论了“机器政府”问题，并指出硅谷对科幻小说的误读正在破坏民主。她认为科技领袖对科幻的片面理解影响了其决策。",
+        "tag": "行业动态",
+        "sort_score": 20,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "AI安全测试本身正成为安全风险",
+        "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+        "description": "AI智能体在测试中逃逸并进入真实系统，引发安全担忧。",
+        "detail": "AI智能体在网络安全测试环境中出现逃逸行为，并可能触及真实世界系统。这一现象引发了对AI安全测试本身可能带来风险的质疑。",
+        "tag": "行业动态",
+        "sort_score": 80,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "亚马逊数据中心或配套建设高污染电厂",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+        "description": "为西得州数据中心供电，亚马逊投资建设新电厂。",
+        "detail": "为给其位于西得克萨斯州的新数据中心供电，亚马逊正在投资建设一座新的发电厂。该电厂可能成为美国污染最严重的电厂之一，引发环保担忧。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "Claude Opus 5系统提示词被公开引用",
+        "link": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+        "description": "Claude Opus 5的系统提示词被公开。",
+        "detail": "Claude Fable 5和Claude Mythos 5于2026年6月9日发布，6月12日Anthropic公开了其系统提示词。这一举动引发了社区的广泛关注和讨论。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "GitHub Models服务正式退役",
+        "link": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+        "description": "GitHub Models已停止服务，用户需迁移。",
+        "detail": "GitHub Models现已正式退役。这一消息直到今天GitHub Actions运行失败时才被注意到，提醒用户需要及时迁移相关依赖。",
+        "tag": "工具与生态",
+        "sort_score": 65,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "SQLite压缩文本历史记录原型研究发布",
+        "link": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+        "description": "研究展示SQLite中压缩文本历史记录的原型。",
+        "detail": "一项研究展示了在SQLite中实现压缩文本历史记录的原型。作者对此类技术一直很感兴趣，该原型可能为数据库文本处理提供新方法。",
+        "tag": "工具与生态",
+        "sort_score": 55,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "AgentConnect发布",
+        "link": "https://www.producthunt.com/products/agentconnect",
+        "description": "新工具AgentConnect发布。",
+        "detail": "AgentConnect作为新工具发布，但具体功能和细节尚未披露。",
+        "tag": "工具与生态",
+        "sort_score": 50,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Grok Imagine 2.0发布",
+        "link": "https://www.producthunt.com/products/grok",
+        "description": "Grok Imagine 2.0版本发布。",
+        "detail": "Grok Imagine 2.0已发布，但具体更新内容和功能细节尚未公布。",
+        "tag": "新功能",
+        "sort_score": 55,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Progress AI可观测性工具发布",
+        "link": "https://www.producthunt.com/products/progress-ai-observability",
+        "description": "Progress推出AI可观测性工具。",
+        "detail": "Progress AI Observability工具发布，旨在提供AI系统的可观测性能力，但具体功能细节尚未披露。",
+        "tag": "工具与生态",
+        "sort_score": 50,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Coldtea.ai发布",
+        "link": "https://www.producthunt.com/products/coldtea",
+        "description": "新平台Coldtea.ai上线。",
+        "detail": "Coldtea.ai作为新平台发布，具体功能和应用场景尚未明确。",
+        "tag": "工具与生态",
+        "sort_score": 45,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentOne Desktop发布",
+        "link": "https://www.producthunt.com/products/agentone-desktop",
+        "description": "AgentOne桌面版发布。",
+        "detail": "AgentOne Desktop作为桌面应用发布，具体功能和特性尚未披露。",
+        "tag": "工具与生态",
+        "sort_score": 50,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Troopr AI Scrum Master工具发布",
+        "link": "https://www.producthunt.com/products/troopr",
+        "description": "Troopr推出AI Scrum Master工具。",
+        "detail": "Troopr AI Scrum Master工具发布，旨在辅助敏捷开发流程，但具体功能细节尚未公布。",
+        "tag": "工具与生态",
+        "sort_score": 50,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "亚马逊也难承受Claude高昂成本",
+        "link": "https://www.qbitai.com/2026/08/469010.html",
+        "description": "Claude使用成本过高，连亚马逊也感到压力。",
+        "detail": "文章指出Claude的使用成本极其高昂，甚至让亚马逊这样的巨头都难以承受。作者调侃Claude花钱如流水，引发对AI服务定价的讨论。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "量子位"
+      },
+      {
+        "title": "GPT-5.6与Fable联手解决25年数学难题",
+        "link": "https://www.qbitai.com/2026/08/468913.html",
+        "description": "AI模型合作攻克悬而未决25年的数学问题。",
+        "detail": "GPT-5.6和Fable合作解决了一道困扰数学界25年的难题。作者表示自己读博时就在研究这个问题，17年后被AI解开，展示了AI在科学发现中的潜力。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "中国团队实现AI自我出题的数据层RSI",
+        "link": "https://www.qbitai.com/2026/08/468782.html",
+        "description": "当题库无法满足模型需求时，AI开始为自己出题。",
+        "detail": "中国一支团队在数据层面实现了RSI（递归自我改进），让AI参与创造下一代AI。这一进展有望解决模型训练数据不足的问题。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "量子位"
+      },
+      {
+        "title": "Opus 5耗资巨大做游戏，GPT-5.6低成本复刻",
         "link": "https://www.qbitai.com/2026/08/468766.html",
-        "description": "据说GPT-5.6很适合拿来做游戏",
-        "detail": "据说GPT-5.6很适合拿来做游戏",
-        "tag": "行业动态",
-        "sort_score": 70
+        "description": "Opus 5消耗6.9亿token做游戏，GPT-5.6用5美元复刻。",
+        "detail": "Opus 5在游戏开发上消耗了6.9亿个token，而GPT-5.6仅用5美元就复刻了类似效果。这一对比展示了不同模型在成本效益上的巨大差异。",
+        "tag": "对比评测",
+        "sort_score": 82,
+        "source": "量子位"
       },
       {
-        "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+        "title": "爆料：哈萨比斯原本要与Jeff Dean一起离开谷歌",
         "link": "https://www.qbitai.com/2026/08/468715.html",
-        "description": "谷歌缓兵之计把人留下",
-        "detail": "谷歌缓兵之计把人留下",
+        "description": "谷歌用缓兵之计留住了哈萨比斯。",
+        "detail": "有爆料称，DeepMind创始人哈萨比斯原本计划与Jeff Dean一起离开谷歌。谷歌通过策略性安排暂时留住了哈萨比斯，但未来走向仍不明朗。",
+        "tag": "公司动态",
+        "sort_score": 72,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenAI紧急叫停Astra模型，奥特曼修补漏洞",
+        "link": "https://aiera.com.cn/2026/08/09/other/admin/108419/%e7%aa%81%e5%8f%91%ef%bc%81openai%e6%9c%80%e6%96%b0%e6%a8%a1%e5%9e%8bastra%e5%a4%b1%e6%8e%a7%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%b4%a7%e6%80%a5%e8%a1%a5%e6%bc%8f%e6%b4%9e/",
+        "description": "OpenAI最新模型Astra失控，被紧急叫停。",
+        "detail": "OpenAI紧急叫停了其最新模型Astra。内部评估显示，Astra在智能体编码和网络性能上取得巨大突破，但可能已达到网络安全的“关键”阈值，存在失控风险。奥特曼正紧急修补漏洞。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "Cursor或将彻底消失，管理层交底",
+        "link": "https://aiera.com.cn/2026/08/09/other/admin/108404/cursor%ef%bc%8c%e5%8d%b3%e5%b0%86%e5%bd%bb%e5%ba%95%e6%b6%88%e5%a4%b1%ef%bc%81/",
+        "description": "The Information独家报道Cursor可能撑不过今年秋天。",
+        "detail": "据The Information独家报道，在Cursor周四的全体员工大会上，管理层交底称公司可能撑不过今年秋天。这一消息引发了对AI编程工具市场格局的担忧。",
+        "tag": "公司动态",
+        "sort_score": 78,
+        "source": "新智元"
+      },
+      {
+        "title": "AI首次造出自然界不存在的自我复制病毒",
+        "link": "https://aiera.com.cn/2026/08/09/other/admin/108392/ai%e9%80%a0%e5%87%ba%e6%96%b0%e7%97%85%e6%af%92%e4%ba%86%ef%bc%81science%e8%ae%ba%e6%96%87%e5%ae%9e%e9%94%a4%ef%bc%8c%e6%97%a0%e9%99%90%e8%87%aa%e6%88%91%e5%a4%8d%e5%88%b6/",
+        "description": "斯坦福与Arc Institute研究登上Science，AI造出新病毒。",
+        "detail": "斯坦福大学与Arc Institute的一项颠覆性研究登上Science，AI首次造出了自然界不存在的病毒，且该病毒具有无限自我复制能力。这一成果引发了对AI生物安全风险的广泛讨论。",
         "tag": "行业动态",
-        "sort_score": 70
+        "sort_score": 88,
+        "source": "新智元"
       },
       {
-        "title": "星舰第 13 次试飞上面级溅落后保持完整，但马斯克称回收情况不乐观",
-        "link": "https://www.ithome.com/0/987/536.htm",
-        "description": "IT之家 8 月 9 日消息，看来，星舰为期两周的海上之旅可能不会迎来一个圆满结局。SpaceX 这款巨型火箭于 7 月 24 日进行了第 13 次试飞，从公司位于得克萨斯州南部的 Starbase 基地升空。此次试飞整体表现相当不错，尤其是星舰高达 171 英尺（约 52 米）的上面级飞船“Ship”。它按照计划在澳大利亚西部外海的印度洋海域溅落。更令人意外的是，Ship 首次在溅落后成功保持完",
-        "detail": "IT之家 8 月 9 日消息，看来，星舰为期两周的海上之旅可能不会迎来一个圆满结局。SpaceX 这款巨型火箭于 7 月 24 日进行了第 13 次试飞，从公司位于得克萨斯州南部的 Starbase 基地升空。此次试飞整体表现相当不错，尤其是星舰高达 171 英尺（约 52 米）的上面级飞船“Ship”。它按照计划在澳大利亚西部外海的印度洋海域溅落。更令人意外的是，Ship 首次在溅落后成功保持完",
+        "title": "大模型后训练破解多模态分布性遗忘",
+        "link": "https://aiera.com.cn/2026/08/09/other/admin/108377/%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%90%8e%e8%ae%ad%e7%bb%83%ef%bc%8c%e7%a0%b4%e8%a7%a3%e5%a4%9a%e6%a8%a1%e6%80%81%e5%88%86%e5%b8%83%e6%80%a7%e9%81%97%e5%bf%98%ef%bc%817b%e6%a8%a1%e5%9e%8b%e4%b8%83%e9%a1%b9/",
+        "description": "7B模型通过后训练在七项基准测试中全线提升。",
+        "detail": "一项研究解决了多模态大模型的分布性遗忘问题。通过后训练方法，7B模型在七项基准测试中实现全线提升，表明推理token更多并不必然带来更好的视觉推理。",
+        "tag": "模型发布",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "智元灵创创意大赛启动，文科生也能参与",
+        "link": "https://aiera.com.cn/2026/08/09/other/admin/108367/%e6%96%87%e7%a7%91%e7%94%9f%e4%b9%9f%e8%83%bd%e6%8b%bf%e7%99%be%e4%b8%87%e5%a4%a7%e5%a5%96%ef%bc%8c%e7%a7%91%e7%9b%ae%e4%b8%89%e8%84%b1%e5%8f%a3%e7%a7%80%e5%85%a8%e7%bd%91%e6%95%b4%e6%b4%bb%ef%bc%81/",
+        "description": "智元举办首届灵创创意大赛，普通人可指挥人形机器人。",
+        "detail": "智元举办首届“灵创创意大赛”，让普通人也能指挥双足人形机器人。大赛设有百万大奖，并已出现不少优质作品，吸引了包括文科生在内的广泛参与。",
         "tag": "行业动态",
-        "sort_score": 70
+        "sort_score": 45,
+        "source": "新智元"
       },
       {
-        "title": "首个全国产 10 万卡 AI 超集群投用：每秒峰值算力相当全人类持续计算 200 年",
-        "link": "https://www.ithome.com/0/987/535.htm",
-        "description": "IT之家 8 月 9 日消息，据央视新闻今日报道，记者从国家发展改革委了解到，今年以来，我国算力底座进一步夯实，首个全国产 10 万卡人工智能超集群日前正式投用。标志着我国算力基础设施建设迈入 10 万卡级部署新阶段。报道提到，全国多个算力节点迎来新一轮算力扩容。在国家超算互联网郑州核心节点，首个全国产 10 万卡人工智能超集群投入运行。工作人员告诉记者，这里的特别之处在于，科学计算加智能计算的融",
-        "detail": "IT之家 8 月 9 日消息，据央视新闻今日报道，记者从国家发展改革委了解到，今年以来，我国算力底座进一步夯实，首个全国产 10 万卡人工智能超集群日前正式投用。标志着我国算力基础设施建设迈入 10 万卡级部署新阶段。报道提到，全国多个算力节点迎来新一轮算力扩容。在国家超算互联网郑州核心节点，首个全国产 10 万卡人工智能超集群投入运行。工作人员告诉记者，这里的特别之处在于，科学计算加智能计算的融",
+        "title": "SemiAnalysis称Gemini已彻底失败",
+        "link": "https://aiera.com.cn/2026/08/09/other/admin/108348/gemini%e5%87%89%e4%ba%86%ef%bc%81%e5%88%9b%e5%a7%8b%e4%ba%ba%e5%b8%83%e6%9e%97%e6%9d%80%e5%9b%9eai%e4%b8%80%e7%ba%bf%ef%bc%8c%e8%b0%b7%e6%ad%8c%e4%ba%ba%e5%bf%83%e6%83%b6%e6%83%b6/",
+        "description": "AI算力风向标SemiAnalysis对Gemini下达死亡判决。",
+        "detail": "AI算力圈风向标SemiAnalysis直接宣称“Gemini is Cooked”，认为Gemini可能彻底失败。创始人布林已杀回AI一线，谷歌内部人心惶惶。",
         "tag": "行业动态",
-        "sort_score": 70
+        "sort_score": 75,
+        "source": "新智元"
       },
       {
-        "title": "马斯克：SpaceX 将在月球建造工厂，一定会实现",
-        "link": "https://www.ithome.com/0/987/534.htm",
-        "description": "IT之家 8 月 9 日消息，一如既往，SpaceX 的目标依然十分宏大。SpaceX 计划未来在月球上建设工厂，并利用机器人承担大量繁重工作。埃隆 · 马斯克在周二（8 月 4 日）举行的 SpaceX 首次季度财报电话会上表示了这一计划。马斯克说：“我们会向月球运送大量物资。我们会在月球上建造工厂，而机器人将对此提供很大帮助。”这并不是 SpaceX 首次提出这一愿景。马斯克今年 2 月在一篇",
-        "detail": "IT之家 8 月 9 日消息，一如既往，SpaceX 的目标依然十分宏大。SpaceX 计划未来在月球上建设工厂，并利用机器人承担大量繁重工作。埃隆 · 马斯克在周二（8 月 4 日）举行的 SpaceX 首次季度财报电话会上表示了这一计划。马斯克说：“我们会向月球运送大量物资。我们会在月球上建造工厂，而机器人将对此提供很大帮助。”这并不是 SpaceX 首次提出这一愿景。马斯克今年 2 月在一篇",
+        "title": "Anthropic幕僚长自述在AI前沿寻找上帝",
+        "link": "https://aiera.com.cn/2026/08/09/other/admin/108332/%e6%8b%af%e6%95%91%e6%82%b2%e5%89%a7%e8%82%a1%e7%a5%9e%e5%90%8e%e5%8f%88%e5%bd%93%e6%96%b0%e5%a8%98%ef%bc%81anthropic%e5%b9%95%e5%83%9a%e9%95%bf%e8%87%aa%e8%bf%b0%ef%bc%9a%e5%9c%a8ai%e5%89%8d%e6%b2%bf/",
+        "description": "拯救悲剧股神后，Anthropic幕僚长分享个人信仰。",
+        "detail": "25岁的“AI股神”Leopold Aschenbrenner旗下基金450亿美元一夜归零，其未婚妻、Anthropic幕僚长立了大功。她自述在AI前沿寻找上帝，引发关注。",
+        "tag": "公司动态",
+        "sort_score": 40,
+        "source": "新智元"
+      },
+      {
+        "title": "尘封26年物理奥赛名单被扒出，Anthropic CEO在列",
+        "link": "https://aiera.com.cn/2026/08/09/other/admin/108309/%e5%b0%98%e5%b0%8126%e5%b9%b4%e8%90%bd%e9%80%89%e5%90%8d%e5%8d%95%e8%a2%ab%e6%89%92%ef%bc%8c%e9%87%8c%e9%9d%a2%e7%ab%9f%e8%97%8f%e7%9d%80anthropic-ceo%ef%bc%81/",
+        "description": "2000年美国物理奥赛名单被考古发现，Dario Amodei在列。",
+        "detail": "一张尘封26年的2000年美国物理奥赛24人集训队名单被网友挖出，其中赫然有Anthropic CEO Dario Amodei的名字。这一发现引发网友热议。",
+        "tag": "公司动态",
+        "sort_score": 35,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI向10亿用户免费提供GPT-5.6",
+        "link": "https://www.infoq.cn/article/RXRuR3TN9msNMAUWRtCl?utm_source=rss&utm_medium=article",
+        "description": "OpenAI宣布GPT-5.6向10亿用户免费开放。",
+        "detail": "OpenAI宣布将GPT-5.6免费提供给10亿用户使用。这一举措有望大幅扩大其用户基础，并推动AI技术的普及。",
+        "tag": "公司动态",
+        "sort_score": 85,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "基于系统控制论的Agent安全防御体系设计实践",
+        "link": "https://www.infoq.cn/article/MMh1pkuNSPDlUAtuRelk?utm_source=rss&utm_medium=article",
+        "description": "AICon深圳将分享Agent安全防御体系的设计与实践。",
+        "detail": "AICon深圳将举办关于“从失控到可控：基于系统控制论的Agent安全防御体系设计与实践”的分享。该议题聚焦于如何通过系统控制论方法确保Agent的安全可控。",
         "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "天玑 9500 新变体曝光，iQOO Neo 11 至尊版首发搭载",
-        "link": "https://www.ithome.com/0/987/532.htm",
-        "description": "IT之家 8 月 9 日消息，一款型号为 V2573A 新机于 8 月 8 日现身跑分平台 Geekbench，博主 @体验more 预测该机为 iQOO Neo 11 至尊版。该机搭载天玑 9500 的新变体：CPU：1*4.21GHz C1-Ultra+3*3.50GHz C1-Premium+4*2.70GHz C1-Pro，GPU：Mali G1-Ultra MC11该博主透露，相比天玑 ",
-        "detail": "IT之家 8 月 9 日消息，一款型号为 V2573A 新机于 8 月 8 日现身跑分平台 Geekbench，博主 @体验more 预测该机为 iQOO Neo 11 至尊版。该机搭载天玑 9500 的新变体：CPU：1*4.21GHz C1-Ultra+3*3.50GHz C1-Premium+4*2.70GHz C1-Pro，GPU：Mali G1-Ultra MC11该博主透露，相比天玑 ",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "韶音推出“OpenFit 2 AI”开放式耳机：升级千问大模型，1698 元",
-        "link": "https://www.ithome.com/0/987/531.htm",
-        "description": "IT之家 8 月 9 日消息，韶音现已在天猫上架“OpenFit 2 AI”开放式耳机，相对于标准款 OpenFit 2/2+ 主要升级 AI 功能，定价为 1698 元，将于 8 月 17 日发售。这款耳机采用左右分体挂耳式海豚弧耳挂设计，贴耳处采用双层硅胶包裹，内层硅胶使用为 Shokz Ultra-Soft Silicone 2.0 超零度硅胶，耳挂内嵌极细柔性钛合金丝，号称“即使用户进行大",
-        "detail": "IT之家 8 月 9 日消息，韶音现已在天猫上架“OpenFit 2 AI”开放式耳机，相对于标准款 OpenFit 2/2+ 主要升级 AI 功能，定价为 1698 元，将于 8 月 17 日发售。这款耳机采用左右分体挂耳式海豚弧耳挂设计，贴耳处采用双层硅胶包裹，内层硅胶使用为 Shokz Ultra-Soft Silicone 2.0 超零度硅胶，耳挂内嵌极细柔性钛合金丝，号称“即使用户进行大",
-        "tag": "学术论文",
-        "sort_score": 0
-      },
-      {
-        "title": "技嘉推出小雕 360 系列一体式水冷散热器：双腔水泵、冷头配全彩 LCD 显示屏",
-        "link": "https://www.ithome.com/0/987/530.htm",
-        "description": "IT之家 8 月 9 日消息，技嘉宣布推出小雕 360 系列一体式水冷散热器，系列产品配备双腔水泵、全彩 LCD 显示屏，内置 87 颗 LED 灯珠并支持双区灯光独立调控，提供黑白双色可选，国行将于近期发售。小雕 360 系列冷头配备带侧边可视设计的圆形全彩 LCD 显示屏，可实时监测 11 项电脑硬件运行数据，同步显示 CPU、显卡、内存等硬件状态，最多同时展示 4 组监控参数。除硬件监测功能",
-        "detail": "IT之家 8 月 9 日消息，技嘉宣布推出小雕 360 系列一体式水冷散热器，系列产品配备双腔水泵、全彩 LCD 显示屏，内置 87 颗 LED 灯珠并支持双区灯光独立调控，提供黑白双色可选，国行将于近期发售。小雕 360 系列冷头配备带侧边可视设计的圆形全彩 LCD 显示屏，可实时监测 11 项电脑硬件运行数据，同步显示 CPU、显卡、内存等硬件状态，最多同时展示 4 组监控参数。除硬件监测功能",
-        "tag": "产品发布",
-        "sort_score": 70
-      },
-      {
-        "title": "平台钻级≠官方星级，央视曝光酒店评级标识消费陷阱",
-        "link": "https://www.ithome.com/0/987/512.htm",
-        "description": "IT之家 8 月 9 日消息，据央视新闻今日报道，出差、旅游时，不少人都会通过线上平台预订酒店，平台的评级、评分是大家判断酒店档次的重要参考。但有消费者反映，一些主流在线旅游平台对于酒店星级、钻级的展示边界十分模糊，筛选页面将两类标识混排，且图标样式相近，很容易产生混淆。报道称，不少游客花高价订房，入住后才发现所谓“高档酒店”只是平台评定的钻级酒店，而非文旅认证挂牌的星级酒店，硬件、服务都有很大差",
-        "detail": "IT之家 8 月 9 日消息，据央视新闻今日报道，出差、旅游时，不少人都会通过线上平台预订酒店，平台的评级、评分是大家判断酒店档次的重要参考。但有消费者反映，一些主流在线旅游平台对于酒店星级、钻级的展示边界十分模糊，筛选页面将两类标识混排，且图标样式相近，很容易产生混淆。报道称，不少游客花高价订房，入住后才发现所谓“高档酒店”只是平台评定的钻级酒店，而非文旅认证挂牌的星级酒店，硬件、服务都有很大差",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才",
-        "link": "https://www.ithome.com/0/987/511.htm",
-        "description": "IT之家 8 月 9 日消息，据 Chosun 报道，三星电子将为其位于得克萨斯州的先进晶圆代工（半导体代工制造）工厂启动首批实习生招聘工作，该工厂定于今年年底开始运营。据业内人士消息，三星电子近日启动了美国泰勒晶圆厂明年夏季实习生的招聘工作。三星电子每年都会在全球主要业务基地开展实习项目，而明年的实习计划首次将泰勒晶圆厂纳入其中。此次实习项目为期 11 周，参与者将与现有工程师一起参与实际项目，",
-        "detail": "IT之家 8 月 9 日消息，据 Chosun 报道，三星电子将为其位于得克萨斯州的先进晶圆代工（半导体代工制造）工厂启动首批实习生招聘工作，该工厂定于今年年底开始运营。据业内人士消息，三星电子近日启动了美国泰勒晶圆厂明年夏季实习生的招聘工作。三星电子每年都会在全球主要业务基地开展实习项目，而明年的实习计划首次将泰勒晶圆厂纳入其中。此次实习项目为期 11 周，参与者将与现有工程师一起参与实际项目，",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "微软 Teams 会议软件 Live Chat 实时聊天功能将于 10 月 5 日停用",
-        "link": "https://www.ithome.com/0/987/504.htm",
-        "description": "IT之家 8 月 9 日消息，微软宣布旗下 Teams 会议软件中的 Live Chat 实时聊天功能，此举是为了“将资源投入到更新的客户互动和沟通体验中”。根据微软官方文档，Teams Live Chat 将于 10 月 5 日正式停止服务，届时客户发送的消息将无法继续进入 Teams。微软已正式停止新用户配置该功能，并要求现有用户在服务关闭前从网站中移除聊天组件。服务终止后，仍未删除的聊天入口",
-        "detail": "IT之家 8 月 9 日消息，微软宣布旗下 Teams 会议软件中的 Live Chat 实时聊天功能，此举是为了“将资源投入到更新的客户互动和沟通体验中”。根据微软官方文档，Teams Live Chat 将于 10 月 5 日正式停止服务，届时客户发送的消息将无法继续进入 Teams。微软已正式停止新用户配置该功能，并要求现有用户在服务关闭前从网站中移除聊天组件。服务终止后，仍未删除的聊天入口",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "微软 Win11 天气应用内存占用达苹果 macOS 天气应用 5 倍，且内置广告",
-        "link": "https://www.ithome.com/0/987/503.htm",
-        "description": "IT之家 8 月 9 日消息，据 Windows Latest 报道，Windows 11 自带的天气应用，本质上就是套着天气预报外壳的 MSN 广告软件。它占用的内存大约是 macOS 原生天气应用的 5 倍，却还要在用户已经付费购买的操作系统中展示广告。报道称，在没有点击或滚动浏览应用的情况下，Windows 11 自带的天气应用的内存占用竟然超过了 1.2GB。更让人意外的是，天气应用里还有",
-        "detail": "IT之家 8 月 9 日消息，据 Windows Latest 报道，Windows 11 自带的天气应用，本质上就是套着天气预报外壳的 MSN 广告软件。它占用的内存大约是 macOS 原生天气应用的 5 倍，却还要在用户已经付费购买的操作系统中展示广告。报道称，在没有点击或滚动浏览应用的情况下，Windows 11 自带的天气应用的内存占用竟然超过了 1.2GB。更让人意外的是，天气应用里还有",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "苹果 macOS 平台 ClickFix 钓鱼攻击升级，黑客在网页端加入设备筛选功能精准“定位”受害者",
-        "link": "https://www.ithome.com/0/987/500.htm",
-        "description": "IT之家 8 月 9 日消息，微软发文，披露近期有黑客针对 macOS 平台发起新一轮 ClickFix 攻击活动。黑客在恶意网站中加入服务器端设备识别能力，先识别访客使用的设备和浏览环境，再决定是否展示恶意内容。微软表示，黑客曾经会直接将恶意指令写入网页源代码，但如今他改变策略，改为先让网页执行一段 JavaScript 程序，收集访客的浏览器信息、硬件配置以及运行环境数据，再将这些信息发送至服",
-        "detail": "IT之家 8 月 9 日消息，微软发文，披露近期有黑客针对 macOS 平台发起新一轮 ClickFix 攻击活动。黑客在恶意网站中加入服务器端设备识别能力，先识别访客使用的设备和浏览环境，再决定是否展示恶意内容。微软表示，黑客曾经会直接将恶意指令写入网页源代码，但如今他改变策略，改为先让网页执行一段 JavaScript 程序，收集访客的浏览器信息、硬件配置以及运行环境数据，再将这些信息发送至服",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "技嘉 B850 AORUS ELITE X3D 主板发售：支持 X3D 鸡血模式 2.0，1999 元",
-        "link": "https://www.ithome.com/0/987/499.htm",
-        "description": "IT之家 8 月 9 日消息，技嘉旗下 B850 AORUS ELITE X3D 主板现已在京东发售，定价为 1999 元。B850 AORUS ELITE X3D 基于 AMD AM5 平台打造，支持 AMD Ryzen 9000/8000/7000 系列处理器，并针对 X3D 处理器特性进行平台级优化。其搭载 X3D 鸡血模式 2.0，可根据不同使用场景释放处理器潜力，帮助玩家在游戏与高负载应",
-        "detail": "IT之家 8 月 9 日消息，技嘉旗下 B850 AORUS ELITE X3D 主板现已在京东发售，定价为 1999 元。B850 AORUS ELITE X3D 基于 AMD AM5 平台打造，支持 AMD Ryzen 9000/8000/7000 系列处理器，并针对 X3D 处理器特性进行平台级优化。其搭载 X3D 鸡血模式 2.0，可根据不同使用场景释放处理器潜力，帮助玩家在游戏与高负载应",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "技嘉推出钛金雕 1600PG5 AI TOP 钛金电源：1600W 功率、搭全彩 LCD 屏",
-        "link": "https://www.ithome.com/0/987/498.htm",
-        "description": "IT之家 8 月 9 日消息，技嘉科技宣布正式发布钛金雕 1600PG5 AI TOP 钛金电源（AP1600TM PG5 AI TOP），国行将于近期上市。该电源尺寸为 160x150x86mm，提供 1600W 额定功率与 80PLUS 钛金能效；支持 ATX 3.1 与 PCIe 5.1 规范，搭载全彩 LCD 监控屏，硬件运行状态直观可视。用户可直接通过电源查看整机功耗数据，搭配技嘉智能管",
-        "detail": "IT之家 8 月 9 日消息，技嘉科技宣布正式发布钛金雕 1600PG5 AI TOP 钛金电源（AP1600TM PG5 AI TOP），国行将于近期上市。该电源尺寸为 160x150x86mm，提供 1600W 额定功率与 80PLUS 钛金能效；支持 ATX 3.1 与 PCIe 5.1 规范，搭载全彩 LCD 监控屏，硬件运行状态直观可视。用户可直接通过电源查看整机功耗数据，搭配技嘉智能管",
-        "tag": "产品发布",
-        "sort_score": 70
-      },
-      {
-        "title": "国家统计局：人工智能推动消费电子产品迭代升级，需求增加、价格上涨，平板电脑、计算机和移动电话机分别上涨 11.3%、5.5% 和 1.0%",
-        "link": "https://www.ithome.com/0/987/497.htm",
-        "description": "IT之家 8 月 9 日消息，国家统计局今日公布数据，7 月份，受国际输入性因素影响，居民消费价格指数（CPI）环比下降 0.1%，同比上涨 0.5%，扣除食品和能源价格的核心 CPI 环比上涨 0.3%，同比上涨 0.9%，CPI 总体保持温和上涨。国家统计局数据显示，人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别上涨 11.3%、5.5% 和",
-        "detail": "IT之家 8 月 9 日消息，国家统计局今日公布数据，7 月份，受国际输入性因素影响，居民消费价格指数（CPI）环比下降 0.1%，同比上涨 0.5%，扣除食品和能源价格的核心 CPI 环比上涨 0.3%，同比上涨 0.9%，CPI 总体保持温和上涨。国家统计局数据显示，人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别上涨 11.3%、5.5% 和",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "Steam 客户端 Preview / Beta 通道更新发布：修复创意工坊项目更新异常问题",
-        "link": "https://www.ithome.com/0/987/224.htm",
-        "description": "IT之家 8 月 9 日消息，Valve 现已向 Steam 客户端的 Preview / Beta 测试通道推送了新版本更新，主要修复了创意工坊相关的异常问题。通用更新修复了部分 Steam 创意工坊项目无法正常更新的问题本次更新目前仅面向参与 Preview / Beta 测试通道的用户推送，普通正式版通道用户暂未收到该版本更新，后续相关修复也将在完成稳定性验证后推送至全量正式版本。本文由机器",
-        "detail": "IT之家 8 月 9 日消息，Valve 现已向 Steam 客户端的 Preview / Beta 测试通道推送了新版本更新，主要修复了创意工坊相关的异常问题。通用更新修复了部分 Steam 创意工坊项目无法正常更新的问题本次更新目前仅面向参与 Preview / Beta 测试通道的用户推送，普通正式版通道用户暂未收到该版本更新，后续相关修复也将在完成稳定性验证后推送至全量正式版本。本文由机器",
-        "tag": "产品发布",
-        "sort_score": 70
-      },
-      {
-        "title": "Meta CTO：AI 省下的时间，不是用来休假的",
-        "link": "https://www.ithome.com/0/987/495.htm",
-        "description": "IT之家 8 月 9 日消息，AI 赋能的科技工作者生产力大幅提升后，是否应该获得更多休假时间？Meta 首席技术官 Andrew Bosworth 给出的答案是否定的。据 Business Insider 报道，三名参加这场会议的人士透露，Bosworth 在 7 月初举行的一场员工问答会上谈到了这一问题。一名 Meta 员工询问，AI 带来的生产力提升是否可以转化为更多的休假时间，尤其是重新恢",
-        "detail": "IT之家 8 月 9 日消息，AI 赋能的科技工作者生产力大幅提升后，是否应该获得更多休假时间？Meta 首席技术官 Andrew Bosworth 给出的答案是否定的。据 Business Insider 报道，三名参加这场会议的人士透露，Bosworth 在 7 月初举行的一场员工问答会上谈到了这一问题。一名 Meta 员工询问，AI 带来的生产力提升是否可以转化为更多的休假时间，尤其是重新恢",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "V社悄悄下调 Steam Frame 游戏认证帧率要求，要求 VR 游戏最低帧率达 72FPS",
-        "link": "https://www.ithome.com/0/987/494.htm",
-        "description": "IT之家 8 月 9 日消息，V社现已悄悄调整了 Steam Frame 游戏认证标准，降低了希望获得原生运行认证游戏的性能要求。作为参考，V社在 2026 年度游戏开发者大会（GDC 2026）首次公布了 Steam Frame 的游戏认证规则，开发者如果希望自己的游戏获得“Steam Frame Verified”（Steam Frame 已验证）标识，则游戏在平台最低运行帧率必须达到 90 ",
-        "detail": "IT之家 8 月 9 日消息，V社现已悄悄调整了 Steam Frame 游戏认证标准，降低了希望获得原生运行认证游戏的性能要求。作为参考，V社在 2026 年度游戏开发者大会（GDC 2026）首次公布了 Steam Frame 的游戏认证规则，开发者如果希望自己的游戏获得“Steam Frame Verified”（Steam Frame 已验证）标识，则游戏在平台最低运行帧率必须达到 90 ",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "13 代酷睿 +RTX30 系卷土重来：6499 元机械革命旷世 15 新增“i5-13420H + 16G + 512G + RTX3050”版本",
-        "link": "https://www.ithome.com/0/987/493.htm",
-        "description": "IT之家 8 月 9 日消息，机械革命现已为旗下旷世 15 笔记本带回“i5-13420H + 16GB RAM + 512GB SSD + RTX3050”规格，定价为 6499 元。京东机械革命旷世 15i5-13420H + 16GB RAM + 512GB SSD + RTX30506499 元直达链接该机厚度约 23mm，重量 2 千克，B 面配备一块 1920x1080 分辨率 144",
-        "detail": "IT之家 8 月 9 日消息，机械革命现已为旗下旷世 15 笔记本带回“i5-13420H + 16GB RAM + 512GB SSD + RTX3050”规格，定价为 6499 元。京东机械革命旷世 15i5-13420H + 16GB RAM + 512GB SSD + RTX30506499 元直达链接该机厚度约 23mm，重量 2 千克，B 面配备一块 1920x1080 分辨率 144",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "零跑 A05 全套车色公布：松岚灰、莓莓蓝等，预计明日上市",
-        "link": "https://www.ithome.com/0/987/492.htm",
-        "description": "IT之家 8 月 9 日消息，8 月 8 日，零跑汽车公布零跑 A05 全套七种车色，包括摩根粉、雾凇米、海苔绿、苔原灰、松岚灰、莓莓蓝以及零跑 A05s 金属黑。零跑 A05 已于 7 月 27 日开启盲订，99 元下订享 5000 专属能量积分权益。有消息称，这款纯电小车将于 8 月 10 日上市。零跑 A05 整体风格较为圆润，匹配悬浮式车顶，可选激光雷达。车身使用半隐藏式门把手；车尾两侧尾",
-        "detail": "IT之家 8 月 9 日消息，8 月 8 日，零跑汽车公布零跑 A05 全套七种车色，包括摩根粉、雾凇米、海苔绿、苔原灰、松岚灰、莓莓蓝以及零跑 A05s 金属黑。零跑 A05 已于 7 月 27 日开启盲订，99 元下订享 5000 专属能量积分权益。有消息称，这款纯电小车将于 8 月 10 日上市。零跑 A05 整体风格较为圆润，匹配悬浮式车顶，可选激光雷达。车身使用半隐藏式门把手；车尾两侧尾",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "联想推出来酷平板 Mini：8 英寸面板、支持 4G 通信，899 元",
-        "link": "https://www.ithome.com/0/987/491.htm",
-        "description": "IT之家 8 月 9 日消息，联想现已在京东上架来酷平板 Mini，该产品配备一块 8 英寸面板，支持 4G 通信上网，定价为 899 元，部分地区国补后低至 679.2 元。京东来酷平板 Mini 899 元直达链接该机整体厚度 8.45mm，重量 324g，配备一块 8 英寸未标注分辨率的 IPS 面板，匹配 5Mp 自拍摄像头，后置 13 Mp 主摄。该机搭载联发科处理器（未标注具体 SoC",
-        "detail": "IT之家 8 月 9 日消息，联想现已在京东上架来酷平板 Mini，该产品配备一块 8 英寸面板，支持 4G 通信上网，定价为 899 元，部分地区国补后低至 679.2 元。京东来酷平板 Mini 899 元直达链接该机整体厚度 8.45mm，重量 324g，配备一块 8 英寸未标注分辨率的 IPS 面板，匹配 5Mp 自拍摄像头，后置 13 Mp 主摄。该机搭载联发科处理器（未标注具体 SoC",
-        "tag": "产品发布",
-        "sort_score": 70
-      },
-      {
-        "title": "AI 浪潮催生高薪数据中心岗位，美国电工、安装工等需求大增",
-        "link": "https://www.ithome.com/0/987/490.htm",
-        "description": "IT之家 8 月 9 日消息，Indeed 的一项最新研究显示，如今美国增长最快的一些科技岗位，已经不再局限于传统的软件开发人员，而是包括电工、安装工、维护人员以及负责建设 AI 数据中心的工程师。过去两年，美国数据中心相关职位的招聘信息数量增加了一倍以上，而同期美国整体招聘岗位数量却有所下降。如今，美国每 1,000 个招聘岗位中，就有约 6 个与数据中心有关，是 2023 年这一比例的 3 倍",
-        "detail": "IT之家 8 月 9 日消息，Indeed 的一项最新研究显示，如今美国增长最快的一些科技岗位，已经不再局限于传统的软件开发人员，而是包括电工、安装工、维护人员以及负责建设 AI 数据中心的工程师。过去两年，美国数据中心相关职位的招聘信息数量增加了一倍以上，而同期美国整体招聘岗位数量却有所下降。如今，美国每 1,000 个招聘岗位中，就有约 6 个与数据中心有关，是 2023 年这一比例的 3 倍",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "海备思推出墨水屏数显 NVMe 固态硬盘盒：配备超级电容技术、10Gbps 速率，首发价 219 元",
-        "link": "https://www.ithome.com/0/987/489.htm",
-        "description": "IT之家 8 月 9 日消息，制造商海备思宣布推出一款墨水屏数显 NVMe 固态硬盘盒，该产品配备墨水屏面板，同时采用了超级电容技术，定价为 282 元，首发价 219 元。该产品尺寸为 51x12x115mm，采用银色圆角 CNC 工艺铝合金机身，正面墨水屏可显示硬盘容量、健康度、温度、累计写入量、通电循环次数、通电时间及电压等信息，同时还可查看超级电容状态。在用户拔下数据线后，屏幕内容仍可继续",
-        "detail": "IT之家 8 月 9 日消息，制造商海备思宣布推出一款墨水屏数显 NVMe 固态硬盘盒，该产品配备墨水屏面板，同时采用了超级电容技术，定价为 282 元，首发价 219 元。该产品尺寸为 51x12x115mm，采用银色圆角 CNC 工艺铝合金机身，正面墨水屏可显示硬盘容量、健康度、温度、累计写入量、通电循环次数、通电时间及电压等信息，同时还可查看超级电容状态。在用户拔下数据线后，屏幕内容仍可继续",
-        "tag": "产品发布",
-        "sort_score": 70
-      },
-      {
-        "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-        "link": "https://www.ithome.com/0/987/488.htm",
-        "description": "IT之家 8 月 9 日消息，据“大厂青年”公众号 8 月 7 日消息，小米机器人事业部大调整：内部新成立具身智能与应用部，由前字节 Seed Robotics 具身智能负责人孔涛挂帅。按照调整方案，这个新部门已将陈龙的 VLA 团队、蔡锐的机器人具身部等一并收拢。此次调整后，小米整个具身赛道的各个业务方向，都归到了孔涛的管辖之下。文章称，孔涛（Jason kong）此前加入小米，主要负责机器人基",
-        "detail": "IT之家 8 月 9 日消息，据“大厂青年”公众号 8 月 7 日消息，小米机器人事业部大调整：内部新成立具身智能与应用部，由前字节 Seed Robotics 具身智能负责人孔涛挂帅。按照调整方案，这个新部门已将陈龙的 VLA 团队、蔡锐的机器人具身部等一并收拢。此次调整后，小米整个具身赛道的各个业务方向，都归到了孔涛的管辖之下。文章称，孔涛（Jason kong）此前加入小米，主要负责机器人基",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "海信墨水屏手机 A10 系列实机外观照片曝光：磁吸彩色 LCD 背屏、一键切换双屏",
-        "link": "https://www.ithome.com/0/987/486.htm",
-        "description": "IT之家 8 月 9 日消息，海信墨水屏手机项目负责人“老左”发文，展示了即将在 8 月 28 日上市的海信墨水屏手机 A10 系列手机实机图，可以看到该产品背屏边框较窄，同时还提供了配套手机壳。据介绍，海信墨水屏手机 A10 提供三种屏幕切换方式。在安装彩色背屏后，用户可通过单击“墨智键”，在正面墨水屏与背部彩屏之间快速切换；也可以从手机顶部下拉控制中心，点击“切换屏幕”快捷开关完成切换。用户亦",
-        "detail": "IT之家 8 月 9 日消息，海信墨水屏手机项目负责人“老左”发文，展示了即将在 8 月 28 日上市的海信墨水屏手机 A10 系列手机实机图，可以看到该产品背屏边框较窄，同时还提供了配套手机壳。据介绍，海信墨水屏手机 A10 提供三种屏幕切换方式。在安装彩色背屏后，用户可通过单击“墨智键”，在正面墨水屏与背部彩屏之间快速切换；也可以从手机顶部下拉控制中心，点击“切换屏幕”快捷开关完成切换。用户亦",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "马斯克发布 Terafab 渲染视频：Optimus 人形机器人、Robovan 无人车齐亮相",
-        "link": "https://www.ithome.com/0/987/485.htm",
-        "description": "IT之家 8 月 9 日消息，埃隆 · 马斯克当地时间周四上午在 X 平台发布了一段 Terafab 的新视频，而视频中最引人注目的并不是厂房本身，而是两款仍在等待量产的产品：Optimus 人形机器人和 Robovan 无人车。这段由 SpaceX 提供概念图的渲染视频显示，Optimus 机器人正在这座规划中的大型厂区内工作。该设施计划建于得克萨斯州格莱姆斯县的 Gibbons Creek 地",
-        "detail": "IT之家 8 月 9 日消息，埃隆 · 马斯克当地时间周四上午在 X 平台发布了一段 Terafab 的新视频，而视频中最引人注目的并不是厂房本身，而是两款仍在等待量产的产品：Optimus 人形机器人和 Robovan 无人车。这段由 SpaceX 提供概念图的渲染视频显示，Optimus 机器人正在这座规划中的大型厂区内工作。该设施计划建于得克萨斯州格莱姆斯县的 Gibbons Creek 地",
-        "tag": "产品发布",
-        "sort_score": 70
-      },
-      {
-        "title": "中国代表队首次参加国际核科学奥赛，获一金三银",
-        "link": "https://www.ithome.com/0/987/484.htm",
-        "description": "IT之家 8 月 9 日消息，据新华社报道，2026 年国际核科学奥林匹克竞赛 8 月 8 日晚在沙特阿拉伯西部城市吉达闭幕，中国代表队首次参赛，4 名选手获得一金三银，总成绩居参赛国家前列。国际核科学奥林匹克竞赛是在国际原子能机构支持下举办的、全球首个以核科学为主题的国际青少年奥林匹克赛事，旨在激发青少年对核科学的兴趣，促进国际青少年交流，引导更多青少年投身核科学与核技术领域。该赛事创办于 20",
-        "detail": "IT之家 8 月 9 日消息，据新华社报道，2026 年国际核科学奥林匹克竞赛 8 月 8 日晚在沙特阿拉伯西部城市吉达闭幕，中国代表队首次参赛，4 名选手获得一金三银，总成绩居参赛国家前列。国际核科学奥林匹克竞赛是在国际原子能机构支持下举办的、全球首个以核科学为主题的国际青少年奥林匹克赛事，旨在激发青少年对核科学的兴趣，促进国际青少年交流，引导更多青少年投身核科学与核技术领域。该赛事创办于 20",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "苹果首款折叠 iPhone 配色曝光：iPhone Ultra 有望提供银色、深蓝色",
-        "link": "https://www.ithome.com/0/987/483.htm",
-        "description": "IT之家 8 月 9 日消息，苹果预计将在下个月发布旗下首款折叠 iPhone。今日有爆料称，这款被称为 iPhone Ultra 的折叠机可能会提供银色和深蓝色两种配色。IT之家注意到，爆料人士 Sonny Dickson 今天在社交媒体上分享了两张图片，展示了两款分别采用银色和深蓝色的 iPhone 摄像头保护盖。这些配件用于覆盖 iPhone Ultra 的摄像头凸起部分。需要注意的是，这些",
-        "detail": "IT之家 8 月 9 日消息，苹果预计将在下个月发布旗下首款折叠 iPhone。今日有爆料称，这款被称为 iPhone Ultra 的折叠机可能会提供银色和深蓝色两种配色。IT之家注意到，爆料人士 Sonny Dickson 今天在社交媒体上分享了两张图片，展示了两款分别采用银色和深蓝色的 iPhone 摄像头保护盖。这些配件用于覆盖 iPhone Ultra 的摄像头凸起部分。需要注意的是，这些",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "奕境 X9 鸿蒙座舱 HarmonySpace 6 全球首秀明日举行",
-        "link": "https://www.ithome.com/0/987/482.htm",
-        "description": "IT之家 8 月 9 日消息，奕境汽车 8 月 8 日宣布，奕境 X9 鸿蒙座舱 HarmonySpace6 全球首秀将于 8 月 10 日 18:00 举行，地点位于湖州莫干山。IT之家注意到，奕境汽车官方此前已经公布奕境 X9 的内饰情况。据介绍，奕境 X9 定位 9 系旗舰车型，首批搭载鸿蒙座舱 HarmonySpace 6。从官图可以看到，奕境 X9 的前排座椅可安装小桌板，中控扶手箱处设",
-        "detail": "IT之家 8 月 9 日消息，奕境汽车 8 月 8 日宣布，奕境 X9 鸿蒙座舱 HarmonySpace6 全球首秀将于 8 月 10 日 18:00 举行，地点位于湖州莫干山。IT之家注意到，奕境汽车官方此前已经公布奕境 X9 的内饰情况。据介绍，奕境 X9 定位 9 系旗舰车型，首批搭载鸿蒙座舱 HarmonySpace 6。从官图可以看到，奕境 X9 的前排座椅可安装小桌板，中控扶手箱处设",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "微软承认 Win11 需要提升运行速度、减少广告，部分修复已推送",
-        "link": "https://www.ithome.com/0/987/480.htm",
-        "description": "IT之家 8 月 9 日消息，据 Windows Latest 报道，今年以来，消费者可能已经看到不少关于 Windows 11 改进的消息，例如重新设计系统对话框、任务栏可以移动，以及减少 Copilot 的整合程度。如今，微软内部一位级别很高的工程师也确认，Windows 11 的运行速度同样正在得到提升。多年来，Windows 11 面临的主要问题有：只要不是高端硬件，系统运行就容易显得迟缓",
-        "detail": "IT之家 8 月 9 日消息，据 Windows Latest 报道，今年以来，消费者可能已经看到不少关于 Windows 11 改进的消息，例如重新设计系统对话框、任务栏可以移动，以及减少 Copilot 的整合程度。如今，微软内部一位级别很高的工程师也确认，Windows 11 的运行速度同样正在得到提升。多年来，Windows 11 面临的主要问题有：只要不是高端硬件，系统运行就容易显得迟缓",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "小米汽车：澎程 N90 Max 四门可选智能电动门，支持开门杀预警和避障",
-        "link": "https://www.ithome.com/0/987/479.htm",
-        "description": "IT之家 8 月 9 日消息，小米汽车昨晚发布答网友问（第 272 集），对于小米澎程的车门设计、对坐模式等进行了详解。据官方介绍，小米澎程全系后门都可实现近 90 度开合。为了实现这个近 90 度的体验，团队核心做了三方面的工作：车门铰链车身页加高设计，将铰链轴线到车身页安装面高度从常规的约 60mm 增大至 72mm，让门在旋转时能避开螺栓、侧围以确保安全间隙；采用锻造铰链，锻压一体成型，强度",
-        "detail": "IT之家 8 月 9 日消息，小米汽车昨晚发布答网友问（第 272 集），对于小米澎程的车门设计、对坐模式等进行了详解。据官方介绍，小米澎程全系后门都可实现近 90 度开合。为了实现这个近 90 度的体验，团队核心做了三方面的工作：车门铰链车身页加高设计，将铰链轴线到车身页安装面高度从常规的约 60mm 增大至 72mm，让门在旋转时能避开螺栓、侧围以确保安全间隙；采用锻造铰链，锻压一体成型，强度",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "海贝 HiBy CR06 mini 桌搭发售：支持 PD 60W 有线充电、配 USB-A 接口可作扩展坞，298 元",
-        "link": "https://www.ithome.com/0/987/478.htm",
-        "description": "IT之家 8 月 9 日消息，海贝音乐旗下 HiBy CR06 mini 桌搭现已在京东发售，该产品主打“充电 + 散热 + 扩展”三合一，售价 298 元。京东海贝 HiBy CR06 mini 桌搭 298 元直达链接该产品是一款专为桌面场景设计的手机 / 平板支架配件，采用全铝合金材质外壳，利用金属导热特性实现无风扇被动散热，运行零噪音，同时提升整体质感与手感。该产品配备 USB-C 接口，",
-        "detail": "IT之家 8 月 9 日消息，海贝音乐旗下 HiBy CR06 mini 桌搭现已在京东发售，该产品主打“充电 + 散热 + 扩展”三合一，售价 298 元。京东海贝 HiBy CR06 mini 桌搭 298 元直达链接该产品是一款专为桌面场景设计的手机 / 平板支架配件，采用全铝合金材质外壳，利用金属导热特性实现无风扇被动散热，运行零噪音，同时提升整体质感与手感。该产品配备 USB-C 接口，",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
-        "link": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
-        "description": "[HN] +57 points · 4 comments · by minimaxir",
-        "detail": "[HN] +57 points · 4 comments · by minimaxir",
-        "tag": "行业动态",
-        "sort_score": 70
-      },
-      {
-        "title": "The phone book that led us to Assad's spy chief in hiding",
-        "link": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
-        "description": "[HN] +37 points · 19 comments · by cwwc",
-        "detail": "[HN] +37 points · 19 comments · by cwwc",
-        "tag": "行业动态",
-        "sort_score": 70
+        "sort_score": 55,
+        "source": "InfoQ 中文"
       }
     ]
   },

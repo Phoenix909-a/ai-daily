@@ -2,8 +2,9 @@
 """
 AI Daily Briefing Generator — 每日 AI 进展自动简报生成器
 
-聚合 arXiv、HuggingFace、Reddit、NewsAPI 等多个信源，调用 DeepSeek API
-生成结构化中文简报并输出 Markdown 文件。
+聚合精选 AI 媒体（The Decoder、TechCrunch AI、The Verge AI、量子位、新智元、
+InfoQ 中文等）、Reddit、Hacker News、GitHub Trending 等多个信源，调用
+DeepSeek API 生成结构化中文简报并输出 Markdown 文件。
 
 Usage:
     python ai_daily.py                                    # 今天
@@ -17,7 +18,6 @@ Usage:
 
 环境变量:
     DEEPSEEK_API_KEY    必需   DeepSeek API Key
-    NEWSAPI_KEY         可选   NewsAPI Key (https://newsapi.org/register)
     HTTP_PROXY          可选   HTTP 代理地址
     HTTPS_PROXY         可选   HTTPS 代理地址 (requests 自动读取)
 
@@ -62,18 +62,35 @@ MAX_RETRIES = 2              # 快速失败后换源
 GENTLE_DELAY = 1.0           # 请求间隔（秒）
 USER_AGENT = "AIDailyBriefing/1.0"
 
-# arXiv RSS feeds (比 API 更稳定，中国大陆可访问)
-ARXIV_RSS = {
-    "cs.AI": "https://rss.arxiv.org/rss/cs.AI",
-    "cs.CL": "https://rss.arxiv.org/rss/cs.CL",
-    "cs.CV": "https://rss.arxiv.org/rss/cs.CV",
-    "cs.LG": "https://rss.arxiv.org/rss/cs.LG",
-}
+# 精选 AI 信源（focus: 模型进展 / Agent / 新功能 / 对比 / 使用趋势）
+# 每项: (名称, Feed 地址, 关键词过滤 or None=全部保留)
+_AI_FEED_KEYWORDS = (
+    "ai", "llm", "gpt", "claude", "gemini", "deepseek", "agent",
+    "openai", "anthropic", "mistral", "copilot", "chatbot", "grok",
+    "llama", "qwen", "kimi", "大模型", "模型", "人工智能", "智能体",
+    "ai 助手", "ai工具",
+)
 
-# HuggingFace 国内镜像
-HF_ENDPOINTS = [
-    "https://hf-mirror.com/api/daily_papers",       # 国内镜像，优先尝试
-    "https://huggingface.co/api/daily_papers",       # 官方源（需代理）
+NEWS_FEEDS = [
+    # ── 国外源（需代理时走 HTTP_PROXY） ──
+    ("The Decoder",    "https://www.the-decoder.com/feed/",                     None),
+    ("TechCrunch AI",  "https://techcrunch.com/category/artificial-intelligence/feed/", None),
+    ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/",             None),
+    ("The Verge AI",   "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", None),
+    ("TLDR AI",        "https://tldr.tech/rss",                                 _AI_FEED_KEYWORDS),
+    ("Ben's Bites",    "https://bensbites.com/feed/",                           None),
+    ("Simon Willison", "https://simonwillison.net/atom/everything/",            _AI_FEED_KEYWORDS),
+    ("OpenAI News",    "https://openai.com/news/rss.xml",                       None),
+    ("DeepMind Blog",  "https://deepmind.google/blog/rss.xml",                  None),
+    ("Product Hunt",   "https://www.producthunt.com/feed",                      _AI_FEED_KEYWORDS),
+    # ── 国内源（直连） ──
+    ("量子位",          "https://www.qbitai.com/feed",                            None),
+    ("新智元",          "https://www.aiera.com.cn/feed",                          None),
+    ("InfoQ 中文",      "https://www.infoq.cn/feed",                              _AI_FEED_KEYWORDS),
+    ("爱范儿",          "https://www.ifanr.com/feed",                             _AI_FEED_KEYWORDS),
+    ("少数派",          "https://sspai.com/feed",                                 _AI_FEED_KEYWORDS),
+    ("极客公园",        "https://www.geekpark.net/rss",                           _AI_FEED_KEYWORDS),
+    ("雷锋网",          "https://www.leiphone.com/feed",                          None),
 ]
 
 
@@ -153,199 +170,46 @@ def _rpost(url: str, **kwargs) -> Optional[requests.Response]:
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
-#  Source 1: arXiv
+#  Source 1: Reddit (AI 社区热帖 — needs proxy in China)
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def fetch_arxiv(target_date: date) -> list[dict]:
-    """Fetch papers for target date. RSS for today, Semantic Scholar for past."""
-    logger.info("[arXiv]  Fetching papers for %s …", target_date)
+REDDIT_SUBREDDITS = ["LocalLLaMA", "ClaudeAI", "AI_Agents", "OpenAI"]
 
-    # Strategy 1: RSS feeds (daily, only works for today)
-    papers = _fetch_arxiv_rss(target_date)
-    if papers:
-        return papers
-
-    # Strategy 2: Semantic Scholar (works for any date)
-    logger.info("  RSS gave 0 (past date), trying Semantic Scholar …")
-    papers = _fetch_semantic_scholar(target_date)
-    if papers:
-        return papers
-
-    logger.warning("  All strategies gave 0 papers (expected for past dates)")
-    return []
-
-
-def _fetch_arxiv_rss(target_date: date) -> list[dict]:
-    """Fetch from arXiv RSS feeds. Only contains recent papers."""
-    headers = {"User-Agent": USER_AGENT + " (mailto:user@example.com)"}
-    papers = []
-    seen_ids = set()
-
-    for cat_name, rss_url in ARXIV_RSS.items():
-        logger.debug("  RSS %s …", cat_name)
-        resp = _rget(rss_url, headers=headers)
-        if not resp:
-            continue
-
-        try:
-            root = ET.fromstring(resp.content)
-        except ET.ParseError:
-            continue
-
-        for item in root.findall(".//item"):
-            title = item.findtext("title", "Untitled").strip()
-            link = item.findtext("link", "").strip()
-            desc = item.findtext("description", "")
-            pub_str = item.findtext("pubDate", "")
-            arxiv_id = item.findtext("{http://arxiv.org/schemas/atom}id", "")
-
-            dedup_key = arxiv_id or link
-            if dedup_key in seen_ids:
-                continue
-            seen_ids.add(dedup_key)
-
-            # Filter by date
-            if pub_str:
-                try:
-                    pub_date = parsedate_to_datetime(pub_str).date()
-                    if pub_date != target_date:
-                        continue
-                except Exception:
-                    continue
-
-            clean_desc = re.sub(r"<[^>]+>", "", desc).strip()
-            clean_desc = re.sub(r"\s+", " ", clean_desc)[:1000]
-
-            arxiv_match = re.search(r"abs/(\d+\.\d+)", link)
-            paper_link = f"https://arxiv.org/abs/{arxiv_match.group(1)}" if arxiv_match else link
-
-            papers.append({
-                "title": title,
-                "summary": clean_desc,
-                "link": paper_link,
-                "authors": [],
-                "categories": [cat_name],
-            })
-
-        time.sleep(0.3)
-
-    papers = [p for p in papers if p["link"] and "arxiv.org" in p["link"]]
-    if papers:
-        logger.info("  -> %d papers (from RSS)", len(papers))
-    return papers
-
-
-def _fetch_semantic_scholar(target_date: date) -> list[dict]:
-    """Fetch AI papers from Semantic Scholar API."""
-    logger.debug("  Semantic Scholar …")
-
-    url = "https://api.semanticscholar.org/graph/v1/paper/search"
-    params = {
-        "query": "artificial intelligence machine learning deep learning large language model",
-        "year": str(target_date.year),
-        "limit": 20,
-        "fields": "title,url,publicationDate,openAccessPdf",
-    }
-
-    resp = _rget(url, params=params)
-    if not resp:
-        return []
-
-    try:
-        body = resp.json()
-    except json.JSONDecodeError:
-        return []
-
-    papers = []
-    target_s = target_date.strftime("%Y-%m-%d")
-    for p in body.get("data", []):
-        pub_date = p.get("publicationDate", "")
-        if not pub_date or pub_date[:10] != target_s:
-            continue
-        pdf = p.get("openAccessPdf") or {}
-        link = pdf.get("url") or p.get("url", "")
-        papers.append({
-            "title": p.get("title", "Untitled"),
-            "summary": "",
-            "link": link,
-            "authors": [],
-            "categories": [],
-        })
-
-    if papers:
-        logger.info("  -> %d papers (from Semantic Scholar)", len(papers))
-    return papers
-
-
-# ═══════════════════════════════════════════════════════════════════════════════
-#  Source 2: Hugging Face Daily Papers (with Chinese mirror)
-# ═══════════════════════════════════════════════════════════════════════════════
-
-def fetch_huggingface(target_date: date) -> list[dict]:
-    """Fetch daily papers from HuggingFace via mirror. Then Semantic Scholar fallback."""
-    logger.info("[HuggingFace]  Fetching …")
-
-    for endpoint in HF_ENDPOINTS:
-        logger.debug("  Trying %s …", endpoint)
-        resp = _rget(endpoint)
-        if not resp:
-            continue
-        try:
-            data = resp.json()
-        except (json.JSONDecodeError, TypeError):
-            continue
-        return _parse_hf_response(data, target_date)
-
-    logger.warning("  All HF endpoints failed")
-    return []
-
-
-def _parse_hf_response(data: list, target_date: date) -> list[dict]:
-    """Parse HuggingFace API response and filter by date."""
-    target_s = target_date.strftime("%Y-%m-%d")
-    papers = []
-
-    for item in data[:60]:
-        created = item.get("createdAt", "") or item.get("updatedAt", "")
-        paper = item.get("paper", item)
-        pub_date = paper.get("publicationDate", "")
-
-        if created and not created.startswith(target_s):
-            if pub_date and not pub_date.startswith(target_s):
-                continue
-
-        title = paper.get("title", item.get("title", "Untitled"))
-        summary = paper.get("summary", item.get("summary", ""))
-        paper_id = paper.get("id", "")
-        paper_url = f"https://arxiv.org/abs/{paper_id}" if paper_id else paper.get("url", "")
-
-        papers.append({
-            "title": title.strip(),
-            "summary": re.sub(r"\s+", " ", summary)[:1000] if summary else "",
-            "link": paper_url,
-            "source": "huggingface",
-        })
-
-    logger.info("  -> %d papers (from HF)", len(papers))
-    return papers
-
-
-# ═══════════════════════════════════════════════════════════════════════════════
-#  Source 3: Reddit r/MachineLearning (needs proxy in China)
-# ═══════════════════════════════════════════════════════════════════════════════
 
 def fetch_reddit(target_date: date) -> list[dict]:
-    """Fetch top posts from r/MachineLearning. May need proxy in China."""
+    """Fetch top posts from AI-focused subreddits. Needs proxy in China."""
     if not _has_proxy():
         logger.info("[Reddit]  Skipped (no proxy, blocked in China)")
         return []
 
     logger.info("[Reddit]  Fetching …")
 
+    all_posts = []
+    for sub in REDDIT_SUBREDDITS:
+        posts = _fetch_subreddit_day(sub, target_date)
+        if not posts:
+            posts = _fetch_reddit_hot(sub, target_date)
+        all_posts.extend(posts)
+        time.sleep(GENTLE_DELAY)
+
+    # Deduplicate by URL, keep highest score
+    seen = set()
+    unique = []
+    for p in sorted(all_posts, key=lambda x: x["score"], reverse=True):
+        if p["url"] not in seen:
+            seen.add(p["url"])
+            unique.append(p)
+
+    logger.info("  -> %d posts", len(unique))
+    return unique[:15]
+
+
+def _fetch_subreddit_day(sub: str, target_date: date) -> list[dict]:
+    """Search one subreddit for posts on the target date."""
     dt_start = datetime(target_date.year, target_date.month, target_date.day)
     dt_end = dt_start + timedelta(days=1)
 
-    url = "https://www.reddit.com/r/MachineLearning/search.json"
+    url = f"https://www.reddit.com/r/{sub}/search.json"
     params = {
         "q": f"timestamp:{int(dt_start.timestamp())}..{int(dt_end.timestamp())}",
         "restrict_sr": "on", "sort": "top", "syntax": "cloudsearch", "limit": 100,
@@ -354,12 +218,12 @@ def fetch_reddit(target_date: date) -> list[dict]:
 
     resp = _rget(url, params=params, headers=headers)
     if not resp:
-        return _fetch_reddit_hot(target_date)
+        return []
 
     try:
         body = resp.json()
     except json.JSONDecodeError:
-        return _fetch_reddit_hot(target_date)
+        return []
 
     posts = []
     for child in body.get("data", {}).get("children", []):
@@ -377,15 +241,15 @@ def fetch_reddit(target_date: date) -> list[dict]:
         })
 
     posts.sort(key=lambda x: x["score"], reverse=True)
-    logger.info("  -> %d posts", len(posts))
+    logger.debug("  %s: %d posts", sub, len(posts))
     return posts[:15]
 
 
-def _fetch_reddit_hot(target_date: date) -> list[dict]:
-    """Fallback: paginate hot listing."""
-    logger.debug("  [Fallback] Hot listing …")
+def _fetch_reddit_hot(sub: str, target_date: date) -> list[dict]:
+    """Fallback: paginate hot listing for one subreddit."""
+    logger.debug("  [Fallback] %s hot listing …", sub)
 
-    url = "https://www.reddit.com/r/MachineLearning/hot.json"
+    url = f"https://www.reddit.com/r/{sub}/hot.json"
     headers = {"User-Agent": f"{USER_AGENT} (by /u/ai_briefing_bot)"}
     posts = []
     after = None
@@ -434,80 +298,32 @@ def _fetch_reddit_hot(target_date: date) -> list[dict]:
         time.sleep(1.0)
 
     posts.sort(key=lambda x: x["score"], reverse=True)
-    logger.debug("  -> %d posts", len(posts))
+    logger.debug("  %s: %d posts", sub, len(posts))
     return posts[:15]
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
-#  Source 4: NewsAPI (needs NEWSAPI_KEY + proxy in China)
+#  Source 2: RSS Feeds (精选国内外 AI 媒体)
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def fetch_newsapi(target_date: date) -> list[dict]:
-    """Fetch AI-related news from NewsAPI."""
-    api_key = os.environ.get("NEWSAPI_KEY", "")
-    if not api_key:
-        logger.info("[NewsAPI]  No NEWSAPI_KEY set, skipped")
-        return []
+def _matches_ai_keywords(title: str, desc: str, keywords) -> bool:
+    """Check if a feed item looks AI-related (word-boundary aware)."""
+    text = f"{title} {desc}".lower()
+    for kw in keywords:
+        if kw.isascii() and len(kw) <= 3:
+            if re.search(rf"\b{re.escape(kw)}\b", text):
+                return True
+        elif kw in text:
+            return True
+    return False
 
-    if not _has_proxy():
-        logger.info("[NewsAPI]  Skipped (no proxy)")
-        return []
-
-    logger.info("[NewsAPI]  Fetching …")
-
-    date_s = target_date.strftime("%Y-%m-%d")
-    params = {
-        "q": '"artificial intelligence" OR "AI" OR "large language model" OR "machine learning"',
-        "from": date_s, "to": date_s, "language": "en",
-        "sortBy": "popularity", "pageSize": 30, "apiKey": api_key,
-    }
-
-    resp = _rget("https://newsapi.org/v2/everything", params=params)
-    if not resp:
-        return []
-
-    try:
-        body = resp.json()
-    except json.JSONDecodeError:
-        return []
-
-    if body.get("status") != "ok":
-        logger.warning("  API error: %s", body.get("message", "unknown"))
-        return []
-
-    articles = []
-    for art in body.get("articles", []):
-        title = (art.get("title") or "").strip()
-        if not title or title == "[Removed]":
-            continue
-        articles.append({
-            "title": title,
-            "description": (art.get("description") or "")[:500],
-            "url": art.get("url", ""),
-            "source": art.get("source", {}).get("name", ""),
-        })
-
-    logger.info("  -> %d articles", len(articles))
-    return articles[:20]
-
-
-# ═══════════════════════════════════════════════════════════════════════════════
-#  Source 5: RSS Feeds (Chinese tech media — 国内直连)
-# ═══════════════════════════════════════════════════════════════════════════════
 
 def fetch_rss_feeds(target_date: date) -> list[dict]:
-    """Fetch from Chinese AI media: 量子位, 雷锋网, 36氪, IT之家."""
-    logger.info("[RSS]  Fetching Chinese tech media …")
-
-    feeds = [
-        ("量子位", "https://www.qbitai.com/feed"),
-        ("雷锋网", "https://www.leiphone.com/feed"),
-        ("36氪", "https://36kr.com/feed"),
-        ("IT之家", "https://www.ithome.com/rss/"),
-    ]
+    """Fetch from curated international + Chinese AI media feeds."""
+    logger.info("[RSS]  Fetching curated AI feeds (%d sources) …", len(NEWS_FEEDS))
 
     items = []
-    for name, feed_url in feeds:
+    for name, feed_url, keywords in NEWS_FEEDS:
         logger.debug("  Fetching %s …", name)
         resp = _rget(feed_url)
         if not resp:
@@ -515,7 +331,9 @@ def fetch_rss_feeds(target_date: date) -> list[dict]:
             continue
 
         try:
-            root = ET.fromstring(resp.content)
+            raw_xml = resp.content.decode("utf-8", errors="ignore")
+            raw_xml = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", raw_xml)
+            root = ET.fromstring(raw_xml)
         except ET.ParseError as e:
             logger.warning("  %s XML error: %s", name, e)
             continue
@@ -526,6 +344,9 @@ def fetch_rss_feeds(target_date: date) -> list[dict]:
             link = entry.findtext("link", "")
             desc = entry.findtext("description", "")
             pub_str = entry.findtext("pubDate", "")
+
+            if keywords and not _matches_ai_keywords(title, desc or "", keywords):
+                continue
 
             if pub_str:
                 try:
@@ -562,7 +383,10 @@ def fetch_rss_feeds(target_date: date) -> list[dict]:
             link = el.attrib.get("href", "") if el is not None else ""
 
             el = entry.find(f"{atom}summary")
-            desc = re.sub(r"<[^>]+>", "", el.text or "")[:500]
+            desc = re.sub(r"<[^>]+>", "", el.text or "")[:500] if el is not None else ""
+
+            if keywords and not _matches_ai_keywords(title, desc, keywords):
+                continue
 
             items.append({
                 "title": title.strip(),
@@ -619,6 +443,8 @@ def fetch_hackernews(target_date: date) -> list[dict]:
             continue
 
         title = story.get("title", "")
+        if not _matches_ai_keywords(title, "", _AI_FEED_KEYWORDS):
+            continue
         url = story.get("url", f"https://news.ycombinator.com/item?id={story_id}")
         score = story.get("score", 0)
         descendants = story.get("descendants", 0)
@@ -643,16 +469,16 @@ def fetch_hackernews(target_date: date) -> list[dict]:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 def fetch_github_trending(target_date: date) -> list[dict]:
-    """Fetch trending AI/ML repos from GitHub (created or recently updated)."""
+    """Fetch trending AI/ML/Agent repos recently active on GitHub."""
     logger.info("[GitHub]  Fetching trending repos …")
 
-    # Search for repos created recently with AI/ML topics, sorted by stars
+    # Search for recently-active repos with AI/ML/Agent topics, sorted by stars
     date_s = target_date.strftime("%Y-%m-%d")
     query = (
         f"(topic:artificial-intelligence OR topic:machine-learning "
         f"OR topic:deep-learning OR topic:llm OR topic:large-language-model "
-        f"OR topic:generative-ai)"
-        f"+created:>={date_s}"
+        f"OR topic:generative-ai OR topic:ai-agents OR topic:agents)"
+        f"+pushed:>={date_s}"
     )
 
     params = {
@@ -675,9 +501,6 @@ def fetch_github_trending(target_date: date) -> list[dict]:
 
     items = []
     for r in body.get("items", []):
-        created = r.get("created_at", "")[:10]
-        if created != date_s:
-            continue
         items.append({
             "title": r["full_name"],
             "link": r["html_url"],
@@ -875,7 +698,14 @@ def call_deepseek(system_prompt: str, user_prompt: str,
 #  Briefing Generation
 # ═══════════════════════════════════════════════════════════════════════════════
 
-SYSTEM_PROMPT = """你是一个专业的 AI 领域新闻简报编辑。你的任务是根据提供的原始素材，生成一份结构清晰、信息密度高的每日 AI 简报。
+SYSTEM_PROMPT = """你是一个专业的 AI 领域新闻简报编辑。你的任务是根据提供的原始素材，生成一份聚焦「AI 模型与 Agent 进展」的每日中文简报。
+
+内容定位（按重要性排序）：
+1. 新模型 / 新版本发布与能力更新（OpenAI、Anthropic、Google、Meta、DeepSeek、Mistral 等）
+2. Agent 进展（智能体框架、多智能体、Agent 能力与评测）
+3. 新功能上线与产品更新（各 AI 产品、工具的新功能）
+4. 模型 / Agent 横向对比与评测
+5. 大家都在用什么（热门工具、GitHub 项目、社区讨论趋势）
 
 请严格按照以下格式输出（Markdown 格式）：
 
@@ -884,44 +714,36 @@ SYSTEM_PROMPT = """你是一个专业的 AI 领域新闻简报编辑。你的任
 ## 今日摘要
 3-5 句话概括今日最重要的 AI 进展。
 
-## 重磅论文
-每项包含：标题、一句话中文解读（30字以内）、arXiv 链接。只列出真正重要的论文。
+## 重磅动态
+每项包含：标题、一句话中文解读（30字以内）、来源链接。聚焦模型发布 / Agent 进展 / 新功能。
 
-## 重要新闻
-每项包含：标题、简要内容（一两句话）、原文链接。
+## 对比与评测
+（如果素材中有模型或 Agent 对比、测评类内容）
+
+## 工具与趋势
+热门工具、GitHub 项目、社区在讨论什么。
 
 ## 社区热议
-每项包含：帖子标题、关键观点摘录（一句话）、Reddit 链接。
-
-## 中文科技媒体
-（如果素材中有的话）
+Reddit / Hacker News 高热度讨论，每项包含：帖子标题、关键观点摘录、链接。
 
 注意事项：
 - 所有解读和摘要使用中文
-- 突出重点，避免罗列
+- 突出重点，宁缺毋滥，不罗列无关新闻
 - 保持客观，不添加素材中没有的信息
 - 每条不超过 100 字"""
 
 
-def _format_prompt(papers: list, news: list, reddit: list, rss: list) -> str:
+def _format_prompt(media: list, reddit: list, hackernews: list, github: list) -> str:
     """Format raw data into a prompt for the LLM."""
     parts = []
 
-    # Papers
-    parts.append("## 今日论文\n")
-    for i, p in enumerate(papers[:25], 1):
-        parts.append(f"{i}. [{p['title']}]({p['link']})")
-        if p.get("summary"):
-            parts.append(f"   {p['summary'][:300]}")
-        parts.append("")
-
-    # News
-    if news:
-        parts.append("\n## 科技新闻\n")
-        for i, art in enumerate(news[:15], 1):
-            parts.append(f"{i}. [{art['title']}]({art['url']})")
-            if art.get("description"):
-                parts.append(f"   {art['description'][:300]}")
+    # 精选媒体（模型/Agent/新功能/对比/使用趋势）
+    if media:
+        parts.append("## 今日媒体动态（模型 / Agent / 新功能 / 对比 / 使用趋势）\n")
+        for i, item in enumerate(media[:25], 1):
+            parts.append(f"{i}. [{item['title']}]({item['link']})  [{item.get('source', '')}]")
+            if item.get("description"):
+                parts.append(f"   {item['description'][:300]}")
             parts.append("")
 
     # Reddit
@@ -936,19 +758,27 @@ def _format_prompt(papers: list, news: list, reddit: list, rss: list) -> str:
                 parts.append(f"   {post['selftext'][:300]}")
             parts.append("")
 
-    # RSS
-    if rss:
-        parts.append("\n## 中文科技媒体\n")
-        for i, item in enumerate(rss[:10], 1):
-            parts.append(f"{i}. [{item['title']}]({item['link']})  [{item.get('source', '')}]")
+    # Hacker News
+    if hackernews:
+        parts.append("\n## Hacker News 讨论\n")
+        for i, item in enumerate(hackernews[:10], 1):
+            parts.append(f"{i}. [{item['title']}]({item['link']})  [{item.get('description', '')}]")
+            parts.append("")
+
+    # GitHub 热门项目
+    if github:
+        parts.append("\n## GitHub 热门 AI 项目\n")
+        for i, item in enumerate(github[:10], 1):
+            stars = item.get("stars", "")
+            parts.append(f"{i}. [{item['title']}]({item['link']})  ⭐{stars}")
             if item.get("description"):
-                parts.append(f"   {item['description'][:300]}")
+                parts.append(f"   {item['description'][:200]}")
             parts.append("")
 
     return "\n".join(parts)
 
 
-def _raw_briefing(papers: list, news: list, reddit: list, rss: list,
+def _raw_briefing(media: list, reddit: list, hackernews: list, github: list,
                   target_date: date) -> str:
     """Generate a simple markdown briefing without AI (fallback)."""
     date_s = target_date.strftime("%Y-%m-%d")
@@ -959,20 +789,12 @@ def _raw_briefing(papers: list, news: list, reddit: list, rss: list,
         "",
     ]
 
-    if papers:
-        lines += ["## Papers", ""]
-        for p in papers[:20]:
-            lines.append(f"- [{p['title']}]({p['link']})")
-            if p.get("authors"):
-                lines.append(f"  *Authors: {', '.join(p['authors'][:5])}*")
-            lines.append("")
-
-    if news:
-        lines += ["## News", ""]
-        for art in news[:15]:
-            lines.append(f"- [{art['title']}]({art['url']})")
-            if art.get("description"):
-                lines.append(f"  {art['description'][:200]}")
+    if media:
+        lines += ["## 今日动态", ""]
+        for item in media[:25]:
+            lines.append(f"- [{item['title']}]({item['link']})  [{item.get('source', '')}]")
+            if item.get("description"):
+                lines.append(f"  {item['description'][:200]}")
             lines.append("")
 
     if reddit:
@@ -981,23 +803,30 @@ def _raw_briefing(papers: list, news: list, reddit: list, rss: list,
             lines.append(f"- [{post['title']}]({post['url']})  (+{post['score']})")
             lines.append("")
 
-    if rss:
-        lines += ["## Chinese Media", ""]
-        for item in rss[:10]:
+    if hackernews:
+        lines += ["## Hacker News", ""]
+        for item in hackernews[:10]:
             lines.append(f"- [{item['title']}]({item['link']})")
+            lines.append("")
+
+    if github:
+        lines += ["## GitHub 热门 AI 项目", ""]
+        for item in github[:10]:
+            stars = item.get("stars", "")
+            lines.append(f"- [{item['title']}]({item['link']})  ⭐{stars}")
             lines.append("")
 
     return "\n".join(lines)
 
 
-def generate_briefing(papers: list, news: list, reddit: list, rss: list,
+def generate_briefing(media: list, reddit: list, hackernews: list, github: list,
                       target_date: date, skip_summary: bool = False) -> str:
     """Generate the briefing via DeepSeek or raw fallback."""
     if skip_summary:
         logger.info("[Main]  Skip-summary mode")
-        return _raw_briefing(papers, news, reddit, rss, target_date)
+        return _raw_briefing(media, reddit, hackernews, github, target_date)
 
-    user_prompt = _format_prompt(papers, news, reddit, rss)
+    user_prompt = _format_prompt(media, reddit, hackernews, github)
 
     if len(user_prompt) > 120_000:
         logger.warning("  Truncating prompt from %d to 120k chars", len(user_prompt))
@@ -1008,7 +837,7 @@ def generate_briefing(papers: list, news: list, reddit: list, rss: list,
         return result
 
     logger.warning("[Main]  DeepSeek failed, using raw briefing")
-    return _raw_briefing(papers, news, reddit, rss, target_date)
+    return _raw_briefing(media, reddit, hackernews, github, target_date)
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -1097,20 +926,54 @@ def _categorize_news(item: dict) -> str:
     url = item.get("link", "")
     all_text = f"{title} {source} {url}".lower()
 
+    def kw_in(keywords) -> bool:
+        for kw in keywords:
+            if kw.isascii():
+                if re.search(rf"\b{re.escape(kw)}\b", all_text):
+                    return True
+            elif kw in all_text:
+                return True
+        return False
+
     # Keyword-based classification
-    if any(k in all_text for k in ["arxiv.org", "论文", "benchmark", "sota", "模型", "transformer"]):
-        return "学术论文"
-    if any(k in all_text for k in ["融资", "估值", "投资", "轮融资", "亿元"]):
-        return "投融资"
-    if any(k in all_text for k in ["发布", "开源", "上线", "推出", "全新"]):
-        return "产品发布"
-    if any(k in all_text for k in ["收购", "ipo", "招股书", "财报", "营收", "挖走", "加盟"]):
+    if kw_in(["agent", "智能体", "autonomous", "multi-agent", "mcp",
+              "computer use", "computer-use", "copilot"]):
+        return "Agent 进展"
+    if kw_in(["对比", "vs", "benchmark", "评测", "测评", "排行榜", "跑分",
+              "comparison", "tested"]):
+        return "对比评测"
+    if kw_in(["发布", "上新", "推出", "开源", "release", "launch", "新模型", "升级",
+              "gpt-", "claude", "gemini", "deepseek", "llama", "qwen", "mistral",
+              "grok", "opus", "sonnet", "haiku", "新版本", "模型"]):
+        return "模型发布"
+    if kw_in(["新功能", "功能", "update", "更新", "上线", "feature", "auto mode",
+              "canvas", "artifacts", "插件", "集成"]):
+        return "新功能"
+    if kw_in(["github", "trending", "开源项目", "工具", "教程", "使用", "prompt",
+              "api", "插件"]):
+        return "工具与生态"
+    if kw_in(["融资", "估值", "ipo", "收购", "财报", "营收", "裁员", "并购"]):
         return "公司动态"
-    if any(k in all_text for k in ["开源", "github", "开放源码"]):
-        return "开源项目"
-    if any(k in all_text for k in ["行业", "市场", "增长", "目标", "赛道"]):
-        return "商业动态"
     return "行业动态"
+
+
+_OFF_TOPIC_HINTS = (
+    "scam", "fraud", "lawsuit", "court", "sued", "energy", "electricity",
+    "carbon", "hiring", "layoff", "jobs", "salary", "employment",
+    "移民", "诉讼", "裁员",
+)
+
+
+def _fallback_sort_score(item: dict, tag: str) -> int:
+    """Rule-based importance score used when DeepSeek enrichment is off."""
+    base = {
+        "模型发布": 90, "Agent 进展": 88, "对比评测": 86, "新功能": 82,
+        "工具与生态": 76, "公司动态": 68, "行业动态": 58,
+    }.get(tag, 60)
+    text = f"{item.get('title', '')} {item.get('description', '')}".lower()
+    if any(k in text for k in _OFF_TOPIC_HINTS):
+        base = min(base, 35)
+    return base
 
 
 def _enrich_news_deepseek(raw_news: list, target_date: date) -> list:
@@ -1120,17 +983,24 @@ def _enrich_news_deepseek(raw_news: list, target_date: date) -> list:
 
     # Build a compact prompt
     news_text = ""
-    for i, item in enumerate(raw_news[:25], 1):
+    for i, item in enumerate(raw_news, 1):
         desc = item.get("description", "")[:100]
         news_text += f"{i}. {item['title']}\n   {desc}\n"
 
     system_prompt = """你是一个 AI 新闻编辑。你的任务是将原始新闻列表加工成结构化数据。
 对每条新闻，你需要：
 1. 清洗标题：去掉"刚刚"、"独家｜"等前缀，改写成"主体 + 事件"的新闻标题风格
-2. 添加分类标签：从 [公司动态, 产品发布, 行业动态, 投融资, 学术论文, 商业动态, 开源项目] 中选择
+2. 添加分类标签：从 [模型发布, Agent 进展, 新功能, 对比评测, 工具与生态, 公司动态, 行业动态] 中选择
 3. 写一句话简介（15-30字）
 4. 写详细摘要（2-4句话，50-100字）
-5. 给重要度打分（1-100），综合考量行业影响力、话题热度和技术突破性
+5. 给重要度打分（1-100）。打分标准：
+   - 新模型/新版本发布：90-100
+   - Agent 能力或框架重大进展：85-95
+   - 重要新功能上线：80-90
+   - 模型/Agent 对比评测：75-90
+   - 热门工具与使用趋势：70-85
+   - 普通公司动态：60-75
+   - 泛泛而谈、与 AI 模型/Agent 无关的新闻：0-40
 
 严格按照以下 JSON 格式输出（只输出 JSON，不要其他文字）：
 {
@@ -1148,7 +1018,7 @@ def _enrich_news_deepseek(raw_news: list, target_date: date) -> list:
     user_prompt = f"请处理以下 {target_date} 的 AI 新闻：\n\n{news_text}"
 
     result = call_deepseek(system_prompt, user_prompt,
-                           temperature=0.2, max_tokens=4096)
+                           temperature=0.2, max_tokens=6000)
     if not result:
         return []
 
@@ -1171,8 +1041,7 @@ def _enrich_news_deepseek(raw_news: list, target_date: date) -> list:
     return []
 
 
-def _build_json_entry(target_date: date, papers: list, news_api: list,
-                      reddit: list, rss: list, md_content: str,
+def _build_json_entry(target_date: date, rss: list, md_content: str,
                       max_news: int = 20,
                       hackernews: Optional[list] = None,
                       github: Optional[list] = None) -> dict:
@@ -1184,9 +1053,8 @@ def _build_json_entry(target_date: date, papers: list, news_api: list,
     # ── Summary ──
     summary = _extract_summary_from_md(md_content)
     if not summary:
-        paper_count = len(papers)
-        news_count = len(news_api) + len(rss)
-        summary = f"今日共收录 {paper_count} 篇论文、{news_count} 条新闻。"
+        total = len(rss) + len(hackernews) + len(github)
+        summary = f"今日共收录 {total} 条 AI 动态。"
         if rss:
             sources = set(item.get("source", "") for item in rss)
             summary += f" 来源包括：{', '.join(sorted(sources))}。"
@@ -1201,18 +1069,6 @@ def _build_json_entry(target_date: date, papers: list, news_api: list,
         if url and url not in seen_urls:
             seen_urls.add(url)
             raw_items.append(item)
-
-    # NewsAPI
-    for item in news_api:
-        url = item.get("url", "")
-        if url and url not in seen_urls:
-            seen_urls.add(url)
-            raw_items.append({
-                "title": item["title"],
-                "description": item.get("description", ""),
-                "link": url,
-                "source": item.get("source", ""),
-            })
 
     # Hacker News
     for item in hackernews:
@@ -1238,36 +1094,16 @@ def _build_json_entry(target_date: date, papers: list, news_api: list,
                 "source": "github",
             })
 
-    # Top papers (with summaries) — limit to 5 to keep focus on news/hot topics
-    paper_count = 0
-    MAX_PAPERS = 5
-    for p in papers:
-        url = p.get("link", "")
-        if not url or url in seen_urls:
-            continue
-        desc = p.get("summary", "")[:200]
-        if not desc:
-            desc = f"arXiv · {', '.join(p.get('categories', []))}"
-        raw_items.append({
-            "title": p["title"],
-            "description": desc,
-            "link": url,
-            "source": "arxiv",
-        })
-        seen_urls.add(url)
-        paper_count += 1
-        if paper_count >= MAX_PAPERS or len(raw_items) >= max_news + 10:
-            break
-
     raw_items = raw_items[:max_news]
 
     # ── Enrich with DeepSeek ──
     enriched = _enrich_news_deepseek(raw_items, target_date)
 
-    if enriched and len(enriched) == len(raw_items):
-        # Merge enriched fields back, preserving URLs
-        news_items = []
-        for raw, enr in zip(raw_items, enriched):
+    # Merge DeepSeek results per-item; fall back to rules for anything missing
+    news_items = []
+    for i, raw in enumerate(raw_items):
+        enr = enriched[i] if i < len(enriched) and isinstance(enriched[i], dict) else None
+        if enr:
             news_items.append({
                 "title": enr.get("title", _clean_title(raw.get("title", ""))),
                 "link": raw.get("link", raw.get("url", "")),
@@ -1275,26 +1111,21 @@ def _build_json_entry(target_date: date, papers: list, news_api: list,
                 "detail": enr.get("detail", raw.get("description", ""))[:500],
                 "tag": enr.get("tag", _categorize_news(raw)),
                 "sort_score": enr.get("sort_score", 70),
+                "source": raw.get("source", ""),
             })
-    else:
-        # Fallback: rule-based
-        news_items = []
-        for item in raw_items:
-            title = _clean_title(item.get("title", ""))
-            desc = item.get("description", "")[:200]
+        else:
+            title = _clean_title(raw.get("title", ""))
+            desc = raw.get("description", "")[:200]
+            tag = _categorize_news(raw)
             news_items.append({
                 "title": title,
-                "link": item.get("link", item.get("url", "")),
+                "link": raw.get("link", raw.get("url", "")),
                 "description": desc,
                 "detail": desc,
-                "tag": _categorize_news(item),
-                "sort_score": 70,
+                "tag": tag,
+                "sort_score": _fallback_sort_score(raw, tag),
+                "source": raw.get("source", ""),
             })
-
-    # ── Demote academic papers to the bottom ──
-    for item in news_items:
-        if item.get("tag") == "学术论文":
-            item["sort_score"] = 0
 
     return {
         "date": target_date.strftime("%Y-%m-%d"),
@@ -1304,8 +1135,7 @@ def _build_json_entry(target_date: date, papers: list, news_api: list,
     }
 
 
-def update_data_json(filepath: str, papers: list, news_api: list,
-                     reddit: list, rss: list, md_content: str,
+def update_data_json(filepath: str, rss: list, md_content: str,
                      target_date: date, max_news: int = 20,
                      hackernews: Optional[list] = None,
                      github: Optional[list] = None) -> bool:
@@ -1313,8 +1143,8 @@ def update_data_json(filepath: str, papers: list, news_api: list,
     logger.info("[JSON]  Updating %s …", filepath)
 
     old_data = _load_data_json(filepath)
-    entry = _build_json_entry(target_date, papers, news_api, reddit, rss,
-                              md_content, max_news, hackernews, github)
+    entry = _build_json_entry(target_date, rss, md_content,
+                              max_news, hackernews, github)
 
     # Replace if same date exists, else prepend
     date_str = entry["date"]
@@ -1457,7 +1287,7 @@ Examples:
     elif _has_proxy():
         logger.info("Proxy detected from environment")
     else:
-        logger.info("No proxy -- Reddit/NewsAPI skipped, arXiv/HF direct connect")
+        logger.info("No proxy -- Reddit skipped, 国际源直连（部分源可能超时）")
 
     target_date = parse_date(args.date)
 
@@ -1469,37 +1299,19 @@ Examples:
 
     # ── Collect data (each source independent) ──
 
-    # 1. arXiv
-    papers_arxiv = fetch_arxiv(target_date)
-    time.sleep(GENTLE_DELAY)
-
-    # 2. Hugging Face
-    papers_hf = fetch_huggingface(target_date)
-    time.sleep(GENTLE_DELAY)
-
-    # Merge (deduplicate by title)
-    seen_titles = {p["title"].lower() for p in papers_arxiv}
-    for p in papers_hf:
-        if p["title"].lower() not in seen_titles:
-            papers_arxiv.append(p)
-
-    # 3. NewsAPI
-    news = fetch_newsapi(target_date)
-    time.sleep(GENTLE_DELAY)
-
-    # 4. Reddit
+    # 1. Reddit（需代理）
     reddit = fetch_reddit(target_date) if not args.no_reddit else []
     time.sleep(GENTLE_DELAY)
 
-    # 5. RSS feeds (Chinese media — always fetched)
+    # 2. RSS feeds（精选国内外 AI 媒体）
     rss = fetch_rss_feeds(target_date)
     time.sleep(GENTLE_DELAY)
 
-    # 6. Hacker News
+    # 3. Hacker News
     hackernews = fetch_hackernews(target_date) if not args.no_hackernews else []
     time.sleep(GENTLE_DELAY)
 
-    # 7. GitHub Trending
+    # 4. GitHub Trending
     github = fetch_github_trending(target_date) if not args.no_github else []
     time.sleep(GENTLE_DELAY)
 
@@ -1507,14 +1319,14 @@ Examples:
 
     logger.info("")
     logger.info("-" * 58)
-    logger.info("  Papers: %d  |  News: %d  |  Reddit: %d  |  RSS: %d  |  HN: %d  |  GitHub: %d",
-                len(papers_arxiv), len(news), len(reddit), len(rss),
+    logger.info("  Media(RSS): %d  |  Reddit: %d  |  HN: %d  |  GitHub: %d",
+                len(rss), len(reddit),
                 len(hackernews), len(github))
     logger.info("-" * 58)
     logger.info("")
 
     content = generate_briefing(
-        papers_arxiv, news, reddit, rss, target_date, args.skip_summary
+        rss, reddit, hackernews, github, target_date, args.skip_summary
     )
 
     output_briefing(content, target_date, args.output)
@@ -1522,8 +1334,7 @@ Examples:
     # ── Update data.json if requested ──
     if args.update_json:
         json_path = os.path.join(args.output, DATA_JSON_FILENAME)
-        update_data_json(json_path, papers_arxiv, news, reddit, rss,
-                         content, target_date, args.max_news,
+        update_data_json(json_path, rss, content, target_date, args.max_news,
                          hackernews, github)
 
     # ── Send email if requested ──
