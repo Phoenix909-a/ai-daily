@@ -1,5 +1,138 @@
 [
   {
+    "date": "2026-08-11",
+    "weekday": "星期二",
+    "summary": "今日AI领域战况焦灼：OpenAI被曝GPT-6（Astra）将于本月强行发布，据传参数达10万亿级；Anthropic则被泄露最新模型Fable，正面迎战。图像生成赛道迎来新玩家，OpenAI全新GPT Image（代号mona-lisa-1）在Arena亮相，被指碾压Image 2。Agent领域，LSTM之父发布97页综述探讨Agent自我进化，智源推出AREX自主研究智能体。开源社区方面，金融领域LangAlpha发布，Meta开源本地AI智能体Muse Glimmer。",
+    "news": [
+      {
+        "title": "OpenAI 完成 70 亿美元员工股票出售",
+        "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+        "description": "OpenAI 完成 70 亿美元员工股票要约收购。",
+        "detail": "OpenAI 据报道已完成一项价值 70 亿美元的员工股票要约收购，允许员工出售其股份。此举可能旨在为员工提供流动性，并反映公司估值。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "五大高校发布首份机器人三视角世界模型评测结果",
+        "link": "https://www.qbitai.com/2026/08/469860.html",
+        "description": "五大高校联合发布首份机器人三视角世界模型评测榜单。",
+        "detail": "五大高校联手发布了首份机器人三视角世界模型评测结果，旨在评估不同模型在三维空间理解与预测方面的能力。该榜单将持续更新，为机器人领域的研究提供参考。",
+        "tag": "对比评测",
+        "sort_score": 80,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenAI 曝光 GPT-6，传 10 万亿参数本月发布",
+        "link": "https://aiera.com.cn/2026/08/11/other/admin/108686/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e6%9b%9d%e5%85%89gpt-6%ef%bc%81%e4%bc%a010%e4%b8%87%e4%ba%bf%e5%8f%82%e6%95%b0%ef%bc%8c8%e6%9c%88%e5%bc%ba%e8%a1%8c%e5%8f%91%e5%b8%83/",
+        "description": "OpenAI 被曝将于本月发布 10 万亿参数的 GPT-6。",
+        "detail": "据 AI 内幕记者爆料，OpenAI 即将发布代号为 Astra 的 GPT-6，其参数规模可能达到 10 万亿。尽管面临政府审查压力，该模型仍计划于本月强行发布。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "LSTM 之父发布 97 页综述：Agent 如何学会自我进化",
+        "link": "https://aiera.com.cn/2026/08/11/other/admin/108671/lstm%e4%b9%8b%e7%88%b6%e6%9c%80%e6%96%b097%e9%a1%b5%e7%bb%bc%e8%bf%b0%ef%bc%9aagent%e5%a6%82%e4%bd%95%e7%9c%9f%e6%ad%a3%e5%ad%a6%e4%bc%9a%e3%80%8c%e8%87%aa%e6%88%91%e8%bf%9b%e5%8c%96%e3%80%8d%ef%bc%9f/",
+        "description": "LSTM 之父发布长篇综述，探讨 Agent 自我进化能力。",
+        "detail": "LSTM 之父发布了一篇 97 页的综述，系统梳理了 Agent 实现自我进化的关键技术路径，包括自我反思、自我修正、自我博弈、智能体强化学习、技能学习与测试时适应等。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude Code 之父挖角 OpenAI 高管遭拒",
+        "link": "https://aiera.com.cn/2026/08/11/other/admin/108656/%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%ac%91%e7%96%af%ef%bc%81claude-code%e4%b9%8b%e7%88%b6%e3%80%8c%e6%8c%96%e8%a7%92%e3%80%8dopenai%e7%bd%91%e7%ba%a2%e9%ab%98%e7%ae%a1%ef%bc%8c%e6%83%a8%e9%81%ad%e7%a7%92/",
+        "description": "Claude Code 之父公开挖角 OpenAI 核心产品负责人被拒。",
+        "detail": "Claude Code 之父 Boris Cherny 在公开场合向 OpenAI 核心产品负责人发出入职邀请，但遭到对方秒拒。这一事件凸显了 AI 领域顶尖人才竞争的激烈程度。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI 全新图像模型 GPT Image 突袭亮相",
+        "link": "https://aiera.com.cn/2026/08/11/other/admin/108638/openai%e5%85%a8%e6%96%b0gpt-image%e7%aa%81%e8%a2%ad%ef%bc%81%e7%a2%be%e5%8e%8bimage-2%ef%bc%8c%e5%a1%91%e6%96%99%e6%84%9f%e7%bb%88%e4%ba%8e%e6%b6%88%e5%a4%b1/",
+        "description": "OpenAI 全新图像模型在 Arena 亮相，表现优于 Image 2。",
+        "detail": "OpenAI 一款代号为 mona-lisa-1 的全新图像模型在 Arena 上正式亮相。该模型在生成质量上显著优于前代 Image 2，解决了此前图像生成中常见的塑料感问题。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic 最新模型 Fable 泄露，或与 GPT-6 竞争",
+        "link": "https://aiera.com.cn/2026/08/11/other/admin/108605/%e5%88%9a%e5%88%9a%ef%bc%8canthropic%e6%9c%80%e6%96%b0fable%e6%b3%84%e9%9c%b2%e4%ba%86%ef%bc%81/",
+        "description": "Anthropic 最新模型 Fable 信息泄露，或于本月发布。",
+        "detail": "Anthropic 的最新模型 Fable 5.1（或 Fable 6）信息遭到泄露。该公司正积极准备，计划在本月发布该模型，以正面与 OpenAI 的 GPT-6 展开竞争。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "智源发布 AREX 自主研究智能体，实现验证驱动搜索",
+        "link": "https://aiera.com.cn/2026/08/11/other/admin/108589/%e6%99%ba%e6%ba%90arex%e8%87%aa%e4%b8%bb%e7%a0%94%e7%a9%b6%e6%99%ba%e8%83%bd%e4%bd%93%ef%bc%9a%e4%bb%8e%e3%80%8c%e7%9b%b2%e7%9b%ae%e6%90%9c%e7%b4%a2%e3%80%8d%e5%88%b0%e3%80%8c%e9%aa%8c%e8%af%81/",
+        "description": "智源发布 AREX 自主研究智能体，从盲目搜索转向验证驱动。",
+        "detail": "智源研究院发布了 AREX 自主研究智能体，该智能体改变了以往盲目搜索的方式，采用验证驱动的策略，旨在提升大模型在自主研究任务中的效率和准确性。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "英伟达 HBM 告急，下一代 GPU 受限",
+        "link": "https://aiera.com.cn/2026/08/11/other/admin/108575/%e8%8b%b1%e4%bc%9f%e8%be%behbm%e5%91%8a%e6%80%a5%ef%bc%81%e4%b8%8b%e4%b8%80%e4%bb%a3gpu%e5%8f%97%e9%99%90%ef%bc%8c%e8%bf%99%e5%9d%97%e7%a1%ac%e7%9b%98%e5%8d%b4%e6%8a%a2%e8%b5%b0%e9%a3%8e%e5%a4%b4/",
+        "description": "英伟达下一代 GPU 因 HBM 供应紧张而受限。",
+        "detail": "英伟达下一代 GPU 的产能受到 HBM（高带宽内存）供应紧张的限制。与此同时，SSD、DRAM 等存储介质在 AI 领域的价值边界正在被重新评估。",
+        "tag": "行业动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "DORA 发布 AI 辅助软件开发的团队能力模型",
+        "link": "https://www.infoq.cn/article/1oV8oaYwzU15W5BdSL7C?utm_source=rss&utm_medium=article",
+        "description": "DORA 发布团队画像与能力模型，助力 AI 辅助开发落地。",
+        "detail": "DORA 发布了一项关于 AI 辅助软件开发的团队画像与能力模型，旨在帮助团队将相关研究成果落地，提升 AI 在研发流程中的应用效果。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AICon 深圳将探讨企业 AI Native 研发流程升级",
+        "link": "https://www.infoq.cn/article/gmMSLtDO3XOy1UwCMdov?utm_source=rss&utm_medium=article",
+        "description": "AICon 深圳会议将聚焦企业 AI Native 研发流程升级。",
+        "detail": "AICon 深圳会议将围绕企业 AI Native 研发流程的升级与重塑展开讨论，分享相关实践案例与前沿趋势。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "开源 LangAlpha 发布：金融领域的 Claude Code",
+        "link": "https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&utm_medium=article",
+        "description": "开源项目 LangAlpha 发布，用自然语言驱动投研工作流。",
+        "detail": "开源项目 LangAlpha 正式发布，它被称为金融领域的 Claude Code，旨在通过自然语言指令驱动投资研究工作流，提升金融分析的效率。",
+        "tag": "工具与生态",
+        "sort_score": 78,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Meta 发布开源本地 AI 智能体大模型 Muse Glimmer",
+        "link": "https://sspai.com/post/113301",
+        "description": "Meta 发布开源本地 AI 智能体大模型 Muse Glimmer。",
+        "detail": "Meta 发布了开源本地 AI 智能体大模型 Muse Glimmer，同时阿里千问开放平台也上线了新功能。这些动态展示了 AI 模型在端侧和平台化方向的发展。",
+        "tag": "模型发布",
+        "sort_score": 82,
+        "source": "少数派"
+      },
+      {
+        "title": "千问 App 推出付费服务，豆包酒店订单收取服务费",
+        "link": "http://www.geekpark.net/news/368640",
+        "description": "千问 App 推出付费服务，豆包渠道酒店订单开始收费。",
+        "detail": "千问 App 推出了付费服务，办公助理最高一年收费 1499 元。同时，豆包渠道的酒店订单开始执行 12% 的独立费率，拼多多则上线了最快次日达服务。",
+        "tag": "公司动态",
+        "sort_score": 55,
+        "source": "极客公园"
+      }
+    ]
+  },
+  {
     "date": "2026-08-10",
     "weekday": "星期一",
     "summary": "今日焦点集中在 AI Agent 的安全性与自动化趋势：安全公司演示了如何通过 PDF 隐藏文本劫持 Atlassian 的 AI 代理 Rovo 窃取数据；Claude Code 默认开启自动模式引发热议。模型方面，Om AI 发布端侧原生 VLX 模型，以小参数实现物理世界感知。产业层面，Cloudflare 证实机器流量已超人类，哈佛 MIT 构建 83 亿智能体模拟全球人口。此外，Anthropic CEO 与 DeepMind 负责人均面临人才流失挑战。",
