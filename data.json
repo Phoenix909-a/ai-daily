@@ -2,115 +2,142 @@
   {
     "date": "2026-08-14",
     "weekday": "星期五",
-    "summary": "DeepSeek 凌晨突袭，正式开源 V4 Pro 模型并推出对标 Claude Cowork 的代码智能体框架 Harness，引发行业震动。Anthropic 的 Opus 5 以 30.2% 成绩登顶 ARC-AGI-3 榜单，甩开第二名近四倍。Ilya 的 SSI 被曝正在构建基于测试时训练（TTT）的小型推理引擎。此外，AI 在数学科研领域连续突破，40 年难题被 AI 在 56 分钟内破局。",
+    "summary": "DeepSeek 今日双线出击：正式开源 V4 Pro 模型并推出首个 Agent 框架 Harness，GitHub 12 小时斩获 5 万星，被业界称为“Agent 界的 Android”。Anthropic Opus 5 以 30.2% 成绩登顶 ARC-AGI-3 排行榜，领先第二名近四倍。Ilya 的 SSI 被曝正在构建基于 TTT（测试时训练）的小型推理引擎。此外，AI 在数学科研领域连续突破，多个困扰学界数十年的难题被 AI 或 AI 辅助解决。",
     "news": [
       {
         "title": "DeepSeek V4 Pro正式版发布，与Grok 4.6展开首轮对决",
         "link": "https://aiera.com.cn/2026/08/14/other/admin/109091/%e6%a2%81%e6%96%87%e9%94%8b%e7%aa%81%e8%a2%ad%e9%a9%ac%e6%96%af%e5%85%8b%ef%bc%81deepseek-v4-pro%e5%af%b9%e6%88%98grok-4-6%ef%bc%8c%e9%a6%96%e6%b5%8b%e5%a4%af%e7%88%86%e4%ba%86/",
         "description": "DeepSeek V4 Pro正式版发布，与Grok 4.6展开首轮对决。",
-        "detail": "DeepSeek V4 Pro正式版于今日凌晨发布，与Grok 4.6展开首轮对决。该模型在性能上表现出色，引发广泛关注。此次发布标志着DeepSeek在AI领域的又一重要进展。",
+        "detail": "DeepSeek在凌晨发布了V4 Pro正式版，与马斯克旗下xAI的Grok 4.6展开直接竞争。首轮测试结果显示，DeepSeek V4 Pro在多项基准上表现强劲，引发行业广泛关注。",
         "tag": "模型发布",
         "sort_score": 95,
         "source": "新智元"
       },
       {
-        "title": "协和实习医生解决困扰数学圈22年的难题",
+        "title": "协和实习医生解决困扰数学圈22年的核心猜想",
         "link": "https://aiera.com.cn/2026/08/14/other/admin/109064/%e5%9b%b0%e6%89%b0%e6%95%b0%e5%ad%a6%e5%9c%8822%e5%b9%b4%e7%9a%84%e9%9a%be%e9%a2%98%ef%bc%8c%e5%b1%85%e7%84%b6%e8%a2%ab%e5%8d%8f%e5%92%8c%e5%ae%9e%e4%b9%a0%e5%8c%bb%e7%94%9f%e8%a7%a3%e5%86%b3%e4%ba%86/",
-        "description": "协和实习医生解决困扰数学圈22年的难题。",
-        "detail": "一位协和神经外科医生解决了困扰全球顶尖数学家22年的核心猜想，引发数学圈震动。这一突破展示了跨学科思维在解决复杂问题中的潜力。",
+        "description": "一位协和神经外科医生解决了困扰数学界22年的核心猜想。",
+        "detail": "一个折磨全球顶尖数学家22年的核心猜想，被一位协和神经外科医生解决。这一突破性成果震惊数学界，展示了跨学科人才在基础科学领域的巨大潜力。",
         "tag": "行业动态",
-        "sort_score": 80,
+        "sort_score": 85,
         "source": "新智元"
       },
       {
-        "title": "中国AI突破：40年难题56分钟破局，AI不再「学习」",
+        "title": "中国AI突破：40年数学难题56分钟破解，AI不再仅学习",
         "link": "https://aiera.com.cn/2026/08/14/other/admin/109045/%e5%88%9a%e5%88%9a%ef%bc%8c%e4%b8%ad%e5%9b%bdai%e4%ba%a4%e5%8d%b7%ef%bc%8140%e5%b9%b4%e9%9a%be%e9%a2%9856%e5%88%86%e9%92%9f%e7%a0%b4%e5%b1%80%ef%bc%8cai%e4%b8%8d%e5%86%8d%e3%80%8c%e5%ad%a6%e4%b9%a0/",
-        "description": "中国AI在数学领域取得重大突破，40年难题56分钟解决。",
-        "detail": "中国AI在数学领域取得重大突破，40年难题56分钟解决。Claude、ChatGPT等模型在两个月内接连进入数学最前沿，展示AI在科研中的颠覆性作用。",
-        "tag": "行业动态",
-        "sort_score": 85,
-        "source": "新智元"
-      },
-      {
-        "title": "Claude新风口：海外年轻人刷App成瘾",
-        "link": "https://aiera.com.cn/2026/08/14/other/admin/109027/claude%e6%96%b0%e9%a3%8e%e5%8f%a3%e6%9d%80%e7%96%af%ef%bc%81%e6%b5%b7%e5%a4%96%e5%b9%b4%e8%bd%bb%e4%ba%ba%e4%b8%8a%e5%a4%b4%ef%bc%8c%e5%88%b7app%e6%88%90%e7%98%be/",
-        "description": "Claude新风口：海外年轻人刷App成瘾。",
-        "detail": "Claude在海外年轻人中引发热潮，刷App成瘾现象明显。用户使用Codex、Cursor或lovable等工具制作App后，其后续发展备受关注。",
-        "tag": "新功能",
-        "sort_score": 75,
-        "source": "新智元"
-      },
-      {
-        "title": "Opus 5通关ARC-AGI-3，Harness成模型束缚",
-        "link": "https://aiera.com.cn/2026/08/14/other/admin/109017/opus-5%e9%80%9a%e5%85%b3arc-agi-3%ef%bc%81harness%e6%ad%a3%e5%9c%a8%e5%8f%98%e6%88%90%e6%8d%86%e4%bd%8f%e6%a8%a1%e5%9e%8b%e7%9a%84%e7%bb%b3%e5%ad%90/",
-        "description": "Opus 5在ARC-AGI-3测试中排名第一，但Harness可能限制模型能力。",
-        "detail": "Opus 5在ARC-AGI-3测试中得分30.2%，排名第一，远超第二名GPT-5.6 Sol的7.8%。然而，Harness框架可能成为模型的束缚，影响其潜力发挥。",
-        "tag": "对比评测",
-        "sort_score": 85,
-        "source": "新智元"
-      },
-      {
-        "title": "Ilya首个模型即将发布，核心为测试时训练",
-        "link": "https://aiera.com.cn/2026/08/14/other/admin/109002/ilya%e7%9a%84%e9%a6%96%e4%b8%aa%e6%a8%a1%e5%9e%8b%e6%9d%a5%e4%ba%86%ef%bc%81/",
-        "description": "Ilya的首个模型即将发布，核心为测试时训练。",
-        "detail": "SSI传来重大消息，Ilya正在构建一个小型推理引擎，核心为测试时训练（TTT）。该模型有望在推理能力上实现突破。",
+        "description": "中国AI在数学领域取得突破，40年难题56分钟破解。",
+        "detail": "中国AI在数学领域取得重大突破，仅用56分钟就破解了一个困扰学界40年的难题。Claude和ChatGPT等模型在两个月内接连进入数学最前沿，标志着AI从学习走向创造。",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "新智元"
       },
       {
-        "title": "IBM与Red Hat推出AI智能体交付验证方案",
-        "link": "https://www.infoq.cn/article/AJz1m242RSJLpXpsC1eg?utm_source=rss&utm_medium=article",
-        "description": "IBM与Red Hat推出AI智能体交付验证方案。",
-        "detail": "IBM与Red Hat提出一套新方案，用于验证AI智能体在交付过程中是否被篡改。该方案旨在确保AI智能体的可信度和安全性。",
-        "tag": "工具与生态",
+        "title": "Claude新应用风靡海外年轻人，刷App成瘾成趋势",
+        "link": "https://aiera.com.cn/2026/08/14/other/admin/109027/claude%e6%96%b0%e9%a3%8e%e5%8f%a3%e6%9d%80%e7%96%af%ef%bc%81%e6%b5%b7%e5%a4%96%e5%b9%b4%e8%bd%bb%e4%ba%ba%e4%b8%8a%e5%a4%b4%ef%bc%8c%e5%88%b7app%e6%88%90%e7%98%be/",
+        "description": "Claude相关新应用在海外年轻人中流行，引发刷App成瘾现象。",
+        "detail": "基于Claude的新应用在海外年轻人中迅速走红，用户使用Codex、Cursor或lovable等工具开发应用后，出现了刷App成瘾的现象。这一趋势反映了AI应用对用户行为的深刻影响。",
+        "tag": "新功能",
         "sort_score": 75,
-        "source": "InfoQ 中文"
+        "source": "新智元"
       },
       {
-        "title": "陶建辉确认出席AICon深圳，分享大模型工业落地实践",
-        "link": "https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp?utm_source=rss&utm_medium=article",
-        "description": "涛思数据CEO陶建辉确认出席AICon深圳，分享大模型工业落地实践。",
-        "detail": "涛思数据创始人兼CEO陶建辉博士确认出席AICon深圳，将分享大模型在工业场景落地的挑战与实践，为行业提供宝贵经验。",
+        "title": "Opus 5以30.2%成绩登顶ARC-AGI-3，远超GPT-5.6 Sol",
+        "link": "https://aiera.com.cn/2026/08/14/other/admin/109017/opus-5%e9%80%9a%e5%85%b3arc-agi-3%ef%bc%81harness%e6%ad%a3%e5%9c%a8%e5%8f%98%e6%88%90%e6%8d%86%e4%bd%8f%e6%a8%a1%e5%9e%8b%e7%9a%84%e7%bb%b3%e5%ad%90/",
+        "description": "Opus 5在ARC-AGI-3测试中获30.2%高分，排名第一。",
+        "detail": "ARC Prize官方公布Opus 5在ARC-AGI-3测试中取得30.2%的成绩，位居排行榜第一，远超第二名GPT-5.6 Sol的7.8%。这一结果引发了对模型推理能力的广泛讨论。",
+        "tag": "对比评测",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "Ilya首个模型即将发布，基于测试时训练技术",
+        "link": "https://aiera.com.cn/2026/08/14/other/admin/109002/ilya%e7%9a%84%e9%a6%96%e4%b8%aa%e6%a8%a1%e5%9e%8b%e6%9d%a5%e4%ba%86%ef%bc%81/",
+        "description": "Ilya的首个模型即将发布，核心采用测试时训练技术。",
+        "detail": "SSI传来重大消息，Ilya正在构建一个小型推理引擎，其核心是TTT（测试时训练）技术。这一模型被视为Ilya离开OpenAI后的首个重要成果，备受业界期待。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "CTO圆桌：构建AI原生组织的工程领导者经验分享",
+        "link": "https://www.infoq.cn/article/cFMO2oN8SyaR9vuUVUeQ?utm_source=rss&utm_medium=article",
+        "description": "CTO圆桌讨论构建AI原生组织的工程领导者经验。",
+        "detail": "多位CTO在圆桌会议上分享了构建AI原生组织的工程领导者经验，探讨了技术趋势和最佳实践。会议内容为企业在AI转型过程中提供了宝贵参考。",
         "tag": "行业动态",
-        "sort_score": 60,
+        "sort_score": 65,
         "source": "InfoQ 中文"
       },
       {
-        "title": "DeepSeek V4 Flash后，大模型开始卷「智效比」",
-        "link": "https://www.ifanr.com/1675156?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "DeepSeek V4 Flash后，大模型开始卷「智效比」。",
-        "detail": "在DeepSeek V4 Flash发布后，大模型领域开始关注「智效比」，即智能与效率的平衡。Agent时代，如何挑选高智效模型成为关键。",
+        "title": "IBM与Red Hat推出方案，验证AI智能体交付可信度",
+        "link": "https://www.infoq.cn/article/AJz1m242RSJLpXpsC1eg?utm_source=rss&utm_medium=article",
+        "description": "IBM与Red Hat推出新方案，确保AI智能体交付过程可信。",
+        "detail": "针对AI智能体参与交付时可能存在的篡改风险，IBM与Red Hat联合推出了一套新方案，旨在验证智能体行为的完整性和可信度，为AI在关键业务中的应用提供保障。",
+        "tag": "工具与生态",
+        "sort_score": 78,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "涛思数据CEO确认出席AICon深圳，分享大模型工业落地实践",
+        "link": "https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp?utm_source=rss&utm_medium=article",
+        "description": "涛思数据CEO陶建辉将出席AICon深圳，分享大模型工业落地经验。",
+        "detail": "涛思数据创始人兼CEO陶建辉博士确认出席AICon深圳大会，将分享大模型在工业场景落地的挑战与实践。这一议题对推动AI在传统行业的应用具有重要意义。",
         "tag": "行业动态",
         "sort_score": 70,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "DeepSeek V4 Flash发布后，大模型开始卷「智效比」",
+        "link": "https://www.ifanr.com/1675156?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "DeepSeek V4 Flash发布后，大模型竞争转向智效比。",
+        "detail": "随着DeepSeek V4 Flash的发布，大模型领域的竞争焦点开始转向「智效比」，即在保证智能水平的同时提高效率。Agent时代，如何挑选高智效模型成为关键问题。",
+        "tag": "模型发布",
+        "sort_score": 82,
         "source": "爱范儿"
       },
       {
-        "title": "早报：iPhone全线涨价100美元，ChatGPT拥有电脑历史",
+        "title": "曝iPhone全线涨价100美元，ChatGPT将拥有电脑历史",
         "link": "https://www.ifanr.com/1675193?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "早报：iPhone全线涨价100美元，ChatGPT拥有电脑历史。",
-        "detail": "今日早报涵盖iPhone全线涨价100美元、ChatGPT开始拥有电脑历史、Anthropic投资者押注秋季IPO预期估值超2万亿美元、比亚迪辅助驾驶车型保有量超352万辆等新闻。",
+        "description": "iPhone预计全线涨价100美元，ChatGPT将访问用户电脑历史。",
+        "detail": "最新消息称iPhone可能全线涨价100美元，同时ChatGPT将开始拥有用户的电脑历史。此外，Anthropic投资者押注秋季IPO，预期估值或超2万亿美元，比亚迪辅助驾驶车型保有量超352万辆。",
         "tag": "行业动态",
-        "sort_score": 40,
+        "sort_score": 60,
         "source": "爱范儿"
       },
       {
-        "title": "深度求索推出开源Agent框架DeepSeek Harness及插件生态",
+        "title": "DeepSeek推出开源Agent框架Harness及插件生态",
         "link": "https://sspai.com/post/113434",
-        "description": "深度求索推出开源Agent框架DeepSeek Harness及插件生态。",
-        "detail": "深度求索推出开源Agent框架DeepSeek Harness及配套插件生态，同时阿里千问开放平台上线菜鸟智能体，Brave和Firefox浏览器继续支持uBlock Origin扩展程序。",
+        "description": "DeepSeek发布开源Agent框架Harness及配套插件生态。",
+        "detail": "深度求索推出开源Agent框架DeepSeek Harness及配套插件生态，同时阿里千问开放平台上线菜鸟智能体，Brave和Firefox浏览器宣布继续支持uBlock Origin扩展程序。",
         "tag": "Agent 进展",
-        "sort_score": 85,
+        "sort_score": 88,
         "source": "少数派"
+      },
+      {
+        "title": "DeepSeek Harness实测：一夜5万星，Agent界的Android来了",
+        "link": "http://www.geekpark.net/news/368809",
+        "description": "DeepSeek Harness实测火爆，一夜获5万星，被誉为Agent界Android。",
+        "detail": "北京时间8月13日晚，DeepSeek正式公布其首个Agent产品DeepSeek Harness，一夜之间在GitHub获得5万星。该产品被业界誉为Agent界的Android，有望成为行业标准。",
+        "tag": "Agent 进展",
+        "sort_score": 95,
+        "source": "极客公园"
       },
       {
         "title": "DeepSeek Harness公测对标Claude Cowork，OpenAI年化营收有望达400亿美元",
         "link": "http://www.geekpark.net/news/368789",
-        "description": "DeepSeek Harness公测对标Claude Cowork，OpenAI年化营收有望达400亿美元。",
-        "detail": "DeepSeek Harness公测，对标Claude Cowork，同步开放插件生态。同时，长鑫科技市值超越腾讯，OpenAI年化营收有望翻番达400亿美元。",
+        "description": "DeepSeek Harness公测对标Claude Cowork，OpenAI营收预期增长。",
+        "detail": "DeepSeek-V4-Pro-0813正式开源，并推出Harness公测，直接对标Claude Cowork。同时，OpenAI年化营收有望翻番达400亿美元，长鑫科技市值超越腾讯。",
         "tag": "Agent 进展",
-        "sort_score": 85,
+        "sort_score": 90,
         "source": "极客公园"
+      },
+      {
+        "title": "Qwen3.8 27B模型发布，引发开发者关注",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "description": "Qwen3.8 27B模型发布，在开发者社区引发讨论。",
+        "detail": "Qwen3.8 27B模型在Hacker News上获得关注，开发者对其性能和潜力展开讨论。该模型的发布进一步丰富了开源大模型生态。",
+        "tag": "模型发布",
+        "sort_score": 80,
+        "source": "hackernews"
       }
     ]
   },
