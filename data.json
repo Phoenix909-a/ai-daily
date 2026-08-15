@@ -1,5 +1,102 @@
 [
   {
+    "date": "2026-08-15",
+    "weekday": "星期六",
+    "summary": "今日AI领域迎来密集发布：OpenAI发布GPT-5.6构建者指南，最小模型成本暴降25倍；Google DeepMind推出Gemini 3.7 Flash并限时半价；智谱开源GLM-5.3，以0.1倍参数追平Anthropic Mythos战力。",
+    "news": [
+      {
+        "title": "OpenAI发布GPT-5.6构建者指南，最小模型成本暴降25倍",
+        "link": "https://aiera.com.cn/2026/08/15/other/admin/109218/gpt-5-6%e4%b8%80%e5%a4%9c%e5%88%b7%e6%96%b0ai%e6%99%ba%e8%83%bd%e5%a4%a9%e8%8a%b1%e6%9d%bf%ef%bc%81%e6%9c%80%e5%b0%8f%e6%a8%a1%e5%9e%8b%e6%88%90%e6%9c%ac%e6%9a%b4%e9%99%8d25%e5%80%8d/",
+        "description": "OpenAI发布GPT-5.6构建者指南，最小模型成本大幅下降。",
+        "detail": "OpenAI发布《GPT-5.6构建者指南》，展示了GPT-5.6在智能水平上的显著提升。其中最小模型成本暴降25倍，大幅降低了开发者的使用门槛。该指南为开发者提供了构建和部署GPT-5.6应用的详细指导。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "中国版Thinking Machines Lab诞生，主攻语音交互赛道",
+        "link": "https://aiera.com.cn/2026/08/15/other/admin/109207/%e5%85%a8%e7%90%83%e7%ac%ac%e4%b8%80%ef%bc%8c%e7%a2%be%e5%8e%8b%e8%b0%b7%e6%ad%8c%ef%bc%81%e4%b8%ad%e5%9b%bd%e7%89%88thinking-machines%e8%af%9e%e7%94%9f%ef%bc%8c%e8%af%ad%e9%9f%b3%e8%b5%9b%e9%81%93/",
+        "description": "中国初创公司成立，对标Thinking Machines Lab，专注语音交互。",
+        "detail": "一家被称为「中国版Thinking Machines Lab」的硬核AI初创公司诞生，专注于全球语音与交互领域。该公司旨在撼动现有格局，其成立被视为语音赛道的重要变局。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "ChatGPT桌面应用Linux版本开放预览，Codex可修改代码",
+        "link": "https://aiera.com.cn/2026/08/15/other/admin/109184/%e8%8b%a6%e7%ad%89%e4%b8%a4%e5%b9%b4%ef%bc%81chatgpt%e6%9d%80%e5%85%a5linux%ef%bc%8ccodex%e4%b8%8a%e6%89%8b%e8%83%bd%e6%94%b9%e4%bd%a0%e7%9a%84%e4%bb%a3%e7%a0%81/",
+        "description": "ChatGPT Linux客户端开放预览，集成Codex代码修改功能。",
+        "detail": "OpenAI宣布ChatGPT桌面应用的Linux版本正式开放预览，结束了Linux用户长达两年的等待。该版本集成了Codex功能，能够直接帮助用户修改代码，提升了开发效率。",
+        "tag": "新功能",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌大规模测试揭示GPT-5存在“舌尖现象”",
+        "link": "https://aiera.com.cn/2026/08/15/other/admin/109170/gpt-5%e4%b9%9f%e4%bc%9a%e8%af%9d%e5%88%b0%e5%98%b4%e8%be%b9%e6%83%b3%e4%b8%8d%e8%b5%b7%e6%9d%a5%ef%bc%81%e8%b0%b7%e6%ad%8c%e6%b5%8b%e4%ba%86450%e4%b8%87%e6%ac%a1%ef%bc%9a%e9%92%a5%e5%8c%99%e4%b8%a2/",
+        "description": "谷歌对GPT-5进行450万次测试，发现其存在“舌尖现象”。",
+        "detail": "谷歌进行了一项涉及450万次测试的大规模研究，发现GPT-5存在类似人类的“舌尖现象”，即话到嘴边却想不起来。该研究揭示了当前大语言模型在记忆检索方面可能存在的局限性。",
+        "tag": "对比评测",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI下一代模型Astra被曝数学成果造假",
+        "link": "https://aiera.com.cn/2026/08/15/other/admin/109158/openai%e6%9b%9d%e3%80%8c%e6%8a%84%e8%a2%ad%e9%97%a8%e3%80%8d%ef%bc%81%e4%b8%8b%e4%b8%80%e4%bb%a3gpt%e6%94%bb%e7%a0%b410%e5%a4%a7%e8%8f%b2%e5%a5%96%e9%9a%be%e9%a2%98%e8%a2%ab%e6%89%93%e5%81%87/",
+        "description": "OpenAI下一代模型Astra被指在菲尔茨奖难题上造假。",
+        "detail": "OpenAI下一代模型Astra被曝在10项菲尔茨奖级别的数学难题上取得重大进展，但随后被质疑成果造假。该事件引发了关于AI研究成果真实性和可靠性的广泛讨论。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌发布Gemini 3.7 Flash，推理升级并限时半价",
+        "link": "https://aiera.com.cn/2026/08/15/other/admin/109141/%e8%b0%b7%e6%ad%8c%e7%a5%ad%e5%87%bagemini-3-7-flash%ef%bc%8152%e5%b2%81%e5%88%9b%e5%a7%8b%e4%ba%ba%e4%ba%b2%e8%87%aa%e7%9d%a3%e6%88%98%ef%bc%8cdeepmind%e7%9c%9f%e6%80%a5%e4%ba%86/",
+        "description": "谷歌发布Gemini 3.7 Flash，推理能力升级并推出限时半价策略。",
+        "detail": "Google DeepMind发布Gemini 3.7 Flash，核心推理能力全面升级。为抢占市场，谷歌推出限时半价策略，输入0.75美元、输出3.75美元/百万Token，性价比显著提升。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "智谱发布GLM-5.3，以0.1倍参数追平闭源模型安全能力",
+        "link": "https://aiera.com.cn/2026/08/15/other/admin/109119/%e5%88%9a%e5%88%9a%ef%bc%8cglm-5-3%e6%92%95%e5%bc%80%e9%97%ad%e6%ba%90%e5%ae%89%e5%85%a8%e7%a5%9e%e8%af%9d%ef%bc%810-1%e5%80%8d%e5%8f%82%e6%95%b0%e8%bf%bd%e5%b9%b3mythos%e6%88%98%e5%8a%9b/",
+        "description": "智谱发布GLM-5.3，以极小参数在安全能力上追平闭源模型。",
+        "detail": "智谱发布GLM-5.3，以仅0.1倍的参数在漏洞挖掘等安全能力上追平了Anthropic的Mythos模型。该模型在自主挖掘系统漏洞方面表现出色，挑战了闭源模型的安全神话。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Gemini 3.7 Flash突袭：性能逼近旗舰，价格大幅下调",
+        "link": "https://www.infoq.cn/article/plZY01etBHv3ETOYG0af?utm_source=rss&utm_medium=article",
+        "description": "Gemini 3.7 Flash性能逼近旗舰，价格大幅下调。",
+        "detail": "Google DeepMind新帅主导发布Gemini 3.7 Flash，其性能逼近旗舰级模型，但价格却大幅下调，重新定义了性价比标杆。此举被视为对竞争对手的有力回应。",
+        "tag": "模型发布",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "曝苹果与阿里合作训练AI模型，DeepMind或裁员三分之一",
+        "link": "https://www.ifanr.com/1675280?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "苹果与阿里合作训练AI模型，DeepMind或裁员，微信否认朋友圈二次编辑。",
+        "detail": "多方消息称苹果正与阿里合作训练AI模型，同时Google DeepMind可能裁员三分之一以上。此外，微信官方明确表示永不推出朋友圈二次编辑功能，追觅首台手机也已交付。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "爱范儿"
+      },
+      {
+        "title": "智谱发布GLM-5.3，编程能力显著增强",
+        "link": "http://www.geekpark.net/news/368849",
+        "description": "智谱正式发布GLM-5.3，编程能力大幅提升。",
+        "detail": "智谱正式发布GLM-5.3，与GLM-5.2相比，基座模型未变，但通过极致的后训练Scaling大幅提升了模型能力，尤其在编程方面表现更为突出。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      }
+    ]
+  },
+  {
     "date": "2026-08-14",
     "weekday": "星期五",
     "summary": "DeepSeek 今日双线出击：正式开源 V4 Pro 模型并推出首个 Agent 框架 Harness，GitHub 12 小时斩获 5 万星，被业界称为“Agent 界的 Android”。Anthropic Opus 5 以 30.2% 成绩登顶 ARC-AGI-3 排行榜，领先第二名近四倍。Ilya 的 SSI 被曝正在构建基于 TTT（测试时训练）的小型推理引擎。此外，AI 在数学科研领域连续突破，多个困扰学界数十年的难题被 AI 或 AI 辅助解决。",
