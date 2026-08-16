@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-08-16",
+    "weekday": "星期日",
+    "summary": "今日焦点集中在 AI 编程 Agent 的爆发式应用与 Anthropic 的动态上。Anthropic 自曝存在比 Mythos 5 更强的内部模型，但因风险考量暂不公开，同时发布了文本水印技术以追踪 AI 生成内容。此外，多个案例显示 AI 已能独立完成大量代码合并工作，引发关于程序员角色的广泛讨论。Cursor 被 SpaceX 收购的消息也引发社区热议。",
+    "news": [
+      {
+        "title": "Claude之父实验：388个PR全部由AI编写，180个已合并",
+        "link": "https://aiera.com.cn/2026/08/16/other/admin/109319/388%e4%b8%aapr%e5%85%a8%e9%83%a8ai%e6%93%8d%e5%88%80%ef%bc%8c180%e4%b8%aa%e5%b7%b2%e5%90%88%e5%b9%b6%ef%bc%81claude%e4%b9%8b%e7%88%b6%ef%bc%9a%e7%a8%8b%e5%ba%8f%e5%91%98%e5%8f%aa%e5%89%a9%e4%b8%8b/",
+        "description": "Claude之父Boris Cherny公开AI编程实验数据，程序员角色被重新定义。",
+        "detail": "Claude之父Boris Cherny在X上公布了一项实验数据：过去几周内，他让Claude AI编写了388个Pull Request，其中180个已被合并。这一实验展示了AI在代码生成和合并方面的强大能力，引发了关于程序员未来角色的广泛讨论。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic自曝最强模型Model 2，性能超越Mythos 5",
+        "link": "https://aiera.com.cn/2026/08/16/other/admin/109307/anthropic%e8%87%aa%e6%9b%9d%e3%80%8c%e7%a7%81%e8%97%8f%e6%a0%b8%e6%ad%a6%e5%99%a8%e3%80%8d%ef%bc%8cmodel-2%e6%af%94mythos-5%e6%9b%b4%e5%bc%ba%ef%bc%81/",
+        "description": "Anthropic在风险报告中披露未公开的更强模型Model 2，引发行业关注。",
+        "detail": "Anthropic在第二份《Risk Report》中自曝，其内部还有一个比已发布的Mythos 5更强的模型Model 2，评估覆盖至2026年7月15日。这一披露表明Anthropic在模型能力上仍有储备，但出于安全考虑暂未公开，凸显了AI安全与能力发展之间的平衡。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "Cursor官方宣布并入SpaceX，引发开发者社区热议",
+        "link": "https://aiera.com.cn/2026/08/16/other/admin/109288/%e5%88%9a%e5%88%9a%ef%bc%8ccursor%e5%bd%bb%e5%ba%95%e6%b6%88%e5%a4%b1%ef%bc%81/",
+        "description": "AI编程工具Cursor被SpaceX收购，官方账号亲自官宣这一重大变动。",
+        "detail": "Cursor官方账号在昨晚宣布，Cursor已成为SpaceX的一部分。这一消息在开发者社区引发轩然大波，许多用户对Cursor的未来发展表示担忧，同时也对SpaceX在AI编程领域的布局充满好奇。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic呼吁开发者停止浪费token，优化AI使用效率",
+        "link": "https://aiera.com.cn/2026/08/16/other/admin/109270/%e5%85%a8%e7%90%83%e7%a8%8b%e5%ba%8f%e5%91%98%e9%83%bd%e5%9c%a8%e7%bb%99anthropic%e7%99%bd%e9%80%81%e9%92%b1%ef%bc%81%e5%ae%98%e6%96%b9%e7%bb%88%e4%ba%8e%e7%9c%8b%e4%b8%8d%e4%b8%8b%e5%8e%bb%e4%ba%86/",
+        "description": "Anthropic发布博客，提醒开发者避免无效token消耗，提升AI使用效率。",
+        "detail": "Anthropic发布了一篇博客，核心内容是呼吁开发者不要再浪费token，指出许多用户在使用AI时存在低效行为。官方表示，通过优化提示词和调用方式，可以显著降低token消耗，同时获得更好的结果。",
+        "tag": "工具与生态",
+        "sort_score": 72,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI研究员称100%代码由AI编写，Claude重写Python库",
+        "link": "https://aiera.com.cn/2026/08/16/other/admin/109254/openai%e7%a0%94%e7%a9%b6%e5%91%98%ef%bc%9a100%e4%bb%a3%e7%a0%81%e5%b7%b2%e4%ba%a4%e7%bb%99ai%ef%bc%81claude%e9%87%8d%e5%86%99python%e5%ba%93/",
+        "description": "OpenAI研究员透露全部代码由AI生成，Claude Code实现高效PR合并。",
+        "detail": "OpenAI研究员公开表示，其100%的代码已交给AI编写，Claude Code之父也透露自己两个多月未手写代码，一天内可合并27个PR。这一趋势表明AI在软件开发中的角色正从辅助转向主导，引发对开发者技能转型的思考。",
+        "tag": "Agent 进展",
+        "sort_score": 86,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic为Claude添加文本水印，全球内容可追溯",
+        "link": "https://aiera.com.cn/2026/08/16/other/admin/109236/%e5%88%9a%e5%88%9a%ef%bc%8canthropic%e7%bb%99claude%e8%a3%85%e4%ba%86%e9%9a%90%e5%bd%a2%e5%8d%a7%e5%ba%95%ef%bc%81%e5%85%a8%e7%90%83%e7%94%9f%e6%95%88/",
+        "description": "Anthropic公开Claude文本水印技术细节，AI生成内容将可被识别。",
+        "detail": "Anthropic发布博客，首次公开解释了Claude文本水印的技术细节。该水印将嵌入AI生成的文本中，使得全球范围内的Claude生成内容都能被识别和追溯，这一举措旨在提高AI内容的透明度和可信度。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "AI Coding在金融科技SDLC中的落地实践：从代码生成到研发闭环",
+        "link": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
+        "description": "AICon深圳会议探讨AI Coding在金融科技软件开发生命周期中的应用。",
+        "detail": "AICon深圳会议将深入探讨AI Coding在金融科技SDLC中的落地实践，涵盖从代码生成到研发闭环的完整流程。会议将分享实际案例，展示AI如何提升金融科技领域的开发效率和代码质量。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Anthropic评估AI风险上升暂不公开更强模型，微信将成AI为先生态系统",
+        "link": "http://www.geekpark.net/news/368854",
+        "description": "Anthropic因风险上升暂缓发布强模型，刘炽平称微信将转型AI为先。",
+        "detail": "Anthropic在评估中认为AI风险上升，因此暂不公开更强模型。同时，腾讯总裁刘炽平表示，微信将成为AI为先的生态系统，全面整合AI能力。此外，2026世界机器人大会展位图揭晓，宇树科技、优必选等将参展。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "极客公园"
+      },
+      {
+        "title": "开发者用Rust和GPUI构建原生编码Agent应用",
+        "link": "https://waku.sh",
+        "description": "Hacker News用户分享用Rust和GPUI开发的原生编码Agent应用。",
+        "detail": "一位开发者在Hacker News上展示了其用Rust和GPUI构建的原生编码Agent应用，该应用旨在提供更高效的编码辅助体验。项目获得社区关注，目前有7个点赞和1条评论，展示了Rust在AI工具开发中的潜力。",
+        "tag": "工具与生态",
+        "sort_score": 72,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-08-15",
     "weekday": "星期六",
     "summary": "OpenAI 发布 GPT-5.6 构建者指南，最小模型成本暴降 25 倍，同时推出 Linux 版 ChatGPT 桌面应用。Google DeepMind 紧急发布 Gemini 3.7 Flash，以半价策略对标竞争。智谱开源 GLM-5.",
