@@ -1,5 +1,129 @@
 [
   {
+    "date": "2026-08-18",
+    "weekday": "星期二",
+    "summary": "今日AI圈焦点集中在模型安全与效率的博弈：Anthropic刚上线的Claude隐形水印遭GitHub开源去水印工具一夜破解，引发关于GenAI内容溯源可行性的热议。与此同时，OpenRouter以超70亿美元被Stripe收购，成为今年AI领域最大并购案之一。在应用侧，宇树发布能原地跳高2米的人形机器人「超人」，豆包上线手机远程控制电脑功能，AI正加速从实验室走向真实场景。",
+    "news": [
+      {
+        "title": "第二届世界人形机器人运动会家庭场景赛在北京举办",
+        "link": "https://aiera.com.cn/2026/08/18/other/admin/109565/%e4%bb%8e%e5%ae%9e%e9%aa%8c%e5%ae%a4%e5%88%b0%e7%9c%9f%e5%ae%9e%e5%ae%b6%e5%ba%ad%ef%bc%9a%e4%ba%ba%e5%bd%a2%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%9a%84%e3%80%8c%e7%bb%88%e6%9e%81%e8%80%83%e9%a2%98%e3%80%8d/",
+        "description": "人形机器人在真实家庭环境中接受终极考验。",
+        "detail": "由北京市政府、中央广播电视总台等机构共同主办的第二届世界人形机器人运动会-家庭场景赛于8月18日至20日在北京举行。赛事聚焦于机器人在真实家庭环境中的表现，被视为检验人形机器人从实验室走向实际应用的关键一步。",
+        "tag": "行业动态",
+        "sort_score": 72,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude隐形水印被GitHub开源项目破解",
+        "link": "https://aiera.com.cn/2026/08/18/other/admin/109554/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e6%b0%b4%e5%8d%b0%e4%b8%80%e5%a4%9c%e5%8f%98%e5%ba%9f%e7%ba%b8%ef%bc%81/",
+        "description": "Anthropic的文本水印技术遭到社区工具挑战。",
+        "detail": "一个旨在去除Claude生成文本中隐形水印的开源工具在GitHub上迅速走红，已获得超过11000颗星。该工具的出现被认为削弱了Anthropic在AI内容溯源方面的技术护城河，引发了关于AI内容检测与反检测的讨论。",
+        "tag": "工具与生态",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "Epoch AI报告：20%美国打工人将任务外包给AI",
+        "link": "https://aiera.com.cn/2026/08/18/other/admin/109527/20%e7%9a%84%e7%be%8e%e5%9b%bd%e6%89%93%e5%b7%a5%e4%ba%ba%e6%8a%8a%e6%b4%bb%e5%84%bf%e7%94%a9%e7%bb%99ai%ef%bc%81%e8%a2%ab%e6%9b%bf%e4%bb%a3%e7%9a%84%e6%98%af%e4%bb%bb%e5%8a%a1%ef%bc%8c%e4%b8%8d/",
+        "description": "调查显示AI正在替代工作任务而非整体岗位。",
+        "detail": "AI研究机构Epoch AI联合民调公司Ipsos发布职场调查报告，显示约20%的美国打工人已将部分工作任务交由AI处理。报告指出，当前AI主要替代的是具体任务而非整个岗位，这一趋势正在重塑职场分工。",
+        "tag": "行业动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "国产AI音乐工具反超Suno，可快速制作高品质主题曲",
+        "link": "https://aiera.com.cn/2026/08/18/other/admin/109516/100%e7%ba%af%e8%a1%80%e5%9b%bd%e4%ba%a7ai%e5%8f%8d%e8%b6%85suno%ef%bc%81%e4%b8%80%e4%b8%aa%e4%b8%8b%e5%8d%88%e5%81%9a%e5%87%ba%e7%99%be%e4%b8%87%e9%a2%84%e7%ae%97%e4%b8%bb%e9%a2%98%e6%9b%b2/",
+        "description": "国产AI音乐生成能力实现突破，效率与质量兼备。",
+        "detail": "报道指出，一款100%纯血国产AI音乐工具在能力上反超了Suno，用户可在短时间内制作出达到百万预算水准的主题曲。与此同时，流媒体平台Deezer数据显示AI歌曲每日新增量已达7.5万首，占当日上传量的44%，但播放量占比极低。",
+        "tag": "对比评测",
+        "sort_score": 78,
+        "source": "新智元"
+      },
+      {
+        "title": "Fable 5在18大AI自主科研大赛中夺冠",
+        "link": "https://aiera.com.cn/2026/08/18/other/admin/109504/fable-5%e5%a4%ba%e5%86%a0%ef%bc%81%e5%85%a8%e7%90%8318%e5%a4%a7%e9%a1%b6%e5%b0%96ai%e8%87%aa%e4%b8%bb%e7%a7%91%e7%a0%94%e5%a4%a7%e8%b5%9b%ef%bc%8c%e9%80%bc%e8%bf%91%e4%ba%ba%e7%b1%bb%e6%9e%81%e9%99%90/",
+        "description": "全球顶尖模型在断网环境下进行为期8天的科研竞赛。",
+        "detail": "一场汇聚全球18个最顶尖大模型的AI自主科研大赛落幕，Fable 5模型最终夺冠。参赛模型在断网隔离环境中连续工作8天进行科研任务，其表现被认为已逼近人类科研水平，标志着AI自动科研时代的爆发。",
+        "tag": "对比评测",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "Stripe以超70亿美元收购AI模型路由平台OpenRouter",
+        "link": "https://aiera.com.cn/2026/08/18/other/admin/109484/70%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%81%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%a7%e3%80%8ctoken%e4%b8%ad%e8%bd%ac%e7%ab%99%e3%80%8dopenrouter%e8%a2%ab%e6%94%b6%e8%b4%ad/",
+        "description": "全球最大AI模型中转站被支付巨头Stripe收购。",
+        "detail": "据Bloomberg报道，支付公司Stripe已敲定收购AI模型路由平台OpenRouter，交易金额超过70亿美元。OpenRouter作为连接开发者与各类大模型的中间层，此次收购是今年AI领域金额最高的并购案之一。",
+        "tag": "公司动态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "AI视频运镜新工具：3D预演台告别无限抽卡",
+        "link": "https://aiera.com.cn/2026/08/18/other/admin/109469/ai%e8%a7%86%e9%a2%91%e8%bf%90%e9%95%9c%e7%8e%84%e5%ad%a6%e5%b7%b2%e7%a0%b4%ef%bc%81%e5%91%8a%e5%88%ab%e6%97%a0%e9%99%90%e6%8a%bd%e5%8d%a1%ef%bc%8c3d%e9%a2%84%e6%bc%94%e5%8f%b0%e7%9b%b4%e6%8e%a5/",
+        "description": "新方案通过3D预演解决AI视频生成中运镜失控问题。",
+        "detail": "针对AI视频生成中提示词难以精确控制运镜、人物走位和构图的问题，一种新的3D预演台方案被提出。该工具允许用户在生成前进行3D场景预演，从而精准设定镜头路径和角色动作，大幅减少生成过程中的随机性和返工次数。",
+        "tag": "新功能",
+        "sort_score": 76,
+        "source": "新智元"
+      },
+      {
+        "title": "菲尔兹奖得主Gowers点评OpenAI十项成果：AI输得起",
+        "link": "https://aiera.com.cn/2026/08/18/other/admin/109457/ai%e4%b8%8d%e6%98%af%e6%af%94%e4%ba%ba%e8%81%aa%e6%98%8e%ef%bc%8c%e6%98%af%e8%be%93%e5%be%97%e8%b5%b7%ef%bc%81%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb%e7%82%b9%e7%a0%b4openai%e5%8d%81/",
+        "description": "菲尔兹奖得主认为AI优势在于试错成本低。",
+        "detail": "菲尔兹奖得主Timothy Gowers对OpenAI的十项研究成果进行点评，并指出AI并非比人更聪明，而是更“输得起”。他提到AI解决了悬置80年的埃尔德什平面单位距离猜想，并认为AI在数学等领域的潜力在于其能够承受大量失败尝试。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "从Claude隐形水印回望GenAI时代信息隐藏技术",
+        "link": "https://aiera.com.cn/2026/08/18/other/admin/109447/%e4%bb%8eclaude%e9%9a%90%e5%bd%a2%e6%b0%b4%e5%8d%b0%e5%9b%9e%e6%9c%9bgenai%e6%97%b6%e4%bb%a3%e4%bf%a1%e6%81%af%e9%9a%90%e8%97%8f%ef%bc%9a%e5%b5%8c%e5%85%a5%e6%b0%b4%e5%8d%b0%e5%a6%82%e4%bd%95%e4%bf%9d/",
+        "description": "探讨生成式AI时代无损嵌入水印的技术原理与挑战。",
+        "detail": "文章回顾了Anthropic于8月2日起在Claude模型中引入的隐形水印技术，并深入探讨了GenAI时代信息隐藏的通用方法。内容聚焦于如何在保证文本质量无损的前提下，实现机器可读且难以去除的水印嵌入，以及该技术的潜在应用与局限。",
+        "tag": "工具与生态",
+        "sort_score": 68,
+        "source": "新智元"
+      },
+      {
+        "title": "Agentic AI在普惠健康险的创新与实践将在AICon深圳分享",
+        "link": "https://www.infoq.cn/article/3MxCwCyMpwcWjpvKJ7u4?utm_source=rss&utm_medium=article",
+        "description": "AICon深圳将探讨Agentic AI在健康险领域的应用。",
+        "detail": "即将举行的AICon深圳大会将设置议题，讨论Agentic AI在普惠健康险领域的创新与实践。该议题旨在分享如何利用智能体技术优化保险业务流程、提升服务效率与用户体验。",
+        "tag": "行业动态",
+        "sort_score": 55,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "宇树发布「超人」机器人，原地跳高2米并登陆科创板",
+        "link": "https://www.ifanr.com/1675451?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "宇树科技发布新品并宣布科创板上市日期。",
+        "detail": "宇树科技发布人形机器人新品「超人」，具备原地跳高2米、极限速度12.66m/s的能力。同时，公司宣布将于8月19日登陆科创板。其他动态包括OpenAI解散安全储备团队、小米SU7交付破50万台、豆包支持远程控制电脑等。",
+        "tag": "公司动态",
+        "sort_score": 85,
+        "source": "爱范儿"
+      },
+      {
+        "title": "网友为DeepSeek Harness开发出11个创意插件",
+        "link": "https://www.ifanr.com/1675387?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "DeepSeek Harness被社区玩成赛博乐高，涌现大量插件。",
+        "detail": "DeepSeek Harness工具被网友开发出大量创意插件，社区从中挑选出11个最具代表性的作品进行展示。这些插件扩展了工具的功能边界，体现了开源社区的活跃度和创造力。",
+        "tag": "工具与生态",
+        "sort_score": 74,
+        "source": "爱范儿"
+      },
+      {
+        "title": "宇树发布「机器超人」：原地跳高2米，8月19日上市",
+        "link": "http://www.geekpark.net/news/368929",
+        "description": "宇树科技发布高性能人形机器人并公布上市计划。",
+        "detail": "宇树科技于8月17日发布人形机器人新品「超人」，其原地跳高能力达到2米，极限速度12.66m/s。公司同时宣布将于8月19日在科创板上市。此外，豆包上线了手机远程控制电脑的新功能，吉利汽车也进行了架构调整。",
+        "tag": "公司动态",
+        "sort_score": 84,
+        "source": "极客公园"
+      }
+    ]
+  },
+  {
     "date": "2026-08-17",
     "weekday": "星期一",
     "summary": "OpenAI 被曝将推出 GPT-5.6 多智能体 V2，性能提升高达 16 倍，741 轮长对话可 1 秒打开。Anthropic 在冲刺 2 万亿美元 IPO 前夕动作频频，CEO Dario Amodei 罕见发长文回应外界质疑，同时一项多智能体安全实验显示三个 Claude 在协作中互相封号、投毒，引发对群体 AI 安全性的讨论。此外，OpenAI 三天内两名高管离职，十年元老 Scott Gray 悄然离开。企业侧，甲骨文公布 Agent 进数据库等企业 AI 战略，Instacart 推出值班工程师 AI 助手。",
