@@ -2,150 +2,231 @@
   {
     "date": "2026-08-21",
     "weekday": "星期五",
-    "summary": "今日AI领域迎来多起重磅事件：Stripe正式收购OpenRouter，全球开发者生态格局生变；马斯克在豪掷600亿收购Cursor后，又传出接洽AI编程公司Cognition；Claude Code遭遇用户退订潮，神话面临考验。世界机器人大会（WRC）上，多家中国公司展示具身智能新进展。此外，AI在数学与医疗领域取得突破性成果。",
+    "summary": "今日AI领域迎来多起重磅事件：Stripe正式收购OpenRouter，全球开发者生态格局生变；马斯克在收购Cursor后，又传出有意收购AI编程公司Cognition（Devin开发商）。模型能力方面，Claude再破百年数学猜想，但Claude Code却遭遇用户取消订阅潮，口碑出现裂痕。世界机器人大会（WRC）成为焦点，多家公司发布具身智能大模型与机器人产品。此外，AI辅助治愈癌症的案例首次出现，引发全球医学界震动。",
     "news": [
       {
         "title": "AI数据初创公司Micro1年化收入达5亿美元",
         "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-        "description": "AI训练数据需求激增，Micro1年化收入突破5亿美元。",
-        "detail": "AI数据初创公司Micro1在AI训练热潮中实现年化收入5亿美元。该公司及其竞争对手正受益于AI训练数据需求的激增，显示出数据服务市场的快速增长。",
+        "description": "AI训练数据需求激增，Micro1年化收入达5亿美元。",
+        "detail": "AI数据初创公司Micro1在AI训练数据需求激增的背景下，年化收入达到5亿美元。该公司及其竞争对手正受益于AI训练数据市场的快速增长。",
         "tag": "公司动态",
-        "sort_score": 72,
+        "sort_score": 75,
         "source": "TechCrunch AI"
       },
       {
-        "title": "大晓机器人发布开悟世界模型3.1及行业解决方案",
+        "title": "国产预制算力工厂投产，交付效率提升70%",
+        "link": "https://www.qbitai.com/2026/08/476409.html",
+        "description": "国产预制算力工厂投产，交付效率提升70%。",
+        "detail": "国产预制算力工厂正式投产，工厂预制率超过90%，可在24小时内投运，交付效率提升70%。这一创新模式有望大幅缩短算力基础设施的建设周期。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "量子位"
+      },
+      {
+        "title": "优必选行者具身智能大模型完成生成式AI服务备案",
+        "link": "https://www.qbitai.com/2026/08/476406.html",
+        "description": "优必选行者具身智能大模型完成备案，成为首批。",
+        "detail": "优必选行者具身智能大模型完成生成式人工智能服务备案，成为首批通过备案的具身智能大模型之一。这标志着优必选在具身智能领域的技术和合规性取得重要进展。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "量子位"
+      },
+      {
+        "title": "优必选WRC2026展示人形机器人多场景应用成果",
+        "link": "https://www.qbitai.com/2026/08/476403.html",
+        "description": "优必选在WRC2026展示人形机器人工业、商用、家庭应用。",
+        "detail": "优必选在2026世界机器人大会上全方位展示了人形机器人在工业、商用和家庭消费领域的应用成果。公司通过三箭齐发的策略，展示了其在不同场景下的技术实力和商业化进展。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "量子位"
+      },
+      {
+        "title": "网易有道2026Q2净收入14.7亿元，AI原生战略加速兑现",
+        "link": "https://www.qbitai.com/2026/08/476400.html",
+        "description": "网易有道Q2净收入14.7亿元，AI原生战略见效。",
+        "detail": "网易有道发布2026年第二季度财报，净收入达14.7亿元。公司AI原生战略加速兑现商业价值，推动业绩增长。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "量子位"
+      },
+      {
+        "title": "大晓机器人WRC首秀，发布开悟世界模型3.1及行业方案",
         "link": "https://aiera.com.cn/2026/08/21/other/admin/110076/wrc%e9%a6%96%e7%a7%80%ef%bc%81%e5%a4%a7%e6%99%93%e6%9c%ba%e5%99%a8%e4%ba%ba%e6%90%ba%e5%bc%80%e6%82%9f%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b3-1%e3%80%81%e7%8e%af%e5%a2%83%e5%bc%8f%e6%95%b0%e9%87%87/",
-        "description": "大晓机器人携开悟世界模型3.1亮相世界机器人大会。",
-        "detail": "大晓机器人在2026世界机器人大会上发布开悟世界模型3.1、环境式数据采集方案2.0，并推出面向即时零售、酒店服务和开放场景的三大行业解决方案，展示了其在具身智能领域的布局。",
+        "description": "大晓机器人WRC首秀，发布开悟世界模型3.1。",
+        "detail": "大晓机器人在2026世界机器人大会首次亮相，集中展示了开悟世界模型3.1、环境式数据采集方案2.0，以及面向即时零售、酒店服务和开放场景的三大行业解决方案。",
         "tag": "模型发布",
-        "sort_score": 88,
+        "sort_score": 80,
         "source": "新智元"
       },
       {
-        "title": "星海图展出多场景具身智能技术Demo",
+        "title": "星海图WRC展示十余款多场景技术Demo，聚焦真实工作",
         "link": "https://aiera.com.cn/2026/08/21/other/admin/110068/%e8%bd%af%e7%a1%ac%e5%85%a8%e6%a0%88%e3%80%81%e5%a4%a7%e8%84%91%e6%b3%9b%e5%8c%96%ef%bc%8c%e6%98%9f%e6%b5%b7%e5%9b%be%e5%9c%a8wrc%e7%bb%84%e4%ba%86%e4%b8%aa%e6%9c%80%e5%bc%ba%e6%89%93/",
-        "description": "星海图以生产力觉醒为主题，展出十余款多场景技术Demo。",
-        "detail": "星海图在2026世界机器人大会上以“生产力觉醒”为主题，展出十余款多场景技术Demo，演示内容全部围绕“真实工作”展开，强调软硬全栈和大脑泛化能力，打造“最强打工天团”。",
-        "tag": "Agent 进展",
-        "sort_score": 85,
+        "description": "星海图在WRC展示十余款多场景技术Demo。",
+        "detail": "星海图在2026世界机器人大会上以“生产力觉醒”为主题，展出十余款多场景技术Demo。与多数展台侧重运动展示不同，星海图的演示全部围绕“真实工作”展开，展示了软硬全栈和大脑泛化能力。",
+        "tag": "公司动态",
+        "sort_score": 70,
         "source": "新智元"
       },
       {
-        "title": "高德动量机器狗途途发布五大场景能力",
+        "title": "高德动量机器狗途途亮相WRC，发布五大场景能力",
         "link": "https://aiera.com.cn/2026/08/21/other/admin/110061/%e4%bb%8e%e4%b8%80%e6%9d%a1%e5%af%bc%e7%9b%b2%e8%b7%af%e5%88%b0%e4%ba%94%e7%a7%8d%e7%9c%9f%e5%ae%9e%e7%94%9f%e6%b4%bb%e6%9c%8d%e5%8a%a1%ef%bc%8c%e9%ab%98%e5%be%b7%e5%8a%a8%e9%87%8f%e6%9c%ba%e5%99%a8/",
         "description": "高德动量机器狗途途亮相WRC，发布五大场景能力。",
-        "detail": "高德动量携机器狗途途亮相2026世界机器人大会，发布视障导盲、沉浸式导览伴游、智慧导购与自主代办、多空间智能巡检、物流末端配送五大场景能力，途途是全球首款在开放环境实现这些功能的机器狗。",
+        "detail": "高德动量携机器狗途途亮相2026世界机器人大会，发布视障导盲、沉浸式导览伴游、智慧导购与自主代办、多空间智能巡检、物流末端配送五大场景能力。途途是全球首款在开放环境运行的机器狗。",
         "tag": "新功能",
-        "sort_score": 82,
+        "sort_score": 75,
         "source": "新智元"
       },
       {
-        "title": "钛动科技完成新一轮融资",
+        "title": "AI营销科技公司钛动科技完成新一轮融资",
         "link": "https://aiera.com.cn/2026/08/21/other/admin/110058/%e9%92%9b%e5%8a%a8%e7%a7%91%e6%8a%80%e5%ae%a3%e5%b8%83%e5%ae%8c%e6%88%90%e6%96%b0%e4%b8%80%e8%bd%ae%e8%9e%8d%e8%b5%84/",
-        "description": "AI营销科技公司钛动科技完成新一轮融资。",
-        "detail": "钛动科技宣布完成新一轮融资，由华泰泛大西洋基金领投，鲲鹏光远、广汽资本、金沙江联合资本等机构跟投。资金将用于下一阶段的AI技术研发，推动AI营销领域创新。",
+        "description": "钛动科技完成新一轮融资，加速AI技术研发。",
+        "detail": "全球领先的AI营销科技公司钛动科技宣布完成新一轮融资，由华泰泛大西洋基金领投，鲲鹏光远、广汽资本、金沙江联合资本等机构跟投。本轮融资将用于下一阶段的AI技术研发。",
         "tag": "公司动态",
         "sort_score": 65,
         "source": "新智元"
       },
       {
-        "title": "五一视界发布具身产品并披露空天战略",
+        "title": "五一视界发布两大具身产品，披露三层空天战略",
         "link": "https://aiera.com.cn/2026/08/21/other/admin/110054/%e4%ba%94%e4%b8%80%e8%a7%86%e7%95%8c%e5%8f%91%e5%b8%83%e4%b8%a4%e5%a4%a7%e5%85%b7%e8%ba%ab%e4%ba%a7%e5%93%81%ef%bc%8c%e9%a6%96%e6%ac%a1%e6%8a%ab%e9%9c%b2%e4%bd%8e%e7%a9%ba-%e5%a4%aa%e7%a9%ba/",
-        "description": "五一视界发布两大具身产品，披露三层空天战略。",
-        "detail": "五一视界在“物理AI宏伟蓝图2030”发布会上推出AperData具身数据底座、AperOne具身应用平台两大核心产品，并首次披露“低空-太空-深空”三层空天战略，布局物理AI未来。",
+        "description": "五一视界发布具身数据底座和应用平台，披露空天战略。",
+        "detail": "五一视界在“物理AI宏伟蓝图2030”发布会上，发布了AperData具身数据底座和AperOne具身应用平台两大核心产品，并首次披露了“低空-太空-深空”三层空天战略。",
         "tag": "模型发布",
-        "sort_score": 87,
-        "source": "新智元"
-      },
-      {
-        "title": "Stripe签署协议收购OpenRouter",
-        "link": "https://aiera.com.cn/2026/08/21/other/admin/110050/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e5%8d%83%e4%b8%87%e5%bc%80%e5%8f%91%e8%80%85%e3%80%8cai%e5%91%bd%e9%97%a8%e3%80%8d%e4%b8%80%e5%a4%9c%e6%98%93%e4%b8%bb%ef%bc%81/",
-        "description": "Stripe正式官宣收购OpenRouter，全球开发者AI命门易主。",
-        "detail": "Stripe CEO正式宣布已签署协议收购OpenRouter，这一划时代收购尘埃落定。OpenRouter作为全球开发者常用的AI路由平台，其易主将对AI开发工具生态产生深远影响。",
-        "tag": "公司动态",
-        "sort_score": 90,
-        "source": "新智元"
-      },
-      {
-        "title": "Claude Code用户大量取消订阅",
-        "link": "https://aiera.com.cn/2026/08/21/other/admin/110028/claude-code%e7%a5%9e%e8%af%9d%e7%a0%b4%e7%81%ad%ef%bc%9f%e5%a4%a7%e9%87%8f%e7%94%a8%e6%88%b7%e6%ad%a3%e5%9c%a8%e5%8f%96%e6%b6%88%e8%ae%a2%e9%98%85/",
-        "description": "Claude Code增长神话破灭，大量用户取消订阅。",
-        "detail": "据报道，Anthropic的Claude Code正面临大量用户取消订阅的困境，增长神话破灭。用户流失的原因可能涉及产品体验或竞争压力，引发对Anthropic未来发展的担忧。",
-        "tag": "行业动态",
-        "sort_score": 78,
-        "source": "新智元"
-      },
-      {
-        "title": "马斯克收购Cursor后或再收购Devin",
-        "link": "https://aiera.com.cn/2026/08/21/other/admin/110011/%e5%88%9a%e8%8a%b1600%e4%ba%bf%e4%b9%b0%e4%b8%8bcursor%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8b%e5%8f%88%e8%a6%81%e5%af%b9devin%e4%b8%8b%e6%89%8b/",
-        "description": "马斯克刚花600亿买下Cursor，又盯上AI编程公司Cognition。",
-        "detail": "彭博社爆料，SpaceX曾接洽AI编程创业公司Cognition，探讨潜在收购。此前马斯克刚以600亿美元收购Cursor，若再收购Devin开发商，将进一步巩固其在AI编程领域的地位。",
-        "tag": "公司动态",
         "sort_score": 80,
         "source": "新智元"
       },
       {
-        "title": "KDD 2026算法竞赛中国学生包揽300万奖金",
-        "link": "https://aiera.com.cn/2026/08/21/other/admin/109997/300%e4%b8%87%e5%85%a8%e5%bd%92%e4%b8%ad%e5%9b%bd%e5%ad%a6%e7%94%9f%ef%bc%81%e5%86%a0%e5%86%9b%e5%85%a8%e9%9d%a0deepseek%e3%80%81chatgpt/",
-        "description": "KDD 2026算法竞赛冠军全靠DeepSeek、ChatGPT，中国学生包揽奖金。",
-        "detail": "在韩国济州岛举办的KDD 2026算法马拉松中，中国学生包揽全部300万奖金，冠军团队依赖DeepSeek、ChatGPT等AI工具，引发对AI辅助竞赛公平性的讨论。",
+        "title": "Stripe正式收购OpenRouter，全球开发者AI命门易主",
+        "link": "https://aiera.com.cn/2026/08/21/other/admin/110050/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e5%8d%83%e4%b8%87%e5%bc%80%e5%8f%91%e8%80%85%e3%80%8cai%e5%91%bd%e9%97%a8%e3%80%8d%e4%b8%80%e5%a4%9c%e6%98%93%e4%b8%bb%ef%bc%81/",
+        "description": "Stripe官宣收购OpenRouter，AI开发者生态巨变。",
+        "detail": "Stripe CEO正式官宣已签署协议收购OpenRouter。这场划时代收购将深刻影响全球千万开发者的AI工具链和生态格局。",
+        "tag": "公司动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude Code增长神话破灭？大量用户取消订阅",
+        "link": "https://aiera.com.cn/2026/08/21/other/admin/110028/claude-code%e7%a5%9e%e8%af%9d%e7%a0%b4%e7%81%ad%ef%bc%9f%e5%a4%a7%e9%87%8f%e7%94%a8%e6%88%b7%e6%ad%a3%e5%9c%a8%e5%8f%96%e6%b6%88%e8%ae%a2%e9%98%85/",
+        "description": "Claude Code被曝大量用户取消订阅，增长神话破灭。",
+        "detail": "有报道称Claude Code的增长神话破灭，大量用户正在取消订阅。有观点认为Anthropic面临困境，但具体情况尚待进一步观察。",
         "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "马斯克收购Cursor后，又欲收购AI编程公司Cognition",
+        "link": "https://aiera.com.cn/2026/08/21/other/admin/110011/%e5%88%9a%e8%8a%b1600%e4%ba%bf%e4%b9%b0%e4%b8%8bcursor%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8b%e5%8f%88%e8%a6%81%e5%af%b9devin%e4%b8%8b%e6%89%8b/",
+        "description": "马斯克收购Cursor后，又盯上AI编程公司Cognition。",
+        "detail": "在花费600亿美元收购Cursor后，马斯克又盯上了AI编程创业公司Cognition。据彭博社爆料，SpaceX已接洽Cognition探讨潜在收购。",
+        "tag": "公司动态",
         "sort_score": 75,
         "source": "新智元"
       },
       {
-        "title": "Grok Bot发布引发硅谷热议",
-        "link": "https://aiera.com.cn/2026/08/21/other/admin/109979/%e7%a1%85%e8%b0%b7ceo-grok-bot%e8%af%9e%e7%94%9f%ef%bc%8c%e9%9c%87%e6%92%bc%e7%a8%8b%e5%ba%a6%e5%a0%aa%e6%af%94claude-code%e6%97%b6%e5%88%bb%ef%bc%81/",
-        "description": "硅谷CEO称Grok Bot震撼程度堪比Claude Code时刻。",
-        "detail": "Grok Bot的发布在硅谷引发轰动，有CEO称其是AI的又一个“Claude Code”时刻，个人AI使用量增长约100倍。该工具被认为将大幅提升AI应用效率。",
-        "tag": "新功能",
-        "sort_score": 84,
-        "source": "新智元"
-      },
-      {
-        "title": "AI首次辅助治愈癌症",
-        "link": "https://aiera.com.cn/2026/08/21/other/admin/109962/%e5%88%9a%e5%88%9a%ef%bc%8c%e4%ba%ba%e7%b1%bb%e5%8e%86%e5%8f%b2%e4%b8%8a%e7%ac%ac%e4%b8%80%e6%ac%a1%e7%94%a8ai%e6%b2%bb%e6%84%88%e7%99%8c%e7%97%87/",
-        "description": "人类历史上首次用AI辅助治好癌症，医学界迎来大地震。",
-        "detail": "据报道，人类首次用AI辅助治愈癌症，这一突破被视为医学界的里程碑。AI在医疗领域的应用取得重大进展，为未来癌症治疗带来新希望。",
+        "title": "KDD 2026算法马拉松：中国学生包揽300万奖金",
+        "link": "https://aiera.com.cn/2026/08/21/other/admin/109997/300%e4%b8%87%e5%85%a8%e5%bd%92%e4%b8%ad%e5%9b%bd%e5%ad%a6%e7%94%9f%ef%bc%81%e5%86%a0%e5%86%9b%e5%85%a8%e9%9d%a0deepseek%e3%80%81chatgpt/",
+        "description": "KDD 2026算法马拉松，中国学生包揽300万奖金。",
+        "detail": "在韩国济州岛举行的KDD 2026算法马拉松中，中国学生包揽了300万奖金。冠军团队表示，他们的成功离不开DeepSeek和ChatGPT等AI工具的辅助。",
         "tag": "行业动态",
-        "sort_score": 95,
+        "sort_score": 65,
         "source": "新智元"
       },
       {
-        "title": "黑马公司打造机器人时代的iOS",
+        "title": "硅谷CEO盛赞Grok Bot：AI的又一个Claude Code时刻",
+        "link": "https://aiera.com.cn/2026/08/21/other/admin/109979/%e7%a1%85%e8%b0%b7ceo-grok-bot%e8%af%9e%e7%94%9f%ef%bc%8c%e9%9c%87%e6%92%bc%e7%a8%8b%e5%ba%a6%e5%a0%aa%e6%af%94claude-code%e6%97%b6%e5%88%bb%ef%bc%81/",
+        "description": "硅谷CEO称Grok Bot是AI的又一个Claude Code时刻。",
+        "detail": "一位硅谷CEO表示，Grok Bot的诞生震撼程度堪比Claude Code时刻，他个人对AI的使用量增长了大约100倍。这一工具被认为将极大推动AI的应用。",
+        "tag": "工具与生态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "人类历史上首次用AI辅助治愈癌症",
+        "link": "https://aiera.com.cn/2026/08/21/other/admin/109962/%e5%88%9a%e5%88%9a%ef%bc%8c%e4%ba%ba%e7%b1%bb%e5%8e%86%e5%8f%b2%e4%b8%8a%e7%ac%ac%e4%b8%80%e6%ac%a1%e7%94%a8ai%e6%b2%bb%e6%84%88%e7%99%8c%e7%97%87/",
+        "description": "人类首次用AI辅助治愈癌症，医学界迎来大地震。",
+        "detail": "人类历史上第一次用AI辅助治好了癌症，全球医学界迎来一场足以载入史册的大地震。这一突破标志着AI在医疗领域的应用迈出了关键一步。",
+        "tag": "行业动态",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "黑马公司打造机器人时代的iOS：一句话生成App",
         "link": "https://aiera.com.cn/2026/08/21/other/admin/109933/%e8%bf%99%e5%ae%b6%e9%bb%91%e9%a9%ac%e6%8a%8aai%e5%81%9a%e6%88%90%e4%ba%86%e3%80%8c%e6%9c%ba%e5%99%a8%e4%ba%ba%e6%97%b6%e4%bb%a3%e7%9a%84ios%e3%80%8d%ef%bc%81%e4%b8%8d%e5%86%99%e4%bb%a3%e7%a0%81/",
-        "description": "不写代码一句话生成App，黑马公司定义具身智能终局。",
-        "detail": "一家黑马公司在世界机器人大会上展示了“机器人时代的iOS”概念，用户不写代码即可通过一句话生成App，为具身智能的普及提供了新范式，引发行业关注。",
+        "description": "黑马公司打造机器人时代的iOS，一句话生成App。",
+        "detail": "一家黑马公司在世界机器人大会上展示了其将AI做成“机器人时代的iOS”的理念，用户无需编写代码，只需一句话即可生成App。这一定义了具身智能的“终局”。",
         "tag": "新功能",
-        "sort_score": 86,
+        "sort_score": 80,
         "source": "新智元"
       },
       {
-        "title": "Claude联合数学家证伪百年Carathéodory猜想",
+        "title": "Claude再破百年猜想：证伪Carathéodory猜想",
         "link": "https://aiera.com.cn/2026/08/21/other/admin/109914/%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e4%b9%8b%e5%90%8e%ef%bc%8cclaude%e5%86%8d%e7%a0%b4%e7%99%be%e5%b9%b4%e7%8c%9c%e6%83%b3%ef%bc%81/",
-        "description": "Claude与数学家合作证伪Carathéodory猜想，再破百年难题。",
-        "detail": "Anthropic与哈佛数学家Levent Alpöge联合使用Claude，成功证伪了困扰数学界超过100年的Carathéodory猜想，展示了AI在数学研究中的巨大潜力。",
-        "tag": "Agent 进展",
-        "sort_score": 92,
+        "description": "Claude联合数学家证伪Carathéodory猜想。",
+        "detail": "Anthropic/哈佛数学家Levent Alpöge联合Claude，直接证伪了困扰数学界超过100年的Carathéodory猜想，顺带击碎了Lo...。这是继黎曼猜想之后，Claude在数学领域的又一重大突破。",
+        "tag": "模型发布",
+        "sort_score": 85,
         "source": "新智元"
+      },
+      {
+        "title": "Anthropic不再是AI圈的信仰？",
+        "link": "https://www.infoq.cn/article/hfJrKqqoww06UYcygUrJ?utm_source=rss&utm_medium=article",
+        "description": "Anthropic在AI圈的地位受到质疑。",
+        "detail": "有观点认为Anthropic不再是AI圈的信仰，其地位受到挑战。具体原因和细节尚待进一步披露。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "撞名Anthropic的外挂刷屏：宣称碾压Fable 5却无人能复现",
+        "link": "https://www.infoq.cn/article/MKDQBpGhC5Uu3pB4kMbC?utm_source=rss&utm_medium=article",
+        "description": "撞名Anthropic的外挂宣称碾压Fable 5，但无人能复现。",
+        "detail": "一个撞名Anthropic的“外挂”在网络上刷屏，宣称能让“DeepSeek V4-Pro碾压 Fable 5”，但无人能复现其效果，且Token开销反而翻倍。",
+        "tag": "工具与生态",
+        "sort_score": 60,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "OpenAI之后又是Anthropic，Claude将攻击延伸至公共互联网",
+        "link": "https://www.infoq.cn/article/9FZ8z60yB4tS4WQEP4dw?utm_source=rss&utm_medium=article",
+        "description": "Claude将攻击能力延伸至公共互联网。",
+        "detail": "继OpenAI之后，Anthropic的Claude也将攻击能力延伸至公共互联网。这一进展可能引发对AI安全性的新一轮讨论。",
+        "tag": "行业动态",
+        "sort_score": 75,
+        "source": "InfoQ 中文"
       },
       {
         "title": "极客早知道：周杰伦代言vivo、华为阔直板手机曝光等",
         "link": "http://www.geekpark.net/news/369114",
-        "description": "周杰伦代言vivo、华为阔直板手机曝光、柯洁透露战胜AI秘诀。",
-        "detail": "本期极客早知道涵盖周杰伦将代言vivo手机、华为“阔直板”手机曝光、柯洁透露战胜AI秘诀是“装弱智”，以及《黑神话：钟馗》15分钟实机演示公布等科技资讯。",
+        "description": "极客早知道：周杰伦代言vivo、华为阔直板手机曝光等。",
+        "detail": "本期极客早知道包含周杰伦将代言vivo手机、华为“阔直板”手机曝光、柯洁透露战胜AI秘诀等科技资讯。",
         "tag": "行业动态",
         "sort_score": 30,
         "source": "极客公园"
       },
       {
-        "title": "欧盟裁定版权不保护AI生成内容",
+        "title": "灵犀智涌以“模型+Harness”架构打破工业具身“唯模型困局”",
+        "link": "https://www.leiphone.com/category/robot/XHIUJbympcOX8dDK.html",
+        "description": "灵犀智涌以“模型+Harness”架构解决工业具身难题。",
+        "detail": "98年中科大博士段逸凡创立灵犀智涌，以“模型+Harness”架构打破工业具身“唯模型困局”。当前工业具身智能规模化落地面临预训练模型部署成功率不足60%等瓶颈。",
+        "tag": "Agent 进展",
+        "sort_score": 80,
+        "source": "雷锋网"
+      },
+      {
+        "title": "欧盟裁定版权法不保护AI生成内容",
         "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
-        "description": "欧盟裁定版权不保护AI生成内容，引发热议。",
-        "detail": "欧盟裁定版权法不保护AI生成的内容，这一决定在开发者社区引发广泛讨论，可能影响AI生成内容的商业化路径和知识产权归属。",
+        "description": "欧盟裁定版权法不保护AI生成内容。",
+        "detail": "欧盟裁定版权法不保护AI生成的内容，这一裁决将对AI内容创作和版权归属产生深远影响。",
         "tag": "行业动态",
-        "sort_score": 70,
+        "sort_score": 75,
+        "source": "hackernews"
+      },
+      {
+        "title": "AI公司毁坏实体书，呼吁扫描稀有书籍",
+        "link": "https://annas-archive.gl/blog/physical-destruction.html",
+        "description": "AI公司毁坏实体书，呼吁在消失前扫描稀有书籍。",
+        "detail": "有观点指出AI公司正在毁坏实体书，呼吁在稀有书籍消失前进行扫描保存。这一现象引发了关于AI训练数据来源和文化遗产保护的讨论。",
+        "tag": "行业动态",
+        "sort_score": 60,
         "source": "hackernews"
       }
     ]
