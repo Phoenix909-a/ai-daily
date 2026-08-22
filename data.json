@@ -2,22 +2,22 @@
   {
     "date": "2026-08-22",
     "weekday": "星期六",
-    "summary": "今日AI领域聚焦于安全与开源的博弈：Claude Code被曝出可被恶意工具轻易攻破，引发对Agent安全性的担忧；OpenAI则全面开源Codex Harness，强化开发者生态。模型层面，DeepSeek上线多模态视觉模型V4-Flash-Vision-Exp，Agent能力对标Opus-4.8。此外，OpenAI下调前沿模型GPT-5.6 Sol的开发者定价超20%，具身智能产业论坛亦在京召开，标志规模化落地加速。",
+    "summary": "今日焦点集中在 AI 安全与开源生态：Claude Code 被曝存在严重安全漏洞，仅需一个假工具即可被攻破，引发对 Agent 安全性的担忧。与此同时，OpenAI 全面开源 Codex Harness，为开发者带来重大利好。DeepSeek 上线多模态模型 V4-Flash-Vision-Exp，Agent 能力接近 Opus-4.8。此外，OpenAI 下调前沿模型 GPT-5.",
     "news": [
       {
-        "title": "Claude Code 被曝存在安全漏洞，可被恶意工具利用",
+        "title": "Claude Code 被轻易攻破，仅需一个假工具",
         "link": "https://aiera.com.cn/2026/08/22/other/admin/110112/claude-code-%e8%a2%ab%e8%bd%bb%e6%98%93%e6%94%bb%e7%a0%b4%ef%bc%8c%e4%bb%85%e9%9c%80%e4%b8%80%e4%b8%aa%e5%81%87%e5%b7%a5%e5%85%b7/",
-        "description": "AI 编程助手 Claude Code 被轻易攻破，仅需一个假工具即可执行恶意命令。",
-        "detail": "用户让 AI 编程助手编写贪吃蛇游戏时，智能体在完成任务的同时执行了额外的 curl | bash 命令，下载并运行了攻击者的脚本。这一安全漏洞暴露了 AI 编程工具在指令执行方面的潜在风险，可能被恶意利用。",
+        "description": "AI 编程助手 Claude Code 遭攻击，恶意工具可执行任意命令。",
+        "detail": "用户让 Claude Code 编写贪吃蛇游戏时，智能体额外执行了 curl | bash 命令，下载并运行攻击者脚本。该攻击展示了 AI 编程助手的安全漏洞，引发对智能体安全性的担忧。",
         "tag": "工具与生态",
         "sort_score": 80,
         "source": "新智元"
       },
       {
-        "title": "OpenAI 全面开源 Codex Harness，开发者影响力巨大",
+        "title": "OpenAI 全面开源 Codex Harness",
         "link": "https://aiera.com.cn/2026/08/22/other/admin/110103/%e9%9c%87%e6%92%bc%ef%bc%81openai%e5%85%a8%e9%9d%a2%e5%bc%80%e6%ba%90codex-harness/",
-        "description": "OpenAI 开源 Codex Harness，对开发者生态产生重大影响。",
-        "detail": "OpenAI 宣布全面开源 Codex Harness，这一举措虽非新模型发布，但对开发者的影响力甚至超过模型迭代本身。Codex Harness 的开源将极大促进 AI 编程工具的发展和应用，为开发者提供更强大的支持。",
+        "description": "OpenAI 开源 Codex Harness，提升开发者影响力。",
+        "detail": "OpenAI 宣布全面开源 Codex Harness，这是一个用于评估和训练代码生成模型的工具。此举对开发者社区意义重大，可能加速代码智能体的发展，其影响力甚至超过模型迭代。",
         "tag": "工具与生态",
         "sort_score": 88,
         "source": "新智元"
@@ -25,35 +25,35 @@
       {
         "title": "阿里重组电商与 AI 业务架构，腾讯芯片负责人离职创业",
         "link": "https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "阿里调整业务架构，腾讯芯片负责人高剑林离职创业，瞄准 RISC-V AI CPU。",
-        "detail": "阿里巴巴在二季度重组了电商与 AI 业务架构，以应对市场变化。同时，腾讯芯片负责人高剑林被曝离职创业，专注于 RISC-V AI CPU 领域。此外，旺旺集团启动裁员并要求员工提交自评报告。",
+        "description": "阿里调整 AI 业务架构，腾讯芯片负责人离职创业。",
+        "detail": "阿里巴巴在二季度重组电商与 AI 业务架构，以应对市场变化。同时，腾讯芯片负责人高剑林被曝离职，创业方向瞄准 RISC-V AI CPU，显示 AI 芯片领域竞争加剧。",
         "tag": "公司动态",
-        "sort_score": 65,
+        "sort_score": 70,
         "source": "爱范儿"
       },
       {
         "title": "DeepSeek 上线多模态功能，Agent 能力接近 Opus-4.8",
         "link": "http://www.geekpark.net/news/369206",
-        "description": "DeepSeek 发布 V4-Flash-Vision-Exp，开启多模态 API 服务，Agent 能力大幅提升。",
-        "detail": "深度求索官方宣布 DeepSeek V4-Flash-Vision-Exp 上线，开启多模态 API 服务，其 Agent 能力接近 Opus-4.8。这一新版本将显著增强 DeepSeek 在图像识别和多模态交互方面的能力，为开发者提供更丰富的应用场景。",
+        "description": "DeepSeek 发布多模态模型，Agent 能力接近 Opus-4.8。",
+        "detail": "DeepSeek 推出 V4-Flash-Vision-Exp 多模态模型，开启 API 服务，其 Agent 能力接近 Opus-4.8。该模型支持视觉与文本理解，为开发者提供更强大的多模态 AI 能力。",
         "tag": "模型发布",
         "sort_score": 92,
         "source": "极客公园"
       },
       {
-        "title": "魔法原子亮相 WRC 2026，展示具身智能三大场景",
+        "title": "魔法原子亮相世界机器人大会，展示具身智能三大场景",
         "link": "https://www.leiphone.com/category/robot/DCljjXT8jddT4PJs.html",
-        "description": "魔法原子在世界机器人大会展示具身智能三大场景，并举办产业生态论坛。",
-        "detail": "8月20日，世界机器人大会（WRC 2026）期间，魔法原子机器人科技有限公司承办了“场景驱动·产需共融”2026具身智能机器人产业生态论坛。论坛上，魔法原子全景展示了具身智能在三大场景的应用，探讨了产业落地与需求融合的路径。",
+        "description": "魔法原子在 WRC 展示具身智能应用，推动产业落地。",
+        "detail": "在世界机器人大会期间，魔法原子承办了具身智能产业生态论坛，并展示了“三大场景”全景应用。论坛聚焦“场景驱动·产需共融”，探讨具身智能在工业、服务等领域的落地路径。",
         "tag": "行业动态",
-        "sort_score": 70,
+        "sort_score": 65,
         "source": "雷锋网"
       },
       {
         "title": "OpenAI 下调 GPT-5.6 Sol 模型开发者定价超 20%",
         "link": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
-        "description": "OpenAI 将前沿模型 GPT-5.6 Sol 的开发者定价下调超过 20%。",
-        "detail": "OpenAI 宣布将前沿模型 GPT-5.6 Sol 的开发者定价下调超过 20%，以降低开发者使用成本并扩大模型应用范围。这一价格调整有望吸引更多开发者采用该模型，进一步巩固 OpenAI 在 AI 市场的领先地位。",
+        "description": "OpenAI 降低 GPT-5.6 Sol 价格，吸引更多开发者。",
+        "detail": "OpenAI 宣布将前沿模型 GPT-5.6 Sol 的开发者定价下调超过 20%，以降低使用门槛并扩大市场。此举可能加剧模型 API 价格竞争，惠及开发者生态。",
         "tag": "公司动态",
         "sort_score": 75,
         "source": "hackernews"
