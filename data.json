@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-08-23",
+    "weekday": "星期日",
+    "summary": "今日AI圈人事与竞赛动态密集：谷歌TPU之父被曝跳槽Anthropic，OpenAI则迎来菲尔兹奖得主加盟并大幅下调GPT-5.6 Sol价格。模型能力方面，英伟达通用编码智能体AVO在ARC-AGI-3上满分通关183关，Axiom Math用AI验证了人类最难素数定理。此外，Anthropic自用AI值班方案曝光，DeepSeek宣布周末统一低价收费。",
+    "news": [
+      {
+        "title": "谷歌TPU之父Amir Salekani跳槽Anthropic",
+        "link": "https://aiera.com.cn/2026/08/23/other/admin/110261/%e8%b0%b7%e6%ad%8ctpu%e4%b9%8b%e7%88%b6%ef%bc%8c%e8%a2%abanthropic%e8%bf%9e%e5%a4%9c%e6%8c%96%e8%b5%b0%e4%ba%86%ef%bc%81/",
+        "description": "谷歌TPU之父Amir Salekani被Anthropic挖角，引发AI圈震动。",
+        "detail": "外媒曝出猛料，Anthropic成功挖角前谷歌高管、被誉为「TPU之父」的Amir Salekani。这一人事变动在AI圈引发广泛关注，被视为Anthropic在硬件和算力领域布局的重要信号。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI大幅下调GPT-5.6 Sol API价格",
+        "link": "https://aiera.com.cn/2026/08/23/other/admin/110248/%e7%aa%81%e5%8f%91%ef%bc%8cgpt-5-6-sol%e5%a4%a7%e9%99%8d%e4%bb%b7%ef%bc%81openai%e6%8a%8a%e4%bb%b7%e6%a0%bc%e6%88%98%e7%83%a7%e5%88%b0%e6%97%97%e8%88%b0/",
+        "description": "OpenAI宣布GPT-5.6 Sol API和credit价格未来三个月降价超20%。",
+        "detail": "OpenAI突发宣布GPT-5.6 Sol开启大幅降价，未来三个月API价格和credit价格（超出计划包含额度后的按需付费）一起砍掉超过20%。此举被视为OpenAI将价格战烧到旗舰模型，旨在扩大市场份额。",
+        "tag": "新功能",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "40位顶尖数学家齐聚OpenAI秘密会议",
+        "link": "https://aiera.com.cn/2026/08/23/other/admin/110233/%e6%95%b0%e5%ad%a6%e7%9a%84%e7%bb%88%e7%bb%93%ef%bc%9a40%e4%bd%8d%e9%a1%b6%e5%b0%96%e6%95%b0%e5%ad%a6%e5%ae%b6%e9%bd%90%e8%81%9aopenai%e7%a7%98%e5%af%86%e4%bc%9a%e8%ae%ae/",
+        "description": "菲尔兹奖得主Jacob Tsimerman宣布加入OpenAI，参与AI安全研究。",
+        "detail": "上个月刚获得菲尔兹奖的Jacob Tsimerman在颁奖典礼上宣布即将加入OpenAI做AI安全研究。同时，40位顶尖数学家齐聚OpenAI参加秘密会议，探讨数学与AI的交叉领域。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "英伟达编码智能体AVO满分通关ARC-AGI-3",
+        "link": "https://aiera.com.cn/2026/08/23/other/admin/110215/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%8b%b1%e4%bc%9f%e8%be%beai%e5%88%b7%e7%88%86arc-agi-3%ef%bc%81%e5%8d%8e%e4%ba%ba%e7%8f%ad%e5%ba%95%e4%b8%80%e5%8f%a3%e6%b0%94%e5%b1%a0%e4%ba%86183%e5%85%b3/",
+        "description": "英伟达通用编码智能体AVO在ARC-AGI-3上满分通关全部183个关卡。",
+        "detail": "英伟达的通用编码智能体AVO在ARC-AGI-3上拿下满分，在25个游戏环境里通关了全部183个关卡，总共只花了6624步，RHAE拿到100.00。这一成绩展示了AI在通用编码和推理能力上的重大突破。",
+        "tag": "Agent 进展",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "AI系统AxiomPro验证最难素数定理证明",
+        "link": "https://aiera.com.cn/2026/08/23/other/admin/110191/25%e5%b2%81%e5%b9%bf%e5%b7%9e%e5%a5%b3%e5%ad%a9%e7%94%a8ai%e9%aa%8c%e6%88%90%e4%ba%86%ef%bc%81%e4%b8%a4%e5%a4%a7%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb%e5%bf%83%e8%a1%80%ef%bc%8c/",
+        "description": "25岁广州女孩创立的AI公司Axiom Math验证了人类最难素数定理证明。",
+        "detail": "8月17日，由25岁广州女孩创立的AI公司Axiom Math宣布，自家系统AxiomPro从头验证了人类证出来的最难素数定理，结论是证明成立、逻辑无误。这一成果展示了AI在数学推理和验证领域的强大能力。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "销量第一的机器狗新增人形形态",
+        "link": "https://aiera.com.cn/2026/08/23/other/admin/110175/%e5%88%9a%e5%88%9a%ef%bc%8c%e9%94%80%e9%87%8f%e7%ac%ac%e4%b8%80%e7%9a%84%e6%9c%ba%e5%99%a8%e7%8b%97%ef%bc%8c%e9%95%bf%e5%87%ba%e4%ba%86%e4%ba%ba%e5%bd%a2%ef%bc%81/",
+        "description": "销量第一的机器狗推出人形形态，用户通过遛狗实现减重。",
+        "detail": "销量第一的机器狗推出了人形形态，引发市场关注。有网友「青苹果的猜想」每天带着机器狗暴走至少5公里，两个多月下来里程表刷到262公里，体重秤上的数字跟着一路往下掉，展示了机器狗在健康生活场景中的应用潜力。",
+        "tag": "新功能",
+        "sort_score": 65,
+        "source": "新智元"
+      },
+      {
+        "title": "全球首场人机网球赛开战，机器人极限救球",
+        "link": "https://aiera.com.cn/2026/08/23/other/admin/110144/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e9%a6%96%e5%9c%ba%e4%ba%ba%e6%9c%ba%e7%bd%91%e7%90%83%e8%b5%9b%e5%bc%80%e6%88%98%ef%bc%81%e6%9c%ba%e5%99%a8%e4%ba%ba%e6%9e%81%e9%99%90%e6%95%91%e7%90%83/",
+        "description": "第二届世界人形机器人运动会开幕，全球首场人机网球赛开战。",
+        "detail": "8月22日，第二届世界人形机器人运动会开幕，中央广播电视总台面向全球直播。中国机器人的AstraTennis时刻到来，机器人极限救球的表现让前网球名将郑洁看呆，展示了人形机器人在运动竞技领域的最新进展。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic自用秘籍：值班工程师用Claude 4分钟解决故障",
+        "link": "https://aiera.com.cn/2026/08/23/other/admin/110126/%e5%86%8d%e8%a7%81%ef%bc%8c%e6%b7%b1%e5%a4%9c%e5%80%bc%e7%8f%ad%ef%bc%81anthropic%e8%87%aa%e7%94%a8%e7%a7%98%e7%b1%8d%e6%9b%9d%e5%85%89%ef%bc%9a%e5%87%ba%e4%ba%8b%e7%9b%b4%e6%8e%a5claude%ef%bc%8c4/",
+        "description": "Anthropic值班工程师通过@Claude在4分钟内解决线上测试崩溃问题。",
+        "detail": "晚上10点，Anthropic的值班工程师突然收到刺耳的警报，线上有一批测试全线崩盘。通过使用自用秘籍——直接@Claude，工程师在4分钟内解决了问题，展示了AI辅助运维的高效性。",
+        "tag": "工具与生态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "DeepSeek周末统一低价收费，特斯拉9月首秀Cybercab",
+        "link": "http://www.geekpark.net/news/369215",
+        "description": "DeepSeek周末统一低价收费，特斯拉9月3日首秀Cybercab，神秘Ox Alpha模型爆火。",
+        "detail": "DeepSeek宣布周末用量统一低价收费，吸引更多用户。特斯拉将于9月3日首秀Cybercab，引发市场期待。同时，神秘Ox Alpha模型在网络上爆火，成为AI社区热议话题。",
+        "tag": "行业动态",
+        "sort_score": 72,
+        "source": "极客公园"
+      }
+    ]
+  },
+  {
     "date": "2026-08-22",
     "weekday": "星期六",
     "summary": "今日焦点集中在 AI 安全与开源生态：Claude Code 被曝存在严重安全漏洞，仅需一个假工具即可被攻破，引发对 Agent 安全性的担忧。与此同时，OpenAI 全面开源 Codex Harness，为开发者带来重大利好。DeepSeek 上线多模态模型 V4-Flash-Vision-Exp，Agent 能力接近 Opus-4.8。此外，OpenAI 下调前沿模型 GPT-5.",
