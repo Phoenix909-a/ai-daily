@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-08-24",
+    "weekday": "星期一",
+    "summary": "今日焦点集中在 Anthropic 的系列动作：内部“巴拿马计划”曝光，涉及大规模旧书扫描用于模型训练；同时公司公开了员工入职培训课程 Claude Academy，并发布报告称 AI 尚未导致失业率上升。OpenAI 方面，GitHub 万星 Agent 项目团队 Instant 全队加入，引发关注。此外，一个神秘模型“Ox Alpha”在硅谷引发热议，谷歌抢认领遭全网调侃。DeepSeek 再度调整 API 计费策略，改为周末全天低谷计费。",
+    "news": [
+      {
+        "title": "韶音举办OpenFit 2 AI媒体沟通会，探讨声音作为AI时代生产力",
+        "link": "https://aiera.com.cn/2026/08/24/other/admin/110436/ai%e6%97%b6%e4%bb%a3%ef%bc%8c%e5%a3%b0%e9%9f%b3%e5%a6%82%e4%bd%95%e6%88%90%e4%b8%ba%e3%80%8c%e5%a3%b0%e4%ba%a7%e5%8a%9b%e3%80%8d%ef%bc%9f%e9%9f%b6%e9%9f%b3openfit-2-ai%e5%aa%92%e4%bd%93%e6%b2%9f/",
+        "description": "韶音在上海举办OpenFit 2 AI媒体沟通会，探讨AI时代声音如何成为生产力。",
+        "detail": "8月18日，Shokz韶音在上海举办OpenFit 2 AI媒体沟通会，主题为“AI时代，声音如何成为「声产力」”。韶音中国区品牌营销负责人出席并分享了关于开放式耳机与AI结合的前景，强调声音在AI交互中的核心作用。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic「巴拿马计划」曝光：数百万旧书被切脊用于AI训练",
+        "link": "https://aiera.com.cn/2026/08/24/other/admin/110431/anthropic%e3%80%8c%e5%b7%b4%e6%8b%bf%e9%a9%ac%e8%ae%a1%e5%88%92%e3%80%8d%e6%9b%9d%e5%85%89%ef%bc%81%e6%95%b0%e7%99%be%e4%b8%87%e6%97%a7%e4%b9%a6%e8%a2%ab%e5%88%87%e8%84%8a%e5%96%82%e7%bb%99asi/",
+        "description": "Anthropic内部文件曝光，计划将数百万本旧书切脊扫描用于训练AI模型。",
+        "detail": "2024年4月13日，Anthropic内部传阅了一份名为「巴拿马计划」的文档，计划将数百万本旧书切脊扫描，以获取高质量训练数据。该计划旨在提升AI模型的推理能力，但引发了关于版权和资源利用的广泛讨论。",
+        "tag": "公司动态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic公开员工入职培训课程，上线Claude Academy",
+        "link": "https://aiera.com.cn/2026/08/24/other/admin/110412/%e5%88%9a%e5%88%9a%ef%bc%8canthropic%e6%8a%8a%e5%91%98%e5%b7%a5%e5%85%a5%e8%81%8c%e7%ac%ac%e4%b8%80%e8%af%be%e7%bb%99%e5%85%ac%e5%bc%80%e4%ba%86%ef%bc%81/",
+        "description": "Anthropic将员工入职培训课程免费公开，上线Claude Academy平台。",
+        "detail": "Anthropic昨日正式上线Claude Academy，将内部员工入职培训课程原样免费公开。课程涵盖AI基础、Claude模型使用及安全实践等内容，旨在帮助更多人掌握AI技能，推动AI知识普及。",
+        "tag": "工具与生态",
+        "sort_score": 78,
+        "source": "新智元"
+      },
+      {
+        "title": "清华与沃顿研究者用GPT破解优化理论40年悬案",
+        "link": "https://aiera.com.cn/2026/08/24/other/admin/110395/%e6%b8%85%e5%8d%8e%e6%b2%83%e9%a1%bf%e5%b8%88%e5%be%92%e7%a0%b4%e8%a7%a340%e5%b9%b4%e6%82%ac%e6%a1%88%ef%bc%81%e6%a0%b8%e5%bf%83%e6%95%b0%e5%ad%a6%e5%85%a8%e6%98%afgpt%e5%86%99%e7%9a%84%ef%bc%8c/",
+        "description": "清华和沃顿研究者发表论文，用GPT辅助证明优化理论中悬置40年的数学问题。",
+        "detail": "清华大学和宾大沃顿商学院的两位研究者发表新论文，给出了优化理论界等待40年的结论。该论文的核心数学证明由GPT辅助完成，展示了AI在数学研究中的潜力，引发学术界对AI辅助科研的广泛关注。",
+        "tag": "模型发布",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "澳洲AI大神自制全球首个AI定制狗癌mRNA疫苗",
+        "link": "https://aiera.com.cn/2026/08/24/other/admin/110380/mrna%e7%96%ab%e8%8b%97%e5%a4%aa%e6%85%a2%ef%bc%8c%e7%8b%97%e4%b8%bb%e4%ba%ba%e7%97%9b%e5%a4%b1%e7%88%b1%e7%8a%ac%ef%bc%81%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aaai%e5%ae%9a%e5%88%b6%e7%8b%97%e7%99%8c/",
+        "description": "澳洲AI爱好者自学基因组学，为爱犬定制全球首个mRNA癌症疫苗。",
+        "detail": "一位澳洲AI爱好者为拯救癌症晚期的爱犬，自学基因组学并利用AI技术，成功研制出全球首支专属定制的mRNA癌症疫苗。这一案例展示了AI在生物医药领域的应用潜力，但也引发了对专业边界的讨论。",
+        "tag": "工具与生态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "AI厨师亮相世界机器人大会，两小时学会八大菜系",
+        "link": "https://aiera.com.cn/2026/08/24/other/admin/110352/%e5%bd%b1%e8%a7%86%e9%a3%93%e9%a3%8etim%e7%9c%8b%e5%91%86%ef%bc%81%e9%b8%a1%e6%8e%92%e5%93%a52%e5%b0%8f%e6%97%b6%e5%81%9a%e5%87%ba%e5%85%ab%e5%a4%a7%e8%8f%9c%e7%b3%bb%ef%bc%8cai%e9%a6%96%e6%ac%a1/",
+        "description": "北京世界机器人大会上，AI系统让路边摊主两小时学会中国八大菜系。",
+        "detail": "在北京亦庄世界机器人大会上，一个AI系统让只会炸鸡排的路边摊主仅用两小时就学会了中国八大菜系。该系统通过多模态学习和机器人辅助，实现了烹饪技能的快速迁移，展示了AI在复杂任务中的应用能力。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic研究负责人：AI尚未导致失业率增加",
+        "link": "https://aiera.com.cn/2026/08/24/other/admin/110323/anthropic%ef%bc%9aai%e6%b2%a1%e6%9c%89%e5%af%bc%e8%87%b4%e5%a4%b1%e4%b8%9a%e7%8e%87%e7%9a%84%e5%a2%9e%e5%8a%a0/",
+        "description": "Anthropic经济研究负责人发文称，目前AI没有导致失业率上升。",
+        "detail": "Anthropic经济研究负责人Peter McCrory近日发布长文，指出AI目前并未导致失业率增加。他基于数据分析了AI对就业市场的影响，认为当前AI更多是辅助而非替代人类工作，但未来影响仍需持续观察。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "神秘模型Ox Alpha现身OpenRouter，谷歌抢认领遭全网嘲讽",
+        "link": "https://aiera.com.cn/2026/08/24/other/admin/110310/%e7%a5%9e%e7%a7%98%e3%80%8c%e7%89%9b%e6%9d%a5%e3%80%8d%e6%8e%80%e7%bf%bb%e7%a1%85%e8%b0%b7%ef%bc%81%e8%b0%b7%e6%ad%8c%e6%8a%a2%e7%9d%80%e8%ae%a4%e9%a2%86%e8%a2%ab%e5%85%a8%e7%bd%91%e7%ac%91%e6%83%a8/",
+        "description": "名为Ox Alpha的神秘模型出现在OpenRouter，谷歌试图认领被网友嘲笑。",
+        "detail": "8月21日，一个名为Ox Alpha的模型出现在OpenRouter和OpenCode上，引发AI圈热议。谷歌随后试图认领该模型，但被全网嘲讽，认为其行为可疑。该模型的来源和背景至今成谜，引发了对AI模型透明度的讨论。",
+        "tag": "行业动态",
+        "sort_score": 72,
+        "source": "新智元"
+      },
+      {
+        "title": "AI版Firebase创业公司Instant全队加入OpenAI",
+        "link": "https://aiera.com.cn/2026/08/24/other/admin/110281/github%e4%b8%87%e6%98%9fagent%e6%95%b4%e9%94%85%e7%ab%af%e8%bf%9bopenai%ef%bc%81%e3%80%8cai%e7%89%88firebase%e3%80%8d%e5%ae%a3%e5%b8%83%e5%85%a8%e9%98%9f%e5%8a%a0%e5%85%a5/",
+        "description": "YC S22明星创业公司Instant宣布整个团队加入OpenAI。",
+        "detail": "OpenAI宣布YC S22明星创业公司Instant的整个团队正式加入。Instant被称为“AI版Firebase”，其技术将整合进OpenAI生态，此举被视为OpenAI加强开发者工具布局的重要一步。",
+        "tag": "公司动态",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "DeepSeek再次调价，英伟达AI服务器涨价超15%",
+        "link": "https://www.infoq.cn/article/ONGSA7k86LcxFyU64N2z?utm_source=rss&utm_medium=article",
+        "description": "DeepSeek调整API价格，英伟达AI服务器涨价超15%，AI红娘创业项目引发关注。",
+        "detail": "本周AI动态包括：DeepSeek再次调整API价格，英伟达AI服务器涨价超15%；前Kimi搜索负责人创业推出“AI红娘”服务，承诺三年不结婚就退款，目标拉高10%结婚率。这些动态反映了AI行业的商业化加速。",
+        "tag": "行业动态",
+        "sort_score": 68,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "KDC完整工程模型全景解析发布",
+        "link": "https://www.infoq.cn/article/6zto2Zd1cdiODGyBcf6r?utm_source=rss&utm_medium=article",
+        "description": "一篇关于KDC完整工程模型的技术文章发布，详细解析其架构。",
+        "detail": "文章《从现实到反馈：KDC 完整工程模型全景》发布，深入解析了KDC模型的完整工程架构，涵盖从数据采集到反馈优化的全流程。该文为AI工程实践提供了详细参考，适合技术开发者阅读。",
+        "tag": "工具与生态",
+        "sort_score": 60,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "苹果首款折叠屏临近发布，新iPhone或集体涨价",
+        "link": "https://www.ifanr.com/1676314?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "苹果折叠屏手机临近发布，新iPhone可能涨价，宇树机器人回应比赛垫底。",
+        "detail": "早报汇总：苹果首款折叠屏手机临近发布，新iPhone或集体涨价；宇树机器人回应百米预赛小组垫底，称赛事准备受限；DeepSeek API周末改为全天低谷计费；小红书造谣者被行政拘留。",
+        "tag": "行业动态",
+        "sort_score": 55,
+        "source": "爱范儿"
+      },
+      {
+        "title": "九家车企召回430万辆汽车，英伟达达成70亿美元AI合作",
+        "link": "https://sspai.com/post/113767",
+        "description": "九家车企召回430万辆汽车，英伟达达成70亿美元合作研发开放权重模型。",
+        "detail": "派早报：九家车企召回近430万辆不易识别应急拉手的汽车；英伟达达成70亿美元合作，研发顶级开放权重模型；高院发布著作权新司法解释，网络转载不允许先转后付。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "少数派"
+      },
+      {
+        "title": "传Hugging Face寻求出售估值130亿美元，奥特曼担忧AI被少数主体掌控",
+        "link": "http://www.geekpark.net/news/369224",
+        "description": "Hugging Face或被出售估值130亿美元，奥特曼表达对AI权力集中的担忧。",
+        "detail": "据报道，Hugging Face正寻求出售，估值达130亿美元。同时，OpenAI CEO奥特曼表示担心AI会被少数强势主体掌控，呼吁关注AI治理的公平性。此外，成都AG.AL获电竞世俱杯冠军。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "极客公园"
+      },
+      {
+        "title": "万兴科技发布AI画布工作台Filmora.TV，面向TVC创作人群",
+        "link": "https://www.leiphone.com/category/industrynews/YsrKuxqEsqebPdN5.html",
+        "description": "万兴科技推出AI画布工作台Filmora.TV，面向商业电视广告专业人群。",
+        "detail": "万兴科技正式全球发布AI画布工作台Filmora.TV，面向TVC专业人群，基于其视频创意技术，提供AI辅助的广告创作工具。该产品旨在加码AI视频创意与品牌营销赛道，提升广告制作效率。",
+        "tag": "新功能",
+        "sort_score": 70,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-08-23",
     "weekday": "星期日",
     "summary": "今日AI领域人才与模型动态密集：谷歌TPU之父Amir Salekani被曝跳槽Anthropic，引发算力军备竞赛猜想；OpenAI对旗舰模型GPT-5.6 Sol大幅降价超20%，将价格战推向高端市场。英伟达通用编码智能体AVO在ARC-AGI-3基准上满分通关183关，展现Agent推理能力新高度。数学界与AI交叉加速，菲尔兹奖得主加盟OpenAI，同时Axiom Math用AI验证了人类最难素数定理。此外，Anthropic自用AI值班系统细节曝光，展示Agent在运维场景的落地价值。",
