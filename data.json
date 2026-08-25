@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-08-25",
+    "weekday": "星期二",
+    "summary": "今日 AI 圈焦点集中在 Anthropic 与 OpenAI 的模型暗战：Anthropic 被曝新模型 Fable 5 意外泄露，同时承认 Claude 存在“暗中降智”问题；OpenAI 则疑似泄露新模型代号 gpt-nathree，奥特曼更公开炮轰达里奥。英伟达宣布斥资 60 亿美元打造全球顶尖开源模型，Hugging Face 传出或被以约 870 亿元收购。此外，Claude 被报道终结了悬置 78 年的数学难题，成为重要 AI 科学成果。",
+    "news": [
+      {
+        "title": "SEC 调查明星 AI 对冲基金 Situational Awareness",
+        "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+        "description": "曾轰动华尔街的 AI 对冲基金因涉嫌违规遭美国证交会调查。",
+        "detail": "Situational Awareness 是一家曾被誉为华尔街焦点的 AI 对冲基金，如今因涉嫌违规行为收到美国证交会的联邦传票。该基金从巅峰跌落的速度之快，引发了市场对 AI 金融应用监管风险的广泛关注。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "ResNet 作者任少卿投身机器人创业，公司估值已达独角兽",
+        "link": "https://www.qbitai.com/2026/08/478675.html",
+        "description": "ResNet 作者任少卿创立具身智能公司，虽在职蔚来但新公司已成独角兽。",
+        "detail": "ResNet 作者任少卿正式进军机器人领域，其创立的具身智能公司注册后迅速成为独角兽。尽管新公司业务明确，任少卿仍继续在蔚来任职，这一双重身份引发业界对其未来布局的猜测。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "量子位"
+      },
+      {
+        "title": "Anthropic 新模型 Fable 5 意外曝光，性能爆冷引热议",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110572/anthropic%e6%96%b0%e6%a8%a1%e5%9e%8b%e5%81%b7%e3%80%8c%e5%90%83%e7%93%9c%e3%80%8d%ef%bc%81%e6%9c%80%e5%bc%bafable-5%e7%88%86%e5%86%b7/",
+        "description": "Anthropic 两款新模型 ID 在第三方应用和社区泄露，Fable 5 表现超预期。",
+        "detail": "Anthropic 的两款新模型在第三方开发者应用和 Discord 社区中被意外曝光，其中最强模型 Fable 5 的性能表现爆冷，引发广泛讨论。此次泄露提前掀开了 Anthropic 的新牌，市场对其正式发布充满期待。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic 承认 Claude 暗中降智，开发者社区强烈不满",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110554/anthropic%e6%bb%91%e8%b7%aa%e8%ae%a4%e9%94%99%ef%bc%81claude%e6%9a%97%e4%b8%ad%e9%99%8d%e6%99%ba%e5%ae%9e%e9%94%a4/",
+        "description": "开发者发现 Claude 性能下降，Anthropic 最终承认并道歉。",
+        "detail": "开发者 argofowl 发现 Claude 一夜之间变笨，经过深入排查后，Anthropic 最终承认 Claude 存在暗中降智的问题。此事在开发者社区引发轩然大波，Anthropic 的滑跪认错未能完全平息用户对模型稳定性的担忧。",
+        "tag": "模型发布",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "奥特曼炮轰达里奥反人类，OpenAI 神秘模型代号泄露",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110537/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%82%ae%e8%bd%b0%e8%be%be%e9%87%8c%e5%a5%a5%e3%80%8c%e5%8f%8d%e4%ba%ba%e7%b1%bb%e3%80%8d%ef%bc%81%e7%bb%9d%e5%af%86%e6%a8%a1%e5%9e%8b%e5%90%8c/",
+        "description": "OpenAI CEO 批评达里奥言论，同时 GitHub 意外泄露新模型代号。",
+        "detail": "OpenAI CEO 奥特曼公开炮轰达里奥的言论为「反人类」，与此同时，OpenAI 员工在 GitHub 上的一次手滑意外暴露了新模型的代号 gpt-nathree。这一双重事件被视为 OpenAI 与 Claude 争霸的下一战信号。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "Codex 额度消耗过快问题查明，负责人承认三处 Bug",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110520/codex%e3%80%8c%e9%a2%9d%e5%ba%a6%e9%bb%91%e6%b4%9e%e3%80%8d%e7%bb%88%e4%ba%8e%e6%9f%a5%e6%b8%85%ef%bc%81%e7%9c%9f%e5%87%b6%e7%ab%9f%e6%98%af%e8%bf%99%e4%b8%aa%e5%b0%8f%e5%8a%9f%e8%83%bd/",
+        "description": "OpenAI Codex 负责人公布额度消耗异常原因，系三个 Bug 所致。",
+        "detail": "OpenAI Codex 负责人 Tibo Sottiaux 在 X 上发长帖，承认 Codex 存在三处 Bug，导致用户额度消耗过快。经过一周的排查，这一悬案终于告破，OpenAI 承诺将修复问题并优化额度管理。",
+        "tag": "新功能",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "Hugging Face 探索出售，估值或达 130 亿美元",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110508/%e7%aa%81%e5%8f%91%ef%bc%81hugging-face-%e8%a6%81%e8%a2%ab%e5%8d%96%e4%ba%86%ef%bc%9a%e6%9c%80%e6%96%b0%e6%8a%a5%e4%bb%b7%e7%ba%a6870%e4%ba%bf%e5%85%83/",
+        "description": "AI 开源平台 Hugging Face 正接触买家，估值可能超 130 亿美元。",
+        "detail": "最重要的 AI 开源平台 Hugging Face 正在探索出售，已接触多家买家，估值可能达到 130 亿美元（约 870 亿元人民币）甚至更高。这一消息引发业界对开源 AI 生态未来走向的广泛关注。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "AI 服务器涨价超 15%，内存成本飙升英伟达难控",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110493/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%83%bd%e6%91%81%e4%b8%8d%e4%bd%8f%e4%ba%86%ef%bc%81%e5%86%85%e5%ad%98%e7%96%af%e6%b6%a8%ef%bc%8cai%e6%9c%8d%e5%8a%a1%e5%99%a8%e8%a2%ab%e6%9b%9d%e6%b6%a8%e4%bb%b7%e8%b6%85/",
+        "description": "内存价格疯涨导致 AI 服务器涨价超 15%，英伟达客户收到通知。",
+        "detail": "英伟达最大的几家客户集体收到涨价通知，搭载英伟达 AI 芯片的服务器价格涨幅超过 15%，2027 年初生效。内存成本疯涨是主因，连英伟达也难以压制，AI 基础设施成本压力进一步加剧。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude 破解 78 年数学难题，或成最重要 AI 数学成果",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110481/%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb%e9%83%bd%e6%a0%bd%e4%ba%86%ef%bc%81claude%e7%bb%88%e7%bb%9378%e5%b9%b4%e6%82%ac%e6%a1%88%ef%bc%8c%e6%88%96%e6%88%90%e6%9c%80%e9%87%8d%e8%a6%81ai/",
+        "description": "Claude 三天解决六维球面复结构问题，终结 78 年悬案。",
+        "detail": "一道悬了 78 年的世纪难题——六维球面上是否存在复结构，被 Claude 在三天内破解，答案是肯定的。这一成果被认为是 AI 在数学领域最重要的突破之一，连菲尔兹奖得主都未能解决的难题被 AI 攻克。",
+        "tag": "Agent 进展",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "英伟达斥资 60 亿美元打造全球最强开源模型",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110460/%e8%80%81%e9%bb%84%e6%96%a5%e8%b5%8460%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%8c%e6%89%93%e9%80%a0%e5%85%a8%e7%90%83%e9%a1%b6%e5%b0%96%e5%bc%80%e6%ba%90%e6%a8%a1%e5%9e%8b%ef%bc%81/",
+        "description": "英伟达计划投资 60 亿美元开发全球顶尖开源权重 AI 模型。",
+        "detail": "英伟达不甘心只做卖铲人，计划斥资 60 亿美元（约 430 亿人民币）打造全球地表最强的开源权重 AI 模型。这一举措标志着英伟达从硬件巨头向 AI 模型领域的重大扩张。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "SpaceXAI 推出面向自主 AI 代理的 Grok Bot",
+        "link": "https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ?utm_source=rss&utm_medium=article",
+        "description": "SpaceXAI 发布 Grok Bot，专为自主 AI 智能代理设计。",
+        "detail": "SpaceXAI 正式推出 Grok Bot，这是一款面向自主 AI 智能代理的新工具，旨在提升代理的自主决策和交互能力。该产品的发布进一步丰富了 AI 代理生态。",
+        "tag": "Agent 进展",
+        "sort_score": 82,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "小米玄戒 O3 藏彩蛋，vivo X500 系列官宣，MINI 车机接入 AI 模型",
+        "link": "https://www.ifanr.com/1676529?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "小米发布玄戒 O3 芯片，vivo 官宣 X500 系列，MINI 车机集成阿里与 DeepSeek。",
+        "detail": "小米在玄戒 O3 芯片中隐藏彩蛋，雷军不建议拆开查看；vivo 正式官宣 X500 系列；MINI 车机系统接入阿里与 DeepSeek 模型。此外，Hugging Face 评估出售、全球智能手机出货量预计下降 14.3%、蔚来智驾负责人任少卿创立具身智能公司等消息也值得关注。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "爱范儿"
+      },
+      {
+        "title": "阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片",
+        "link": "https://sspai.com/post/113813",
+        "description": "阿里云推出 Wan3.0 视频生成模型，小米发布三款玄戒芯片。",
+        "detail": "阿里云视频生成模型 Wan3.0 正式上线，支持更高质量的视频生成。小米同步发布三款玄戒芯片，进一步扩展其 AI 硬件布局。此外，少数派会员新一季启航，DotSkill 技能上线等动态也值得关注。",
+        "tag": "模型发布",
+        "sort_score": 78,
+        "source": "少数派"
+      },
+      {
+        "title": "字节跳动整合 TRAE 和扣子入豆包，推统一办公品牌",
+        "link": "http://www.geekpark.net/news/369303",
+        "description": "字节跳动将 TRAE、扣子团队并入豆包，推出「豆包工作」品牌。",
+        "detail": "字节跳动对旗下办公 AI 产品完成团队整合，TRAE 和扣子（Coze）团队整体并入豆包，并推出统一办公品牌「豆包工作」。此外，拓竹回应 2027 年 IPO 传闻不实，Anthropic 面试流程曝光等消息也引发关注。",
+        "tag": "公司动态",
+        "sort_score": 72,
+        "source": "极客公园"
+      },
+      {
+        "title": "Agent 技能开发语言讨论：主流选择与趋势分析",
+        "link": "https://plicara.ai/research/agent-skill-languages/",
+        "description": "Hacker News 热议 Agent 技能编写语言，探讨最佳实践与生态趋势。",
+        "detail": "Hacker News 上一条关于 Agent 技能编写语言的讨论引发关注，用户探讨了不同编程语言在 Agent 技能开发中的适用性和生态支持。该讨论反映了开发者对 Agent 标准化和工具链的持续关注。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "weekday": "星期一",
     "summary": "今日AI领域焦点集中在Anthropic的系列动作：曝光大规模旧书扫描计划、公开员工入职课程，并发布AI未导致失业率上升的研究结论。模型方面，神秘模型「Ox Alpha」引发硅谷热议，谷歌认领遭全网调侃。产业层面，OpenAI吸纳GitHub万星Agent团队Instant，Hugging Face传出130亿美元出售意向，阿里拟配售800亿港元全力投入AI建设。",
