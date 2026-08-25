@@ -2,139 +2,265 @@
   {
     "date": "2026-08-25",
     "weekday": "星期二",
-    "summary": "今日 AI 圈焦点集中在 Anthropic 与 OpenAI 的模型暗战：Anthropic 被曝新模型 Fable 5 意外泄露，同时承认 Claude 存在“暗中降智”问题；OpenAI 则疑似泄露新模型代号 gpt-nathree，奥特曼更公开炮轰达里奥。英伟达宣布斥资 60 亿美元打造全球顶尖开源模型，Hugging Face 传出或被以约 870 亿元收购。此外，Claude 被报道终结了悬置 78 年的数学难题，成为重要 AI 科学成果。",
+    "summary": "今日AI领域迎来多重重磅消息：Anthropic疑似泄露新模型Fable 5，同时被实锤暗中降智并公开认错；OpenAI神秘模型gpt-nathree代号意外曝光，奥特曼炮轰达里奥言论引发争议。字节跳动正式发布“豆包工作”Agent产品，整合TRAE与扣子团队。英伟达计划斥资60亿美元打造开源模型，Hugging Face传出130亿美元出售意向。此外，Claude在数学领域终结78年悬案，引发学界震动。",
     "news": [
       {
-        "title": "SEC 调查明星 AI 对冲基金 Situational Awareness",
+        "title": "明星AI对冲基金Situational Awareness遭SEC调查",
         "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-        "description": "曾轰动华尔街的 AI 对冲基金因涉嫌违规遭美国证交会调查。",
-        "detail": "Situational Awareness 是一家曾被誉为华尔街焦点的 AI 对冲基金，如今因涉嫌违规行为收到美国证交会的联邦传票。该基金从巅峰跌落的速度之快，引发了市场对 AI 金融应用监管风险的广泛关注。",
+        "description": "曾风光无限的AI对冲基金因涉嫌违规被美国证监会调查。",
+        "detail": "Situational Awareness，这家曾被誉为华尔街焦点的AI对冲基金，如今正面临美国证券交易委员会（SEC）的联邦传票调查。该基金从巅峰跌落的速度之快，引发了业界对AI金融应用监管风险的广泛关注。",
         "tag": "行业动态",
-        "sort_score": 65,
+        "sort_score": 70,
         "source": "TechCrunch AI"
       },
       {
-        "title": "ResNet 作者任少卿投身机器人创业，公司估值已达独角兽",
-        "link": "https://www.qbitai.com/2026/08/478675.html",
-        "description": "ResNet 作者任少卿创立具身智能公司，虽在职蔚来但新公司已成独角兽。",
-        "detail": "ResNet 作者任少卿正式进军机器人领域，其创立的具身智能公司注册后迅速成为独角兽。尽管新公司业务明确，任少卿仍继续在蔚来任职，这一双重身份引发业界对其未来布局的猜测。",
-        "tag": "公司动态",
-        "sort_score": 70,
+        "title": "原力灵机DM0.5登顶RoboDojo，具身智能模型全开源",
+        "link": "https://www.qbitai.com/2026/08/478791.html",
+        "description": "原力灵机发布DM0.5，登顶机器人操作榜单并全面开源。",
+        "detail": "原力灵机发布的机器人基础模型DM0.5在RoboDojo基准测试中取得SOTA成绩，并宣布全面开源。该模型在具身智能领域实现重大突破，为机器人学习提供了新的技术标杆。",
+        "tag": "模型发布",
+        "sort_score": 92,
         "source": "量子位"
       },
       {
-        "title": "Anthropic 新模型 Fable 5 意外曝光，性能爆冷引热议",
-        "link": "https://aiera.com.cn/2026/08/25/other/admin/110572/anthropic%e6%96%b0%e6%a8%a1%e5%9e%8b%e5%81%b7%e3%80%8c%e5%90%83%e7%93%9c%e3%80%8d%ef%bc%81%e6%9c%80%e5%bc%bafable-5%e7%88%86%e5%86%b7/",
-        "description": "Anthropic 两款新模型 ID 在第三方应用和社区泄露，Fable 5 表现超预期。",
-        "detail": "Anthropic 的两款新模型在第三方开发者应用和 Discord 社区中被意外曝光，其中最强模型 Fable 5 的性能表现爆冷，引发广泛讨论。此次泄露提前掀开了 Anthropic 的新牌，市场对其正式发布充满期待。",
-        "tag": "模型发布",
-        "sort_score": 92,
-        "source": "新智元"
+        "title": "VC机构开始利用AI预测未来投资趋势",
+        "link": "https://www.qbitai.com/2026/08/478774.html",
+        "description": "风险投资机构开始采用AI技术预测未来，FutureX榜单前十占三席。",
+        "detail": "风险投资领域正兴起一股利用AI预测未来的趋势。报道指出，在FutureX榜单的前十名中，有三家机构采用了AI预测技术，显示出AI在投资决策中的影响力日益增强。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "量子位"
       },
       {
-        "title": "Anthropic 承认 Claude 暗中降智，开发者社区强烈不满",
-        "link": "https://aiera.com.cn/2026/08/25/other/admin/110554/anthropic%e6%bb%91%e8%b7%aa%e8%ae%a4%e9%94%99%ef%bc%81claude%e6%9a%97%e4%b8%ad%e9%99%8d%e6%99%ba%e5%ae%9e%e9%94%a4/",
-        "description": "开发者发现 Claude 性能下降，Anthropic 最终承认并道歉。",
-        "detail": "开发者 argofowl 发现 Claude 一夜之间变笨，经过深入排查后，Anthropic 最终承认 Claude 存在暗中降智的问题。此事在开发者社区引发轩然大波，Anthropic 的滑跪认错未能完全平息用户对模型稳定性的担忧。",
+        "title": "生数科技发布通用世界模型五级发展路线",
+        "link": "https://www.qbitai.com/2026/08/478690.html",
+        "description": "生数科技在WRC 2026上提出通用世界模型的五级发展路线图。",
+        "detail": "在2026年世界机器人大会上，生数科技公布了其最新研究成果，首次提出通用世界模型的五级发展路线。该路线图旨在为世界模型的研究与演进提供清晰的阶段性框架，推动具身智能发展。",
         "tag": "模型发布",
-        "sort_score": 88,
-        "source": "新智元"
+        "sort_score": 85,
+        "source": "量子位"
       },
       {
-        "title": "奥特曼炮轰达里奥反人类，OpenAI 神秘模型代号泄露",
-        "link": "https://aiera.com.cn/2026/08/25/other/admin/110537/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%82%ae%e8%bd%b0%e8%be%be%e9%87%8c%e5%a5%a5%e3%80%8c%e5%8f%8d%e4%ba%ba%e7%b1%bb%e3%80%8d%ef%bc%81%e7%bb%9d%e5%af%86%e6%a8%a1%e5%9e%8b%e5%90%8c/",
-        "description": "OpenAI CEO 批评达里奥言论，同时 GitHub 意外泄露新模型代号。",
-        "detail": "OpenAI CEO 奥特曼公开炮轰达里奥的言论为「反人类」，与此同时，OpenAI 员工在 GitHub 上的一次手滑意外暴露了新模型的代号 gpt-nathree。这一双重事件被视为 OpenAI 与 Claude 争霸的下一战信号。",
+        "title": "ResNet作者任少卿投身机器人创业，公司注册即独角兽",
+        "link": "https://www.qbitai.com/2026/08/478675.html",
+        "description": "ResNet作者任少卿创立具身智能公司，虽在职蔚来但公司估值已达独角兽。",
+        "detail": "ResNet作者、蔚来智驾负责人任少卿正式进军机器人领域，其新创立的具身智能公司在注册时即获得独角兽估值。任少卿表示将继续在蔚来任职，此举引发业界对其双重角色的关注。",
         "tag": "公司动态",
         "sort_score": 75,
-        "source": "新智元"
+        "source": "量子位"
       },
       {
-        "title": "Codex 额度消耗过快问题查明，负责人承认三处 Bug",
-        "link": "https://aiera.com.cn/2026/08/25/other/admin/110520/codex%e3%80%8c%e9%a2%9d%e5%ba%a6%e9%bb%91%e6%b4%9e%e3%80%8d%e7%bb%88%e4%ba%8e%e6%9f%a5%e6%b8%85%ef%bc%81%e7%9c%9f%e5%87%b6%e7%ab%9f%e6%98%af%e8%bf%99%e4%b8%aa%e5%b0%8f%e5%8a%9f%e8%83%bd/",
-        "description": "OpenAI Codex 负责人公布额度消耗异常原因，系三个 Bug 所致。",
-        "detail": "OpenAI Codex 负责人 Tibo Sottiaux 在 X 上发长帖，承认 Codex 存在三处 Bug，导致用户额度消耗过快。经过一周的排查，这一悬案终于告破，OpenAI 承诺将修复问题并优化额度管理。",
-        "tag": "新功能",
-        "sort_score": 80,
-        "source": "新智元"
-      },
-      {
-        "title": "Hugging Face 探索出售，估值或达 130 亿美元",
-        "link": "https://aiera.com.cn/2026/08/25/other/admin/110508/%e7%aa%81%e5%8f%91%ef%bc%81hugging-face-%e8%a6%81%e8%a2%ab%e5%8d%96%e4%ba%86%ef%bc%9a%e6%9c%80%e6%96%b0%e6%8a%a5%e4%bb%b7%e7%ba%a6870%e4%ba%bf%e5%85%83/",
-        "description": "AI 开源平台 Hugging Face 正接触买家，估值可能超 130 亿美元。",
-        "detail": "最重要的 AI 开源平台 Hugging Face 正在探索出售，已接触多家买家，估值可能达到 130 亿美元（约 870 亿元人民币）甚至更高。这一消息引发业界对开源 AI 生态未来走向的广泛关注。",
-        "tag": "行业动态",
-        "sort_score": 85,
-        "source": "新智元"
-      },
-      {
-        "title": "AI 服务器涨价超 15%，内存成本飙升英伟达难控",
-        "link": "https://aiera.com.cn/2026/08/25/other/admin/110493/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%83%bd%e6%91%81%e4%b8%8d%e4%bd%8f%e4%ba%86%ef%bc%81%e5%86%85%e5%ad%98%e7%96%af%e6%b6%a8%ef%bc%8cai%e6%9c%8d%e5%8a%a1%e5%99%a8%e8%a2%ab%e6%9b%9d%e6%b6%a8%e4%bb%b7%e8%b6%85/",
-        "description": "内存价格疯涨导致 AI 服务器涨价超 15%，英伟达客户收到通知。",
-        "detail": "英伟达最大的几家客户集体收到涨价通知，搭载英伟达 AI 芯片的服务器价格涨幅超过 15%，2027 年初生效。内存成本疯涨是主因，连英伟达也难以压制，AI 基础设施成本压力进一步加剧。",
-        "tag": "行业动态",
-        "sort_score": 70,
-        "source": "新智元"
-      },
-      {
-        "title": "Claude 破解 78 年数学难题，或成最重要 AI 数学成果",
-        "link": "https://aiera.com.cn/2026/08/25/other/admin/110481/%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb%e9%83%bd%e6%a0%bd%e4%ba%86%ef%bc%81claude%e7%bb%88%e7%bb%9378%e5%b9%b4%e6%82%ac%e6%a1%88%ef%bc%8c%e6%88%96%e6%88%90%e6%9c%80%e9%87%8d%e8%a6%81ai/",
-        "description": "Claude 三天解决六维球面复结构问题，终结 78 年悬案。",
-        "detail": "一道悬了 78 年的世纪难题——六维球面上是否存在复结构，被 Claude 在三天内破解，答案是肯定的。这一成果被认为是 AI 在数学领域最重要的突破之一，连菲尔兹奖得主都未能解决的难题被 AI 攻克。",
-        "tag": "Agent 进展",
-        "sort_score": 95,
-        "source": "新智元"
-      },
-      {
-        "title": "英伟达斥资 60 亿美元打造全球最强开源模型",
-        "link": "https://aiera.com.cn/2026/08/25/other/admin/110460/%e8%80%81%e9%bb%84%e6%96%a5%e8%b5%8460%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%8c%e6%89%93%e9%80%a0%e5%85%a8%e7%90%83%e9%a1%b6%e5%b0%96%e5%bc%80%e6%ba%90%e6%a8%a1%e5%9e%8b%ef%bc%81/",
-        "description": "英伟达计划投资 60 亿美元开发全球顶尖开源权重 AI 模型。",
-        "detail": "英伟达不甘心只做卖铲人，计划斥资 60 亿美元（约 430 亿人民币）打造全球地表最强的开源权重 AI 模型。这一举措标志着英伟达从硬件巨头向 AI 模型领域的重大扩张。",
+        "title": "Anthropic新模型Fable 5意外曝光，性能表现引热议",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110572/anthropic%e6%96%b0%e6%a8%a1%e5%9e%8b%e5%81%b7%e3%80%8c%e5%90%83%e7%93%9c%e3%80%8d%ef%bc%81%e6%9c%80%e5%bc%bafable-5%e7%88%86%e5%86%b7/",
+        "description": "Anthropic未发布的新模型Fable 5在第三方应用中被提前泄露。",
+        "detail": "Anthropic的两款新模型ID在第三方开发者应用和Discord社区中被意外发现，其中最强型号Fable 5的提前曝光引发广泛讨论。此次泄露事件让外界得以一窥Anthropic下一代模型的技术方向。",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "新智元"
       },
       {
-        "title": "SpaceXAI 推出面向自主 AI 代理的 Grok Bot",
+        "title": "Anthropic承认Claude存在降智问题并致歉",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110554/anthropic%e6%bb%91%e8%b7%aa%e8%ae%a4%e9%94%99%ef%bc%81claude%e6%9a%97%e4%b8%ad%e9%99%8d%e6%99%ba%e5%ae%9e%e9%94%a4/",
+        "description": "Anthropic就Claude模型性能下降问题公开道歉，承认存在降智情况。",
+        "detail": "在开发者argofowl对Claude Code进行深入调查后，Anthropic官方承认Claude模型确实存在性能下降（降智）问题，并公开致歉。这一事件引发了用户对AI模型稳定性和透明度的广泛讨论。",
+        "tag": "公司动态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI神秘新模型泄露，奥特曼炮轰达里奥",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110537/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%82%ae%e8%bd%b0%e8%be%be%e9%87%8c%e5%a5%a5%e3%80%8c%e5%8f%8d%e4%ba%ba%e7%b1%bb%e3%80%8d%ef%bc%81%e7%bb%9d%e5%af%86%e6%a8%a1%e5%9e%8b%e5%90%8c/",
+        "description": "OpenAI新模型代号泄露，CEO奥特曼公开批评达里奥观点反人类。",
+        "detail": "OpenAI员工在GitHub上意外泄露了新模型代号gpt-nathree，同时CEO奥特曼在社交媒体上公开炮轰桥水基金创始人达里奥的观点“反人类”。这一系列事件被视为OpenAI与Anthropic竞争升级的信号。",
+        "tag": "公司动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI Codex额度消耗过快问题查明，系三处Bug所致",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110520/codex%e3%80%8c%e9%a2%9d%e5%ba%a6%e9%bb%91%e6%b4%9e%e3%80%8d%e7%bb%88%e4%ba%8e%e6%9f%a5%e6%b8%85%ef%bc%81%e7%9c%9f%e5%87%b6%e7%ab%9f%e6%98%af%e8%bf%99%e4%b8%aa%e5%b0%8f%e5%8a%9f%e8%83%bd/",
+        "description": "OpenAI Codex负责人承认存在三处Bug，导致用户额度消耗异常。",
+        "detail": "经过一周的调查，OpenAI Codex负责人Tibo Sottiaux在X平台发帖，承认Codex存在三处Bug，导致用户额度消耗过快。官方已定位问题并承诺修复，此举有望缓解用户对额度消耗的担忧。",
+        "tag": "新功能",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "Hugging Face探索出售，估值或达130亿美元",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110508/%e7%aa%81%e5%8f%91%ef%bc%81hugging-face-%e8%a6%81%e8%a2%ab%e5%8d%96%e4%ba%86%ef%bc%9a%e6%9c%80%e6%96%b0%e6%8a%a5%e4%bb%b7%e7%ba%a6870%e4%ba%bf%e5%85%83/",
+        "description": "AI开源平台Hugging Face正探索出售，估值可能达130亿美元。",
+        "detail": "据多方消息，最重要的AI开源平台Hugging Face正在探索出售，已接触潜在买家，估值可能达到130亿美元（约870亿元人民币）甚至更高。这一潜在交易若达成，将成为AI领域最大并购案之一。",
+        "tag": "公司动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "AI服务器因内存涨价面临超15%涨幅",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110493/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%83%bd%e6%91%81%e4%b8%8d%e4%bd%8f%e4%ba%86%ef%bc%81%e5%86%85%e5%ad%98%e7%96%af%e6%b6%a8%ef%bc%8cai%e6%9c%8d%e5%8a%a1%e5%99%a8%e8%a2%ab%e6%9b%9d%e6%b6%a8%e4%bb%b7%e8%b6%85/",
+        "description": "内存价格疯涨导致AI服务器涨价超15%，英伟达客户收到涨价通知。",
+        "detail": "受内存价格疯涨影响，英伟达最大的几家客户集体收到涨价通知，搭载英伟达AI芯片的服务器价格涨幅超过15%，并将于2027年初生效。这一涨价潮可能对AI基础设施成本产生深远影响。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude破解78年数学难题，或成最重要AI数学成果",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110481/%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb%e9%83%bd%e6%a0%bd%e4%ba%86%ef%bc%81claude%e7%bb%88%e7%bb%9378%e5%b9%b4%e6%82%ac%e6%a1%88%ef%bc%8c%e6%88%96%e6%88%90%e6%9c%80%e9%87%8d%e8%a6%81ai/",
+        "description": "Anthropic的Claude模型解决了六维球面复结构这一78年悬案。",
+        "detail": "一道悬而未决78年的数学难题——六维球面上是否存在复结构，被Anthropic的Claude模型在三天内破解，答案是肯定的。这一成果被认为是AI在数学领域最重要的突破之一，连菲尔兹奖得主都未能解决。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "英伟达斥资60亿美元打造全球顶尖开源模型",
+        "link": "https://aiera.com.cn/2026/08/25/other/admin/110460/%e8%80%81%e9%bb%84%e6%96%a5%e8%b5%8460%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%8c%e6%89%93%e9%80%a0%e5%85%a8%e7%90%83%e9%a1%b6%e5%b0%96%e5%bc%80%e6%ba%90%e6%a8%a1%e5%9e%8b%ef%bc%81/",
+        "description": "英伟达计划投资60亿美元开发全球最强的开源权重AI模型。",
+        "detail": "据多家外媒报道，英伟达计划斥资60亿美元（约430亿人民币）打造全球地表最强的开源权重AI模型。此举标志着英伟达从芯片供应商向AI模型开发者的战略转型，意图在AI生态中占据更核心的位置。",
+        "tag": "公司动态",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "SpaceX AI推出面向自主智能代理的Grok Bot",
         "link": "https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ?utm_source=rss&utm_medium=article",
-        "description": "SpaceXAI 发布 Grok Bot，专为自主 AI 智能代理设计。",
-        "detail": "SpaceXAI 正式推出 Grok Bot，这是一款面向自主 AI 智能代理的新工具，旨在提升代理的自主决策和交互能力。该产品的发布进一步丰富了 AI 代理生态。",
+        "description": "SpaceX AI发布Grok Bot，专为自主AI智能代理设计。",
+        "detail": "SpaceX AI宣布推出Grok Bot，这是一款面向自主AI智能代理的新产品。该产品旨在为代理提供更强大的交互和任务执行能力，进一步拓展AI在自主系统中的应用场景。",
         "tag": "Agent 进展",
-        "sort_score": 82,
+        "sort_score": 80,
         "source": "InfoQ 中文"
       },
       {
-        "title": "小米玄戒 O3 藏彩蛋，vivo X500 系列官宣，MINI 车机接入 AI 模型",
-        "link": "https://www.ifanr.com/1676529?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "小米发布玄戒 O3 芯片，vivo 官宣 X500 系列，MINI 车机集成阿里与 DeepSeek。",
-        "detail": "小米在玄戒 O3 芯片中隐藏彩蛋，雷军不建议拆开查看；vivo 正式官宣 X500 系列；MINI 车机系统接入阿里与 DeepSeek 模型。此外，Hugging Face 评估出售、全球智能手机出货量预计下降 14.3%、蔚来智驾负责人任少卿创立具身智能公司等消息也值得关注。",
+        "title": "实测豆包工作：连上飞书后Agent体验大幅提升",
+        "link": "https://www.ifanr.com/1676539?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "实测显示豆包工作与飞书深度集成后，Agent更懂上下文和工作流。",
+        "detail": "爱范儿对豆包工作进行了实测，发现其与飞书深度集成后，Agent在理解人、项目、上下文和工作流方面表现显著提升，更像一个真正的同事。这一体验优化展示了AI Agent在办公场景中的巨大潜力。",
+        "tag": "Agent 进展",
+        "sort_score": 82,
+        "source": "爱范儿"
+      },
+      {
+        "title": "雷鸟创新李宏伟：智能眼镜终局是AI+AR",
+        "link": "https://www.ifanr.com/1676571?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "雷鸟创新CEO李宏伟表示智能眼镜的终局是AI+AR，AI是当前最重要的事。",
+        "detail": "雷鸟创新CEO李宏伟在接受采访时表示，智能眼镜的终局形态是“AI+AR”，并强调AI是公司当前最重要的事。他主张让AI“增强人类”而非取代人类，为智能眼镜的发展方向提供了重要见解。",
         "tag": "行业动态",
         "sort_score": 60,
         "source": "爱范儿"
       },
       {
-        "title": "阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片",
-        "link": "https://sspai.com/post/113813",
-        "description": "阿里云推出 Wan3.0 视频生成模型，小米发布三款玄戒芯片。",
-        "detail": "阿里云视频生成模型 Wan3.0 正式上线，支持更高质量的视频生成。小米同步发布三款玄戒芯片，进一步扩展其 AI 硬件布局。此外，少数派会员新一季启航，DotSkill 技能上线等动态也值得关注。",
-        "tag": "模型发布",
+        "title": "实测小米AI手机：性能超iPhone，端侧AI速度惊人",
+        "link": "https://www.ifanr.com/1676596?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "实测显示小米AI手机性能超越iPhone，端侧AI处理速度极快。",
+        "detail": "爱范儿对小米AI手机进行了实测，结果显示其性能超越iPhone，端侧AI处理速度非常快。这一表现展示了小米在端侧AI技术上的突破，为智能手机AI应用提供了更强的硬件基础。",
+        "tag": "对比评测",
         "sort_score": 78,
+        "source": "爱范儿"
+      },
+      {
+        "title": "小米玄戒O3芯片藏彩蛋，vivo X500系列官宣",
+        "link": "https://www.ifanr.com/1676529?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "小米玄戒O3芯片内置彩蛋，vivo官宣X500系列，MINI车机接入阿里与DeepSeek。",
+        "detail": "今日早报汇总了多项科技动态：小米将“OK”彩蛋藏进玄戒O3芯片，雷军不建议拆开看；vivo官宣X500系列；MINI车机接入阿里与DeepSeek模型。此外，Hugging Face评估出售、蔚来智驾负责人任少卿创立具身智能公司等消息也引发关注。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "爱范儿"
+      },
+      {
+        "title": "阿里云视频生成模型Wan3.0上线，小米发布三款玄戒芯片",
+        "link": "https://sspai.com/post/113813",
+        "description": "阿里云发布Wan3.0视频生成模型，小米推出三款玄戒芯片。",
+        "detail": "派早报汇总了近期科技动态：阿里云视频生成模型Wan3.0正式上线，小米发布三款玄戒芯片。此外，少数派会员新一季启航，DotSkill上线支持AI助手与Quote/0摘录墨水屏交互。",
+        "tag": "模型发布",
+        "sort_score": 80,
         "source": "少数派"
       },
       {
-        "title": "字节跳动整合 TRAE 和扣子入豆包，推统一办公品牌",
+        "title": "字节跳动整合TRAE、扣子并入豆包，推出统一办公品牌",
         "link": "http://www.geekpark.net/news/369303",
-        "description": "字节跳动将 TRAE、扣子团队并入豆包，推出「豆包工作」品牌。",
-        "detail": "字节跳动对旗下办公 AI 产品完成团队整合，TRAE 和扣子（Coze）团队整体并入豆包，并推出统一办公品牌「豆包工作」。此外，拓竹回应 2027 年 IPO 传闻不实，Anthropic 面试流程曝光等消息也引发关注。",
+        "description": "字节跳动将TRAE、扣子团队并入豆包，推出统一办公品牌“豆包工作”。",
+        "detail": "字节跳动对旗下办公AI产品完成团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，并推出统一办公品牌“豆包工作”。此外，拓竹回应2027年IPO传闻称消息不实，Anthropic面试流程也被曝光。",
         "tag": "公司动态",
-        "sort_score": 72,
+        "sort_score": 80,
         "source": "极客公园"
       },
       {
-        "title": "Agent 技能开发语言讨论：主流选择与趋势分析",
-        "link": "https://plicara.ai/research/agent-skill-languages/",
-        "description": "Hacker News 热议 Agent 技能编写语言，探讨最佳实践与生态趋势。",
-        "detail": "Hacker News 上一条关于 Agent 技能编写语言的讨论引发关注，用户探讨了不同编程语言在 Agent 技能开发中的适用性和生态支持。该讨论反映了开发者对 Agent 标准化和工具链的持续关注。",
+        "title": "阿里Meoo打通AI做App全链路，一句话生成安卓与iOS应用",
+        "link": "https://www.leiphone.com/category/industrynews/lMrMgzHoUVOGceOK.html",
+        "description": "阿里AI应用搭建产品Meoo实现自然语言生成App，支持真机测试与打包。",
+        "detail": "阿里AI应用搭建产品Meoo（秒悟）打通了自然语言做App的全链路。普通用户只需用自然语言描述想法，Meoo即可自动生成页面与功能，支持真机测试、持续修改与一键打包，最终产出可直接安装的安卓与iOS应用。",
+        "tag": "新功能",
+        "sort_score": 85,
+        "source": "雷锋网"
+      },
+      {
+        "title": "豆包工作正式发布：让AI从生成内容到完成工作",
+        "link": "https://www.leiphone.com/category/industrynews/bzevr2er8UPJfMtm.html",
+        "description": "字节跳动正式发布豆包工作，定位为面向生产力场景的全新Agent产品。",
+        "detail": "8月25日，字节跳动正式发布豆包工作，这是豆包面向生产力场景推出的全新Agent产品与品牌。豆包工作能围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流程，并与飞书深度打通，让Agent真正完成工作。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "雷锋网"
+      },
+      {
+        "title": "李飞飞押注空间智能：生成世界需具备状态记录能力",
+        "link": "https://www.leiphone.com/category/academic/cFG5JACmqzkxWGDb.html",
+        "description": "李飞飞团队指出AI生成世界缺乏状态记录，空间智能需建立“底账”。",
+        "detail": "李飞飞押注的空间智能领域面临关键挑战：AI生成的大多数世界“中看不中用”，根本原因是AI缺少一本“底账”——一份记住世界里有什么、每次行动改变了什么、并且能被检查和回滚的状态记录。这一观点为空间智能研究提供了新方向。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "雷锋网"
+      },
+      {
+        "title": "ACL论文发现通用模型比医疗专用模型更懂医疗",
+        "link": "https://www.leiphone.com/category/academic/bWyxqU8pelb4TNJg.html",
+        "description": "ACL论文揭示Doubao、DeepSeek等通用模型在三语医疗数据集上表现超GPT-4o。",
+        "detail": "一篇ACL论文提出了两个反直觉发现：通用模型竟然比医疗专用模型更懂医疗。研究显示，Doubao、DeepSeek在三语数据集上的表现普遍超过GPT-4o和Gemini，挑战了领域专用模型优于通用模型的传统认知。",
+        "tag": "对比评测",
+        "sort_score": 80,
+        "source": "雷锋网"
+      },
+      {
+        "title": "IJCAI 2026复盘：中国学者投稿最多但签证受阻",
+        "link": "https://www.leiphone.com/category/academic/PwTwlHYVu0ZCHAuW.html",
+        "description": "IJCAI 2026中国学者投稿量第一，但签证问题导致到场率低。",
+        "detail": "IJCAI 2026大会复盘显示，尽管CCF降级未能减少中国学者的投稿量，但一纸签证却让他们无法到场。这一现象凸显了国际学术交流中的政治障碍，引发了学界对学术开放性的讨论。",
+        "tag": "行业动态",
+        "sort_score": 55,
+        "source": "雷锋网"
+      },
+      {
+        "title": "IJCAI 2026颁发多项论文奖与个人成就奖",
+        "link": "https://www.leiphone.com/category/private/tuJcJrenqJuB2Isk.html",
+        "description": "IJCAI 2026颁发四项论文奖和三项个人成就奖，回顾AI发展历程。",
+        "detail": "IJCAI 2026大会颁发了四项论文奖和三项个人成就奖，这些奖项不仅表彰了当前的研究成果，也回答了AI的“来路”与“去路”。大会主题强调AI正在走的是一条螺旋上升的路，为未来发展提供了历史视角。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "雷锋网"
+      },
+      {
+        "title": "承泰科技CTO周珂：AI雷达时代已经到来",
+        "link": "https://www.leiphone.com/category/transportation/Nfqbj40LKk9Lb4KL.html",
+        "description": "承泰科技CTO周珂阐述AI雷达的定义、兴起原因及对毫米波雷达产业的影响。",
+        "detail": "承泰科技CTO周珂就“AI雷达”这一行业热词发表观点，围绕其定义、为何现在出现、将如何改变毫米波雷达产业展开讨论。他基于公开研究、产业实践及超级雷达社区的行业讨论，阐述了AI雷达时代到来的必然性。",
+        "tag": "行业动态",
+        "sort_score": 45,
+        "source": "雷锋网"
+      },
+      {
+        "title": "调查：80%开发者认为AI编程更令人上瘾而非更有帮助",
+        "link": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+        "description": "一项调查显示80%的开发者认为AI编程工具令人上瘾但帮助有限。",
+        "detail": "一项开发者调查显示，80%的开发者认为AI编程工具更令人上瘾而非更有帮助。这一结果引发了关于AI编程工具实际效用的讨论，提示开发者需理性看待AI辅助编程的利弊。",
+        "tag": "工具与生态",
+        "sort_score": 72,
+        "source": "hackernews"
+      },
+      {
+        "title": "Headlong：面向持久化Agent的微型测试框架",
+        "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+        "description": "Headlong是一个为持久化Agent设计的微型测试框架，已在Hacker News引发讨论。",
+        "detail": "Headlong被介绍为一个面向持久化Agent的微型测试框架（Microharness），旨在为长期运行的Agent提供测试支持。该工具在Hacker News上获得关注，反映了开发者对Agent可靠性测试工具的需求。",
         "tag": "工具与生态",
         "sort_score": 70,
         "source": "hackernews"
