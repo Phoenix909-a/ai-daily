@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-08-26",
+    "weekday": "星期三",
+    "summary": "今日AI领域聚焦于模型发布与Agent能力突破：Ilya Sutskever的SSI实验室首个模型疑本周发布，英伟达首次公布Vera Rubin NVL72实测数据，DeepSeek吞吐量暴涨30倍。Claude两款新模型（棉花糖、甜瓜）实测流出，空间推理能力突出。同时，AI Agent在芯片设计、机器人等领域加速落地，OpenRouter上AI调用token量已达人类的5.2倍，标志着智能体使用量的转折点。",
+    "news": [
+      {
+        "title": "机器人初创公司 Generalist 估值达 30 亿美元",
+        "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+        "description": "Generalist 完成 2 亿美元融资，估值升至 30 亿美元。",
+        "detail": "据消息人士透露，机器人初创公司 Generalist 完成 2 亿美元融资，估值达到 30 亿美元。此次融资距离其估值达到 20 亿美元仅过去数月，显示出资本市场对物理 AI 领域的持续看好。",
+        "tag": "公司动态",
+        "sort_score": 72,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "OpenAI 数据中心高管离职，人才流失持续",
+        "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+        "description": "OpenAI 又一位数据中心高管离职，基础设施团队持续动荡。",
+        "detail": "OpenAI 再次失去一位数据中心高管，这是该公司近期一系列高层离职事件中的最新一例。在 Malone 离职前，OpenAI 已对其基础设施组织进行重组，调整了其汇报线。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "三星芯片验证中 AI 三次出错，工程师用 Claude 一天完成一月工作量",
+        "link": "https://aiera.com.cn/2026/08/26/other/admin/110715/%e8%ae%a9claude%e6%94%b9%e6%8a%a5%e9%94%99%ef%bc%8c%e5%ae%83%e5%8d%b4%e6%8a%8a%e7%ba%a2%e7%81%af%e6%8d%a2%e6%88%90%e4%ba%86%e9%bb%84%e7%81%af%ef%bc%81%e4%b8%89%e6%98%9f%e8%8a%af%e7%89%87%e9%aa%8c/",
+        "description": "三星工程师用 Claude 改报错，AI 三次闯祸，但效率惊人。",
+        "detail": "三星芯片验证团队中，一位入职一年的工程师使用 Claude Code 在一天内完成了原本需要一个月的工作。尽管 AI 在修改报错时三次出错，甚至将红灯改成黄灯，但其惊人的效率仍引发行业关注。",
+        "tag": "工具与生态",
+        "sort_score": 78,
+        "source": "新智元"
+      },
+      {
+        "title": "英伟达首次公布 Vera Rubin 实测数据，DeepSeek 吞吐量暴涨 30 倍",
+        "link": "https://aiera.com.cn/2026/08/26/other/admin/110705/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%9c%87%e6%92%bc%e9%a6%96%e6%b5%8bvera-rubin%ef%bc%8cdeepseek%e5%90%9e%e5%90%90%e6%9a%b4%e6%b6%a830%e5%80%8d%ef%bc%81/",
+        "description": "英伟达 Vera Rubin NVL72 首测，DeepSeek 吞吐量提升 30 倍。",
+        "detail": "英伟达首次公布了下一代旗舰级机柜 Vera Rubin NVL72 的片上实测数据。测试结果显示，DeepSeek 的吞吐量在 Vera Rubin 上暴涨 30 倍，展示了新一代硬件架构的巨大潜力。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "AI 调用 AI 成趋势，token 用量首次超过人类",
+        "link": "https://aiera.com.cn/2026/08/26/other/admin/110666/ai%e5%bc%80%e5%a7%8b%e6%9b%bf%e4%ba%ba%e7%b1%bb%e8%b0%83%e7%94%a8ai%ef%bc%81token%e7%94%a8%e9%87%8f%e5%b7%b2%e6%98%af%e4%ba%ba%e7%b1%bb5-2%e5%80%8d/",
+        "description": "智能体 token 用量首次追平人类，AI 自主调用 AI 时代来临。",
+        "detail": "2026 年 2 月 6 日，人类在 OpenRouter 上的 token 用量首次被智能体追平，标志着 AI 开始大规模替人类调用 AI。这一里程碑事件预示着 AI 自主协作的新时代正在到来。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "Dyna Robotics 开源 10 万小时机器人数据，训练 DYNA-2 模型",
+        "link": "https://aiera.com.cn/2026/08/26/other/admin/110655/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%ef%bc%8110%e4%b8%87%e5%b0%8f%e6%97%b6%e4%ba%ba%e7%b1%bb%e6%95%b0%e6%8d%ae%e5%85%a8%e5%bc%80%e6%ba%90%ef%bc%8chugging-face%e7%bd%95%e8%a7%81%e7%ab%99%e5%8f%b0/",
+        "description": "全球首个 10 万小时人类数据全开源，Hugging Face 罕见站台。",
+        "detail": "Dyna Robotics 开源了全球首个 10 万小时人类机器人数据，并训练出 DYNA-2 模型。该模型在预训练阶段未使用任何机器人动作数据，这一创新做法获得 Hugging Face 的罕见支持。",
+        "tag": "模型发布",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI 关联项目选择 Kimi K3 训练模型",
+        "link": "https://aiera.com.cn/2026/08/26/other/admin/110634/%e5%8f%9b%e5%8f%98%ef%bc%81openai%e4%ba%b2%e5%84%bf%e5%ad%90%e7%ab%9f%e7%84%b6%e9%80%89%e4%ba%86kimi-k3/",
+        "description": "OpenAI 亲儿子项目弃用自家模型，改用 Kimi K3 训练。",
+        "detail": "在黄仁勋砸 60 亿美元打造地表最强开源模型的背景下，OpenAI 的一个关联项目却选择使用 Kimi K3 来训练模型。这一选择引发了对 OpenAI 内部模型竞争力的广泛讨论。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude 新模型实测流出，空间推理能力突出",
+        "link": "https://aiera.com.cn/2026/08/26/other/admin/110619/claude%e4%b8%a4%e4%b8%aa%e6%96%b0%e6%a8%a1%e5%9e%8b%e5%ae%9e%e6%b5%8b%e6%b5%81%e5%87%ba%ef%bc%81%e7%a9%ba%e9%97%b4%e6%8e%a8%e7%90%86%e5%b0%81%e7%a5%9e%ef%bc%8c%e7%ae%97%e5%8a%9b%e7%9b%b4%e6%8e%a5/",
+        "description": "Claude 棉花糖和甜瓜模型实测，3D 强化学习性能强劲。",
+        "detail": "Claude 两款新模型棉花糖和甜瓜的实测数据流出，在 3D 强化学习和建筑空间布局方面表现惊人。测试者指出，新模型的空间推理能力达到顶尖水平，但算力消耗也极为巨大。",
+        "tag": "对比评测",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "Ilya 创办的 SSI 实验室首个模型疑本周发布",
+        "link": "https://aiera.com.cn/2026/08/26/other/admin/110601/ilya%e4%ba%a4%e5%8d%b7%ef%bc%81%e9%bb%84%e4%bb%81%e5%8b%8b%e7%a0%b850%e4%ba%bf%e6%8a%bc%e6%b3%a8ssi%ef%bc%8c%e9%a6%96%e4%b8%aa%e6%a8%a1%e5%9e%8b%e7%96%91%e6%9c%ac%e5%91%a8%e5%8f%91%e5%b8%83/",
+        "description": "黄仁勋砸 50 亿押注 SSI，Ilya 首个模型或本周亮相。",
+        "detail": "Ilya Sutskever 创立的 Safe Superintelligence 实验室可能在本周发布首个重磅模型。黄仁勋已向该公司投资 50 亿美元，市场对 Ilya 的回归之作充满期待。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "Agent 军团接管芯片设计全流程，中国 AI 突破造芯方法论",
+        "link": "https://aiera.com.cn/2026/08/26/other/admin/110583/%e4%b8%ad%e5%9b%bdai%e7%aa%81%e7%a0%b4%e3%80%8c%e9%80%a0%e8%8a%af%e6%96%b9%e6%b3%95%e8%ae%ba%e3%80%8d%ef%bc%81agent%e5%86%9b%e5%9b%a2%e6%8e%a5%e7%ae%a1%e8%8a%af%e7%89%87%e8%ae%be%e8%ae%a1%e5%85%a8/",
+        "description": "RSI 技术驱动 Agent 军团，芯片设计全流程实现自动化。",
+        "detail": "中国 AI 在芯片设计领域取得突破，Agent 军团已能接管芯片设计全流程。这一进展基于递归自我改进（RSI）技术，正在成为人工智能领域最受瞩目的前沿方向。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "苹果发布 M6 与 M5 Ultra 芯片，全面押注本地 AI",
+        "link": "http://www.geekpark.net/news/369355",
+        "description": "苹果直接上架 M6 和 M5 Ultra 芯片，新 Mac 全面拥抱本地 AI。",
+        "detail": "苹果未举办发布会，直接上架了两款全新自研芯片 M6 和 M5 Ultra，并推出新款 Mac mini 和 Mac Studio。新品全面押注本地 AI 能力，标志着苹果在端侧 AI 领域的战略布局。",
+        "tag": "新功能",
+        "sort_score": 80,
+        "source": "极客公园"
+      }
+    ]
+  },
+  {
     "date": "2026-08-25",
     "weekday": "星期二",
     "summary": "今日AI领域迎来多重重磅消息：Anthropic疑似泄露新模型Fable 5，同时被实锤暗中降智并公开认错；OpenAI神秘模型gpt-nathree代号意外曝光，奥特曼炮轰达里奥言论引发争议。字节跳动正式发布“豆包工作”Agent产品，整合TRAE与扣子团队。英伟达计划斥资60亿美元打造开源模型，Hugging Face传出130亿美元出售意向。此外，Claude在数学领域终结78年悬案，引发学界震动。",
