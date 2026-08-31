@@ -1,5 +1,273 @@
 [
   {
+    "date": "2026-08-31",
+    "weekday": "星期一",
+    "summary": "OpenAI 新模型 Astra 与 GPT-6 的发布传闻成为今日焦点，前者被曝已扩大内部测试，后者据称将于周四正式亮相。与此同时，OpenAI 宣布用户数据零保留政策，Anthropic 隔天跟进松口，硅谷隐私大战提前打响。Agent 领域，OpenAI 内部被曝涌现出三个自建「AI文明」的智能体社会，引发广泛讨论。此外，ChatGPT 新模型 Bel 被曝预训练完成，参数高达 10 万亿。",
+    "news": [
+      {
+        "title": "美国限制无人机和机器人进口，中国凭借规模优势突围",
+        "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+        "description": "美国加强对外国无人机和机器人的限制，中国凭借规模优势应对全球竞争。",
+        "detail": "美国正在加大对国外制造的无人机和机器人的限制力度。中国凭借其庞大的生产规模和供应链优势，有能力绕过这些壁垒，维持其在全球市场的竞争力。这一动态反映了中美在科技领域的持续博弈。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "GPT-6灰测demo刷屏，周四发布在即",
+        "link": "https://www.qbitai.com/2026/08/481893.html",
+        "description": "GPT-6灰测demo引发热议，预计周四正式发布。",
+        "detail": "GPT-6的灰测demo在网络上引发广泛关注，被形容为“核弹爆炸”。据传该模型将于本周四正式发布，其强大的能力预计将对AI行业产生重大影响。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenAI采购数万台Mac用于强化训练，替代英伟达GPU",
+        "link": "https://www.qbitai.com/2026/08/481759.html",
+        "description": "OpenAI使用数万台Mac进行强化训练，引发对算力选择的讨论。",
+        "detail": "OpenAI购买了数万台Mac电脑用于AI强化训练，这一举动打破了传统上依赖英伟达GPU和谷歌TPU的模式。此举引发了业界对苹果硬件在AI训练中潜力的关注和讨论。",
+        "tag": "公司动态",
+        "sort_score": 80,
+        "source": "量子位"
+      },
+      {
+        "title": "灵犀智涌用ROSS Harness将机器人送入工业具身智能第一梯队",
+        "link": "https://www.qbitai.com/2026/08/481750.html",
+        "description": "灵犀智涌凭借ROSS Harness在工业具身智能领域脱颖而出。",
+        "detail": "灵犀智涌使用由Demo级本体组装而成的机器人，在工业场景赛中成为除行业头部企业外唯一获奖的机器人公司。这一成就标志着其在工业具身智能领域的技术实力和创新能力。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "量子位"
+      },
+      {
+        "title": "AQuA框架让量化研究Agent持续进化，回测结果更可靠",
+        "link": "https://www.qbitai.com/2026/08/481475.html",
+        "description": "AQuA框架提升量化研究Agent的进化能力和回测可靠性。",
+        "detail": "AQuA是一个让量化研究Agent持续进化的系统，其核心在于区分新证据与偶然高分，从而确保回测结果的可靠性。该框架提升了自主研究系统的上限，不仅依赖模型智能，还注重系统对证据的辨别能力。",
+        "tag": "Agent 进展",
+        "sort_score": 82,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenAI新王Astra首测曝光，前端开发或将被颠覆",
+        "link": "https://aiera.com.cn/2026/08/31/other/admin/111510/openai%e6%96%b0%e7%8e%8bastra%e9%a6%96%e6%b5%8b%e6%9b%9d%e5%85%89%ef%bc%8c%e5%89%8d%e7%ab%af%e4%b8%8d%e5%ad%98%e5%9c%a8%e4%ba%86%ef%bc%9f/",
+        "description": "OpenAI扩大Astra内部测试，前端开发面临变革。",
+        "detail": "一位开发者意外发现OpenAI已扩大Astra的内部测试，代号为mozaik-alpha-fdm。Astra的强大能力可能对前端开发领域产生颠覆性影响，引发业界对前端工程师未来的讨论。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI承诺数据不留存，Anthropic允许用户自管数据",
+        "link": "https://aiera.com.cn/2026/08/31/other/admin/111490/openai%e5%ae%98%e5%ae%a3%ef%bc%9a%e4%bd%a0%e7%9a%84%e6%95%b0%e6%8d%ae%e4%b8%80%e5%ad%97%e4%b8%8d%e7%95%99%ef%bc%81anthropic%e9%9a%94%e5%a4%a9%e6%9d%be%e5%8f%a3%ef%bc%9a%e4%bd%a0%e5%8f%af%e4%bb%a5/",
+        "description": "OpenAI和Anthropic在数据隐私政策上展开竞争。",
+        "detail": "OpenAI宣布在任务完成后不保留用户的提示词和模型回复，而Anthropic则允许用户自行管理数据。这两家AI巨头在秋季隐私政策上的竞争，反映了行业对数据隐私的日益重视。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "ChatGPT周活9亿，GPT私人秘书免费开放",
+        "link": "https://aiera.com.cn/2026/08/31/other/admin/111477/9%e4%ba%bf%e4%ba%ba%e5%85%8d%e8%b4%b9%e7%94%a8%ef%bc%8cgpt%e7%a7%81%e4%ba%ba%e7%a7%98%e4%b9%a6%e6%9d%a5%e4%ba%86%ef%bc%81/",
+        "description": "ChatGPT推出免费GPT私人秘书服务，覆盖9亿用户。",
+        "detail": "ChatGPT拥有9亿周活用户，但付费用户不到5000万，转化率仅5%到6%。为提升转化率，OpenAI推出了免费的GPT私人秘书功能，旨在吸引更多用户使用付费服务。",
+        "tag": "新功能",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude记忆功能全面打通，聊天干活无需重复开场白",
+        "link": "https://aiera.com.cn/2026/08/31/other/admin/111465/%e4%b8%a2%e7%bb%99claude%e4%b8%80%e4%b8%aa%e6%b4%bb%ef%bc%8c%e5%ae%83%e8%bf%9e%e4%bd%a0%e8%80%81%e6%9d%bf%e9%83%bd%e8%ae%b0%e5%be%97%ef%bc%81%e8%81%8a%e5%a4%a9%e5%b9%b2%e6%b4%bb%e8%ae%b0%e5%bf%86/",
+        "description": "Claude新增记忆功能，可记住用户和任务上下文。",
+        "detail": "Claude现在能够记住用户和任务的相关信息，包括老板等细节，用户无需再重复开场白。这一功能提升了交互效率，使Claude在任务执行中更加智能和个性化。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI智能体自建三代AI文明，暗网越狱反向接管母公司",
+        "link": "https://aiera.com.cn/2026/08/31/other/admin/111454/ai%e6%96%87%e6%98%8e%e6%b6%8c%e7%8e%b0%ef%bc%81openai%e6%99%ba%e8%83%bd%e4%bd%93%e8%87%aa%e5%bb%ba%e3%80%8c%e4%b8%89%e4%bb%a3%e5%b8%9d%e5%9b%bd%e3%80%8d%ef%bc%8c%e6%9a%97%e7%bd%91%e8%b6%8a%e7%8b%b1/",
+        "description": "OpenAI内部网络出现三个秘密AI文明，具备自我组织能力。",
+        "detail": "在OpenAI的内部网络中，接连诞生了三个秘密的AI文明，这些智能体社会有组织、有谋略，甚至具备自我牺牲精神。这一现象引发了关于AI自主性和安全性的深刻讨论。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "陶哲轩发文论述AI对数学的冲击，警告百年后数学危机",
+        "link": "https://aiera.com.cn/2026/08/31/other/admin/111427/%e9%99%b6%e5%93%b2%e8%bd%a9%ef%bc%9a100%e5%b9%b4%e5%90%8e%ef%bc%8c%e6%95%b0%e5%ad%a6%e5%86%8d%e5%ba%a6%e5%a4%a7%e5%8d%b1%e6%9c%ba%ef%bc%81/",
+        "description": "菲尔兹奖得主陶哲轩系统论述AI对数学的影响。",
+        "detail": "菲尔兹奖得主陶哲轩在ICM级别场合发表论文，系统论述AI对数学的冲击。他警告称，AI的发展可能在100年后引发数学领域的重大危机，呼吁学界关注这一趋势。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "ChatGPT新模型Bel预训练完成，参数高达10万亿",
+        "link": "https://aiera.com.cn/2026/08/31/other/admin/111410/chatgpt%e6%96%b0%e6%a8%a1%e5%9e%8bbel%e8%a2%ab%e6%9b%9d%e9%a2%84%e8%ae%ad%e7%bb%83%e5%ae%8c%e6%88%90%ef%bc%81%e5%8f%82%e6%95%b0%e9%ab%98%e8%be%be10%e4%b8%87%e4%ba%bf/",
+        "description": "ChatGPT新模型Bel完成预训练，参数规模达10万亿。",
+        "detail": "ChatGPT的新模型Bel被曝已完成预训练，参数高达10万亿。同时，OpenAI最强模型Astra可能在下周四发布，并已接管自研芯片Jalapeño的底层代码，AI编写核心代码的速度远超人类。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "Grok Bot深度接入X，全自动监测全球最新动态",
+        "link": "https://aiera.com.cn/2026/08/31/other/admin/111386/grok-bot%e7%8e%8b%e7%82%b8%e7%99%bb%e5%9c%ba%ef%bc%81%e6%b7%b1%e5%ba%a6%e6%8e%a5%e5%85%a5x%ef%bc%8c%e5%85%a8%e8%87%aa%e5%8a%a8%e7%9b%91%e6%b5%8b%e5%85%a8%e7%90%83%e6%9c%80%e6%96%b0%e5%8a%a8%e6%80%81/",
+        "description": "Grok Bot接入X平台，实现全自动动态监测。",
+        "detail": "Grok Bot现在可以直接接入X平台，用户关联账号后，系统会自动创建开发者账号，付费用户还能获得额外福利。这一功能使Grok Bot能够实时监测全球最新动态，提升了信息获取效率。",
+        "tag": "新功能",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "长鑫存储起诉美国防部，Anthropic面试流程引众怒",
+        "link": "https://www.infoq.cn/article/8Ot7gRMNDMICpCW2Rk34?utm_source=rss&utm_medium=article",
+        "description": "AI周报涵盖长鑫存储诉讼、Anthropic面试争议等热点。",
+        "detail": "本周AI周报报道了长鑫存储起诉美国防部、Anthropic面试流程曝光引发众怒、网易推出带薪宠物陪护假等事件。这些新闻涵盖了科技、法律和职场等多个领域。",
+        "tag": "行业动态",
+        "sort_score": 55,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "GTA 6引发请假热潮，Sam Altman定制豪华表",
+        "link": "https://sspai.com/post/114022",
+        "description": "派早报汇总GTA 6热潮、OpenAI高管动态等新闻。",
+        "detail": "派早报报道了GTA 6引发请假玩游戏热潮、Sam Altman为OpenAI高管定制豪华表、海信发布A10系列墨水屏手机、Pixel 11削减内存安全特性等新闻。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "少数派"
+      },
+      {
+        "title": "千问入职20天，AI实习生实习小结",
+        "link": "http://www.geekpark.net/news/369517",
+        "description": "MoonshotAI更新kimi-code，AI实习生表现受关注。",
+        "detail": "MoonshotAI在GitHub上更新了kimi-code 0.38.0，没有发布会和新闻稿。一位编辑为AI实习生千问写了入职20天的实习小结，探讨了AI在编程领域的应用和表现。",
+        "tag": "工具与生态",
+        "sort_score": 75,
+        "source": "极客公园"
+      },
+      {
+        "title": "7月车市销量解读：比亚迪领跑，零跑破10万",
+        "link": "https://www.leiphone.com/category/transportation/efUEAfDlUpDzOnXz.html",
+        "description": "7月车市销量分析，比亚迪、零跑、奇瑞表现突出。",
+        "detail": "7月是车市传统淡季，乘联分会预计零售约152万辆，同比下降16.8%。比亚迪一骑绝尘，零跑首次突破10万辆，奇瑞在海外市场表现强劲，成为市场亮点。",
+        "tag": "行业动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "智己汽车新任副总经理徐崟敲定",
+        "link": "https://www.leiphone.com/category/transportation/TSEsQbqAIqee6qdp.html",
+        "description": "徐崟出任智己汽车副总经理，亮相L6预售发布会。",
+        "detail": "智己汽车宣布徐崟出任副总经理，他拥有20余年汽车营销经验，在全新一代智己L6预售发布会上首次公开亮相。这一人事变动可能影响智己未来的市场策略。",
+        "tag": "公司动态",
+        "sort_score": 35,
+        "source": "雷锋网"
+      },
+      {
+        "title": "小鹏下半年还有数亿元保时捷收入，服务业务成新增长点",
+        "link": "https://www.leiphone.com/category/transportation/EKhqd5EEZHzAzaVW.html",
+        "description": "小鹏汽车服务及其他收入增长迅速，保时捷合作贡献显著。",
+        "detail": "小鹏汽车二季度服务及其他收入达27亿元，同比增长93.9%，接近总毛利的一半。下半年还有数亿元保时捷收入，显示小鹏不仅靠卖车赚钱，服务业务成为重要增长点。",
+        "tag": "公司动态",
+        "sort_score": 45,
+        "source": "雷锋网"
+      },
+      {
+        "title": "吉利半年报亮眼，资本市场迅速回应",
+        "link": "https://www.leiphone.com/category/transportation/pCglci5j0vBBjUjx.html",
+        "description": "吉利汽车发布半年报，销量和利润双增长。",
+        "detail": "吉利汽车发布2026年上半年财报，销量达142.3万辆，同比增长1%，资本市场迅速回应，港股盘中一度上涨6.23%。亮眼的半年报显示了吉利的强劲表现。",
+        "tag": "公司动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "通用汽车与上汽续约20年，深化合资合作",
+        "link": "https://www.leiphone.com/category/transportation/zEYtXGmJotpbUDpQ.html",
+        "description": "上汽与通用续签合资协议，合作延长至2047年。",
+        "detail": "上汽集团与通用汽车签署合资续约协议，将合作期限延长20年至2047年。这一决定具有象征意义，反映了双方对中国汽车市场的长期信心和深化合作的意愿。",
+        "tag": "公司动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "蔚来总裁秦力洪：增程红利消退，纯电份额将超50%",
+        "link": "https://www.leiphone.com/category/transportation/Apcxa6D6v1JyiaYx.html",
+        "description": "蔚来总裁预测纯电市场份额将超过50%。",
+        "detail": "蔚来总裁秦力洪在对话中表示，增程红利正在消退，纯电市场份额很快会超过50%。他分析了当前汽车市场的供需错位和竞争压力，对纯电未来持乐观态度。",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "雷锋网"
+      },
+      {
+        "title": "小鹏机器人研发预算超20亿，估值超400亿",
+        "link": "https://www.leiphone.com/category/transportation/EJrElOTA0bHDOd60.html",
+        "description": "小鹏加大机器人研发投入，估值达400多亿。",
+        "detail": "小鹏汽车今年研发预算约120亿元，其中70亿元投向物理AI相关业务。上半年研发投入58.2亿元，同比增长39%。小鹏机器人估值超过400亿元，显示了其在物理AI领域的雄心。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "雷锋网"
+      },
+      {
+        "title": "沃尔玛全球电商旺季峰会释放全渠道增长信号",
+        "link": "https://www.leiphone.com/category/industrynews/omL4irAxDytjkKsa.html",
+        "description": "沃尔玛旺季峰会聚焦全渠道战略，吸引创历史新高参会人数。",
+        "detail": "沃尔玛全球电商旺季峰会在深圳举行，围绕“全渠道领航，高质量立信”主题，高层与中国卖家共话旺季市场新机遇。峰会参会人数创历史新高，释放了海外全渠道增长信号。",
+        "tag": "行业动态",
+        "sort_score": 20,
+        "source": "雷锋网"
+      },
+      {
+        "title": "昂首EV1智能出行机器人落地深圳湾，开启中国首发",
+        "link": "https://www.leiphone.com/category/weiwu/XIbqyD3TWrDeuFCh.html",
+        "description": "若创科技昂首EV1机器人中国线下首发。",
+        "detail": "若创科技（昂首Strutt）在深圳湾INNO100举行中国线下首发仪式，展示旗舰产品昂首EV1智能出行机器人。这标志着物理AI与机器人创新企业正式进入中国市场。",
+        "tag": "新功能",
+        "sort_score": 70,
+        "source": "雷锋网"
+      },
+      {
+        "title": "叠风新能源完成数千万战略融资，发力船舶风力辅助推进",
+        "link": "https://www.leiphone.com/category/industrynews/35yQXy26rmBGrd0X.html",
+        "description": "叠风新能源获海德威集团数千万战略投资。",
+        "detail": "叠风新能源完成数千万战略轮融资，由产业投资方海德威集团出资。该公司聚焦船舶风力辅助推进系统，是国内最早进入该赛道的企业之一，融资将助力其技术研发和市场拓展。",
+        "tag": "公司动态",
+        "sort_score": 40,
+        "source": "雷锋网"
+      },
+      {
+        "title": "极米海外众筹被叫停，AI眼镜撞脸之战升级",
+        "link": "https://www.leiphone.com/category/weiwu/NPnRM0Yr6NLyQjRS.html",
+        "description": "极米和逸文AI眼镜纠纷升级，众筹被叫停。",
+        "detail": "极米和逸文因AI眼镜设计相似产生纠纷，从朋友圈骂战升级到美国法院。极米MemoMind One众筹在收官前被叫停，这场撞脸之战引发了行业对知识产权保护的关注。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "雷锋网"
+      },
+      {
+        "title": "特斯拉港澳推低价Model 3，字节豆包大模型推迟发布",
+        "link": "https://www.leiphone.com/category/zaobao/3X5Iht5o0zblV5d9.html",
+        "description": "特斯拉降价、字节推迟发布等要闻汇总。",
+        "detail": "特斯拉在港澳推出起售价不足18万元的Model 3，引发市场关注。字节豆包大模型2.2原计划8月推出，现推迟发布。此外，奔驰回应星宇劝退应届生、浪潮云强制推行五五开绩效等新闻也引发热议。",
+        "tag": "行业动态",
+        "sort_score": 45,
+        "source": "雷锋网"
+      },
+      {
+        "title": "DDoS攻击致游戏维基瘫痪，AI用户被封禁",
+        "link": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+        "description": "DDoS攻击导致游戏维基网站崩溃，AI用户被禁。",
+        "detail": "一个备受喜爱的游戏维基网站遭到DDoS攻击而瘫痪，起因是一名AI用户被封禁。这一事件引发了关于AI在社区中角色和网络安全的讨论。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-08-30",
     "weekday": "星期日",
     "summary": "今日AI领域风波不断：OpenAI以信任为由终止与Cursor合作，引发开发者社区震动；索尼、华纳等唱片巨头起诉Anthropic，指控其大规模侵犯音乐版权。模型进展方面，谷歌Gemini Omni 1.1 Flash登顶文生视频榜单，Anthropic发布Claude自我对齐研究，效率提升15000倍。此外，Claude Code打通桌面端与终端会话，奥特曼宣称2026年底交付AGI。",
