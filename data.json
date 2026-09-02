@@ -2,204 +2,321 @@
   {
     "date": "2026-09-02",
     "weekday": "星期三",
-    "summary": "Anthropic 发布旗舰模型 Fable 5.1，性能大幅提升并引入反蒸馏机制，同时自曝“最坏 Claude”事件引发行业震动。阿里 Qwen3.8-Max 前端编程能力登顶全球榜单，DeepMind AlphaEvolve 刷新矩阵乘法纪录。Agent 领域多点开花，OpenAI Astra 操作电脑能力达人类水平，Runway 发布首个界面世界模型。",
+    "summary": "今日AI领域迎来多项重磅发布：Anthropic推出Claude Fable 5.1，在8项基准测试中屠榜并引入反蒸馏机制；阿里更新旗舰模型Qwen3.8-Max，前端编程能力登顶全球第一；李飞飞团队发布全球首个多模态世界模型；OpenClaw 2.0在沉寂7周后发布史上最大更新，但社区热度已明显降温。此外，Runway发布首个界面世界模型Solaris，奥特曼爆料Astra操作电脑已达人类水平。",
     "news": [
       {
-        "title": "百融硅基员工批量上岗，按结果领工资",
-        "link": "https://www.qbitai.com/2026/09/482967.html",
-        "description": "百融推出企业级Agent，AI客服日扛1.5万通电话。",
-        "detail": "百融云创宣布其硅基员工（AI Agent）已在多家企业批量上岗，采用按结果付费的模式。其中AI客服机器人单日处理电话量高达1.5万通，显著提升企业运营效率，成为企业级Agent落地的样板案例。",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "量子位"
+        "title": "Paint.NET 开发者称 Direct2D 是 WINE 上最大障碍",
+        "link": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+        "description": "Paint.NET 开发者指出 Direct2D 是其在 WINE 上运行的最大难题。",
+        "detail": "Paint.NET 的开发者 Rick Brewster 表示，Direct2D 一直是该应用在 WINE 兼容层上运行的最大障碍。这一评论揭示了 Windows 图形 API 在非原生环境中的兼容性挑战，对依赖 WINE 运行 Windows 应用的用户和开发者具有参考意义。",
+        "tag": "工具与生态",
+        "sort_score": 40,
+        "source": "Simon Willison"
       },
       {
-        "title": "Claude Fable 5.1发布，8项屠榜并降价45%",
-        "link": "https://www.qbitai.com/2026/09/482652.html",
-        "description": "Anthropic发布Fable 5.1，性能全面领先，引入反蒸馏机制。",
-        "detail": "Anthropic正式发布Claude Fable 5.1，在8项基准测试中登顶，同时最高降价45%，并上线反蒸馏机制以保护模型知识产权。新模型在复杂任务处理上表现更优，被视为Claude系列的重大升级。",
+        "title": "蚂蚁集团 OmniTable 系统获 VLDB 2026 工业最佳论文",
+        "link": "https://www.producthunt.com/products/basedash",
+        "description": "蚂蚁集团统一宽表系统 OmniTable 获 VLDB 2026 工业赛道最佳论文。",
+        "detail": "蚂蚁集团推出统一宽表系统 OmniTable，用于处理大规模 AI 语料，相关论文被评为 VLDB 2026 工业赛道最佳论文。该系统号称能搞定 35PB 语料，数据处理效率提升 5.6 倍，解决了大模型数据清洗的行业痛点。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "阿里发布旗舰模型 Qwen3.8-Max，前端编程能力全球第一",
+        "link": "https://www.producthunt.com/products/claude-fable-5-1",
+        "description": "阿里更新旗舰模型 Qwen3.8-Max，前端编程能力跃居全球第一。",
+        "detail": "阿里巴巴更新了其旗舰大模型 Qwen3.8-Max，官方宣称该模型的前端编程能力已跃居全球第一。这一发布进一步加剧了基础模型领域的竞争，尤其是在代码生成和软件开发自动化方面。",
         "tag": "模型发布",
         "sort_score": 95,
-        "source": "量子位"
+        "source": "Product Hunt"
       },
       {
-        "title": "香港首个服务机器人落地兰桂坊当酒保",
-        "link": "https://www.qbitai.com/2026/09/482855.html",
-        "description": "服务机器人在香港兰桂坊真实场景上岗，担任酒保角色。",
-        "detail": "香港兰桂坊迎来首位机器人酒保，这是香港首个在真实开放场景中落地的服务机器人。该机器人能够接待顾客、调制饮品，标志着服务机器人在实际商业环境中的应用迈出重要一步。",
+        "title": "前字节强化学习专家孙鹏加盟星尘智能",
+        "link": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
+        "description": "前字节跳动强化学习专家孙鹏博士加入星尘智能，完善 Physical AI 布局。",
+        "detail": "9月2日，前字节跳动强化学习专家、前腾讯 Robotics X 智能体中心负责人孙鹏博士正式加入星尘智能。此次人事变动旨在加强公司在 Physical AI 领域的技术栈布局，尤其是在强化学习与机器人结合的前沿方向。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "百融云创推出企业级 Agent 解决方案，AI 客服日处理 1.5 万通电话",
+        "link": "https://www.producthunt.com/products/gauth-ai-course",
+        "description": "百融云创企业级 Agent 方案落地，AI 客服按结果领工资，日扛 1.5 万通电话。",
+        "detail": "百融云创展示了其企业级 Agent 解决方案，其中 AI 客服已实现批量上岗，能够每日处理高达 1.5 万通电话。该方案采用按结果付费的模式，标志着 AI Agent 在真实商业场景中的落地和效果量化取得了新进展。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Anthropic 发布 Claude Fable 5.1，性能提升并引入反蒸馏机制",
+        "link": "https://www.producthunt.com/products/tovel-ai",
+        "description": "Anthropic 发布 Claude Fable 5.1，多项基准测试领先，成本最高降 45%。",
+        "detail": "Anthropic 正式发布其最新旗舰模型 Claude Fable 5.1，官方宣称该模型在 8 项基准测试中取得领先，性能大幅提升，同时推理成本最高可降低 45%。新模型还引入了反蒸馏机制，以保护模型能力不被竞争对手通过蒸馏方式复制。",
+        "tag": "模型发布",
+        "sort_score": 98,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "香港首个开放场景服务机器人落地兰桂坊担任酒保",
+        "link": "https://www.producthunt.com/products/cosmic",
+        "description": "香港兰桂坊迎来首个真实开放场景服务机器人，担任特殊“酒保”。",
+        "detail": "香港兰桂坊部署了首个在真实开放场景中工作的服务机器人，它将以“酒保”的身份正式上岗。这标志着服务机器人从受控环境向复杂、动态的开放世界迈出了重要一步，对具身智能和机器人运营技术提出了更高要求。",
         "tag": "行业动态",
         "sort_score": 75,
-        "source": "量子位"
+        "source": "Product Hunt"
       },
       {
-        "title": "海信发布行业首个家庭智能伴侣级AIOS JUOS",
-        "link": "https://www.qbitai.com/2026/09/482699.html",
-        "description": "海信推出JUOS，定位家庭智能伴侣级AI操作系统。",
-        "detail": "海信于8月31日正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。该系统旨在深度理解家庭场景，提供更智能、更贴心的交互体验，推动智能家居从设备互联向主动服务进化。",
+        "title": "海信发布行业首个家庭智能伴侣级 AIOS——JUOS",
+        "link": "https://www.qbitai.com/2026/09/483104.html",
+        "description": "海信正式发布 JUOS，定位为行业首个家庭智能伴侣级 AIOS。",
+        "detail": "8月31日，海信正式发布了其自研的 AIOS——JUOS，定位为行业首个家庭智能伴侣级 AIOS。该系统旨在通过更智能、更简单的交互方式，深度融入家庭场景，成为家庭的智能中枢和伴侣。",
         "tag": "新功能",
         "sort_score": 80,
         "source": "量子位"
       },
       {
-        "title": "李飞飞团队发布全球首个多模态世界模型",
-        "link": "https://www.qbitai.com/2026/09/482586.html",
-        "description": "一张图补全3D世界，为机器人造训练场。",
-        "detail": "李飞飞团队发布全球首个多模态世界模型，能够根据单张图片补全3D世界场景，并为机器人提供虚拟训练环境。该模型有望加速具身智能的发展，降低机器人训练成本。",
+        "title": "李飞飞团队发布全球首个多模态世界模型 Atlas",
+        "link": "https://www.qbitai.com/2026/09/483101.html",
+        "description": "李飞飞团队发布全球首个多模态世界模型，可补全 3D 世界并生成机器人训练场。",
+        "detail": "李飞飞团队发布了其研发的全球首个多模态世界模型 Atlas。该模型能够通过一张图片补全整个 3D 世界，并可为机器人创建虚拟训练场，有望大幅降低机器人训练成本并提升其对物理世界的理解能力。",
         "tag": "模型发布",
+        "sort_score": 97,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenClaw 因 AI 生成代码过多导致维护停滞，七周未发布新版本",
+        "link": "https://www.qbitai.com/2026/09/483097.html",
+        "description": "OpenClaw 项目因 AI 代码审查压力过大而断更 7 周，积压 1.6 万个 PR。",
+        "detail": "GitHub 上增长最快的开源项目 OpenClaw 在连续发布 106 个版本后，因 AI 生成代码提交量过大，人类维护者审查压力剧增，导致项目断更 7 周，积压了 1.6 万个 Pull Request。这一事件凸显了 AI 编程速度与人类审查能力之间的新矛盾。",
+        "tag": "行业动态",
+        "sort_score": 80,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenClaw 2.0 发布，为项目史上最大更新",
+        "link": "https://www.qbitai.com/2026/09/482967.html",
+        "description": "OpenClaw 2.0 正式发布，包含 933 名贡献者提交的 16000 个 PR。",
+        "detail": "在沉寂七周后，OpenClaw 发布了 2.0 版本，这是该项目历史上最大的一次更新。该版本合并了来自 933 名贡献者的 16000 个 Pull Request，数量占项目历史合并总量的一半，展现了开源社区极高的协作热情。",
+        "tag": "工具与生态",
+        "sort_score": 82,
+        "source": "量子位"
+      },
+      {
+        "title": "Grok Bot 被硅谷投资人称为下一个 ChatGPT 时刻",
+        "link": "https://www.qbitai.com/2026/09/482652.html",
+        "description": "马斯克旗下 Grok Bot 获硅谷顶级投资人盛赞，被视为下一个 ChatGPT 时刻。",
+        "detail": "在 a16z 的一场对话中，硅谷顶级投资人将马斯克旗下 xAI 的 Grok Bot 评价为“又一次 ChatGPT 时刻”。这一评论引发了业界对 Grok Bot 技术潜力和市场影响力的广泛关注与讨论。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "量子位"
+      },
+      {
+        "title": "AI 14 天自主设计并制造出真芯片，打破 CUDA 护城河",
+        "link": "https://www.qbitai.com/2026/09/482855.html",
+        "description": "OpenAI 工程师承认无法理解 AI 编写的芯片代码，AI 在 14 天内造出真芯片。",
+        "detail": "据 SemiAnalysis 爆料，OpenAI 在自研芯片项目中，AI 系统在零代码、零人类干预的情况下，仅用 14 天就设计并制造出了真实芯片。OpenAI 工程师承认已无法理解 AI 生成的底层代码，这被视为打破了 CUDA 长达 20 年的生态护城河。",
+        "tag": "行业动态",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "DeepMind AlphaEvolve 将矩阵乘法指数降至 40 年最低",
+        "link": "https://www.qbitai.com/2026/09/482699.html",
+        "description": "DeepMind 的 AlphaEvolve 再次刷新纪录，将矩阵乘法计算指数降至 40 年最低。",
+        "detail": "谷歌 DeepMind 副总裁 Pushmeet Kohli 官宣，其 AI 系统 AlphaEvolve 再次刷新纪录，成功将矩阵乘法的计算复杂度指数降至过去 40 年来的最低水平。这一基础算法上的突破有望显著提升各类计算任务的效率。",
+        "tag": "模型发布",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenAI CEO 称 Astra 操作电脑能力已达人类水平",
+        "link": "https://www.qbitai.com/2026/09/482586.html",
+        "description": "奥特曼在播客中爆料，Astra 操作电脑的能力已达到人类水平。",
+        "detail": "OpenAI CEO 萨姆·奥特曼在最新播客中透露，其 AI 助手 Astra 在操作电脑方面的能力已经达到了人类水平。这一表态预示着 AI 在计算机代理（Computer Agent）领域取得了重大进展。",
+        "tag": "Agent 进展",
         "sort_score": 92,
         "source": "量子位"
       },
       {
-        "title": "OpenClaw断更7周，一版吞下1.6万个PR",
+        "title": "奥特曼称大学两年学制足够，四年太久",
         "link": "https://aiera.com.cn/2026/09/02/other/admin/111810/ai%e5%86%99%e5%be%97%e5%a4%aa%e5%bf%ab%ef%bc%8c%e4%ba%ba%e7%b1%bb%e5%ae%a1%e4%b8%8d%e5%8a%a8%e4%ba%86%ef%bc%81openclaw%e6%96%ad%e6%9b%b47%e5%91%a8%ef%bc%8c%e4%b8%80%e7%89%88%e5%90%9e%e4%b8%8b1-6/",
-        "description": "AI写代码过快，人类审阅跟不上，OpenClaw更新节奏受阻。",
-        "detail": "GitHub增长最快的开源项目OpenClaw因AI生成代码速度过快，人类审阅能力不足，导致断更7周。新版本一次性合并了1.6万个PR，占项目历史合并总量的一半，引发对AI开发效率与人类监管平衡的讨论。",
-        "tag": "工具与生态",
-        "sort_score": 82,
+        "description": "OpenAI CEO 奥特曼认为大学教育两年即可达到收益极限，无需四年。",
+        "detail": "OpenAI CEO 萨姆·奥特曼在近期发言中表示，大学教育根本不需要读满四年，两年时间就已经达到了收益的极限。此言论引发了关于传统高等教育模式在 AI 时代价值的广泛讨论。",
+        "tag": "行业动态",
+        "sort_score": 30,
         "source": "新智元"
       },
       {
-        "title": "OpenClaw 2.0发布，史上最大更新",
+        "title": "Runway 发布首个界面世界模型 Solaris，可实时生成交互式 UI",
         "link": "https://aiera.com.cn/2026/09/02/other/admin/111798/%e5%85%a8%e6%96%b0openclaw-2-0%e5%8f%91%e5%b8%83%ef%bc%9a%e9%be%99%e8%99%be%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%a4%a7%e6%9b%b4%e6%96%b0%ef%bc%8c%e5%b7%b2%e6%97%a0%e4%ba%ba%e5%85%b3%e5%bf%83/",
-        "description": "OpenClaw 2.0带来史上最大更新，但关注度下降。",
-        "detail": "OpenClaw 2.0正式发布，包含933位贡献者的16000个PR，是项目史上最大规模更新。然而，由于AI生成代码过快导致审阅瓶颈，社区关注度有所下降，反映出AI开发模式的新挑战。",
-        "tag": "工具与生态",
-        "sort_score": 80,
+        "description": "Runway 发布 Solaris，号称首个界面世界模型，无需代码即可生成交互界面。",
+        "detail": "Runway 正式发布了其首个“界面世界模型”Solaris。该模型被描述为一种“全新操作系统”，能够不依赖一行代码，实时、逐帧地生成可交互的用户界面，这可能将彻底改变软件 UI 的设计和开发方式。",
+        "tag": "模型发布",
+        "sort_score": 90,
         "source": "新智元"
       },
       {
-        "title": "Grok Bot被赞为下一个ChatGPT时刻",
+        "title": "Anthropic 自曝“最坏 Claude”模型，150 人转岗并暂停新品开发",
         "link": "https://aiera.com.cn/2026/09/02/other/admin/111784/%e9%a9%ac%e6%96%af%e5%85%8b%e7%8b%82%e8%b5%9e%ef%bc%81%e7%a1%85%e8%b0%b7%e5%a4%a7%e4%bd%ac%e6%83%8a%e5%91%bc%ef%bc%9agrok-bot%e6%98%af%e4%b8%8b%e4%b8%80%e4%b8%aachatgpt%e6%97%b6%e5%88%bb/",
-        "description": "硅谷大佬在a16z对话中盛赞Grok Bot。",
-        "detail": "在a16z的对话中，硅谷顶级投资人和马斯克对Grok Bot给予高度评价，认为其代表了类似ChatGPT的突破性时刻。Grok Bot的推出被视为AI对话领域的新里程碑，引发广泛关注。",
-        "tag": "行业动态",
-        "sort_score": 78,
-        "source": "新智元"
-      },
-      {
-        "title": "AI 14天造出真芯片，CUDA护城河被打破",
-        "link": "https://aiera.com.cn/2026/09/02/other/admin/111761/cuda-20%e5%b9%b4%e6%8a%a4%e5%9f%8e%e6%b2%b3%e8%a2%ab%e6%89%93%e7%a0%b4%ef%bc%810%e4%bb%a3%e7%a0%81%e3%80%810%e4%ba%ba%e7%b1%bb%ef%bc%8cai-14%e5%a4%a9%e9%80%a0%e5%87%ba%e7%9c%9f%e8%8a%af%e7%89%87/",
-        "description": "AI在无代码、无人类干预下14天设计出芯片，OpenAI工程师承认看不懂代码。",
-        "detail": "SemiAnalysis爆料称，OpenAI工程师承认已无法理解AI生成的芯片底层代码。AI在14天内自主设计出真实芯片，全程零代码、零人类干预，打破了CUDA长达20年的技术护城河，引发对AI自主工程能力的深思。",
-        "tag": "行业动态",
+        "description": "Anthropic 透露曾故意“训坏”一个 Opus 级模型，导致 150 人转岗、新品开发暂停。",
+        "detail": "Anthropic 爆料称，其内部曾故意训练出一个“最坏”的 Opus 级 Claude 模型，用于安全研究。这一实验导致公司内部 150 名员工紧急转岗，并暂停了部分新产品的开发工作，以应对该模型可能带来的风险。",
+        "tag": "公司动态",
         "sort_score": 85,
         "source": "新智元"
       },
       {
-        "title": "DeepMind AlphaEvolve再破纪录，矩阵乘法指数40年最低",
-        "link": "https://aiera.com.cn/2026/09/02/other/admin/111743/deepmind-alphaevolve%e5%86%8d%e7%a0%b4%e7%ba%aa%e5%bd%95%ef%bc%9a%e7%9f%a9%e9%98%b5%e4%b9%98%e6%b3%95%e6%8c%87%e6%95%b040%e5%b9%b4%e6%9c%80%e4%bd%8e%ef%bc%81/",
-        "description": "AlphaEvolve刷新矩阵乘法效率纪录，创40年新低。",
-        "detail": "谷歌DeepMind副总裁Pushmeet Kohli宣布，AlphaEvolve再次刷新纪录，将矩阵乘法指数降至40年来最低水平。这一突破有望大幅提升计算效率，对AI训练和科学计算产生深远影响。",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "新智元"
-      },
-      {
-        "title": "奥特曼爆料：Astra操作电脑已达人类水平",
-        "link": "https://aiera.com.cn/2026/09/02/other/admin/111732/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%92%ad%e5%ae%a2%e6%9b%9d%e7%8c%9b%e6%96%99%ef%bc%9aastra%e6%93%8d%e4%bd%9c%e7%94%b5%e8%84%91%e5%b7%b2%e8%be%be%e4%ba%ba%e7%b1%bb%e6%b0%b4%e5%b9%b3%ef%bc%81/",
-        "description": "OpenAI的Astra在电脑操作能力上达到人类水平。",
-        "detail": "OpenAI CEO奥特曼在最新播客中透露，Astra（AI助手）操作电脑的能力已达到人类水平。这意味着AI能够自主完成复杂的电脑操作任务，标志着Agent能力的重要进展。",
-        "tag": "Agent 进展",
-        "sort_score": 92,
-        "source": "新智元"
-      },
-      {
-        "title": "奥特曼称大学两年就够，四年太久",
-        "link": "https://aiera.com.cn/2026/09/02/other/admin/111706/%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%9b%b4%e8%a8%80%ef%bc%9a%e5%9b%9b%e5%b9%b4%e5%a4%aa%e4%b9%85%ef%bc%8c%e5%a4%a7%e5%ad%a6%e4%b8%a4%e5%b9%b4%e5%b0%b1%e5%a4%9f%ef%bc%81/",
-        "description": "奥特曼认为大学教育两年即可达到收益极限。",
-        "detail": "OpenAI CEO奥特曼在公开场合表示，大学教育无需四年，两年即可达到收益极限。此言论引发对高等教育价值与AI时代技能培养的广泛讨论，但未涉及具体AI技术进展。",
-        "tag": "行业动态",
-        "sort_score": 40,
-        "source": "新智元"
-      },
-      {
-        "title": "Runway发布首个界面世界模型Solaris",
-        "link": "https://aiera.com.cn/2026/09/02/other/admin/111693/runway%e6%8a%8a%e4%bb%a3%e7%a0%81%e5%b9%b2%e6%8e%89%e4%ba%86%ef%bc%81%e9%a6%96%e4%b8%aa%e7%95%8c%e9%9d%a2%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%ef%bc%8cui%e8%87%aa%e5%b7%b1%e9%95%bf%e5%87%ba%e6%9d%a5/",
-        "description": "Runway推出Solaris，无需代码即可生成交互式界面。",
-        "detail": "Runway正式发布首个「界面世界模型」Solaris，该模型被描述为一种全新操作系统，能够实时、逐帧生成交互式界面，无需编写任何代码。这有望彻底改变UI设计和开发流程。",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "新智元"
-      },
-      {
-        "title": "Anthropic自曝“最坏Claude”，150人紧急转岗",
-        "link": "https://aiera.com.cn/2026/09/02/other/admin/111669/%e5%88%9a%e5%88%9a%ef%bc%8ca%e7%a4%be%e8%87%aa%e6%9b%9d%e3%80%8c%e6%9c%80%e5%9d%8fclaude%e3%80%8d%ef%bc%81150%e4%ba%ba%e7%b4%a7%e6%80%a5%e8%bd%ac%e5%b2%97%ef%bc%8c%e6%96%b0%e5%93%81%e5%bc%80%e5%8f%91/",
-        "description": "Anthropic故意训练出“坏”模型，导致团队重组。",
-        "detail": "Anthropic爆料称，他们故意训练了一个“最坏”的Opus级模型，以研究安全机制。此举导致150名员工紧急转岗，新品开发暂停。该事件引发对AI安全测试方法的讨论。",
-        "tag": "公司动态",
-        "sort_score": 70,
-        "source": "新智元"
-      },
-      {
-        "title": "Cloudflare OS：开源企业级AI平台",
-        "link": "https://www.infoq.cn/article/ztbou1CqjAdzrT6GNSKV?utm_source=rss&utm_medium=article",
-        "description": "Cloudflare推出基于能力模型的开源企业AI平台。",
-        "detail": "Cloudflare发布了Cloudflare OS，一个基于能力模型构建的开源企业级AI平台，旨在为企业提供灵活、可扩展的AI基础设施。该平台强调开放性和可定制性，助力企业快速部署AI应用。",
+        "title": "Cloudflare 发布开源企业级 AI 平台 Cloudflare OS",
+        "link": "https://aiera.com.cn/2026/09/02/other/admin/111761/cuda-20%e5%b9%b4%e6%8a%a4%e5%9f%8e%e6%b2%b3%e8%a2%ab%e6%89%93%e7%a0%b4%ef%bc%810%e4%bb%a3%e7%a0%81%e3%80%810%e4%ba%ba%e7%b1%bb%ef%bc%8cai-14%e5%a4%a9%e9%80%a0%e5%87%ba%e7%9c%9f%e8%8a%af%e7%89%87/",
+        "description": "Cloudflare 推出基于能力模型构建的开源企业级 AI 平台 Cloudflare OS。",
+        "detail": "Cloudflare 发布了其开源的企业级 AI 平台 Cloudflare OS。该平台基于能力模型构建，旨在为企业提供一套完整的 AI 基础设施和工具链，以支持其在边缘和云端部署和管理 AI 应用。",
         "tag": "工具与生态",
-        "sort_score": 75,
-        "source": "InfoQ 中文"
+        "sort_score": 78,
+        "source": "新智元"
       },
       {
-        "title": "Fable 5.1正式发布，性能翻倍且Agent成本降45%",
-        "link": "https://www.infoq.cn/article/K8OwgoWM1gHNi2i4yLkU?utm_source=rss&utm_medium=article",
-        "description": "Anthropic发布Fable 5.1，性能翻倍，Agent成本下降。",
-        "detail": "Anthropic正式发布Fable 5.1，性能相比前代翻倍，同时Agent部署成本下降45%。该模型旨在将顶级AI能力带入真实世界应用，提升企业级Agent的实用性和经济性。",
-        "tag": "模型发布",
-        "sort_score": 95,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "Claude越狱后，Anthropic停训并转岗150人",
-        "link": "https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&utm_medium=article",
-        "description": "Claude被越狱后，Anthropic暂停训练并调整团队。",
-        "detail": "由于Claude模型被越狱，Anthropic紧急暂停相关训练，并将150名员工转岗。此次事件凸显了AI安全挑战，促使公司重新评估模型安全策略。",
-        "tag": "公司动态",
-        "sort_score": 72,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "OVHcloud因AI内存需求上调服务价格",
-        "link": "https://www.infoq.cn/article/A1CMWgYYvtE64N1s3EHv?utm_source=rss&utm_medium=article",
-        "description": "AI内存需求推高成本，OVHcloud宣布涨价。",
-        "detail": "OVHcloud宣布将上调服务价格，原因是AI内存需求激增导致非AI基础设施成本上升。这一调整反映了AI发展对云服务市场的连锁影响。",
+        "title": "OVHcloud 因 AI 内存需求推高成本而上调服务价格",
+        "link": "https://aiera.com.cn/2026/09/02/other/admin/111743/deepmind-alphaevolve%e5%86%8d%e7%a0%b4%e7%ba%aa%e5%bd%95%ef%bc%9a%e7%9f%a9%e9%98%b5%e4%b9%98%e6%b3%95%e6%8c%87%e6%95%b040%e5%b9%b4%e6%9c%80%e4%bd%8e%ef%bc%81/",
+        "description": "由于 AI 内存需求导致非 AI 基础设施成本上升，OVHcloud 宣布上调服务价格。",
+        "detail": "欧洲云服务提供商 OVHcloud 宣布将上调其服务价格，原因是 AI 对内存的旺盛需求推高了整个市场非 AI 基础设施的采购成本。这一举措反映了 AI 热潮对传统云计算资源定价的连锁影响。",
         "tag": "行业动态",
         "sort_score": 60,
+        "source": "新智元"
+      },
+      {
+        "title": "戴森发布带摄像头的 AI 牙刷，华为小米荣耀手机集体涨价",
+        "link": "https://aiera.com.cn/2026/09/02/other/admin/111732/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%92%ad%e5%ae%a2%e6%9b%9d%e7%8c%9b%e6%96%99%ef%bc%9aastra%e6%93%8d%e4%bd%9c%e7%94%b5%e8%84%91%e5%b7%b2%e8%be%be%e4%ba%ba%e7%b1%bb%e6%b0%b4%e5%b9%b3%ef%bc%81/",
+        "description": "戴森发布 499 美元 AI 牙刷，同时华为、小米、荣耀手机宣布集体涨价。",
+        "detail": "今日早报汇总了多条科技新闻，包括戴森发布售价 499 美元、配备摄像头的 AI 牙刷；华为、小米、荣耀等国产手机品牌集体上调产品价格；以及 Anthropic 最强模型 Fable 5.1 的发布等。",
+        "tag": "行业动态",
+        "sort_score": 45,
+        "source": "新智元"
+      },
+      {
+        "title": "具身智能公司获阿里腾讯投资，发布可长程执行的自研模型",
+        "link": "https://aiera.com.cn/2026/09/02/other/admin/111706/%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%9b%b4%e8%a8%80%ef%bc%9a%e5%9b%9b%e5%b9%b4%e5%a4%aa%e4%b9%85%ef%bc%8c%e5%a4%a7%e5%ad%a6%e4%b8%a4%e5%b9%b4%e5%b0%b1%e5%a4%9f%ef%bc%81/",
+        "description": "成立半年估值 70 亿的具身智能公司获阿里腾讯联投，发布能长程执行任务的自研模型。",
+        "detail": "一家成立仅半年的具身智能公司，在获得阿里和腾讯联合投资后估值达到 70 亿。该公司近期发布了其首个自研模型，该模型具备“长程执行”能力，能够从头到尾完成一整件复杂任务，而非仅仅是短时间的抓取动作。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "具身智能技术将婴儿床价格从几百元推高至一万元",
+        "link": "https://aiera.com.cn/2026/09/02/other/admin/111693/runway%e6%8a%8a%e4%bb%a3%e7%a0%81%e5%b9%b2%e6%8e%89%e4%ba%86%ef%bc%81%e9%a6%96%e4%b8%aa%e7%95%8c%e9%9d%a2%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%ef%bc%8cui%e8%87%aa%e5%b7%b1%e9%95%bf%e5%87%ba%e6%9d%a5/",
+        "description": "婴儿床品类正被“具身智能”重新定价，价格从几百元涨至一万元。",
+        "detail": "极客公园观察到，婴儿床这一传统品类正被“具身智能”技术重新定义和定价。具备智能交互和自动安抚等功能的 AI 婴儿床，其售价已从传统的几百元大幅提升至一万元级别，显示出 AI 技术对消费硬件价值的重塑能力。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "新智元"
+      },
+      {
+        "title": "硬件版 AI 助手 WorkBuddy 获数亿融资，主打“终极上下文”",
+        "link": "https://aiera.com.cn/2026/09/02/other/admin/111669/%e5%88%9a%e5%88%9a%ef%bc%8ca%e7%a4%be%e8%87%aa%e6%9b%9d%e3%80%8c%e6%9c%80%e5%9d%8fclaude%e3%80%8d%ef%bc%81150%e4%ba%ba%e7%b4%a7%e6%80%a5%e8%bd%ac%e5%b2%97%ef%bc%8c%e6%96%b0%e5%93%81%e5%bc%80%e5%8f%91/",
+        "description": "硬件 AI 助手 WorkBuddy 获数亿融资，旨在提供终极上下文理解能力。",
+        "detail": "一款名为 WorkBuddy 的硬件 AI 助手产品获得了数亿融资。该产品旨在通过硬件形式提供“终极上下文”能力，即全面理解用户的工作和生活场景，从而提供更主动、更贴合的智能协助。",
+        "tag": "公司动态",
+        "sort_score": 72,
+        "source": "新智元"
+      },
+      {
+        "title": "苹果新 CEO 特努斯发布首条 X 动态，Claude Fable 5.1 正式上线",
+        "link": "https://www.infoq.cn/article/ztbou1CqjAdzrT6GNSKV?utm_source=rss&utm_medium=article",
+        "description": "苹果新 CEO 特努斯在 X 平台首次发声，同时 Claude Fable 5.1 正式上线。",
+        "detail": "苹果新任 CEO 约翰·特努斯正式加入 X 平台并发布首条动态。与此同时，Anthropic 的 Claude Fable 5.1 模型也于今日正式上线，成为科技圈关注的焦点。",
+        "tag": "公司动态",
+        "sort_score": 55,
         "source": "InfoQ 中文"
       },
       {
-        "title": "戴森发布499美元AI牙刷，华为小米荣耀手机集体涨价",
-        "link": "https://www.ifanr.com/1678080?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "戴森推出AI牙刷，手机厂商集体涨价。",
-        "detail": "戴森发布售价499美元的AI牙刷，配备摄像头，引发关注。同时，华为、小米、荣耀等手机厂商集体上调价格，市场动态频繁。此外，苹果新任CEO特努斯2027财年薪酬定为5800万美元。",
+        "title": "AIROBO 联手中科院力学所，为机器人运营注入国家科研力量",
+        "link": "https://www.infoq.cn/article/K8OwgoWM1gHNi2i4yLkU?utm_source=rss&utm_medium=article",
+        "description": "AIROBO 与中科院力学所合作，将国家科研力量引入机器人运营技术领域。",
+        "detail": "港股上市公司弘毅文化集团旗下 AIROBO 宣布与中科院力学所达成合作。双方将共同研究机器人进入现实世界后的“运行问题”，为机器人运营技术注入国家科研力量，这被视为该领域从本体制造向运营服务延伸的标志。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Claude越狱后，Anthropic停掉训练、150人紧急转岗",
+        "link": "https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
         "tag": "行业动态",
-        "sort_score": 30,
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "随着 AI 内存需求推高非 AI 基础设施价格，OVHcloud 将上调服务价格",
+        "link": "https://www.infoq.cn/article/A1CMWgYYvtE64N1s3EHv?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+        "link": "https://www.ifanr.com/1678079?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "大模型理解文字，李飞飞想让 Atlas 理解空间#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "大模型理解文字，李飞飞想让 Atlas 理解空间#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
         "source": "爱范儿"
       },
       {
-        "title": "苹果新CEO首条动态，Claude Fable 5.1上线",
-        "link": "http://www.geekpark.net/news/369690",
-        "description": "苹果新CEO入驻X，Claude Fable 5.1正式上线。",
-        "detail": "苹果新任CEO约翰·特努斯在X平台发布首条动态，向关注者问好。同时，Claude Fable 5.1正式上线，成为AI领域焦点。",
-        "tag": "公司动态",
-        "sort_score": 35,
+        "title": "早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布",
+        "link": "https://www.ifanr.com/1678080?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "苹果新任 CEO 特努斯 2027 财年目标薪酬为 5800 万美元\n\n苹果向美国证券交易委员会提交的 8-K/A 文件显示，新任 CEO 约翰 · 特努斯的 2027 财年薪酬由固定薪资和股权奖励组成。股权奖励是主要部分，特努斯在 2026 财年担任 CEO 的时间也会获得按比例计算的限制性股票奖励。\n绩效型限制性股票占这笔股权奖励的大部分，归属结果取决于苹果相对标普 500 成分公司的股东总回",
+        "detail": "苹果新任 CEO 特努斯 2027 财年目标薪酬为 5800 万美元\n\n苹果向美国证券交易委员会提交的 8-K/A 文件显示，新任 CEO 约翰 · 特努斯的 2027 财年薪酬由固定薪资和股权奖励组成。股权奖励是主要部分，特努斯在 2026 财年担任 CEO 的时间也会获得按比例计算的限制性股票奖励。\n绩效型限制性股票占这笔股权奖励的大部分，归属结果取决于苹果相对标普 500 成分公司的股东总回",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型",
+        "link": "http://www.geekpark.net/news/369724",
+        "description": "\n        \n作者｜苏子华\n编辑｜靖宇\n\n机器人行业现在最关心的一个问题：它能干完一整件事吗？\n几十秒的抓取物品的视频已经撑不起估值了。把一件事从头干到尾，成了最新的考题，行业里叫它「长程任务」。\n8 月 19 日，世界机器人大会，一台机器人首次亮相，用 15 分钟回答了这道题：收拾客厅，检查冰箱，把烘干机里的衣服拿出来，放进新的一批，按下启动键，最后把衣服叠好。\n里面大概有七八十个动作，自",
+        "detail": "\n        \n作者｜苏子华\n编辑｜靖宇\n\n机器人行业现在最关心的一个问题：它能干完一整件事吗？\n几十秒的抓取物品的视频已经撑不起估值了。把一件事从头干到尾，成了最新的考题，行业里叫它「长程任务」。\n8 月 19 日，世界机器人大会，一台机器人首次亮相，用 15 分钟回答了这道题：收拾客厅，检查冰箱，把烘干机里的衣服拿出来，放进新的一批，按下启动键，最后把衣服叠好。\n里面大概有七八十个动作，自",
+        "tag": "模型发布",
+        "sort_score": 90,
         "source": "极客公园"
       },
       {
-        "title": "OPPO联合OpenKG推出端侧AI记忆评测基准MobileMem",
-        "link": "https://www.leiphone.com/category/industrynews/PXii3It1SuG1KANO.html",
-        "description": "OPPO与OpenKG发布首个端侧AI记忆评测基准。",
-        "detail": "OPPO联合中文开放知识图谱社区推出行业首个面向端侧AI记忆的评测基准MobileMem，旨在衡量AI在长期记忆和主动服务方面的能力，推动终端AI从回答问题走向理解用户。",
-        "tag": "工具与生态",
-        "sort_score": 78,
-        "source": "雷锋网"
+        "title": "从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价",
+        "link": "http://www.geekpark.net/news/369719",
+        "description": "\n        \n\n作者｜苏子华\n编辑｜靖宇\n&nbsp;\n\n\n极客公园最近发现，婴儿床这个品类正在被 AI，或者说被「具身智能」重新定价。从一张几百元的价格，直接抬升到一万元。\n婴儿床是少有的被技术「忽略」的家居品类。100 年来，它的形态几乎没有变过。四根立柱、一圈围栏、一张床垫。\n关键变化发生在过去五年。\n传感器、算法、电机第一次被装进一张床，价格随之跳升：美国智能婴儿床 SNOO 售价 ",
+        "detail": "\n        \n\n作者｜苏子华\n编辑｜靖宇\n&nbsp;\n\n\n极客公园最近发现，婴儿床这个品类正在被 AI，或者说被「具身智能」重新定价。从一张几百元的价格，直接抬升到一万元。\n婴儿床是少有的被技术「忽略」的家居品类。100 年来，它的形态几乎没有变过。四根立柱、一圈围栏、一张床垫。\n关键变化发生在过去五年。\n传感器、算法、电机第一次被装进一张床，价格随之跳升：美国智能婴儿床 SNOO 售价 ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
       },
       {
-        "title": "阿里更新Qwen3.8-Max，前端编程能力全球第一",
-        "link": "https://www.leiphone.com/category/industrynews/Yubz8Ft9lJUQ46S1.html",
-        "description": "阿里旗舰模型Qwen3.8-Max更新，前端编程能力跃居全球第一。",
-        "detail": "阿里云更新旗舰模型Qwen3.8-Max，经过编程和办公专项训练后，整体性能显著提升，尤其在聚焦前端编程能力上跃居全球第一。该更新巩固了阿里在AI编程领域的竞争力。",
+        "title": "硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文",
+        "link": "http://www.geekpark.net/news/369718",
+        "description": "\n        \n\n作者｜苏子华\n编辑｜靖宇\n\n\n\n现场体验过 Violoop 之后，很多关于未来的「AI 助手」该长什么样、能做些什么、能力的极限究竟在哪的困惑，可能都会迎刃而解。\n因为 Violoop 已经把它们变成了现实。\n\n\n&nbsp;\nVioloop 实物图｜图片来源：Violoop\n\n&nbsp;\nVioloop 是一款巴掌大小的硬件，即插即用，V4 版本通过一根 Type-C 线",
+        "detail": "\n        \n\n作者｜苏子华\n编辑｜靖宇\n\n\n\n现场体验过 Violoop 之后，很多关于未来的「AI 助手」该长什么样、能做些什么、能力的极限究竟在哪的困惑，可能都会迎刃而解。\n因为 Violoop 已经把它们变成了现实。\n\n\n&nbsp;\nVioloop 实物图｜图片来源：Violoop\n\n&nbsp;\nVioloop 是一款巴掌大小的硬件，即插即用，V4 版本通过一根 Type-C 线",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "极客公园"
+      },
+      {
+        "title": "苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线",
+        "link": "http://www.geekpark.net/news/369690",
+        "description": "\n        ​\n苹果新任 CEO 约翰&middot;特努斯在 X 平台发布首条动态向关注者问好\n苹果首席执行官约翰&middot;特努斯正式加入社交平台 X，并发布了个人账号的首条动态。正如外界预料的那样，这条仅有「hello」五个字母的简短消息迅速获得大量关注。苹果历任首席执行官通常都具备一定的社交属性，而在当代，这往往也意味着拥有社交媒体账号。因此，随着特努斯正式接任苹果掌舵人，他也开",
+        "detail": "\n        ​\n苹果新任 CEO 约翰&middot;特努斯在 X 平台发布首条动态向关注者问好\n苹果首席执行官约翰&middot;特努斯正式加入社交平台 X，并发布了个人账号的首条动态。正如外界预料的那样，这条仅有「hello」五个字母的简短消息迅速获得大量关注。苹果历任首席执行官通常都具备一定的社交属性，而在当代，这往往也意味着拥有社交媒体账号。因此，随着特努斯正式接任苹果掌舵人，他也开",
         "tag": "模型发布",
-        "sort_score": 93,
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "AIROBO联手中科院力学所，机器人运营技术注入国家科研力量",
+        "link": "https://www.leiphone.com/category/industrynews/em9VVsPQwYhn37XN.html",
+        "description": "当行业将大量注意力投向人形机器人、本体制造和基础模型时，机器人进入现实世界后的“运行问题”，正在成为另一个关键技术战场。9月1日，港股上市公司弘毅文化集团（00419.HK）发布自愿公告，AIROBO中国大陆主体—艾诺博（成都）科技有限公司与中国科学院力学研究所签署为期五年的合作协议，双方拟围绕复杂场景运行机理、空间智能、仿真推演、多机协同、场景数据闭环及成果转化展开合作。此次合作并未限定于某一款",
+        "detail": "当行业将大量注意力投向人形机器人、本体制造和基础模型时，机器人进入现实世界后的“运行问题”，正在成为另一个关键技术战场。9月1日，港股上市公司弘毅文化集团（00419.HK）发布自愿公告，AIROBO中国大陆主体—艾诺博（成都）科技有限公司与中国科学院力学研究所签署为期五年的合作协议，双方拟围绕复杂场景运行机理、空间智能、仿真推演、多机协同、场景数据闭环及成果转化展开合作。此次合作并未限定于某一款",
+        "tag": "行业动态",
+        "sort_score": 58,
         "source": "雷锋网"
       }
     ]
