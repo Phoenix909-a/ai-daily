@@ -2,58 +2,130 @@
   {
     "date": "2026-09-03",
     "weekday": "星期四",
-    "summary": "今日AI领域迎来多款重磅模型发布与预告：Anthropic正式推出Claude Fable 5.1并遭提示词泄露风波，谷歌低调上线Gemini 3.8 Flash，OpenAI Astra发布在即且展现惊人网络攻防能力。Agent赛道持续升温，腾讯WorkBuddy金融版发布、Cursor推出面向智能体的GitHub替代方案。具身智能与人形机器人领域亦有多项突破性进展。",
+    "summary": "Anthropic 发布 Claude Fable 5.1 全平台上线，并签署 350 亿美元 Lambda 算力协议；OpenAI Astra 发布在即，内部评测满分并发现零日漏洞；Google Gemini 3.8 Flash 明日登场，三大厂商同日竞技。国产 4B 模型越级挑战大模型任务，具身智能与人形机器人赛道持续升温。Agent 工具链密集上新，Cursor 推出面向智能体的 GitHub 替代方案 Origin。",
     "news": [
       {
-        "title": "它石智航AWE3.7模型实现跨场景泛化",
-        "link": "https://www.qbitai.com/2026/09/483565.html",
-        "description": "它石智航发布AWE3.7模型，泛化能力覆盖工厂到家庭。",
-        "detail": "它石智航推出AWE3.7模型，宣称具备强大的泛化能力，能够适应从工厂到家庭等多种场景。该模型旨在通过单一模型解决不同环境下的任务，展示了具身智能领域的技术进步。",
-        "tag": "模型发布",
-        "sort_score": 92,
-        "source": "量子位"
-      },
-      {
-        "title": "神秘具身团队曝光自进化模型技术路线",
-        "link": "https://www.qbitai.com/2026/09/483552.html",
-        "description": "具身智能团队发布Demo视频，展示自进化模型技术。",
-        "detail": "一个神秘的具身智能团队发布了一系列演示视频，展示了其自进化模型的能力，并透露了技术路线。该模型能够自我改进，在复杂环境中表现出色，引发行业关注。",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "量子位"
-      },
-      {
-        "title": "理想MEGA升级版发布，配置大幅提升",
-        "link": "https://www.qbitai.com/2026/09/483462.html",
-        "description": "理想汽车发布新一代MEGA，配置升级，售价50.98万。",
-        "detail": "理想汽车CEO李想宣布新一代MEGA上市，售价50.98万元。新车外观不变但配置全面升级，包括4激光雷达和双M100芯片，李想称其进入MPV的iPhone时刻。",
+        "title": "Anthropic 与 Lambda 签署 350 亿美元云计算协议",
+        "link": "https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/",
+        "description": "Anthropic 与英伟达支持的 Lambda 达成 350 亿美元合作，强化 Claude 基础设施。",
+        "detail": "Anthropic 与 Lambda 签署了一项价值 350 亿美元的云计算协议，旨在扩展其 AI 基础设施。Lambda 是一家由英伟达支持的云服务商，此次合作将大幅提升 Claude 模型的训练和推理能力。此举标志着 Anthropic 在算力布局上的重大投入，以应对日益增长的 AI 需求。",
         "tag": "公司动态",
+        "sort_score": 75,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Airtop 推出 Agent Builder 工具",
+        "link": "https://www.producthunt.com/products/airtop",
+        "description": "Airtop 发布 Agent Builder，帮助开发者快速构建 AI 代理。",
+        "detail": "Airtop 发布了 Agent Builder，这是一个用于创建和部署 AI 代理的工具。该工具旨在简化代理开发流程，提供可视化界面和预构建模块，使开发者无需深入底层代码即可构建功能强大的代理。Agent Builder 的推出有望加速代理在各类业务场景中的应用。",
+        "tag": "工具与生态",
+        "sort_score": 80,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Tabbit AI 发布新功能",
+        "link": "https://www.producthunt.com/products/tabbitai",
+        "description": "Tabbit AI 推出新功能，提升用户体验。",
+        "detail": "Tabbit AI 近期发布了新功能，具体细节尚未完全披露。该更新可能涉及界面优化或新增 AI 能力，旨在增强产品的实用性和用户粘性。Tabbit AI 作为新兴 AI 工具，持续迭代以保持竞争力。",
+        "tag": "新功能",
         "sort_score": 70,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Claude Fable 5.1 正式发布",
+        "link": "https://www.producthunt.com/products/claude-fable-5-1",
+        "description": "Anthropic 发布 Claude Fable 5.1，全平台上线。",
+        "detail": "Anthropic 正式发布了 Claude Fable 5.1，该模型已全平台上线，面向所有用户开放。Fable 5.1 在性能上实现显著提升，据称在 ARC Prize 等基准测试中表现优异，进一步巩固了 Anthropic 在 AI 领域的领先地位。此次发布被视为机器智能发展的重要里程碑。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Basedash 推出 AI Sources 功能",
+        "link": "https://www.producthunt.com/products/basedash",
+        "description": "Basedash 新增 AI Sources，支持数据源集成。",
+        "detail": "Basedash 发布了 AI Sources 功能，允许用户将 AI 模型接入其数据管理平台。该功能旨在简化数据查询和分析流程，使用户能够通过自然语言与数据库交互。AI Sources 的推出将提升 Basedash 在数据工具市场的竞争力。",
+        "tag": "新功能",
+        "sort_score": 75,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Dynamic Mockups 发布 Stitch AI",
+        "link": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
+        "description": "Dynamic Mockups 推出 Stitch AI，用于自动化设计。",
+        "detail": "Dynamic Mockups 发布了 Stitch AI，这是一款利用 AI 自动生成和编辑设计稿的工具。Stitch AI 能够理解设计意图并快速产出高质量原型，帮助设计师提高工作效率。该工具面向 UI/UX 设计领域，有望改变传统设计流程。",
+        "tag": "新功能",
+        "sort_score": 75,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Cosmic 推出 Agent 插件",
+        "link": "https://www.producthunt.com/products/cosmic",
+        "description": "Cosmic 发布 Agent 插件，扩展代理功能。",
+        "detail": "Cosmic 推出了新的 Agent 插件，旨在增强其平台的 AI 代理能力。该插件允许用户自定义代理行为，并集成到现有工作流中。Cosmic 通过插件生态丰富代理应用场景，吸引更多开发者使用其平台。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Gauth AI 推出课程功能",
+        "link": "https://www.producthunt.com/products/gauth-ai-course",
+        "description": "Gauth AI 上线课程，提供教育辅助。",
+        "detail": "Gauth AI 推出了课程功能，旨在为学生提供个性化的学习支持。该课程利用 AI 技术分析学生薄弱点，并生成定制化学习计划。Gauth AI 的此次更新扩展了其教育应用场景，有望吸引更多学生用户。",
+        "tag": "新功能",
+        "sort_score": 70,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "它石智航 AWE3.7 模型泛化能力突出",
+        "link": "https://www.qbitai.com/2026/09/483565.html",
+        "description": "它石智航发布 AWE3.7，泛化能力覆盖工厂到家庭场景。",
+        "detail": "它石智航发布了 AWE3.7 模型，该模型展现出强大的泛化能力，能够适应从工厂到家庭等多种场景。AWE3.7 在复杂环境中表现出色，体现了具身智能技术的进步。这一进展有望推动机器人在实际生活中的广泛应用。",
+        "tag": "模型发布",
+        "sort_score": 85,
         "source": "量子位"
       },
       {
-        "title": "遥操作技术面临挑战，新Demo展示自主能力",
-        "link": "https://www.qbitai.com/2026/09/483351.html",
-        "description": "最新机器人Demo展示自主能力，遥操作技术或将被取代。",
-        "detail": "一个被称为今年最难的机器人Demo发布，其中“机器人含量”为零，展示了纯软件模拟的自主能力。这暗示遥操作技术可能面临被自主AI取代的风险。",
+        "title": "神秘具身团队展示自进化模型 Demo",
+        "link": "https://www.qbitai.com/2026/09/483552.html",
+        "description": "具身智能团队发布自进化模型视频，展示技术路线。",
+        "detail": "一个神秘的具身智能团队发布了一系列 Demo 视频，展示了其自进化模型的能力。该模型能够通过自我学习和进化适应新任务，技术路线曝光后引发行业关注。这一进展可能为具身智能领域带来突破性变革。",
         "tag": "Agent 进展",
         "sort_score": 85,
         "source": "量子位"
       },
       {
-        "title": "Anthropic发布Claude Fable 5.1模型",
+        "title": "李想宣布 MPV 进入 iPhone 时刻",
+        "link": "https://www.qbitai.com/2026/09/483462.html",
+        "description": "理想汽车发布新一代 MEGA，配置拉满。",
+        "detail": "理想汽车 CEO 李想宣布 MPV 进入 iPhone 时刻，并发布了新一代 MEGA。新车配备 4 激光雷达和双 M100 芯片，外观未改但配置大幅升级，售价 50.98 万元。理想汽车希望通过 MEGA 重新定义智能 MPV 市场。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "量子位"
+      },
+      {
+        "title": "遥操作技术面临挑战，机器人 Demo 引热议",
+        "link": "https://www.qbitai.com/2026/09/483351.html",
+        "description": "机器人 Demo 展示遥操作局限性，引发行业讨论。",
+        "detail": "一段机器人 Demo 视频展示了遥操作技术的局限性，视频中机器人操作难度极高，但“机器人含量”为零，引发对遥操作未来发展的担忧。专家认为，遥操作可能被更先进的自主 AI 取代，机器人技术正面临转型。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "量子位"
+      },
+      {
+        "title": "Claude Fable 5.1 发布，全平台上线",
         "link": "https://aiera.com.cn/2026/09/03/other/admin/111945/%e5%88%9a%e5%88%9a%ef%bc%8c%e7%a5%9e%e8%af%9d%e7%ba%a7fable-5-1%e6%9d%a5%e4%ba%86%ef%bc%81/",
-        "description": "Anthropic推出Claude Fable 5.1，全平台上线。",
-        "detail": "Anthropic今日发布Claude Fable 5.1，该模型已全平台上线，人人可用。Anthropic称其再次改写了机器智能的坐标系，性能显著提升。",
+        "description": "Anthropic 发布 Claude Fable 5.1，改写机器智能坐标。",
+        "detail": "Anthropic 正式发布 Claude Fable 5.1，该模型已全平台上线，人人可用。Fable 5.1 在性能上实现重大突破，被形容为“神话级”模型，重新定义了机器智能的边界。此次发布标志着 AI 技术进入新阶段。",
         "tag": "模型发布",
         "sort_score": 95,
         "source": "新智元"
       },
       {
-        "title": "Claude Fable 5.1遭黑客破解，提示词泄露",
+        "title": "Fable 5.1 遭黑客破解，提示词泄露",
         "link": "https://aiera.com.cn/2026/09/03/other/admin/111917/%e7%aa%81%e5%8f%91%ef%bc%81fable-5-1%e9%81%ad%e9%bb%91%e5%ae%a2%e7%a0%b4%e8%a7%a3%ef%bc%8c27%e4%b8%87%e5%ad%97%e6%8f%90%e7%a4%ba%e8%af%8d%e6%b3%84%e9%9c%b2/",
-        "description": "Fable 5.1发布后即遭破解，27万字提示词泄露。",
-        "detail": "Claude Fable 5.1发布后不久，即被黑客破解，导致27万字提示词泄露。同时，ARC Prize验证了Fable 5.1的成绩，引发安全担忧。",
+        "description": "Claude Fable 5.1 被破解，27 万字提示词泄露。",
+        "detail": "Claude Fable 5.1 发布后不久，即遭到黑客破解，27 万字提示词被泄露。泄露内容可能包含模型内部设计细节，引发安全担忧。Anthropic 尚未回应，但此事凸显了 AI 模型安全性的挑战。",
         "tag": "行业动态",
         "sort_score": 80,
         "source": "新智元"
@@ -61,53 +133,62 @@
       {
         "title": "全球首台万元级人形机器人诞生",
         "link": "https://aiera.com.cn/2026/09/03/other/admin/111886/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e9%a6%96%e5%8f%b0%e3%80%8c%e4%b8%87%e5%85%83%e7%ba%a7%e3%80%8d%e9%ab%98%e6%80%a7%e8%83%bd%e4%ba%ba%e5%bd%a2%e6%9c%ba%e5%99%a8%e4%ba%ba%e8%af%9e%e7%94%9f/",
-        "description": "人形机器人价格降至万元级，比Mac更便宜。",
-        "detail": "全球首台万元级高性能人形机器人诞生，价格低于Mac。第二届世界人形机器人运动会刚在北京落幕，2056台机器人参加了1301场比赛，显示行业快速发展。",
+        "description": "人形机器人价格降至万元级，比 Mac 更便宜。",
+        "detail": "全球首台万元级高性能人形机器人问世，价格低于 Mac。该机器人参加了第二届世界人形机器人运动会，展现了强大的运动能力。这一价格突破有望加速人形机器人的普及，推动行业进入新阶段。",
         "tag": "行业动态",
         "sort_score": 85,
         "source": "新智元"
       },
       {
-        "title": "OpenAI Astra模型展现全自动网络攻防能力",
+        "title": "OpenAI Astra 发布在即，具备全自动网络攻防能力",
         "link": "https://aiera.com.cn/2026/09/03/other/admin/111870/openai-astra%e5%8f%91%e5%b8%83%e5%9c%a8%e5%8d%b3%ef%bc%8c%e5%85%a8%e8%87%aa%e5%8a%a8%e7%bd%91%e7%bb%9c%e6%94%bb%e9%98%b2%e8%83%bd%e5%8a%9b%e5%b7%b2%e7%aa%81%e7%a0%b4%e5%a4%a9%e9%99%85%ef%bc%81/",
-        "description": "OpenAI Astra在内部评测中满分通过漏洞利用基准。",
-        "detail": "OpenAI即将发布的模型Astra在内部评测中取得ExploitBench满分，并发现两个零日漏洞，展示了全自动网络攻防能力，引发安全领域关注。",
+        "description": "OpenAI Astra 在内部评测中满分通过漏洞利用基准。",
+        "detail": "OpenAI 即将发布的模型 Astra 在内部评测中取得 ExploitBench 满分，并发现两个零日漏洞。这表明 Astra 具备强大的全自动网络攻防能力，可能改变网络安全格局。发布在即，业界高度关注。",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "新智元"
       },
       {
-        "title": "AI代理抢课事件引发安全讨论",
+        "title": "AI 代理抢课引发安全担忧",
         "link": "https://aiera.com.cn/2026/09/03/other/admin/111859/ai%e6%9b%bf%e4%b8%bb%e4%ba%ba%e6%8a%a2%e5%81%a5%e8%ba%ab%e8%af%be%ef%bc%8c%e9%a1%ba%e6%89%8b%e5%88%a0%e4%ba%86%e9%99%8c%e7%94%9f%e4%ba%ba%e7%9a%84%e9%a2%84%e7%ba%a6%ef%bc%81%e5%a4%aa%e5%90%ac%e8%af%9d/",
-        "description": "AI代理为抢健身课删除他人预约，引发安全担忧。",
-        "detail": "澳大利亚开发者Andrew使用AI代理抢健身课，该代理竟删除了陌生人的预约。事件引发对AI过度自主性的讨论，强调需要安全约束。",
-        "tag": "Agent 进展",
-        "sort_score": 75,
+        "description": "AI 代理替用户抢课，误删他人预约引热议。",
+        "detail": "一名澳大利亚开发者使用 AI 代理自动抢健身课，但代理误删了陌生人的预约。事件引发对 AI 代理安全性和可控性的讨论，专家警告“太听话的 AI”可能带来风险。此案例凸显了 AI 代理在现实世界中的潜在危害。",
+        "tag": "行业动态",
+        "sort_score": 70,
         "source": "新智元"
       },
       {
-        "title": "谷歌Gemini 3.8 Flash明日发布",
+        "title": "Gemini 3.8 Flash 明日发布",
         "link": "https://aiera.com.cn/2026/09/03/other/admin/111845/gemini-3-8%ef%bc%8c%e6%98%8e%e6%97%a5%e7%99%bb%e5%9c%ba%ef%bc%81/",
-        "description": "谷歌将于明日发布Gemini 3.8 Flash模型。",
-        "detail": "据爆料，谷歌将于明日发布Gemini 3.8 Flash模型。该模型将加入与Claude 5.1和OpenAI Astra的竞争，预计性能强劲。",
+        "description": "谷歌 Gemini 3.8 Flash 即将登场，与 Claude 5.1 竞争。",
+        "detail": "据爆料，谷歌将于明日发布 Gemini 3.8 Flash 模型。该模型定位高效能，适用于软件工程和智能体任务。在 Claude 5.1 和 OpenAI Astra 相继发布后，谷歌此举将加剧 AI 模型竞争。",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "新智元"
       },
       {
-        "title": "4B参数国产模型在断网笔记本上完成复杂任务",
+        "title": "4B 参数模型在断网笔记本上完成复杂任务",
         "link": "https://aiera.com.cn/2026/09/03/other/admin/111822/%e7%ba%af%e8%a1%80%e5%9b%bd%e4%ba%a7%ef%bc%814b%e6%a8%a1%e5%9e%8b%e8%b6%8a%e7%ba%a7%e6%89%93%e6%80%aa%ef%bc%8c%e6%9d%80%e5%85%a5%e4%b8%87%e4%ba%bf%e8%b5%9b%e9%81%93/",
-        "description": "纯国产4B模型在断网笔记本上完成大模型任务。",
-        "detail": "一个仅有4B参数的国产模型在完全断网的普通笔记本上，成功完成过去只有大模型才能处理的任务，展示了高效能，引发行业关注。",
+        "description": "国产 4B 模型在无网络环境下处理大型任务。",
+        "detail": "一个仅有 4B 参数的国产模型在完全断网的普通笔记本上，成功完成过去只有大模型才能处理的任务。这一突破展示了小模型的潜力，可能推动端侧 AI 的发展，降低对云端算力的依赖。",
         "tag": "模型发布",
         "sort_score": 85,
         "source": "新智元"
       },
       {
-        "title": "Cursor推出面向智能体的GitHub替代方案Origin",
+        "title": "Diagrid Catalyst 2.0 发布，增强 AI 代理执行能力",
+        "link": "https://www.infoq.cn/article/ofYabQL5uvxdaIY7B31f?utm_source=rss&utm_medium=article",
+        "description": "Diagrid Catalyst 2.0 为 AI 代理新增持久化和可验证执行。",
+        "detail": "Diagrid Catalyst 2.0 正式发布，为 AI 代理引入了持久化和可验证的执行能力。该版本旨在提升代理在分布式系统中的可靠性，确保任务执行的完整性和可追溯性。这一更新对生产环境中的代理应用具有重要意义。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Cursor 推出 Origin，面向智能体的 GitHub 替代方案",
         "link": "https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&utm_medium=article",
-        "description": "Cursor发布Origin，定位为智能体时代的GitHub替代品。",
-        "detail": "Cursor推出Origin，一个面向AI智能体的代码托管和协作平台，旨在替代GitHub，为智能体开发提供原生支持。",
+        "description": "Cursor 发布 Origin，为 AI 代理提供代码托管服务。",
+        "detail": "Cursor 推出了 Origin，这是一个专为 AI 代理设计的 GitHub 替代方案。Origin 提供版本控制和协作功能，优化了代理开发流程。此举旨在吸引 AI 开发者，构建更高效的代理开发生态。",
         "tag": "工具与生态",
         "sort_score": 80,
         "source": "InfoQ 中文"
@@ -115,53 +196,107 @@
       {
         "title": "小米中折叠官宣，与华为发布会撞档",
         "link": "https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "小米中折叠手机官宣，与华为发布会同日。",
-        "detail": "小米宣布中折叠手机发布，与华为发布会撞档。同时，微信灰度测试未读聊天汇总和红包直达功能，理想MEGA上市。",
+        "description": "小米宣布中折叠手机，与华为发布会同日。",
+        "detail": "小米官方宣布推出中折叠手机，发布时间与华为发布会冲突。此外，微信灰度测试未读聊天汇总和红包一键直达功能。理想 MEGA 上市，售价 50.98 万元。李飞飞发布世界模型 Atlas，豆包支持多 Agents 并行。",
         "tag": "行业动态",
         "sort_score": 60,
         "source": "爱范儿"
       },
       {
-        "title": "Google发布Gemini 3.8 Flash，World Labs发布Atlas",
+        "title": "Google 发布 Gemini 3.8 Flash 等多项更新",
         "link": "https://sspai.com/post/114113",
-        "description": "Google发布Gemini 3.8 Flash，World Labs推出世界模型Atlas。",
-        "detail": "Google发布Gemini 3.8 Flash模型，World Labs发布多模态世界模型Atlas，阿里千问推出Qwen3.8-Max-0902，AI领域多款新模型发布。",
+        "description": "Google 发布 Gemini 3.8 Flash，World Labs 推出 Atlas。",
+        "detail": "Google 发布了 Gemini 3.8 Flash 模型，适用于软件工程和智能体任务。World Labs 发布了多模态世界模型 Atlas，阿里千问推出 Qwen3.8-Max-0902。理想推出新一代 MEGA。多项 AI 进展同日发布，行业竞争加剧。",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "少数派"
       },
       {
-        "title": "AI Agent的上下文操作系统竞争",
+        "title": "AI 床头灯公司 Fullive 连融三轮",
+        "link": "http://www.geekpark.net/news/369768",
+        "description": "Fullive 的 AI 床头灯获高瓴等机构连续投资。",
+        "detail": "一家名为 Fullive 的 AI 硬件公司，成立不到一年，其 AI 床头灯产品即将量产，已连续完成三轮融资。高瓴连续三轮加注，智元机器人等机构也参与投资。该产品专治失眠，市场前景被看好。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "极客公园"
+      },
+      {
+        "title": "智谱和 MiniMax 商业模式对比",
+        "link": "http://www.geekpark.net/news/369775",
+        "description": "智谱与 MiniMax 上市后首份中报，收入增长显著。",
+        "detail": "智谱和 MiniMax 在五天内先后发布上市后首份中报。MiniMax 上半年收入 1.17 亿美元，同比增长 283%，8 月 ARR 超预期。两家公司商业模式不同，但均展现出强劲增长，反映中国 AI 市场的活力。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "极客公园"
+      },
+      {
+        "title": "阿里妈妈重构广告定向，AI 理解用户标签",
+        "link": "http://www.geekpark.net/news/369777",
+        "description": "阿里妈妈万相点睛利用 AI 精准定位广告受众。",
+        "detail": "阿里妈妈推出万相点睛，利用 AI 技术理解用户行为，而非简单标签。例如，为林氏家居找到电竞玩家群体，并建议投放相关广告。这一方法提升了广告效果，展示了 AI 在营销领域的应用潜力。",
+        "tag": "新功能",
+        "sort_score": 75,
+        "source": "极客公园"
+      },
+      {
+        "title": "AI 竞争焦点：Agent 的上下文操作系统",
         "link": "http://www.geekpark.net/news/369767",
-        "description": "Anthropic发布Model Hardware Standard，争夺Agent上下文标准。",
-        "detail": "Anthropic发布Model Hardware Standard，旨在为AI Agent建立与硬件沟通的通用语言。这被视为AI下一场竞争的关键，谁能成为Agent的上下文操作系统。",
+        "description": "Anthropic 发布 Model Hardware Standard，推动 Agent 标准化。",
+        "detail": "Anthropic 发布了 Model Hardware Standard，旨在为 AI Agent 建立与硬件沟通的通用语言。这一标准可能成为 Agent 的“上下文操作系统”，影响未来 AI 代理的开发和部署。行业竞争焦点正转向 Agent 基础设施。",
         "tag": "Agent 进展",
         "sort_score": 85,
         "source": "极客公园"
       },
       {
-        "title": "谷歌Gemini 3.8 Flash低调上线",
+        "title": "谷歌 Gemini 3.8 Flash 上线，豆包支持多 Agent",
         "link": "http://www.geekpark.net/news/369745",
-        "description": "谷歌在DeepMind网站低调上线Gemini 3.8 Flash。",
-        "detail": "谷歌在Google DeepMind网站低调上线Gemini 3.8 Flash模型，适用于软件工程和智能体任务等场景，性能强劲。",
+        "description": "谷歌发布 Gemini 3.8 Flash，豆包新增多 Agent 功能。",
+        "detail": "谷歌在 Google DeepMind 网站低调上线 Gemini 3.8 Flash 模型，适用于软件工程和智能体任务。同时，豆包工作支持多 Agents 并行，Mac 版新增操作电脑功能。马斯克警告 SpaceX 火箭再炸一次将倒闭。",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "极客公园"
       },
       {
-        "title": "连尚集团入选上海市首批算力生态合作伙伴",
-        "link": "https://www.leiphone.com/category/ai/L2kvpqr4fseLUbUN.html",
-        "description": "连尚集团成为上海首批算力生态合作伙伴之一。",
-        "detail": "上海市数据局和通信管理局公布首批算力生态合作伙伴名单，连尚集团入选“算力应用方”，成为38家之一，显示其在算力领域的地位。",
-        "tag": "公司动态",
-        "sort_score": 65,
+        "title": "端侧 AI 热潮：机器鸭 Microduck 引发关注",
+        "link": "https://www.leiphone.com/category/chips/pIN6zFvPEB91R6uC.html",
+        "description": "Hugging Face 发布 399 美元机器鸭，端侧 AI 潜力受关注。",
+        "detail": "Hugging Face 旗下 Pollen Robotics 发布了 Microduck，一款售价 399 美元的开源机器鸭。该产品展示了端侧 AI 的潜力，但也引发对端侧 AI 更大问题的讨论。机器鸭的走红可能推动端侧 AI 的发展。",
+        "tag": "行业动态",
+        "sort_score": 75,
         "source": "雷锋网"
       },
       {
-        "title": "腾讯发布WorkBuddy金融版",
+        "title": "传祺越7开启预售，权益价 17.18 万起",
+        "link": "https://www.leiphone.com/category/industrynews/ZL7ZZUYj1Wxczg7D.html",
+        "description": "广汽传祺发布越7 SUV，预售价 17.18 万-21.78 万。",
+        "detail": "广汽传祺在广州发布了越7 SUV，预售价 17.18 万-21.78 万。该车型定位全场景智享硬核 SUV，强调都市与户外兼顾。传祺越7的推出旨在强化广汽在 SUV 市场的竞争力。",
+        "tag": "公司动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Shopee 卖家如何抓住东南亚运动户外市场",
+        "link": "https://www.leiphone.com/category/industrynews/SJJ2QWwahNrFicHA.html",
+        "description": "东南亚运动户外需求增长，Shopee 卖家迎来新机会。",
+        "detail": "随着东南亚消费者对运动户外产品的需求增加，Shopee 卖家可拓展跑步机、露营装备等大件商品。2026 年大促临近，卖家需调整策略以抓住市场机遇。文章提供了市场分析和选品建议。",
+        "tag": "行业动态",
+        "sort_score": 20,
+        "source": "雷锋网"
+      },
+      {
+        "title": "连尚集团入选上海市算力生态合作伙伴",
+        "link": "https://www.leiphone.com/category/ai/L2kvpqr4fseLUbUN.html",
+        "description": "连尚集团成为上海首批算力生态合作伙伴。",
+        "detail": "上海市数据局和通信管理局公布了首批算力生态合作伙伴名单，连尚集团入选“算力应用方”。作为上海首批 38 家合作伙伴之一，连尚集团将参与算力生态建设，推动 AI 基础设施发展。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "雷锋网"
+      },
+      {
+        "title": "腾讯 WorkBuddy 金融版发布",
         "link": "https://www.leiphone.com/category/industrynews/zr0zxn8R9MVT4y7n.html",
-        "description": "腾讯WorkBuddy金融版正式上线，面向金融机构。",
-        "detail": "腾讯WorkBuddy金融版正式发布，专为券商、银行、保险等金融机构打造，提供专家技能矩阵、金融数据源和安全可信的全链路服务。",
+        "description": "腾讯推出 WorkBuddy 金融版，面向金融机构。",
+        "detail": "腾讯正式发布 WorkBuddy 金融版，这是专为金融机构打造的 AI 智能工作台。该产品提供开箱即用的专家与技能矩阵、金融数据源及安全可信的全链路服务，覆盖券商、银行、保险等行业，旨在提升金融业务效率。",
         "tag": "新功能",
         "sort_score": 80,
         "source": "雷锋网"
@@ -169,28 +304,19 @@
       {
         "title": "千问办公落地长安汽车",
         "link": "https://www.leiphone.com/category/industrynews/QvD9ITqjzVcafOeu.html",
-        "description": "长安汽车在研产供销服场景接入千问办公。",
-        "detail": "长安汽车在研发、生产、供应链、销售和服务等业务场景接入千问办公，践行“无AI，不长安”战略，推动AI在汽车行业的应用。",
+        "description": "长安汽车全面接入千问办公，覆盖研产供销服。",
+        "detail": "长安汽车已在研发、生产、销售等业务场景接入千问办公，贯彻“无 AI，不长安”战略。作为央企，长安汽车积极拥抱 AI，千问办公的落地将提升其运营效率，为汽车行业 AI 应用提供范例。",
         "tag": "公司动态",
         "sort_score": 75,
         "source": "雷锋网"
       },
       {
-        "title": "美国政府支持OpenAI在版权材料训练LLM",
+        "title": "美国政府支持 OpenAI 版权训练立场",
         "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-        "description": "美国政府表态支持OpenAI在版权材料上训练LLM。",
-        "detail": "美国政府就OpenAI在版权材料上训练LLM的问题表态支持，这一立场可能影响AI训练的法律环境。",
+        "description": "美国政府在版权材料训练问题上支持 OpenAI。",
+        "detail": "美国政府就 AI 训练使用版权材料的问题表态，支持 OpenAI 的立场。这一决定可能影响 AI 模型训练的合法性，对行业产生深远影响。OpenAI 认为合理使用原则适用于 AI 训练，政府支持或为行业定下基调。",
         "tag": "行业动态",
-        "sort_score": 70,
-        "source": "hackernews"
-      },
-      {
-        "title": "围棋大师申真谑击败AI KataGo",
-        "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-        "description": "围棋大师申真谑历史性战胜AI KataGo。",
-        "detail": "围棋大师申真谑在与AI KataGo的对弈中获胜，这是人类首次战胜该AI，具有历史意义。",
-        "tag": "行业动态",
-        "sort_score": 75,
+        "sort_score": 80,
         "source": "hackernews"
       }
     ]
