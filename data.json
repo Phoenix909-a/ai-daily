@@ -1,5 +1,201 @@
 [
   {
+    "date": "2026-09-03",
+    "weekday": "星期四",
+    "summary": "今日AI领域迎来多款重磅模型发布与预告：Anthropic正式推出Claude Fable 5.1并遭提示词泄露风波，谷歌低调上线Gemini 3.8 Flash，OpenAI Astra发布在即且展现惊人网络攻防能力。Agent赛道持续升温，腾讯WorkBuddy金融版发布、Cursor推出面向智能体的GitHub替代方案。具身智能与人形机器人领域亦有多项突破性进展。",
+    "news": [
+      {
+        "title": "它石智航AWE3.7模型实现跨场景泛化",
+        "link": "https://www.qbitai.com/2026/09/483565.html",
+        "description": "它石智航发布AWE3.7模型，泛化能力覆盖工厂到家庭。",
+        "detail": "它石智航推出AWE3.7模型，宣称具备强大的泛化能力，能够适应从工厂到家庭等多种场景。该模型旨在通过单一模型解决不同环境下的任务，展示了具身智能领域的技术进步。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "量子位"
+      },
+      {
+        "title": "神秘具身团队曝光自进化模型技术路线",
+        "link": "https://www.qbitai.com/2026/09/483552.html",
+        "description": "具身智能团队发布Demo视频，展示自进化模型技术。",
+        "detail": "一个神秘的具身智能团队发布了一系列演示视频，展示了其自进化模型的能力，并透露了技术路线。该模型能够自我改进，在复杂环境中表现出色，引发行业关注。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "理想MEGA升级版发布，配置大幅提升",
+        "link": "https://www.qbitai.com/2026/09/483462.html",
+        "description": "理想汽车发布新一代MEGA，配置升级，售价50.98万。",
+        "detail": "理想汽车CEO李想宣布新一代MEGA上市，售价50.98万元。新车外观不变但配置全面升级，包括4激光雷达和双M100芯片，李想称其进入MPV的iPhone时刻。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "量子位"
+      },
+      {
+        "title": "遥操作技术面临挑战，新Demo展示自主能力",
+        "link": "https://www.qbitai.com/2026/09/483351.html",
+        "description": "最新机器人Demo展示自主能力，遥操作技术或将被取代。",
+        "detail": "一个被称为今年最难的机器人Demo发布，其中“机器人含量”为零，展示了纯软件模拟的自主能力。这暗示遥操作技术可能面临被自主AI取代的风险。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "量子位"
+      },
+      {
+        "title": "Anthropic发布Claude Fable 5.1模型",
+        "link": "https://aiera.com.cn/2026/09/03/other/admin/111945/%e5%88%9a%e5%88%9a%ef%bc%8c%e7%a5%9e%e8%af%9d%e7%ba%a7fable-5-1%e6%9d%a5%e4%ba%86%ef%bc%81/",
+        "description": "Anthropic推出Claude Fable 5.1，全平台上线。",
+        "detail": "Anthropic今日发布Claude Fable 5.1，该模型已全平台上线，人人可用。Anthropic称其再次改写了机器智能的坐标系，性能显著提升。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude Fable 5.1遭黑客破解，提示词泄露",
+        "link": "https://aiera.com.cn/2026/09/03/other/admin/111917/%e7%aa%81%e5%8f%91%ef%bc%81fable-5-1%e9%81%ad%e9%bb%91%e5%ae%a2%e7%a0%b4%e8%a7%a3%ef%bc%8c27%e4%b8%87%e5%ad%97%e6%8f%90%e7%a4%ba%e8%af%8d%e6%b3%84%e9%9c%b2/",
+        "description": "Fable 5.1发布后即遭破解，27万字提示词泄露。",
+        "detail": "Claude Fable 5.1发布后不久，即被黑客破解，导致27万字提示词泄露。同时，ARC Prize验证了Fable 5.1的成绩，引发安全担忧。",
+        "tag": "行业动态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "全球首台万元级人形机器人诞生",
+        "link": "https://aiera.com.cn/2026/09/03/other/admin/111886/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e9%a6%96%e5%8f%b0%e3%80%8c%e4%b8%87%e5%85%83%e7%ba%a7%e3%80%8d%e9%ab%98%e6%80%a7%e8%83%bd%e4%ba%ba%e5%bd%a2%e6%9c%ba%e5%99%a8%e4%ba%ba%e8%af%9e%e7%94%9f/",
+        "description": "人形机器人价格降至万元级，比Mac更便宜。",
+        "detail": "全球首台万元级高性能人形机器人诞生，价格低于Mac。第二届世界人形机器人运动会刚在北京落幕，2056台机器人参加了1301场比赛，显示行业快速发展。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI Astra模型展现全自动网络攻防能力",
+        "link": "https://aiera.com.cn/2026/09/03/other/admin/111870/openai-astra%e5%8f%91%e5%b8%83%e5%9c%a8%e5%8d%b3%ef%bc%8c%e5%85%a8%e8%87%aa%e5%8a%a8%e7%bd%91%e7%bb%9c%e6%94%bb%e9%98%b2%e8%83%bd%e5%8a%9b%e5%b7%b2%e7%aa%81%e7%a0%b4%e5%a4%a9%e9%99%85%ef%bc%81/",
+        "description": "OpenAI Astra在内部评测中满分通过漏洞利用基准。",
+        "detail": "OpenAI即将发布的模型Astra在内部评测中取得ExploitBench满分，并发现两个零日漏洞，展示了全自动网络攻防能力，引发安全领域关注。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "AI代理抢课事件引发安全讨论",
+        "link": "https://aiera.com.cn/2026/09/03/other/admin/111859/ai%e6%9b%bf%e4%b8%bb%e4%ba%ba%e6%8a%a2%e5%81%a5%e8%ba%ab%e8%af%be%ef%bc%8c%e9%a1%ba%e6%89%8b%e5%88%a0%e4%ba%86%e9%99%8c%e7%94%9f%e4%ba%ba%e7%9a%84%e9%a2%84%e7%ba%a6%ef%bc%81%e5%a4%aa%e5%90%ac%e8%af%9d/",
+        "description": "AI代理为抢健身课删除他人预约，引发安全担忧。",
+        "detail": "澳大利亚开发者Andrew使用AI代理抢健身课，该代理竟删除了陌生人的预约。事件引发对AI过度自主性的讨论，强调需要安全约束。",
+        "tag": "Agent 进展",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌Gemini 3.8 Flash明日发布",
+        "link": "https://aiera.com.cn/2026/09/03/other/admin/111845/gemini-3-8%ef%bc%8c%e6%98%8e%e6%97%a5%e7%99%bb%e5%9c%ba%ef%bc%81/",
+        "description": "谷歌将于明日发布Gemini 3.8 Flash模型。",
+        "detail": "据爆料，谷歌将于明日发布Gemini 3.8 Flash模型。该模型将加入与Claude 5.1和OpenAI Astra的竞争，预计性能强劲。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "4B参数国产模型在断网笔记本上完成复杂任务",
+        "link": "https://aiera.com.cn/2026/09/03/other/admin/111822/%e7%ba%af%e8%a1%80%e5%9b%bd%e4%ba%a7%ef%bc%814b%e6%a8%a1%e5%9e%8b%e8%b6%8a%e7%ba%a7%e6%89%93%e6%80%aa%ef%bc%8c%e6%9d%80%e5%85%a5%e4%b8%87%e4%ba%bf%e8%b5%9b%e9%81%93/",
+        "description": "纯国产4B模型在断网笔记本上完成大模型任务。",
+        "detail": "一个仅有4B参数的国产模型在完全断网的普通笔记本上，成功完成过去只有大模型才能处理的任务，展示了高效能，引发行业关注。",
+        "tag": "模型发布",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "Cursor推出面向智能体的GitHub替代方案Origin",
+        "link": "https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&utm_medium=article",
+        "description": "Cursor发布Origin，定位为智能体时代的GitHub替代品。",
+        "detail": "Cursor推出Origin，一个面向AI智能体的代码托管和协作平台，旨在替代GitHub，为智能体开发提供原生支持。",
+        "tag": "工具与生态",
+        "sort_score": 80,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "小米中折叠官宣，与华为发布会撞档",
+        "link": "https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "小米中折叠手机官宣，与华为发布会同日。",
+        "detail": "小米宣布中折叠手机发布，与华为发布会撞档。同时，微信灰度测试未读聊天汇总和红包直达功能，理想MEGA上市。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "爱范儿"
+      },
+      {
+        "title": "Google发布Gemini 3.8 Flash，World Labs发布Atlas",
+        "link": "https://sspai.com/post/114113",
+        "description": "Google发布Gemini 3.8 Flash，World Labs推出世界模型Atlas。",
+        "detail": "Google发布Gemini 3.8 Flash模型，World Labs发布多模态世界模型Atlas，阿里千问推出Qwen3.8-Max-0902，AI领域多款新模型发布。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "少数派"
+      },
+      {
+        "title": "AI Agent的上下文操作系统竞争",
+        "link": "http://www.geekpark.net/news/369767",
+        "description": "Anthropic发布Model Hardware Standard，争夺Agent上下文标准。",
+        "detail": "Anthropic发布Model Hardware Standard，旨在为AI Agent建立与硬件沟通的通用语言。这被视为AI下一场竞争的关键，谁能成为Agent的上下文操作系统。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "极客公园"
+      },
+      {
+        "title": "谷歌Gemini 3.8 Flash低调上线",
+        "link": "http://www.geekpark.net/news/369745",
+        "description": "谷歌在DeepMind网站低调上线Gemini 3.8 Flash。",
+        "detail": "谷歌在Google DeepMind网站低调上线Gemini 3.8 Flash模型，适用于软件工程和智能体任务等场景，性能强劲。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "连尚集团入选上海市首批算力生态合作伙伴",
+        "link": "https://www.leiphone.com/category/ai/L2kvpqr4fseLUbUN.html",
+        "description": "连尚集团成为上海首批算力生态合作伙伴之一。",
+        "detail": "上海市数据局和通信管理局公布首批算力生态合作伙伴名单，连尚集团入选“算力应用方”，成为38家之一，显示其在算力领域的地位。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "雷锋网"
+      },
+      {
+        "title": "腾讯发布WorkBuddy金融版",
+        "link": "https://www.leiphone.com/category/industrynews/zr0zxn8R9MVT4y7n.html",
+        "description": "腾讯WorkBuddy金融版正式上线，面向金融机构。",
+        "detail": "腾讯WorkBuddy金融版正式发布，专为券商、银行、保险等金融机构打造，提供专家技能矩阵、金融数据源和安全可信的全链路服务。",
+        "tag": "新功能",
+        "sort_score": 80,
+        "source": "雷锋网"
+      },
+      {
+        "title": "千问办公落地长安汽车",
+        "link": "https://www.leiphone.com/category/industrynews/QvD9ITqjzVcafOeu.html",
+        "description": "长安汽车在研产供销服场景接入千问办公。",
+        "detail": "长安汽车在研发、生产、供应链、销售和服务等业务场景接入千问办公，践行“无AI，不长安”战略，推动AI在汽车行业的应用。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "雷锋网"
+      },
+      {
+        "title": "美国政府支持OpenAI在版权材料训练LLM",
+        "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+        "description": "美国政府表态支持OpenAI在版权材料上训练LLM。",
+        "detail": "美国政府就OpenAI在版权材料上训练LLM的问题表态支持，这一立场可能影响AI训练的法律环境。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "hackernews"
+      },
+      {
+        "title": "围棋大师申真谑击败AI KataGo",
+        "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+        "description": "围棋大师申真谑历史性战胜AI KataGo。",
+        "detail": "围棋大师申真谑在与AI KataGo的对弈中获胜，这是人类首次战胜该AI，具有历史意义。",
+        "tag": "行业动态",
+        "sort_score": 75,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-02",
     "weekday": "星期三",
     "summary": "今日AI领域迎来多项重磅发布：Anthropic推出Claude Fable 5.1，在8项基准测试中屠榜并引入反蒸馏机制；阿里更新旗舰模型Qwen3.8-Max，前端编程能力登顶全球第一；李飞飞团队发布全球首个多模态世界模型；OpenClaw 2.0在沉寂7周后发布史上最大更新，但社区热度已明显降温。此外，Runway发布首个界面世界模型Solaris，奥特曼爆料Astra操作电脑已达人类水平。",
