@@ -1,5 +1,264 @@
 [
   {
+    "date": "2026-09-04",
+    "weekday": "星期五",
+    "summary": "今日AI圈迎来“超级发布日”：OpenAI正式发布GPT-6 Astra，总裁称“可能已到达AGI”；谷歌推出Gemini 3.8 Flash及网络安全版；Anthropic发布Fable 5.1并升级Claude计算机使用能力；Meta发布最强模型打响价格战。九月仅3天已有5个前沿模型发布，行业竞争白热化。此外，AI Agent产品加速落地，阿里千问办公用户破3000万，谷歌云发布数据库管理智能体。",
+    "news": [
+      {
+        "title": "AI生成菜单陷入同质化困境",
+        "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+        "description": "生成式AI菜单虽便捷但缺乏独特性，引发顾客不满。",
+        "detail": "餐厅老板利用生成式AI快速生成菜单，但结果往往千篇一律，缺乏吸引力。顾客对AI生成的菜单内容感到不满，认为其缺乏餐厅的个性和特色。这一现象反映出AI在创意领域的局限性。",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Crusoe据报以300亿美元估值融资30亿美元",
+        "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+        "description": "数据中心开发商Crusoe完成巨额融资，估值达300亿美元。",
+        "detail": "数据中心开发商Crusoe据报道已完成一轮30亿美元的融资，公司估值达到300亿美元。此轮融资是在该公司获得一份130亿美元的合同之后进行的，显示出市场对AI基础设施的强劲需求。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "嬴彻科技自动驾驶里程超10亿公里，占据90%市场",
+        "link": "https://www.qbitai.com/2026/09/483598.html",
+        "description": "嬴彻科技卡车自动驾驶里程突破10亿公里，市场占有率高达90%。",
+        "detail": "嬴彻科技宣布其卡车自动驾驶累计行驶里程超过10亿公里，在干线物流领域占据了90%的市场份额。公司将其技术定义为“货运物理AI”，旨在通过数据驱动和物理智能提升物流效率与安全性。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "量子位"
+      },
+      {
+        "title": "谷歌发布Gemini 3.8系列，登顶性能榜",
+        "link": "https://aiera.com.cn/2026/09/04/other/admin/112088/%e7%aa%81%e5%8f%91%ef%bc%81gemini-3-8%e7%99%bb%e9%a1%b6%ef%bc%8c%e8%b0%b7%e6%ad%8c%e8%bf%88%e5%87%barsi%e4%b8%80%e5%a4%a7%e6%ad%a5/",
+        "description": "谷歌正式发布Gemini 3.8 Flash及网络安全版，性能登顶。",
+        "detail": "谷歌正式发布Gemini 3.8 Flash模型，以及专攻网络安全的Gemini 3.8 Flash Cyber版本。新模型在多项基准测试中表现优异，登顶性能排行榜，标志着谷歌在AI领域迈出重要一步。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "马斯克警告AI投资热潮吸干全球资本",
+        "link": "https://aiera.com.cn/2026/09/04/other/admin/112064/%e9%a9%ac%e6%96%af%e5%85%8b%ef%bc%9aai%e5%b7%a8%e6%b5%aa%e5%b7%b2%e8%87%b3%ef%bc%8c%e5%90%b8%e5%b9%b2%e5%85%a8%e7%90%83%e6%95%91%e5%91%bd%e9%92%b1%ef%bc%81/",
+        "description": "马斯克称AI激流已至，将吸干全球资本。",
+        "detail": "马斯克在社交媒体上表示“AI激流已经袭来”，警告当前AI领域的巨额投资正在吸干全球的资本资源。他认为这股浪潮将深刻影响全球经济格局，并呼吁理性看待AI发展。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI新一代Astra架构曝光，采用循环深度推理",
+        "link": "https://aiera.com.cn/2026/09/04/other/admin/112047/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e6%96%b0transformer%e7%81%ab%e4%ba%86%ef%bc%81astra%e6%9e%b6%e6%9e%84%e9%a6%96%e6%ac%a1%e6%9b%9d%e5%85%89/",
+        "description": "OpenAI下一代模型Astra采用全新“循环深度”推理方法。",
+        "detail": "OpenAI下一代模型Astra的架构细节首次曝光，其核心是一种名为“循环深度”的全新推理方法。该方法通过循环处理信息，有望显著提升模型的推理能力和效率，引发业界广泛关注。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic Fable 5.1因高消耗引发开发者不满",
+        "link": "https://aiera.com.cn/2026/09/04/other/admin/112026/fable-5-1%e5%8f%98%e8%ba%abtoken%e5%88%ba%e5%ae%a2%ef%bc%8c%e5%87%a0%e5%88%86%e9%92%9f%e7%83%a7%e5%85%89%e9%a2%9d%e5%ba%a6%ef%bc%81ai%e5%9c%88%e6%8e%80%e8%b5%b7%e3%80%8c%e6%a6%a8%e6%b1%81%e9%9d%a9/",
+        "description": "Anthropic新模型Fable 5.1因快速消耗Token额度遭开发者吐槽。",
+        "detail": "Anthropic发布的新模型Fable 5.1在短短几个小时内就因极高的Token消耗速度引发开发者社区的强烈不满，被戏称为“Token刺客”。开发者们纷纷吐槽其成本过高，影响了实际使用体验。",
+        "tag": "模型发布",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI高管改用ChatGPT浏览器，效率大增",
+        "link": "https://aiera.com.cn/2026/09/04/other/admin/112008/openai%e6%b5%8f%e8%a7%88%e5%99%a8%e6%8d%a2%e5%a3%b3%e6%9d%80%e5%9b%9e%ef%bc%81%e9%ab%98%e7%ae%a1%e6%94%b9%e7%94%a8chatgpt%e4%b8%8a%e7%bd%91%ef%bc%8c%e6%95%88%e7%8e%87%e4%bb%8e%e6%9c%aa%e8%bf%99/",
+        "description": "OpenAI核心高管Tibo Sottiaux宣布全面改用ChatGPT上网。",
+        "detail": "在Atlas浏览器关停不到一个月后，OpenAI核心高管Tibo Sottiaux在X上宣布，团队已全面改用ChatGPT作为主要上网工具。他表示这一转变显著提升了工作效率，暗示OpenAI可能将浏览器功能深度整合进ChatGPT。",
+        "tag": "公司动态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic升级Claude计算机使用能力，实现人机并行",
+        "link": "https://aiera.com.cn/2026/09/04/other/admin/111997/claude%e5%90%8e%e5%8f%b0%e6%8e%a5%e7%ae%a1%e7%94%b5%e8%84%91%ef%bc%8c%e7%9c%9f%c2%b7%e8%b5%9b%e5%8d%9a%e6%9b%bf%e8%ba%ab%ef%bc%81%e4%ba%ba%e6%9c%ba%e5%b9%b6%e8%a1%8c%e6%97%b6%e4%bb%a3%e6%9d%a5/",
+        "description": "Anthropic全面升级Claude的“计算机使用”能力，开启人机并行时代。",
+        "detail": "在发布Fable 5.1仅24小时后，Anthropic宣布全面升级Claude的“计算机使用”能力。升级后的Claude能够更自主地接管电脑执行复杂任务，实现真正的人机并行工作模式，被视为向赛博替身迈出的重要一步。",
+        "tag": "Agent 进展",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "Meta发布最强模型，打响AI价格战",
+        "link": "https://aiera.com.cn/2026/09/04/other/admin/111986/meta%e5%8f%91%e6%9c%80%e5%bc%ba%e6%a8%a1%e5%9e%8b%e6%89%93%e5%93%8d%e4%bb%b7%e6%a0%bc%e6%88%98%ef%bc%8c%e5%b0%8f%e6%89%8e%e5%af%b9%e8%b0%b7%e6%ad%8c%e8%b4%b4%e8%84%b8%e5%bc%80%e5%a4%a7%ef%bc%81/",
+        "description": "Meta发布新模型，与谷歌等巨头展开价格竞争。",
+        "detail": "九月初已有五个前沿模型密集发布，包括Anthropic的Fable 5.1和Mythos 5.1、谷歌的Gemini 3.8系列以及Meta的新模型。Meta此次发布被视作对谷歌的直接挑战，意图通过价格战抢占市场份额。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "英伟达发布官方推理指南，实现6倍无损加速",
+        "link": "https://aiera.com.cn/2026/09/04/other/admin/111956/%e8%8b%b1%e4%bc%9f%e8%be%be%e5%ae%98%e6%96%b9%e6%8e%a8%e7%90%86%e6%8c%87%e5%8d%97%e6%9d%a5%e4%ba%86%ef%bc%816%e5%80%8d%e6%97%a0%e6%8d%9f%e5%8a%a0%e9%80%9f%ef%bc%8c%e6%9c%80%e4%bc%98%e8%a7%a3%e5%85%a8/",
+        "description": "英伟达官方推理指南发布，实现6倍无损加速，作者多为华人。",
+        "detail": "英伟达发布了一篇官方的大模型推理指南，其中提出的优化方法可实现高达6倍的无损加速。值得注意的是，该指南的核心贡献者多为华人研究人员，展示了华人在AI工程优化领域的强大实力。",
+        "tag": "工具与生态",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI正式发布GPT-6 Astra，开启AGI时代",
+        "link": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&utm_medium=article",
+        "description": "OpenAI发布GPT-6 Astra，耗资巨大，多项跑分逼近满分。",
+        "detail": "OpenAI正式发布GPT-6 Astra模型，该模型训练耗用了10万块GPU，在多项性能跑分中逼近满分。OpenAI总裁称其性能已达到AGI水平，标志着AI发展进入新纪元。",
+        "tag": "模型发布",
+        "sort_score": 100,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AICon深圳2026公布优秀出品人与明星讲师名单",
+        "link": "https://www.infoq.cn/article/6EYVBX5UD2Cb0PWYsPCq?utm_source=rss&utm_medium=article",
+        "description": "AICon深圳2026大会公布优秀出品人及明星讲师名单。",
+        "detail": "AICon深圳2026大会公布了优秀出品人和明星讲师的名单，旨在表彰在AI领域做出突出贡献的从业者。大会将汇聚行业一线声音，分享最新的技术实践与行业洞察。",
+        "tag": "行业动态",
+        "sort_score": 45,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "开源Harness兴起，挑战Claude Code会员模式",
+        "link": "https://www.infoq.cn/article/6Jc130IN2OaXqsPDIzmJ?utm_source=rss&utm_medium=article",
+        "description": "人人都能构建自己的DeepSeek Harness，引发对商业AI工具价值的讨论。",
+        "detail": "随着开源工具的发展，现在人人都能构建类似“DeepSeek Harness”的定制化AI工作流。这引发了社区讨论：当免费开源方案足够强大时，用户为何还要为Claude Code等商业工具付费？",
+        "tag": "工具与生态",
+        "sort_score": 75,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Gemini模型输出速度碾压同行，智能水平重回第一梯队",
+        "link": "https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT?utm_source=rss&utm_medium=article",
+        "description": "谷歌Gemini模型在输出速度和智能水平上均重回行业领先。",
+        "detail": "最新评测显示，谷歌的Gemini模型在输出速度上大幅领先于同行，同时其智能水平也重回第一梯队。这一表现标志着谷歌在AI模型竞争中成功翻身，对市场格局产生重要影响。",
+        "tag": "对比评测",
+        "sort_score": 85,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "谷歌云发布AI智能体，简化数据库生命周期管理",
+        "link": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&utm_medium=article",
+        "description": "谷歌云推出AI智能体，用于自动化数据库生命周期管理。",
+        "detail": "谷歌云发布了一款新的AI智能体，旨在简化数据库的生命周期管理。该智能体能够自动化执行数据库的配置、监控、备份和升级等任务，帮助用户降低运维复杂度和成本。",
+        "tag": "Agent 进展",
+        "sort_score": 80,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "本地化AI方案让受限企业也能安全使用AI",
+        "link": "https://www.ifanr.com/1678332?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "将大模型部署在本地算力盒中，满足企业严格的数据权限要求。",
+        "detail": "针对那些想用AI但受限于数据安全法规的企业，一种新的解决方案是将大模型部署在权限严格的本地算力盒子中。这种方式让AI从云端落地，在满足合规要求的同时，使企业能够安全地利用AI能力。",
+        "tag": "工具与生态",
+        "sort_score": 72,
+        "source": "爱范儿"
+      },
+      {
+        "title": "GPT-6 Astra发布：性能达AGI，但成本高昂",
+        "link": "https://www.ifanr.com/1678409?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "GPT-6 Astra性能达到AGI水平，但其高昂的训练成本引发关注。",
+        "detail": "OpenAI发布的GPT-6 Astra模型性能卓越，已达到AGI水平，但其训练成本极其高昂，甚至可能让公司背负债务。文章评论指出，对于AI发展而言，一次性的成功才是最大的优惠。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "爱范儿"
+      },
+      {
+        "title": "全球主流AI集体宕机，GPT-6 Astra正式发布",
+        "link": "https://www.ifanr.com/1678380?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "早报汇总：全球AI服务宕机、GPT-6发布、英伟达收购Hugging Face等。",
+        "detail": "今日早报要点包括：全球主流AI服务发生集体宕机；OpenAI正式发布GPT-6 Astra模型；英伟达以129.3亿美元收购Hugging Face；前DeepSeek研究员魏浩然出任百度文心多模态算法负责人；特斯拉Cybercab亮相。",
+        "tag": "行业动态",
+        "sort_score": 80,
+        "source": "爱范儿"
+      },
+      {
+        "title": "OpenAI发布GPT-6 Astra，Meta发布Muse Spark 1.3",
+        "link": "https://sspai.com/post/114164",
+        "description": "派早报：OpenAI发布GPT-6 Astra，Meta发布Muse Spark 1.3等。",
+        "detail": "今日科技早报涵盖：OpenAI发布GPT-6 Astra模型；Meta发布Muse Spark 1.3模型；Anthropic升级Claude Code及Cowork；微软调整Xbox Cloud Gaming商业模式等多项重要动态。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "少数派"
+      },
+      {
+        "title": "OpenAI总裁称GPT-6发布标志AGI来临",
+        "link": "http://www.geekpark.net/news/369801",
+        "description": "GPT-6 Astra正式发布，OpenAI总裁Greg Brockman宣称AGI已来。",
+        "detail": "当地时间9月3日，OpenAI正式发布GPT-6 Astra模型。在发布会结束后，OpenAI总裁Greg Brockman表示，GPT-6的发布标志着AGI时代已经到来。该模型展现出超群的能力，引发全球关注。",
+        "tag": "模型发布",
+        "sort_score": 98,
+        "source": "极客公园"
+      },
+      {
+        "title": "GPT-6 Astra发布，OpenAI总裁宣称AGI已来",
+        "link": "http://www.geekpark.net/news/369800",
+        "description": "OpenAI发布GPT-6 Astra，总裁Greg Brockman称AGI时代开启。",
+        "detail": "2026年9月3日，OpenAI正式发布GPT-6 Astra模型。OpenAI总裁Greg Brockman在发布会后表示，AI行业已进入AGI时代。该模型在多项能力上实现突破，被认为是AI发展史上的里程碑。",
+        "tag": "模型发布",
+        "sort_score": 98,
+        "source": "极客公园"
+      },
+      {
+        "title": "速卖通Brand+加速韩国市场拓展，多类目三位数增长",
+        "link": "https://www.leiphone.com/category/industrynews/nThrz1xUlYPuje7E.html",
+        "description": "速卖通Brand+在韩国市场取得突破，多个重点类目实现三位数增长。",
+        "detail": "继在欧盟市场大涨97%后，速卖通Brand+在韩国市场也取得显著突破。今年8月，Brand+品牌商家成为速卖通韩国增长的主力军，其中迷你PC等类目的GMV实现了三位数的高速增长。",
+        "tag": "行业动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "泳池机器人行业困境：一池水困住中国机器人",
+        "link": "https://www.leiphone.com/category/robot/GUsHwBXVwOMwzSZG.html",
+        "description": "报道分析中国泳池机器人创业公司面临的行业困境与挑战。",
+        "detail": "文章深入报道了中国泳池机器人行业的发展现状。一家创业公司CEO表示，公司估值已大幅缩水，甚至考虑以低价出售。报道分析了该行业面临的技术、市场和竞争等多重困境。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "雷锋网"
+      },
+      {
+        "title": "阿里千问办公上线首月用户破3000万",
+        "link": "https://www.leiphone.com/category/industrynews/rECnXLpHow0zwG0p.html",
+        "description": "阿里企业级Agent产品千问办公上线首月用户数突破3000万。",
+        "detail": "阿里旗下企业级通用Agent产品千问办公上线满一个月，用户数已突破3000万，其中企业用户占比超过一半。阿里巴巴是最早布局Agent产品的公司之一，该产品的快速增长显示了企业级AI Agent市场的巨大潜力。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "雷锋网"
+      },
+      {
+        "title": "猛玛LARK A2麦克风原生联动腾讯WorkBuddy",
+        "link": "https://www.leiphone.com/category/industrynews/TV9HPfzjSA1Aq6Bt.html",
+        "description": "猛玛LARK A2无线麦克风与腾讯WorkBuddy深度合作，成为AI语音入口。",
+        "detail": "腾讯WorkBuddy生态发布会宣布与专业音视频硬件品牌猛玛达成深度合作，推出LARK A2无线麦克风WorkBuddy联名款。作为首款原生联动WorkBuddy的硬件，该产品旨在将无线麦克风转变为AI语音交互入口。",
+        "tag": "工具与生态",
+        "sort_score": 65,
+        "source": "雷锋网"
+      },
+      {
+        "title": "GPT-6发布能自主操作电脑，小米折叠屏定价过万",
+        "link": "https://www.leiphone.com/category/zaobao/ufE0wwRendYKuvDo.html",
+        "description": "要闻：GPT-6发布可自主操作电脑，小米18 Fold起售价过万，字节获巨额贷款。",
+        "detail": "今日要闻包括：OpenAI发布史上最强模型GPT-6 Astra，具备百万级上下文和自主操作电脑的能力；小米确认18 Fold起售价过万；字节跳动将获得约296亿美元的银团贷款。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "雷锋网"
+      },
+      {
+        "title": "编程智能体为何忽略LSP等高级工具？",
+        "link": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+        "description": "讨论编程智能体在代码生成时为何倾向于使用Grep而非LSP。",
+        "detail": "一篇技术文章在Hacker News上引发讨论，探讨了编程智能体（Coding Agents）在代码理解和生成过程中，为何常常忽略LSP（语言服务器协议）等更高级的工具，而更依赖Grep等简单搜索。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-03",
     "weekday": "星期四",
     "summary": "Anthropic 发布 Claude Fable 5.1 全平台上线，并签署 350 亿美元 Lambda 算力协议；OpenAI Astra 发布在即，内部评测满分并发现零日漏洞；Google Gemini 3.8 Flash 明日登场，三大厂商同日竞技。国产 4B 模型越级挑战大模型任务，具身智能与人形机器人赛道持续升温。Agent 工具链密集上新，Cursor 推出面向智能体的 GitHub 替代方案 Origin。",
