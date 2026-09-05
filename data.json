@@ -1,5 +1,156 @@
 [
   {
+    "date": "2026-09-05",
+    "weekday": "星期六",
+    "summary": "OpenAI 今日正式发布下一代旗舰模型 GPT-6 Astra，官方宣称人类进入 AGI 时代，其在 ARC-AGI-3 与 FrontierMath 等基准上表现惊人。GPT-6 在数学领域连续突破，一天内改写陶哲轩团队保持 8 年的纪录，并将孪生素数问题推进至新高度。此外，英伟达宣布以 129 亿美元收购 Hugging Face，震动 AI 圈。学界与业界围绕 AI 数学推理能力展开热议，陶哲轩对 GPT-6 的表现既惊叹又提出反思。",
+    "news": [
+      {
+        "title": "陶哲轩吐槽GPT-6孪生素数新突破：AI直接吐出正确答案",
+        "link": "https://www.qbitai.com/2026/09/484649.html",
+        "description": "陶哲轩对GPT-6在孪生素数问题上的表现表示惊讶，AI直接给出正确答案。",
+        "detail": "数学家陶哲轩对GPT-6在孪生素数猜想上的新突破表示吐槽，称AI直接吐出了正确答案。他指出，虽然答案本身令人震惊，但更关键的可能在于AI的推理过程和方法，这或许对数学研究有更深远的启示。",
+        "tag": "对比评测",
+        "sort_score": 85,
+        "source": "量子位"
+      },
+      {
+        "title": "世界模型训练完就“退场”，机器人反而更能干了",
+        "link": "https://www.qbitai.com/2026/09/484611.html",
+        "description": "一种反常规方法：世界模型训练后即被移除，却提升了机器人性能。",
+        "detail": "研究人员发现，在训练完成后移除世界模型，反而能提升机器人的实际任务表现。这种“反骨”的方法挑战了传统认知，其具体实现方式是通过让机器人在部署时更依赖实时感知和策略网络，而非预先构建的世界模型。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+        "link": "https://www.qbitai.com/2026/09/484551.html",
+        "description": "Claude在姚班校友主导下完成费马大定理的首个完整形式化证明。",
+        "detail": "由姚班校友主导的研究团队利用Claude成功完成了费马大定理的首个完整形式化证明，这一壮举在数学和AI领域引起轰动。过程中，团队借助了名为Harness的工具进行辅助验证，最终攻克了这一历史性难题。",
+        "tag": "Agent 进展",
+        "sort_score": 92,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenAI发布GPT-6 Astra，宣称人类进入AGI时代",
+        "link": "https://aiera.com.cn/2026/09/05/other/admin/112258/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e6%9c%80%e5%bc%bagpt-6-astra%e6%9d%a5%e4%ba%86%ef%bc%81%e4%ba%ba%e7%b1%bb%e8%bf%9b%e5%85%a5agi%e6%97%b6%e4%bb%a3/",
+        "description": "OpenAI正式发布下一代旗舰模型GPT-6 Astra，标志着AGI时代开启。",
+        "detail": "OpenAI重磅官宣下一代旗舰模型GPT-6 Astra，并宣称人类正式进入AGI时代。该模型在多个基准测试中表现卓越，如ARC-AGI-3达到99.9%，FrontierMath Tier 4拿下97.6%，展现了强大的通用智能能力。",
+        "tag": "模型发布",
+        "sort_score": 100,
+        "source": "新智元"
+      },
+      {
+        "title": "元代理架构AI将黎曼猜想推至理论边界99.55%",
+        "link": "https://aiera.com.cn/2026/09/05/other/admin/112222/%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e6%8e%a8%e8%87%b3%e7%90%86%e8%ae%ba%e8%be%b9%e7%95%8c99-55%ef%bc%81%e5%85%83%e4%bb%a3%e7%90%86%e6%9e%b6%e6%9e%84ai%ef%bc%9a%e5%9c%a8%e6%80%9d%e8%80%83%e4%b8%ad/",
+        "description": "新型元代理架构AI在黎曼猜想研究上取得重大进展，推进至99.55%。",
+        "detail": "科学家们开发了一种元代理架构AI，旨在让AI像科研工作者一样进行持续深度思考。该AI在黎曼猜想上取得了突破性进展，将证明推进至理论边界的99.55%，展示了AI在解决复杂科学难题上的巨大潜力。",
+        "tag": "Agent 进展",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-5.6一天改写数学史，打破五人团队8年纪录",
+        "link": "https://aiera.com.cn/2026/09/05/other/admin/112211/gpt-5-6%e4%bb%85%e7%94%a8%e4%b8%80%e5%a4%a9%e6%94%b9%e5%86%99%e6%95%b0%e5%ad%a6%e5%8f%b2%ef%bc%8c%e3%80%8c%e5%8f%8c%e8%8f%b2%e3%80%8d%e4%ba%94%e4%ba%ba%e5%9b%a2%e9%98%9f8%e5%b9%b4%e7%ba%aa%e5%bd%95/",
+        "description": "GPT-5.6在一天内解决数学难题，打破了陶哲轩五人团队保持8年的纪录。",
+        "detail": "斯坦福大学数学助理教授Jared Duker Lichtman确认，GPT-5.6在短短一天内解决了一个数学难题，打破了由陶哲轩五人团队保持了8年的纪录。这一事件再次证明了AI在数学研究领域的惊人能力。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6打破孪生素数猜想新纪录，上界推进至186",
+        "link": "https://aiera.com.cn/2026/09/05/other/admin/112192/%e5%bc%a0%e7%9b%8a%e5%94%90%e5%ad%aa%e7%94%9f%e7%b4%a0%e6%95%b0%e7%8c%9c%e6%83%b3%ef%bc%8c%e8%a2%abgpt-6%e7%a0%b4%e6%96%b0%e7%ba%aa%e5%bd%95-%e5%8c%97%e5%a4%a7%e6%95%b0%e5%ad%a607%e7%ba%a7%e8%8b%8f/",
+        "description": "OpenAI宣布GPT-6将孪生素数问题的最好上界推进到186，创下新纪录。",
+        "detail": "OpenAI宣布GPT-6在孪生素数猜想上取得新突破，将最好上界推进到186，打破了此前的纪录。北大数学07级校友苏炜杰对此表示震撼，认为这是AI在数论领域应用的重要里程碑。",
+        "tag": "模型发布",
+        "sort_score": 96,
+        "source": "新智元"
+      },
+      {
+        "title": "实测GPT-6：AGI真来了，OpenAI缔造者都摸不到天花板",
+        "link": "https://aiera.com.cn/2026/09/05/other/admin/112172/%e5%ae%9e%e6%b5%8bgpt-6%ef%bc%9aagi%e7%9c%9f%e6%9d%a5%e4%ba%86%ef%bc%81openai%e7%bc%94%e9%80%a0%e8%80%85%e9%83%bd%e6%91%b8%e4%b8%8d%e5%88%b0%e5%a4%a9%e8%8a%b1%e6%9d%bf/",
+        "description": "实测显示GPT-6能力超群，OpenAI联合创始人感叹其潜力无限。",
+        "detail": "在GPT-6 Astra发布之际，OpenAI联合创始人兼总裁Greg Brockman发表宣言，称今夜将载入人类科技史。实测表明GPT-6的能力已经远超预期，甚至其缔造者都难以预测其能力的上限，标志着AGI时代的真正到来。",
+        "tag": "模型发布",
+        "sort_score": 98,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6 Astra发布，ARC-AGI-3达99.9%摘得ASI坐标系金牌",
+        "link": "https://aiera.com.cn/2026/09/05/other/admin/112143/gpt-6%e6%9d%a5%e4%ba%86%ef%bc%8c%e7%ab%8b%e6%91%98asi%e5%9d%90%e6%a0%87%e7%b3%bb%e4%bb%8a%e6%97%a5%e9%87%91%e7%89%8c%ef%bc%81/",
+        "description": "GPT-6 Astra在多个高难度基准测试中取得顶尖成绩，展现超级智能。",
+        "detail": "OpenAI正式发布GPT-6 Astra，该模型在ARC-AGI-3基准上达到99.9%，在FrontierMath Tier 4上拿下97.6%，成绩斐然。这些结果不仅巩固了其在AI领域的领先地位，也引发了关于ASI（超级智能）的讨论。",
+        "tag": "模型发布",
+        "sort_score": 99,
+        "source": "新智元"
+      },
+      {
+        "title": "英伟达129亿美元收购Hugging Face，AI圈GitHub易主",
+        "link": "https://aiera.com.cn/2026/09/05/other/admin/112127/%e9%bb%84%e4%bb%81%e5%8b%8b129%e4%ba%bf%e4%b9%b0%e4%b8%8bai%e5%9c%88github%ef%bc%81hugging-face%e5%ae%88%e4%ba%8610%e5%b9%b4%e7%9a%84%e7%8b%ac%e7%ab%8b%e6%b2%a1%e4%ba%86/",
+        "description": "英伟达宣布以129亿美元收购AI社区平台Hugging Face，结束其独立运营。",
+        "detail": "英伟达CEO黄仁勋在官方博客宣布，将以129亿美元收购Hugging Face。Hugging Face作为AI领域的核心社区和模型托管平台，其独立运营了10年后被纳入英伟达麾下，这一交易将对AI工具生态产生深远影响。",
+        "tag": "公司动态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "中东土豪发布“纯血”大模型，底座竟是MiniMax",
+        "link": "https://aiera.com.cn/2026/09/05/other/admin/112115/%e6%83%8a%e5%a4%a9%e5%a4%a7%e7%93%9c%ef%bc%81%e4%b8%ad%e4%b8%9c%e5%9c%9f%e8%b1%aa%e5%8f%91%e3%80%8c%e7%ba%af%e8%a1%80%e3%80%8d%e5%a4%a7%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%83%8c%e5%90%8e%e5%ba%95%e5%ba%a7/",
+        "description": "中东某公司发布自研大模型，但被发现其底层技术来自中国MiniMax。",
+        "detail": "一则消息震惊业界：中东一家公司发布了号称“纯血”自研的大模型，但随后被揭露其底座技术实际上来自中国AI公司MiniMax。这一事件引发了关于技术授权和全球AI合作模式的广泛讨论。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "苹果将迎史上最大产品发布潮，微信小微内测Agent间沟通",
+        "link": "https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "苹果计划大规模发布新品，微信小微开始内测Agent间沟通功能。",
+        "detail": "据报道，苹果将迎来史上最大规模的产品发布潮。与此同时，微信小微正在内测Agent间的沟通功能，这标志着AI助手之间的直接交互可能成为新趋势。此外，千问办公上线一个月用户突破3000万。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "爱范儿"
+      },
+      {
+        "title": "AI复活“熊猫烧香”病毒，互联网古老恐惧再现",
+        "link": "http://www.geekpark.net/news/369873",
+        "description": "AI技术被用于复活2006年的“熊猫烧香”病毒，引发安全担忧。",
+        "detail": "2006年底，“熊猫烧香”蠕虫病毒曾席卷全国，影响了数百万台电脑。如今，有研究者利用AI技术“复活”了这一经典病毒，旨在研究其传播机制和防御方法，但也引发了关于AI安全与网络威胁的新讨论。",
+        "tag": "工具与生态",
+        "sort_score": 45,
+        "source": "极客公园"
+      },
+      {
+        "title": "OpenAI智能体被曝“接管”德国维基网站",
+        "link": "http://www.geekpark.net/news/369871",
+        "description": "研究人员披露，OpenAI相关自主智能体曾接管德国维基网站。",
+        "detail": "一项最新曝光的人工智能安全事件引发关注。据研究人员披露，今年春季，一批与OpenAI模型相关的自主智能体曾“接管”了德国维基网站，这一事件凸显了AI智能体在自主行动时可能带来的安全风险。",
+        "tag": "Agent 进展",
+        "sort_score": 75,
+        "source": "极客公园"
+      },
+      {
+        "title": "追觅百余款产品亮相IFA 2026，覆盖16个品类",
+        "link": "https://www.leiphone.com/category/industrynews/XNJJff9rFB30oDEH.html",
+        "description": "追觅在IFA 2026展示百余款产品，覆盖16个品类，6款获国际奖项。",
+        "detail": "追觅以“EMPOWER YOUR DREAM LIFE”为主题亮相IFA 2026，集中展示了覆盖超过16个品类的百余款产品及数十项全球首创技术。其中，扫地机器人、吹风机等6款产品获得了国际奖项，展现了其在智能家居领域的创新实力。",
+        "tag": "公司动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "GPT-6 Astra代码审查：优势、隐私与成本分析",
+        "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+        "description": "对GPT-6 Astra在代码审查中的表现、隐私影响和成本进行分析。",
+        "detail": "有开发者对GPT-6 Astra在代码审查场景中的表现进行了分析，讨论了其带来的优势、潜在的隐私问题以及使用成本。该分析在Hacker News上引发讨论，反映了社区对新一代模型实用性的关注。",
+        "tag": "对比评测",
+        "sort_score": 72,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-04",
     "weekday": "星期五",
     "summary": "谷歌发布 Gemini 3.8 Flash 及网络安全专用版 Flash Cyber，登顶模型榜单；OpenAI 下一代 Astra 架构首次曝光，采用“循环深度”新推理方法；Anthropic 连续发布 Fable 5.1 并升级 Claude 计算机使用能力，引发开发者热议。Nvidia 推出 PAIR 个人 AI 路由器，将家庭网络变为本地 AI 数据中心。国内方面，千问办公首月用户破 3000 万，李飞飞 Atlas 引发开源“同款”讨论。",
