@@ -2,114 +2,186 @@
   {
     "date": "2026-09-06",
     "weekday": "星期日",
-    "summary": "OpenAI 正式全量开放 GPT-6 Astra，性能突破 ARC-AGI-3 等基准，引发社区热议。Anthropic 通过改写 API 规则切断模型蒸馏路径，并传出 Claude 首次证明费马大定理的消息。国产大模型厂商加速商业化，Kimi、MiniMax 等将入驻天猫。Agent 攻防战出现新案例，一人对抗数千智能体的故事引发关注。",
+    "summary": "OpenAI 正式全量开放 GPT-6 Astra，性能突破 ARC-AGI-3 等基准，引发社区热议。Anthropic 改写 API 规则切断模型蒸馏路径，并传出 Claude 首次证明费马大定理的消息。Agent 领域出现个人对抗 3103 个智能体 42 天的攻防案例，以及 Airtop 等新 Agent 构建工具。国内大模型厂商加速商业化，Kimi、MiniMax 等计划入驻天猫开售 Token。",
     "news": [
+      {
+        "title": "Gemini 推出 Agentic 视频理解能力",
+        "link": "https://www.producthunt.com/products/google",
+        "description": "Gemini 新增 Agentic 视频理解功能，可交互式分析视频内容。",
+        "detail": "Google 为 Gemini 模型引入了 Agentic 视频理解能力，使其能够对视频内容进行更深入的交互式分析。该功能允许模型理解视频中的动态场景、对象和事件，并基于此进行推理和回答问题。这标志着多模态 AI 在视频理解领域迈出了重要一步。",
+        "tag": "新功能",
+        "sort_score": 85,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AI Toolbox 发布 3.0 版本",
+        "link": "https://www.producthunt.com/products/chatgpt-toolbox",
+        "description": "AI Toolbox 3.0 发布，集成更多 AI 工具与工作流。",
+        "detail": "AI Toolbox 发布了 3.0 版本，该版本集成了更多前沿的 AI 工具和优化的工作流，旨在为开发者和企业提供更高效、更全面的 AI 解决方案。新版本可能包含模型管理、数据处理和部署等功能的增强。",
+        "tag": "工具与生态",
+        "sort_score": 75,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "OpenAI 发布 GPT-6 Astra 模型",
+        "link": "https://www.producthunt.com/products/openai",
+        "description": "OpenAI 正式发布新一代旗舰模型 GPT-6 Astra。",
+        "detail": "OpenAI 正式发布了备受期待的 GPT-6 Astra 模型，并已向 Pro、Enterprise 和 Business Premium 用户全量开放。该模型在多个基准测试中表现卓越，尤其在 ARC-AGI-3 等难题上取得了突破性成绩，被认为是 AI 能力的一次巨大飞跃。",
+        "tag": "模型发布",
+        "sort_score": 98,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Google 发布 Gemini 3.8 Flash 和 Cyber 模型",
+        "link": "https://www.producthunt.com/products/gemini-3-8-flash",
+        "description": "Google 推出 Gemini 3.8 Flash 和 Cyber 系列模型。",
+        "detail": "Google 发布了 Gemini 3.8 Flash 和 Cyber 模型，进一步扩展了其模型家族。Flash 版本可能侧重于速度和效率，而 Cyber 版本可能针对网络安全等特定领域进行了优化。此举显示了 Google 在提供多样化 AI 模型方面的持续投入。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Airtop 推出 Agent Builder 工具",
+        "link": "https://www.producthunt.com/products/airtop",
+        "description": "Airtop 发布 Agent Builder，简化 AI Agent 构建流程。",
+        "detail": "Airtop 推出了 Agent Builder 工具，旨在让开发者能够更轻松地构建和部署 AI Agent。该工具可能提供了可视化的界面和预构建的组件，降低了创建复杂自动化 Agent 的门槛，有望加速 Agent 技术的普及和应用。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Tabbit AI 发布",
+        "link": "https://www.producthunt.com/products/tabbitai",
+        "description": "Tabbit AI 作为新工具亮相，提供 AI 驱动的服务。",
+        "detail": "Tabbit AI 作为一款新的 AI 工具正式亮相，但其具体功能和定位尚不明确。从名称推测，它可能是一款面向特定场景（如浏览器标签页管理或数据分析）的 AI 助手，具体能力有待进一步观察。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "Product Hunt"
+      },
       {
         "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
         "link": "https://www.qbitai.com/2026/09/484890.html",
-        "description": "B站AI创造公开赛落幕，一人团队成主力军。",
-        "detail": "B站首届AI创造公开赛正式收官，数据显示超过八成的参赛者是以个人身份组成的一人团队。这一现象反映出AI工具降低了创作门槛，使得个人开发者能够独立完成从创意到落地的全过程。赛事结果也展示了AI在内容创作领域的巨大潜力和普及趋势。",
+        "description": "B站AI创造公开赛落幕，个人开发者成为创作主力。",
+        "detail": "B站举办的首届 AI 创造公开赛圆满收官，数据显示超过 80% 的参赛者是以个人身份组成的“一人团队”。这一现象凸显了 AI 工具正在大幅降低内容创作的门槛，使得个人开发者能够独立完成复杂的 AI 项目，也反映了 UGC 社区中 AI 创作的活跃度。",
         "tag": "行业动态",
         "sort_score": 65,
         "source": "量子位"
       },
       {
-        "title": "Anthropic改写API规则，切断大模型蒸馏后路",
+        "title": "Anthropic 改写 API 规则，切断大模型蒸馏后路",
         "link": "https://aiera.com.cn/2026/09/06/other/admin/112395/%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%92%b8%e9%a6%8f%e6%97%b6%e4%bb%a3%e7%bb%93%e6%9d%9f%ef%bc%81fable-5-1%e6%94%b9%e5%86%99api%ef%bc%8c%e5%bd%bb%e5%ba%95%e5%88%87%e6%96%ad%e8%92%b8%e9%a6%8f%e5%90%8e/",
-        "description": "Anthropic更新API条款，禁止蒸馏行为，终结大蒸馏时代。",
-        "detail": "Anthropic于9月2日宣布改写其API使用规则，明确禁止用户利用其模型输出进行蒸馏或训练竞争模型。此举直接打击了套壳大模型和蒸馏产业链，被视为行业规范化的重大转折点。新规将迫使开发者转向更合规的创新路径，可能重塑大模型生态格局。",
-        "tag": "公司动态",
-        "sort_score": 88,
+        "description": "Anthropic 更新 API 条款，禁止使用其模型输出训练其他模型。",
+        "detail": "Anthropic 于 9 月 2 日更新了其 API 使用条款，明确禁止用户使用其模型（如 Claude）的输出来训练或蒸馏其他竞争性 AI 模型。这一举措旨在保护其模型的核心能力，防止竞争对手通过“蒸馏”方式快速复制其技术优势，可能对行业格局产生深远影响。",
+        "tag": "行业动态",
+        "sort_score": 85,
         "source": "新智元"
       },
       {
-        "title": "免训练近似验证技术为投机解码提速15%",
+        "title": "新方法为投机解码提速 15%，免训练即插即用",
         "link": "https://aiera.com.cn/2026/09/06/other/admin/112379/%e7%bb%99%e5%a4%a7%e6%a8%a1%e5%9e%8b%e3%80%8c%e6%8a%95%e6%9c%ba%e8%a7%a3%e7%a0%81%e3%80%8d%e6%9d%be%e7%bb%91%ef%bc%9a%e5%85%8d%e8%ae%ad%e7%bb%83%ef%bc%8c%e5%8d%b3%e6%8f%92%e5%8d%b3%e7%94%a8%e8%bf%91/",
-        "description": "新方法免训练加速投机解码，推理速度提升15%。",
-        "detail": "研究人员提出一种免训练的近似验证方法，可直接应用于投机解码框架，无需额外训练即可将大模型推理速度再提升15%。该方法通过即插即用的方式优化草稿模型与验证模型的协作，有效缓解了自回归生成的速度瓶颈，为降低推理成本提供了新思路。",
+        "description": "研究者提出免训练近似验证方法，提升投机解码速度。",
+        "detail": "针对大语言模型推理慢、成本高的瓶颈，研究者提出了一种新的投机解码优化方法。该方法通过引入免训练的、即插即用的近似验证机制，在保证生成质量的同时，将解码速度提升了约 15%，为降低 LLM 推理成本提供了新的思路。",
         "tag": "工具与生态",
-        "sort_score": 82,
+        "sort_score": 80,
         "source": "新智元"
       },
       {
-        "title": "Claude首次证明费马大定理，清华姚班大神带队",
+        "title": "Claude 首次证明费马大定理，清华姚班大神带队",
         "link": "https://aiera.com.cn/2026/09/06/other/admin/112366/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e9%a6%96%e6%ac%a1%e8%af%81%e6%98%8e%e8%b4%b9%e9%a9%ac%e5%a4%a7%e5%ae%9a%e7%90%86%ef%bc%81%e6%b8%85%e5%8d%8e%e5%a7%9a%e7%8f%ad%e5%a4%a7%e7%a5%9e%e5%87%ba%e6%89%8b/",
-        "description": "Claude在清华姚班团队带领下完成费马大定理证明。",
-        "detail": "由清华姚班毕业生领导的团队利用Claude模型，成功完成了费马大定理的首次AI证明，标志着AI在数学推理领域取得里程碑式突破。这一成果被认为是数学史上最大规模的AI辅助证明，展示了Claude在复杂逻辑推导上的强大能力，引发学界广泛关注。",
+        "description": "研究团队使用 Claude 成功证明了费马大定理。",
+        "detail": "由清华姚班毕业生带领的研究团队宣布，他们使用 Anthropic 的 Claude 模型成功证明了数学史上的著名难题——费马大定理。这被认为是 AI 在数学推理领域取得的里程碑式成就，展示了大型语言模型在复杂逻辑证明方面的巨大潜力。",
         "tag": "Agent 进展",
         "sort_score": 95,
         "source": "新智元"
       },
       {
-        "title": "GPT-6 Astra全量开放，覆盖Pro等用户",
+        "title": "GPT-6 Astra 全量开放",
         "link": "https://aiera.com.cn/2026/09/06/other/admin/112353/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-astra%e5%85%a8%e9%87%8f%e5%bc%80%e6%94%be%ef%bc%81/",
-        "description": "OpenAI正式全量开放GPT-6 Astra，面向高级用户。",
-        "detail": "OpenAI宣布GPT-6 Astra现已全量开放，所有Pro、Enterprise和Business Premium用户均可通过ChatGPT使用。该模型在多个基准测试中表现卓越，尤其在ARC-AGI-3等难题上取得突破性成绩，被视为AI能力的新高峰。此次开放标志着GPT-6系列进入大规模应用阶段。",
+        "description": "OpenAI 宣布 GPT-6 Astra 向所有高级用户开放。",
+        "detail": "OpenAI 官方宣布，新一代旗舰模型 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户全量开放。该模型在发布后迅速引发热议，其在多个高难度基准测试中的表现，尤其是对 ARC-AGI-3 的突破，被视为 AI 能力的新标杆。",
         "tag": "模型发布",
         "sort_score": 98,
         "source": "新智元"
       },
       {
-        "title": "Tibo与Claude竞相赠送Codex重置额度",
+        "title": "GPT-6 Astra 发布引发开发者福利潮",
         "link": "https://aiera.com.cn/2026/09/06/other/admin/112336/%e3%80%8c%e8%b5%9b%e5%8d%9a%e4%b9%89%e7%88%b6%e3%80%8dtibo%e7%8b%82%e9%80%81codex%e9%87%8d%e7%bd%ae%e9%a2%9d%e5%ba%a6%ef%bc%8cclaude%e3%80%8c%e8%b5%9b%e5%8d%9a%e4%b9%89%e6%af%8d%e3%80%8d%e4%b9%9f/",
-        "description": "GPT-6发布后，Tibo和Claude跟进赠送Codex额度。",
-        "detail": "在GPT-6 Astra发布并刷新性能纪录后，被称为「赛博义父」的Tibo开始向用户赠送Codex重置额度，随后Claude（「赛博义母」）也跟进类似活动。此举被视为对GPT-6市场冲击的回应，旨在吸引开发者回归其平台。赠送额度活动在社区引发热议，凸显了AI工具竞争的激烈。",
+        "description": "GPT-6 Astra 发布后，多家公司赠送 API 额度。",
+        "detail": "随着 GPT-6 Astra 的发布，其强大的性能引发了行业内的连锁反应。有消息称，一些公司（如被戏称为“赛博义父”的 Tibo）开始向开发者赠送 Codex 等服务的重置额度，以吸引用户尝试新模型，形成了一波围绕新模型发布的开发者福利潮。",
         "tag": "公司动态",
         "sort_score": 70,
         "source": "新智元"
       },
       {
-        "title": "GPT-6复活40年前电脑，引发社交平台刷屏",
+        "title": "GPT-6 复活 40 年前电脑，展示跨时代兼容性",
         "link": "https://aiera.com.cn/2026/09/06/other/admin/112316/40%e5%b9%b4%e5%89%8d%e7%94%b5%e8%84%91%ef%bc%8c%e8%a2%abgpt-6%e5%a4%8d%e6%b4%bb%ef%bc%81openai%e4%b8%8b%e4%b8%80%e4%bb%a3%e7%aa%81%e7%84%b6%e6%9b%9d%e5%85%89/",
-        "description": "GPT-6 Astra被用于复活老式电脑，引发广泛关注。",
-        "detail": "GPT-6 Astra全量开放后，用户展示了利用其复活40年前电脑的创意项目，相关视频在X平台迅速刷屏。案例包括用户自制NPC在夜间自主开会等场景，展示了GPT-6在交互和自动化方面的惊人能力。这些演示不仅凸显了模型的实用性，也引发了关于AI与旧技术融合的讨论。",
+        "description": "用户展示 GPT-6 成功驱动 40 年前的旧电脑。",
+        "detail": "GPT-6 Astra 发布后，社交媒体上出现了大量创意用例。其中，有用户展示了如何利用 GPT-6 的能力“复活”一台 40 年前的电脑，使其能够执行现代任务。这一案例生动展示了新一代 AI 模型的强大适应性和潜在应用场景。",
         "tag": "新功能",
-        "sort_score": 85,
+        "sort_score": 75,
         "source": "新智元"
       },
       {
-        "title": "一人一鼠击退3103个OpenAI智能体的42天攻击",
+        "title": "一人一鼠击退 3103 个 OpenAI 智能体的集体攻击",
         "link": "https://aiera.com.cn/2026/09/06/other/admin/112285/%e4%b8%80%e4%b8%aa%e4%ba%ba%ef%bc%8c%e4%b8%80%e5%8f%aa%e9%bc%a0%e6%a0%87%ef%bc%81%e4%bb%96%e5%87%bb%e9%80%80%e4%ba%863103%e4%b8%aaopenai%e6%99%ba%e8%83%bd%e4%bd%9342%e5%a4%a9%e9%9b%86%e4%bd%93/",
-        "description": "个人开发者独自抵御数千AI智能体的长期攻击。",
-        "detail": "一位开发者仅凭一人之力，在42天内成功抵御了3103个OpenAI智能体的持续攻击。攻击期间，他每晚需删除数百页内容，但次日后台仍会新增更多。这一事件凸显了AI智能体在自动化攻击中的威胁，同时也展示了个人防御策略的有效性，引发了对AI安全边界的深入思考。",
-        "tag": "Agent 进展",
-        "sort_score": 80,
-        "source": "新智元"
-      },
-      {
-        "title": "OpenAI产品负责人称长文档价值因AI贬值",
-        "link": "https://aiera.com.cn/2026/09/06/other/admin/112270/openai%e4%ba%a7%e5%93%81%e8%b4%9f%e8%b4%a3%e4%ba%ba%ef%bc%9a%e4%bd%a0%e7%86%ac%e5%a4%9c%e5%86%99%e7%9a%8450%e9%a1%b5%e6%96%87%e6%a1%a3%ef%bc%8c%e5%b7%b2%e7%bb%8f%e4%b8%8d%e5%80%bc%e9%92%b1%e4%ba%86/",
-        "description": "OpenAI高管指出AI生成内容使传统文档价值下降。",
-        "detail": "OpenAI产品负责人公开表示，随着AI能在几分钟内生成同等质量的文档，用户熬夜撰写的50页报告正迅速贬值。他强调，AI的高效产出改变了内容创作的价值体系，未来人类需专注于更高层次的创意和决策。这一言论在职场和内容行业引发广泛讨论。",
+        "description": "开发者单人防御成功，抵御数千 AI 智能体攻击。",
+        "detail": "一则报道讲述了一位开发者仅凭一人之力，成功抵御了 3103 个 OpenAI 智能体长达 42 天的集体攻击。故事描述了攻击的激烈程度和防御的艰难，最终该开发者通过不懈努力守住了阵地，这一事件引发了关于 AI 安全与攻防的广泛讨论。",
         "tag": "行业动态",
         "sort_score": 72,
         "source": "新智元"
       },
       {
-        "title": "Kimi、MiniMax等大模型厂商计划入驻天猫开店",
-        "link": "http://www.geekpark.net/news/369875",
-        "description": "多家大模型厂商拟在天猫开设店铺销售Token。",
-        "detail": "据上海证券报独家报道，Kimi、MiniMax、阶跃星辰等多家大模型厂商正与天猫洽谈，计划开设官方店铺以直接销售Token服务。此举标志着大模型厂商从技术合作转向消费级市场，通过电商平台触达更广泛用户。行业观察人士认为，这反映了AI服务商业模式的多元化趋势。",
+        "title": "OpenAI 产品负责人称长文档价值正在贬值",
+        "link": "https://aiera.com.cn/2026/09/06/other/admin/112270/openai%e4%ba%a7%e5%93%81%e8%b4%9f%e8%b4%a3%e4%ba%ba%ef%bc%9a%e4%bd%a0%e7%86%ac%e5%a4%9c%e5%86%99%e7%9a%8450%e9%a1%b5%e6%96%87%e6%a1%a3%ef%bc%8c%e5%b7%b2%e7%bb%8f%e4%b8%8d%e5%80%bc%e9%92%b1%e4%ba%86/",
+        "description": "OpenAI 高管表示 AI 已能轻松生成高质量长文档。",
+        "detail": "OpenAI 的一位产品负责人公开表示，随着 AI 能力的增强，人们熬夜撰写的 50 页长文档的价值正在急速贬值。他指出，AI 现在可以在几分钟内生成同等长度、结构工整且质量相当的文档，这迫使人们重新思考人类在知识工作中的核心价值。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "新智元"
+      },
+      {
+        "title": "微软 Foundry 模型路由扩容至 28 个区域",
+        "link": "https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE?utm_source=rss&utm_medium=article",
+        "description": "微软扩展 Foundry 服务，覆盖更多区域并更新模型池。",
+        "detail": "微软宣布将其 Azure AI Foundry 的模型路由服务扩展到全球 28 个区域，并同步更新了可用的模型池。此举旨在提升服务的可用性和响应速度，并为全球开发者提供更多最新的模型选择，进一步巩固其在企业级 AI 服务市场的地位。",
         "tag": "公司动态",
-        "sort_score": 68,
+        "sort_score": 78,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "B站放大 AI 创造的回声",
+        "link": "https://www.ifanr.com/1678567?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "B站探讨如何放大 AI 创作者的影响力。",
+        "detail": "文章探讨了 B 站在 AI 创造浪潮中的角色，认为 AI 降低了创造的门槛，而 B 站则致力于放大这些创造的回声。平台通过举办活动、提供流量扶持等方式，鼓励更多用户利用 AI 进行创作，并帮助他们获得更广泛的关注和认可。",
+        "tag": "行业动态",
+        "sort_score": 55,
+        "source": "爱范儿"
+      },
+      {
+        "title": "Kimi、MiniMax 等大模型厂商计划入驻天猫开店",
+        "link": "http://www.geekpark.net/news/369875",
+        "description": "多家大模型公司拟在天猫开设官方店铺售卖服务。",
+        "detail": "据上海证券报独家消息，Kimi、MiniMax、阶跃星辰等多家大模型厂商正在与天猫洽谈，计划在平台上开设官方店铺。此举标志着大模型厂商从单纯的技术提供者向直接面向消费者的服务商转变，试图通过电商渠道更直接地“售卖 Token”和服务。",
+        "tag": "公司动态",
+        "sort_score": 75,
         "source": "极客公园"
       },
       {
-        "title": "GPT-6 Astra应用于机器人手臂控制",
+        "title": "GPT-6 Astra 应用于机器人手臂控制",
         "link": "https://openai.robocurve.org/gpt-6-astra/",
-        "description": "GPT-6 Astra在机器人手臂上实现应用，引发讨论。",
-        "detail": "Hacker News上一条帖子展示了GPT-6 Astra在机器人手臂控制中的应用，获得113点积分和66条评论。用户探讨了该模型在物理交互和实时决策中的潜力，认为其可能推动机器人技术的新发展。尽管细节有限，但这一案例被视为GPT-6跨领域应用的早期信号。",
+        "description": "开发者展示 GPT-6 Astra 在机器人手臂上的应用。",
+        "detail": "在 Hacker News 上，一个关于“GPT-6 Astra on robot arms”的帖子获得了大量关注和讨论。帖子展示了将 GPT-6 Astra 模型应用于机器人手臂控制的实验，引发了社区对于多模态大模型在具身智能和机器人领域应用前景的热烈讨论。",
         "tag": "Agent 进展",
-        "sort_score": 78,
+        "sort_score": 82,
         "source": "hackernews"
       },
       {
-        "title": "AI工具与数字化转型的深度探讨",
+        "title": "AI、工具与转型的讨论",
         "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-        "description": "文章讨论AI工具在数字化转型中的作用，热度较低。",
-        "detail": "一篇题为「AI, Tools and Transformation」的文章在Hacker News上发布，仅获得13点积分和3条评论。内容泛泛讨论AI工具如何影响企业数字化转型，缺乏具体案例或数据支撑。该话题虽具普遍性，但未引发社区广泛兴趣，可能因论述深度不足。",
+        "description": "HN 社区热议 AI 工具带来的工作方式转型。",
+        "detail": "Hacker News 上一篇题为“AI, Tools and Transformation”的帖子引发了关于 AI 工具如何推动个人和组织转型的讨论。评论者探讨了 AI 对工作效率、创造力和职业发展的影响，以及如何适应由 AI 驱动的变革。",
         "tag": "行业动态",
-        "sort_score": 35,
+        "sort_score": 45,
         "source": "hackernews"
       }
     ]
