@@ -173,16 +173,34 @@
     display: flex;
     flex-direction: column;
   }
+  .news-card .meta-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 8px;
+    align-self: flex-start;
+    flex-wrap: wrap;
+  }
   .news-card .tag {
     display: inline-block;
     font-size: 10px;
     font-weight: 600;
     padding: 2px 8px;
     border-radius: 4px;
-    margin-bottom: 8px;
-    align-self: flex-start;
     letter-spacing: 0.3px;
   }
+  .news-card .score-chip {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 4px;
+    letter-spacing: 0.3px;
+  }
+  .score-high   { background: #dbeafe; color: #1d4ed8; }
+  .score-mid    { background: #dcfce7; color: #15803d; }
+  .score-low    { background: #fef3c7; color: #b45309; }
+  .score-lowest { background: #f3f4f6; color: #6b7280; }
   .news-card .title-row {
     display: flex;
     align-items: flex-start;
@@ -409,13 +427,20 @@ function renderNews() {
   sorted.forEach((item, index) => {
     const tagClass = 'tag-' + (item.tag || '其他');
     const tagText = item.tag || '其他';
+    const score = item.sort_score ? Math.round(item.sort_score) : null;
+    const scoreClass = score >= 90 ? 'score-high'
+      : score >= 75 ? 'score-mid'
+      : score >= 60 ? 'score-low' : 'score-lowest';
     const desc = item.description || '暂无';
     const detail = item.detail || desc;
 
     html += `
       <div class="news-card" id="card_${index}">
         <div class="card-top" onclick="toggleCard(${index})">
-          <span class="tag ${tagClass}">${escapeHtml(tagText)}</span>
+          <div class="meta-row">
+            <span class="tag ${tagClass}">${escapeHtml(tagText)}</span>
+            ${score ? `<span class="score-chip ${scoreClass}">重要度 ${score}</span>` : ''}
+          </div>
           <div class="title-row">
             <div class="title">${escapeHtml(item.title)}</div>
             <div class="expand-arrow" id="arrow_${index}">▾</div>

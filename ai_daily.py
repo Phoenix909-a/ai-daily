@@ -34,6 +34,7 @@ import re
 import sys
 import json
 import time
+import html
 import logging
 import argparse
 import smtplib
@@ -559,24 +560,178 @@ def _fetch_github_trending_rss(target_date: date) -> list[dict]:
 #  Email Sender
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def _build_email_html(content: str, target_date: date) -> str:
+def _render_inline_html(text: str) -> str:
+    """Render one markdown-ish line as safe inline HTML (links + bold)."""
+    text = html.escape(text, quote=False)
+    text = re.sub(
+        r'\[([^\]]+)\]\(([^)]+)\)',
+        lambda m: f'<a href="{m.group(2)}" style="color:#2563eb;text-decoration:none;">{m.group(1)}</a>',
+        text,
+    )
+    text = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
+    return text
+
+
+def _render_inline_plain(text: str) -> str:
+    """Strip markdown markers from one line for the plain-text version."""
+    text = re.sub(r'\*\*(.+?)\*\*', r'\1', text)
+    text = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'\1：\2', text)
+    return text
+
+
+def _score_badge_html(score: int) -> str:
+    """A small inline score chip, colored by importance band."""
+    if score >= 90:
+        bg, fg = "#dbeafe", "#1d4ed8"
+    elif score >= 75:
+        bg, fg = "#dcfce7", "#15803d"
+    elif score >= 60:
+        bg, fg = "#fef3c7", "#b45309"
+    else:
+        bg, fg = "#f3f4f6", "#6b7280"
+    return (
+        f'<span style="display:inline-block;background:{bg};color:{fg};'
+        f'font-size:12px;font-weight:600;line-height:1;padding:3px 8px;'
+        f'border-radius:10px;margin:0 8px 2px 0;vertical-align:1px;">'
+        f'重要度 {score}</span>'
+    )
+
+
+def _normalize_url(url: str) -> str:
+    """Strip query string, fragment and trailing slash for score matching."""
+    return url.split("?")[0].split("#")[0].rstrip("/")
+
+
+def _best_score_in_block(block: list, score_by_url: dict) -> Optional[int]:
+    """Find the highest matching enrichment score for URLs inside a block."""
+    if not score_by_url:
+        return None
+    text = "\n".join(block)
+    urls = re.findall(r'https?://[^\s\)\]》>]+', text)
+    scores = [
+        score_by_url[_normalize_url(u)]
+        for u in urls
+        if _normalize_url(u) in score_by_url
+    ]
+    return max(scores) if scores else None
+
+
+def _md_to_email_html(md: str, score_by_url: Optional[dict] = None) -> str:
+    """Convert the DeepSeek briefing markdown to block-per-item HTML.
+
+    Each non-heading run of lines becomes its own <p> block (lines joined
+    with <br>), so every news item starts on its own line instead of being
+    collapsed into one wall of text by the mail client.
+    """
+    out: list = []
+    block: list = []
+    score_by_url = score_by_url or {}
+
+    def flush():
+        if not block:
+            return
+        badge = ""
+        if block[0].startswith("**"):
+            score = _best_score_in_block(block, score_by_url)
+            if score is not None:
+                badge = _score_badge_html(score)
+        rendered = [_render_inline_html(line) for line in block]
+        body = "<br>".join(rendered)
+        out.append(
+            f'<p style="margin:10px 0;line-height:1.75;color:#333;">{badge}{body}</p>'
+        )
+        block.clear()
+
+    for raw in md.splitlines():
+        line = raw.strip()
+        if not line:
+            flush()
+            continue
+        if line.startswith("### "):
+            flush()
+            out.append(
+                f'<h3 style="margin:18px 0 6px;font-size:16px;color:#111;">'
+                f'{_render_inline_html(line[4:])}</h3>'
+            )
+            continue
+        if line.startswith("## "):
+            flush()
+            out.append(
+                f'<h2 style="margin:22px 0 6px;padding-bottom:6px;'
+                f'border-bottom:1px solid #eee;font-size:18px;color:#111;">'
+                f'{_render_inline_html(line[3:])}</h2>'
+            )
+            continue
+        if line.startswith("# "):
+            # Skip the markdown document title; the wrapper already has a header.
+            flush()
+            continue
+        if line.startswith(("- ", "* ")):
+            if block:
+                flush()
+            block.append("• " + line[2:])
+            continue
+        if block and line.startswith("**"):
+            flush()
+        block.append(line)
+
+    flush()
+    return "\n".join(out)
+
+
+def _md_to_plain_text(md: str, score_by_url: Optional[dict] = None) -> str:
+    """Convert briefing markdown into a clean line-per-item plain-text body."""
+    out: list = []
+    block: list = []
+    score_by_url = score_by_url or {}
+
+    def flush():
+        if not block:
+            return
+        rendered = [_render_inline_plain(line) for line in block]
+        if block[0].startswith("**"):
+            score = _best_score_in_block(block, score_by_url)
+            if score is not None:
+                rendered[0] = f"[重要度 {score}] {rendered[0]}"
+        out.append("\n".join(rendered))
+        out.append("")
+        block.clear()
+
+    for raw in md.splitlines():
+        line = raw.strip()
+        if not line:
+            flush()
+            continue
+        if line.startswith("### "):
+            flush()
+            out.append(line[4:])
+            out.append("")
+            continue
+        if line.startswith("## "):
+            flush()
+            out.append(line[3:])
+            out.append("")
+            continue
+        if line.startswith("# "):
+            flush()
+            continue
+        if line.startswith(("- ", "* ")):
+            if block:
+                flush()
+            block.append("• " + line[2:])
+            continue
+        if block and line.startswith("**"):
+            flush()
+        block.append(line)
+
+    flush()
+    return "\n".join(out).strip()
+
+
+def _build_email_html(content: str, target_date: date,
+                      score_by_url: Optional[dict] = None) -> str:
     """Build a nice HTML email from the markdown briefing content."""
-    # Simple markdown → HTML conversion for key elements
-    html = content
-
-    # Convert markdown links
-    html = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2" style="color:#2563eb;">\1</a>', html)
-
-    # Convert headings
-    html = re.sub(r'^### (.+)$', r'<h3 style="margin:16px 0 8px;color:#111;">\1</h3>', html, flags=re.M)
-    html = re.sub(r'^## (.+)$', r'<h2 style="margin:20px 0 10px;color:#222;border-bottom:1px solid #eee;padding-bottom:6px;">\1</h2>', html, flags=re.M)
-
-    # Convert list items
-    html = re.sub(r'^- (.+)$', r'<li style="margin:4px 0;line-height:1.6;">\1</li>', html, flags=re.M)
-
-    # Wrap lists
-    html = re.sub(r'(<li.*>(\n|<li.*>)*)', r'<ul style="padding-left:20px;">\1', html)
-    html = re.sub(r'(</li>\n?)+', r'</li></ul>', html)
+    body_html = _md_to_email_html(content, score_by_url)
 
     # Wrap in proper document
     date_str = target_date.strftime("%Y-%m-%d")
@@ -589,7 +744,7 @@ def _build_email_html(content: str, target_date: date) -> str:
 <h1 style="font-size:22px;margin:0;color:#111;">📰 AI 新闻日报</h1>
 <p style="color:#888;font-size:13px;">{date_str}</p>
 </div>
-{html}
+{body_html}
 <hr style="border:none;border-top:1px solid #eee;margin:24px 0;">
 <p style="text-align:center;font-size:12px;color:#aaa;">
 本简报由 AI 自动生成 · <a href="https://phoenix909-a.github.io/ai-daily/" style="color:#2563eb;">查看网页版</a>
@@ -601,12 +756,15 @@ def _build_email_html(content: str, target_date: date) -> str:
     return full_html
 
 
-def send_email(content: str, target_date: date) -> bool:
+def send_email(content: str, target_date: date,
+               news_items: Optional[list] = None) -> bool:
     """Send the briefing via email using SMTP.
 
     Requires env vars: EMAIL_USER, EMAIL_PASSWORD (SMTP authorization code).
     Optional: EMAIL_HOST (default smtp.163.com), EMAIL_SMTP_PORT (default 465),
               EMAIL_TO (default = EMAIL_USER).
+    Optional: news_items = data.json news list; used to show the DeepSeek
+              importance score (sort_score) next to each item in the email.
     """
     smtp_server = os.environ.get("EMAIL_HOST", "smtp.163.com")
     smtp_port = int(os.environ.get("EMAIL_SMTP_PORT", "465"))
@@ -623,8 +781,19 @@ def send_email(content: str, target_date: date) -> bool:
     date_s = target_date.strftime("%Y-%m-%d")
     subject = f"AI 新闻日报 — {date_s}"
 
+    # Link each curated briefing item to its enrichment score (by source URL)
+    score_by_url: dict = {}
+    for item in (news_items or []):
+        link = item.get("link", "")
+        score = item.get("sort_score")
+        if link and isinstance(score, (int, float)):
+            score_by_url[_normalize_url(link)] = int(score)
+
     # Build HTML email
-    html_content = _build_email_html(content, target_date)
+    html_content = _build_email_html(content, target_date, score_by_url)
+    plain_content = f"AI 新闻日报 — {date_s}\n\n" + _md_to_plain_text(
+        content, score_by_url
+    )
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
@@ -632,7 +801,7 @@ def send_email(content: str, target_date: date) -> bool:
     msg["To"] = email_to
 
     # Plain text fallback
-    msg.attach(MIMEText(content, "plain", "utf-8"))
+    msg.attach(MIMEText(plain_content, "plain", "utf-8"))
     # HTML version
     msg.attach(MIMEText(html_content, "html", "utf-8"))
 
@@ -1332,14 +1501,23 @@ Examples:
     output_briefing(content, target_date, args.output)
 
     # ── Update data.json if requested ──
+    json_path = os.path.join(args.output, DATA_JSON_FILENAME)
     if args.update_json:
-        json_path = os.path.join(args.output, DATA_JSON_FILENAME)
         update_data_json(json_path, rss, content, target_date, args.max_news,
                          hackernews, github)
 
     # ── Send email if requested ──
     if args.send_email:
-        send_email(content, target_date)
+        # Reuse today's enriched data.json entry so the email can show the
+        # DeepSeek importance score next to each news item.
+        news_items = None
+        if args.update_json:
+            date_s = target_date.strftime("%Y-%m-%d")
+            for d in _load_data_json(json_path):
+                if d.get("date") == date_s:
+                    news_items = d.get("news") or []
+                    break
+        send_email(content, target_date, news_items)
 
     logger.info("Done!")
     return 0
