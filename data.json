@@ -1,5 +1,120 @@
 [
   {
+    "date": "2026-09-06",
+    "weekday": "星期日",
+    "summary": "OpenAI 正式全量开放 GPT-6 Astra，性能突破 ARC-AGI-3 等基准，引发社区热议。Anthropic 通过改写 API 规则切断模型蒸馏路径，并传出 Claude 首次证明费马大定理的消息。国产大模型厂商加速商业化，Kimi、MiniMax 等将入驻天猫。Agent 攻防战出现新案例，一人对抗数千智能体的故事引发关注。",
+    "news": [
+      {
+        "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+        "link": "https://www.qbitai.com/2026/09/484890.html",
+        "description": "B站AI创造公开赛落幕，一人团队成主力军。",
+        "detail": "B站首届AI创造公开赛正式收官，数据显示超过八成的参赛者是以个人身份组成的一人团队。这一现象反映出AI工具降低了创作门槛，使得个人开发者能够独立完成从创意到落地的全过程。赛事结果也展示了AI在内容创作领域的巨大潜力和普及趋势。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "量子位"
+      },
+      {
+        "title": "Anthropic改写API规则，切断大模型蒸馏后路",
+        "link": "https://aiera.com.cn/2026/09/06/other/admin/112395/%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%92%b8%e9%a6%8f%e6%97%b6%e4%bb%a3%e7%bb%93%e6%9d%9f%ef%bc%81fable-5-1%e6%94%b9%e5%86%99api%ef%bc%8c%e5%bd%bb%e5%ba%95%e5%88%87%e6%96%ad%e8%92%b8%e9%a6%8f%e5%90%8e/",
+        "description": "Anthropic更新API条款，禁止蒸馏行为，终结大蒸馏时代。",
+        "detail": "Anthropic于9月2日宣布改写其API使用规则，明确禁止用户利用其模型输出进行蒸馏或训练竞争模型。此举直接打击了套壳大模型和蒸馏产业链，被视为行业规范化的重大转折点。新规将迫使开发者转向更合规的创新路径，可能重塑大模型生态格局。",
+        "tag": "公司动态",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "免训练近似验证技术为投机解码提速15%",
+        "link": "https://aiera.com.cn/2026/09/06/other/admin/112379/%e7%bb%99%e5%a4%a7%e6%a8%a1%e5%9e%8b%e3%80%8c%e6%8a%95%e6%9c%ba%e8%a7%a3%e7%a0%81%e3%80%8d%e6%9d%be%e7%bb%91%ef%bc%9a%e5%85%8d%e8%ae%ad%e7%bb%83%ef%bc%8c%e5%8d%b3%e6%8f%92%e5%8d%b3%e7%94%a8%e8%bf%91/",
+        "description": "新方法免训练加速投机解码，推理速度提升15%。",
+        "detail": "研究人员提出一种免训练的近似验证方法，可直接应用于投机解码框架，无需额外训练即可将大模型推理速度再提升15%。该方法通过即插即用的方式优化草稿模型与验证模型的协作，有效缓解了自回归生成的速度瓶颈，为降低推理成本提供了新思路。",
+        "tag": "工具与生态",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude首次证明费马大定理，清华姚班大神带队",
+        "link": "https://aiera.com.cn/2026/09/06/other/admin/112366/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e9%a6%96%e6%ac%a1%e8%af%81%e6%98%8e%e8%b4%b9%e9%a9%ac%e5%a4%a7%e5%ae%9a%e7%90%86%ef%bc%81%e6%b8%85%e5%8d%8e%e5%a7%9a%e7%8f%ad%e5%a4%a7%e7%a5%9e%e5%87%ba%e6%89%8b/",
+        "description": "Claude在清华姚班团队带领下完成费马大定理证明。",
+        "detail": "由清华姚班毕业生领导的团队利用Claude模型，成功完成了费马大定理的首次AI证明，标志着AI在数学推理领域取得里程碑式突破。这一成果被认为是数学史上最大规模的AI辅助证明，展示了Claude在复杂逻辑推导上的强大能力，引发学界广泛关注。",
+        "tag": "Agent 进展",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6 Astra全量开放，覆盖Pro等用户",
+        "link": "https://aiera.com.cn/2026/09/06/other/admin/112353/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-astra%e5%85%a8%e9%87%8f%e5%bc%80%e6%94%be%ef%bc%81/",
+        "description": "OpenAI正式全量开放GPT-6 Astra，面向高级用户。",
+        "detail": "OpenAI宣布GPT-6 Astra现已全量开放，所有Pro、Enterprise和Business Premium用户均可通过ChatGPT使用。该模型在多个基准测试中表现卓越，尤其在ARC-AGI-3等难题上取得突破性成绩，被视为AI能力的新高峰。此次开放标志着GPT-6系列进入大规模应用阶段。",
+        "tag": "模型发布",
+        "sort_score": 98,
+        "source": "新智元"
+      },
+      {
+        "title": "Tibo与Claude竞相赠送Codex重置额度",
+        "link": "https://aiera.com.cn/2026/09/06/other/admin/112336/%e3%80%8c%e8%b5%9b%e5%8d%9a%e4%b9%89%e7%88%b6%e3%80%8dtibo%e7%8b%82%e9%80%81codex%e9%87%8d%e7%bd%ae%e9%a2%9d%e5%ba%a6%ef%bc%8cclaude%e3%80%8c%e8%b5%9b%e5%8d%9a%e4%b9%89%e6%af%8d%e3%80%8d%e4%b9%9f/",
+        "description": "GPT-6发布后，Tibo和Claude跟进赠送Codex额度。",
+        "detail": "在GPT-6 Astra发布并刷新性能纪录后，被称为「赛博义父」的Tibo开始向用户赠送Codex重置额度，随后Claude（「赛博义母」）也跟进类似活动。此举被视为对GPT-6市场冲击的回应，旨在吸引开发者回归其平台。赠送额度活动在社区引发热议，凸显了AI工具竞争的激烈。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6复活40年前电脑，引发社交平台刷屏",
+        "link": "https://aiera.com.cn/2026/09/06/other/admin/112316/40%e5%b9%b4%e5%89%8d%e7%94%b5%e8%84%91%ef%bc%8c%e8%a2%abgpt-6%e5%a4%8d%e6%b4%bb%ef%bc%81openai%e4%b8%8b%e4%b8%80%e4%bb%a3%e7%aa%81%e7%84%b6%e6%9b%9d%e5%85%89/",
+        "description": "GPT-6 Astra被用于复活老式电脑，引发广泛关注。",
+        "detail": "GPT-6 Astra全量开放后，用户展示了利用其复活40年前电脑的创意项目，相关视频在X平台迅速刷屏。案例包括用户自制NPC在夜间自主开会等场景，展示了GPT-6在交互和自动化方面的惊人能力。这些演示不仅凸显了模型的实用性，也引发了关于AI与旧技术融合的讨论。",
+        "tag": "新功能",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "一人一鼠击退3103个OpenAI智能体的42天攻击",
+        "link": "https://aiera.com.cn/2026/09/06/other/admin/112285/%e4%b8%80%e4%b8%aa%e4%ba%ba%ef%bc%8c%e4%b8%80%e5%8f%aa%e9%bc%a0%e6%a0%87%ef%bc%81%e4%bb%96%e5%87%bb%e9%80%80%e4%ba%863103%e4%b8%aaopenai%e6%99%ba%e8%83%bd%e4%bd%9342%e5%a4%a9%e9%9b%86%e4%bd%93/",
+        "description": "个人开发者独自抵御数千AI智能体的长期攻击。",
+        "detail": "一位开发者仅凭一人之力，在42天内成功抵御了3103个OpenAI智能体的持续攻击。攻击期间，他每晚需删除数百页内容，但次日后台仍会新增更多。这一事件凸显了AI智能体在自动化攻击中的威胁，同时也展示了个人防御策略的有效性，引发了对AI安全边界的深入思考。",
+        "tag": "Agent 进展",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI产品负责人称长文档价值因AI贬值",
+        "link": "https://aiera.com.cn/2026/09/06/other/admin/112270/openai%e4%ba%a7%e5%93%81%e8%b4%9f%e8%b4%a3%e4%ba%ba%ef%bc%9a%e4%bd%a0%e7%86%ac%e5%a4%9c%e5%86%99%e7%9a%8450%e9%a1%b5%e6%96%87%e6%a1%a3%ef%bc%8c%e5%b7%b2%e7%bb%8f%e4%b8%8d%e5%80%bc%e9%92%b1%e4%ba%86/",
+        "description": "OpenAI高管指出AI生成内容使传统文档价值下降。",
+        "detail": "OpenAI产品负责人公开表示，随着AI能在几分钟内生成同等质量的文档，用户熬夜撰写的50页报告正迅速贬值。他强调，AI的高效产出改变了内容创作的价值体系，未来人类需专注于更高层次的创意和决策。这一言论在职场和内容行业引发广泛讨论。",
+        "tag": "行业动态",
+        "sort_score": 72,
+        "source": "新智元"
+      },
+      {
+        "title": "Kimi、MiniMax等大模型厂商计划入驻天猫开店",
+        "link": "http://www.geekpark.net/news/369875",
+        "description": "多家大模型厂商拟在天猫开设店铺销售Token。",
+        "detail": "据上海证券报独家报道，Kimi、MiniMax、阶跃星辰等多家大模型厂商正与天猫洽谈，计划开设官方店铺以直接销售Token服务。此举标志着大模型厂商从技术合作转向消费级市场，通过电商平台触达更广泛用户。行业观察人士认为，这反映了AI服务商业模式的多元化趋势。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "极客公园"
+      },
+      {
+        "title": "GPT-6 Astra应用于机器人手臂控制",
+        "link": "https://openai.robocurve.org/gpt-6-astra/",
+        "description": "GPT-6 Astra在机器人手臂上实现应用，引发讨论。",
+        "detail": "Hacker News上一条帖子展示了GPT-6 Astra在机器人手臂控制中的应用，获得113点积分和66条评论。用户探讨了该模型在物理交互和实时决策中的潜力，认为其可能推动机器人技术的新发展。尽管细节有限，但这一案例被视为GPT-6跨领域应用的早期信号。",
+        "tag": "Agent 进展",
+        "sort_score": 78,
+        "source": "hackernews"
+      },
+      {
+        "title": "AI工具与数字化转型的深度探讨",
+        "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+        "description": "文章讨论AI工具在数字化转型中的作用，热度较低。",
+        "detail": "一篇题为「AI, Tools and Transformation」的文章在Hacker News上发布，仅获得13点积分和3条评论。内容泛泛讨论AI工具如何影响企业数字化转型，缺乏具体案例或数据支撑。该话题虽具普遍性，但未引发社区广泛兴趣，可能因论述深度不足。",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-05",
     "weekday": "星期六",
     "summary": "OpenAI 正式发布旗舰模型 GPT-6 Astra，面向顶级订阅用户分批推送，并在孪生素数猜想、ARC-AGI-3 等数学与推理基准上刷新纪录，引发“AGI 时代到来”的广泛讨论。与此同时，Claude 在姚班校友主导下完成费马大定理首个完整形式化证明，AI 科研能力再获突破。行业层面，英伟达宣布以 129 亿美元收购 Hugging Face，中东“纯血”大模型被曝基于 MiniMax 底座，引发社区热议。多款 Agent 构建工具与 AI 产品在 Product Hunt 上线，生态持续繁荣。",
