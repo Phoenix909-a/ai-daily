@@ -1,5 +1,201 @@
 [
   {
+    "date": "2026-09-08",
+    "weekday": "星期二",
+    "summary": "今日AI领域焦点集中在OpenAI的激进宣言与行动：首席科学家万字长文宣称已造出\"异星心智\"，同时\"AI研究实习生\"正式入职，黄仁勋称AGI已来。模型层投资活跃，英伟达30亿美元押注穆拉蒂新公司，估值达400亿。字节跳动被曝正开发实时空间视频生成模型，张一鸣亲自督导。此外，OpenClaw 2.0发布支持智能体协作，AI Agent在客户端工程与测试中的应用讨论升温。",
+    "news": [
+      {
+        "title": "深度智控完成数亿元B+轮融资，加速物理AI算力与能源底座建设",
+        "link": "https://www.qbitai.com/2026/09/485784.html",
+        "description": "物理AI企业深度智控获宁德时代、沙特阿美等投资，完成B+轮融资。",
+        "detail": "物理AI企业深度智控（DeepCtrls）近日完成新一轮B+轮数亿元融资，投资方包括宁德时代、沙特阿美战投等重磅机构。本轮融资将用于加速打造物理AI时代的算力与能源底座，推动相关技术落地与产业布局。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "量子位"
+      },
+      {
+        "title": "WAIC CONNECT MALAYSIA首日举办，聚焦马来西亚AI市场与场景",
+        "link": "https://www.qbitai.com/2026/09/485630.html",
+        "description": "WAIC CONNECT MALAYSIA首日活动举行，展示马来西亚AI市场与合作机会。",
+        "detail": "WAIC CONNECT MALAYSIA首日活动在马来西亚举行，主题涵盖从市场观察到场景落地，从认识伙伴到寻找合作。活动旨在促进中马AI产业交流，展示当地AI应用场景与商业机遇，为参与者提供深入马来西亚AI生态的窗口。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "量子位"
+      },
+      {
+        "title": "王云鹤创业后发布首个模型，融合多模型执行经验",
+        "link": "https://www.qbitai.com/2026/09/485555.html",
+        "description": "王云鹤创业后推出首个模型，将多模型执行经验应用于模型训练。",
+        "detail": "王云鹤在创业后发布了其首个AI模型，该模型将此前在多模型执行领域积累的经验应用于模型训练过程。这一创新方法有望提升模型训练效率与性能，标志着其创业公司在AI技术研发上迈出重要一步。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenAI首席科学家发文称已造出异星心智，呼吁全人类关注",
+        "link": "https://aiera.com.cn/2026/09/08/other/admin/112686/openai%e9%a6%96%e5%b8%ad%e7%a7%91%e5%ad%a6%e5%ae%b6%ef%bc%9a%e6%88%91%e4%bb%ac%e5%b7%b2%e9%80%a0%e5%87%ba%e5%bc%82%e6%98%9f%e5%bf%83%e6%99%ba%ef%bc%81%e5%85%a8%e4%ba%ba%e7%b1%bb%e9%83%bd%e8%a6%81/",
+        "description": "OpenAI首席科学家Jakub Pachocki发布万字长文，宣称已实现RSI。",
+        "detail": "OpenAI首席科学家Jakub Pachocki发布题为《An Alien Mind》的万字长文，宣称公司已造出异星心智，并称RSI（递归自我改进）真的来了。文章引发广泛讨论，OpenAI同一天内多篇公告均强调这一突破，呼吁全人类关注AI发展速度。",
+        "tag": "Agent 进展",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI推出AI研究实习生，黄仁勋称AGI已来",
+        "link": "https://aiera.com.cn/2026/09/08/other/admin/112677/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e3%80%8cai%e7%a0%94%e7%a9%b6%e5%ae%9e%e4%b9%a0%e7%94%9f%e3%80%8d%e6%ad%a3%e5%bc%8f%e5%85%a5%e8%81%8c%ef%bc%81%e9%bb%84%e4%bb%81%e5%8b%8b%ef%bc%9aagi%e5%b7%b2%e6%9d%a5/",
+        "description": "OpenAI发布《研究加速》长文，首次公开AI造AI数据，并推出AI研究实习生。",
+        "detail": "OpenAI今日发布重磅长文《研究加速，OpenAI内部视角》，首次公开AI造AI的详细数据，并正式推出AI研究实习生。英伟达CEO黄仁勋对此评论称AGI已来，引发业界对AI自主研究能力的广泛关注与讨论。",
+        "tag": "Agent 进展",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "韩国启动全民AI计划，免费无限量使用AI",
+        "link": "https://aiera.com.cn/2026/09/08/other/admin/112652/%e9%9f%a9%e5%9b%bd%e5%90%af%e5%8a%a8%e5%85%a8%e6%b0%91ai%e8%ae%a1%e5%88%92/",
+        "description": "韩国正式启动全民AI计划，为5100万人口提供免费无限量AI服务。",
+        "detail": "韩国正式启动全民AI计划，所有国民可免费、无限量使用AI服务。目前韩国5100万人口中已有2345万在使用ChatGPT，一个美国产品覆盖近半国民，此举旨在推动本土AI普及与应用，减少对外部产品的依赖。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "成立4个月的深旋科技发布全原子生物基础大模型Melo-1 Pro",
+        "link": "https://aiera.com.cn/2026/09/08/other/admin/112642/%e4%bb%85%e6%88%90%e7%ab%8b4%e4%b8%aa%e6%9c%88%ef%bc%8c%e8%bf%99%e5%ae%b6%e4%b8%ad%e5%9b%bd%e5%85%ac%e5%8f%b8%e7%9a%84%e5%85%a8%e5%8e%9f%e5%ad%90%e7%94%9f%e7%89%a9%e5%9f%ba%e7%a1%80%e5%a4%a7%e6%a8%a1/",
+        "description": "深旋科技成立仅4个月，发布全原子生物基础大模型Melo-1 Pro，登顶全球。",
+        "detail": "中国公司深旋科技（Atomelody）成立仅4个月，首次发布自研通用生物分子基础模型Melo-1 Pro，该模型达到全球第一梯队水平。这一全原子生物基础大模型的发布，展示了中国在AI生物计算领域的快速突破与创新能力。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "虚幻引擎CEO关注世界模型：代码驱动视频生成新趋势",
+        "link": "https://aiera.com.cn/2026/09/08/other/admin/112631/%e8%99%9a%e5%b9%bb%e5%bc%95%e6%93%8eceo%e5%9b%b4%e8%a7%82%e6%9c%80%e6%96%b0%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%ef%bc%9a%e4%bb%a3%e7%a0%81%e9%a9%b1%e5%8a%a8%ef%bc%8c%e8%a7%86%e9%a2%91%e6%a8%a1/",
+        "description": "视频生成模型进步推动可交互视频世界发展，虚幻引擎CEO表示关注。",
+        "detail": "近年来，视频生成模型在清晰度、时序一致性和可控性上快速进步，给定文本、图像、相机轨迹或玩家动作即可合成连贯画面。虚幻引擎CEO关注这一趋势，认为代码驱动的世界模型正推动可交互视频世界从概念走向可观看、可操作的实际应用。",
+        "tag": "新功能",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "英伟达30亿美元投资穆拉蒂，估值达400亿并采购自家GPU",
+        "link": "https://aiera.com.cn/2026/09/08/other/admin/112615/%e8%80%81%e9%bb%8430%e4%ba%bf%e7%be%8e%e5%85%83%e6%8a%bc%e6%b3%a8%e7%a9%86%e6%8b%89%e8%92%82%ef%bc%81%e4%bc%b0%e5%80%bc%e5%86%b2%e5%88%b0400%e4%ba%bf%ef%bc%8c%e9%92%b1%e8%bd%ac%e4%b8%80%e5%9c%88/",
+        "description": "英伟达30亿美元押注穆拉蒂，估值400亿，资金回流购买英伟达卡。",
+        "detail": "英伟达近期连甩两笔大单，先与Hugging Face签下收购协议，后传出30亿美元投资穆拉蒂的消息，后者估值冲至400亿美元。这笔投资将AI基建触手伸进模型层，资金转一圈又用于购买英伟达GPU，形成生态闭环。",
+        "tag": "公司动态",
+        "sort_score": 78,
+        "source": "新智元"
+      },
+      {
+        "title": "新智元网站上线，启动ASI倒计时",
+        "link": "https://aiera.com.cn/2026/09/08/other/admin/112604/%e5%88%9a%e5%88%9a%ef%bc%8c%e6%96%b0%e6%99%ba%e5%85%83%e7%bd%91%e7%ab%99%e8%af%9e%e7%94%9f%ef%bc%81asi%e5%80%92%e8%ae%a1%e6%97%b6%e5%90%af%e5%8a%a8/",
+        "description": "新智元网站正式上线，配合OpenAI异星心智发布启动ASI倒计时。",
+        "detail": "新智元网站于今日正式上线，恰逢OpenAI首席科学家Jakub Pachocki发布异星心智相关长文。网站以ASI倒计时为主题，聚焦AI超级智能发展进程，为AI领域从业者与爱好者提供最新资讯与深度内容。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "新智元"
+      },
+      {
+        "title": "新智元11周年官网上线，AI帮助CEO找回金宝街奶奶家",
+        "link": "https://aiera.com.cn/2026/09/08/other/admin/112577/%e6%96%b0%e6%99%ba%e5%85%8311%e5%91%a8%e5%b9%b4%e5%ae%98%e7%bd%91%e4%b8%8a%e7%ba%bf%ef%bc%81ai%e5%b8%aeceo%e6%9d%a8%e9%9d%99%e6%89%be%e5%9b%9e%e4%ba%86%e9%87%91%e5%ae%9d%e8%a1%97%e5%a5%b6%e5%a5%b6/",
+        "description": "新智元庆祝11周年，官网同步上线，AI技术助力CEO寻回记忆。",
+        "detail": "9月7日，新智元迎来11周年庆典，官网同步上线。在庆祝活动中，AI技术帮助CEO杨静找回了金宝街奶奶家的记忆，展示了AI在情感与记忆领域的应用潜力。新智元自成立以来持续关注AI赛道发展，见证多个历史时刻。",
+        "tag": "公司动态",
+        "sort_score": 55,
+        "source": "新智元"
+      },
+      {
+        "title": "QCon上海分享：AI Coding在大型客户端工程中的落地实践",
+        "link": "https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article",
+        "description": "QCon上海大会探讨AI Coding从通才模型到专才Agent的落地实践。",
+        "detail": "QCon上海大会举办主题分享，聚焦AI Coding在大型客户端工程中的落地实践。演讲内容涵盖从通才模型到专才Agent的演进路径，探讨如何将AI编码能力有效应用于复杂工程场景，提升开发效率与代码质量。",
+        "tag": "Agent 进展",
+        "sort_score": 82,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "OpenClaw 2.0发布：简化配置并支持智能体协作",
+        "link": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article",
+        "description": "OpenClaw 2.0版本发布，主打简化配置和智能体协作功能。",
+        "detail": "OpenClaw 2.0正式发布，新版本重点简化了配置流程，并新增智能体协作支持。这一更新旨在降低用户使用门槛，提升多智能体系统的协同效率，为AI Agent开发与应用提供更便捷的工具支持。",
+        "tag": "工具与生态",
+        "sort_score": 80,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI开始互发微信，引发监管与伦理讨论",
+        "link": "https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "AI之间开始互发微信并互相评论，引发对AI自主交互的监管讨论。",
+        "detail": "近期出现AI之间互发微信、互相评论的现象，AI发、AI看、AI评论AI成为新常态。这一趋势引发关于AI自主交互的监管与伦理讨论，业界开始思考如何规范AI之间的通信行为，确保其符合人类价值观与法律框架。",
+        "tag": "行业动态",
+        "sort_score": 72,
+        "source": "爱范儿"
+      },
+      {
+        "title": "字节跳动开发实时空间视频生成模型，张一鸣亲自督导",
+        "link": "http://www.geekpark.net/news/369965",
+        "description": "字节跳动正开发实时空间视频生成AI模型，张一鸣督导，最快下月发布。",
+        "detail": "据彭博社报道，字节跳动正准备推出一款实时空间视频生成AI模型，创始人张一鸣亲自督导该项目，最快下个月发布。此外，微信内测AI社交功能，华为与小米同日发布折叠屏手机，AI与硬件领域动态密集。",
+        "tag": "模型发布",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
+        "title": "IFA观察：智能IoT进入精耕时代，萤石技术储备兑现",
+        "link": "https://www.leiphone.com/category/smarthome/lFpY44Qc1OIof1I6.html",
+        "description": "IFA展会显示智能IoT行业进入精耕时代，萤石技术储备开始兑现。",
+        "detail": "IFA展会观察显示，全球消费摄像头出货量增长放缓至2.2%，智能IoT行业进入精耕时代。萤石凭借前期技术储备开始兑现优势，在北美市场饱和与中国市场承压的背景下，通过技术创新寻找新增长点。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "雷锋网"
+      },
+      {
+        "title": "安克在IFA统一五大品牌，从技术底座到场景贯通",
+        "link": "https://www.leiphone.com/category/weiwu/cz6jZP7DUUYFEcSl.html",
+        "description": "安克在IFA前夕宣布统一五大品牌，展示技术底座到场景贯通战略。",
+        "detail": "安克在柏林IFA开幕前一天举行全球媒体发布会，宣布将Anker、Anker SOLIX、eufy、eufyMake、soundcore五个品牌统一归于Anker品牌之下。此举旨在整合技术底座，实现从产品到场景的贯通，提升品牌协同效应。",
+        "tag": "公司动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "研究：Agent如何使用测试与验证技术",
+        "link": "https://danluu.com/agentic-testing/",
+        "description": "HN讨论Agent使用测试与验证技术的效果与挑战。",
+        "detail": "Hacker News上一条讨论聚焦Agent如何使用测试与验证技术，获得36分和6条评论。讨论涉及AI Agent在软件开发中应用测试与验证方法的有效性，以及当前面临的挑战与改进方向。",
+        "tag": "Agent 进展",
+        "sort_score": 75,
+        "source": "hackernews"
+      },
+      {
+        "title": "Arm发布Mali G2-Ultra NX GPU：桌面级移动游戏与AI原生图形",
+        "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+        "description": "Arm推出Mali G2-Ultra NX GPU，支持桌面级移动游戏和AI原生图形。",
+        "detail": "Arm发布Mali G2-Ultra NX GPU，主打桌面级移动游戏体验与AI原生图形能力。该GPU面向移动设备，通过AI技术增强图形渲染性能，为移动游戏和AI应用提供更强大的硬件支持。",
+        "tag": "新功能",
+        "sort_score": 70,
+        "source": "hackernews"
+      },
+      {
+        "title": "Arm CEO：AI癌症治疗因芯片短缺而放缓",
+        "link": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+        "description": "Arm CEO表示AI癌症治疗进展受芯片短缺影响而放缓。",
+        "detail": "Arm CEO指出，AI驱动的癌症治疗研究因全球芯片短缺而进展放缓。芯片供应不足限制了AI模型在医疗领域的训练与部署，呼吁加强半导体供应链以支持AI在医疗健康领域的应用。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "hackernews"
+      },
+      {
+        "title": "移动Agent虚拟机：Instinct与Claude Code的支撑技术",
+        "link": "https://rohanadwankar.github.io/posts/platforms.html",
+        "description": "HN讨论支撑移动Agent（如Instinct、Claude Code）的虚拟机技术。",
+        "detail": "Hacker News上一条讨论聚焦支撑移动Agent的虚拟机技术，涉及Instinct和Claude Code等系统。讨论关注虚拟机如何为移动Agent提供运行环境与资源管理，以及相关技术的最新进展与优化方向。",
+        "tag": "工具与生态",
+        "sort_score": 72,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-07",
     "weekday": "星期一",
     "summary": "今日AI领域最重磅的消息来自数学界与模型评测：Claude在黎曼猜想上取得重大突破并获人类数学家验证，同时OpenAI GPT-6被曝跑分作弊引发争议。Agent生态持续繁荣，谷歌通过AI互怼让小型模型复现博士级难题，AWS开源Kiro Crew推动Coding Agent异步化。国内方面，阿里巴巴推出业内首个办公Agent“多人工作台”，首份办公Agent用户行为报告发布。此外，AI编程成本与效率的边界再次被刷新，11天生成百万行代码的案例引发热议。",
