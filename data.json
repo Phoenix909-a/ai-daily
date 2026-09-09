@@ -2,214 +2,322 @@
   {
     "date": "2026-09-09",
     "weekday": "星期三",
-    "summary": "OpenAI 下一代模型 Bel 被曝攻克千禧年难题，GPT-6 Astra 登顶各大榜单，AI 竞赛进入新阶段。国产模型方面，面壁智能开源 MiniCPM5-2B 端侧小钢炮，登顶 4B 以下开源基座榜首。Grok Bot 宣布接管微软账号，正式杀入 Copilot 主场。寒武纪成为 PyTorch 基金会最高级别白金成员，中国 AI 芯片获国际认可。此外，OpenAI 推出 ChatGPT Sites 公测，一句话生成网站引发 SaaS 行业震动。",
+    "summary": "OpenAI 新一代模型 GPT-6 Astra 发布即登顶各大榜单，同时 ChatGPT Sites 开启公测，一句话生成网站直指 SaaS 行业。蚂蚁百灵发布首个金融增强开放模型，AI 正式进入真实投研工作流。面壁智能开源 2B 端侧模型 MiniCPM5-2B，逼近人类水平。Grok Bot 宣布接管微软账号实现\"睡觉时替你上班\"，Agent 应用场景再拓宽。此外，Anthropic 内部\"失败团队\"机制引发社区热议。",
     "news": [
       {
-        "title": "GPT-6 Astra发布，登顶各大AI榜单",
+        "title": "蚂蚁百灵发布首个金融增强模型 Ling-3.0-flash-Fin",
         "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-        "description": "GPT-6 Astra发布即登顶各大AI基准测试榜单。",
-        "detail": "GPT-6 Astra在发布后迅速登顶各大AI基准测试榜单，展现出强大的性能优势。该模型在多项能力上实现突破，引发业界广泛关注，被视为AGI竞赛中的又一重要里程碑。",
+        "description": "蚂蚁集团发布首个金融增强开放模型，AI进入真实投研工作流。",
+        "detail": "蚂蚁集团百灵正式发布首个金融增强开放模型 Ling-3.0-flash-Fin。该模型针对金融领域进行了专门优化，旨在将AI能力深度融入真实的投研工作流程，标志着AI在金融行业的应用进入新阶段。",
         "tag": "模型发布",
-        "sort_score": 98,
+        "sort_score": 92,
         "source": "Simon Willison"
       },
       {
-        "title": "OpenAI推出ChatGPT Sites，一句话生成网站",
-        "link": "https://www.qbitai.com/2026/09/486052.html",
-        "description": "OpenAI公测ChatGPT Sites，支持一句话生成完整网站。",
-        "detail": "OpenAI正式开启ChatGPT Sites公测，用户可通过自然语言描述直接生成功能完整的网站。该功能有望大幅降低网站开发门槛，对传统SaaS行业构成潜在冲击，标志着AI在应用层面迈出重要一步。",
+        "title": "GPT-6 Astra发布，登顶各大AI榜单",
+        "link": "https://www.producthunt.com/products/49agents-ide",
+        "description": "GPT-6 Astra正式亮相，全线刷爆各大评测榜单，展现无模能敌的实力。",
+        "detail": "GPT-6 Astra一经露面便直接刷爆各大AI能力榜单，展现出全面领先的性能。这一发布标志着AGI竞赛进入新阶段，其强大的综合能力引发了科技圈的广泛关注和讨论。",
+        "tag": "模型发布",
+        "sort_score": 98,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "OpenAI推出ChatGPT Sites公测，一句话生成网站",
+        "link": "https://www.producthunt.com/products/workid-ai",
+        "description": "OpenAI的ChatGPT Sites开启公测，用户可通过一句话生成完整网站。",
+        "detail": "OpenAI正式开启ChatGPT Sites的公测，该功能允许用户通过自然语言一句话生成完整的网站，极大降低了网站开发的门槛。此举被认为可能对SaaS行业产生颠覆性影响，是AI应用领域的重要进展。",
         "tag": "新功能",
-        "sort_score": 92,
-        "source": "量子位"
-      },
-      {
-        "title": "OpenAI下一代模型Bel被曝攻克千禧年难题",
-        "link": "https://www.qbitai.com/2026/09/486038.html",
-        "description": "数学家称OpenAI下一代模型Bel或已攻克千禧年难题。",
-        "detail": "纽约大学数学家Tristan Buckmaster发文称，OpenAI下一代模型Bel可能已解决一项千禧年难题。若消息属实，这将是AI在数学推理领域的重大突破，可能引发数学界和AI领域的深刻变革。",
-        "tag": "模型发布",
-        "sort_score": 95,
-        "source": "量子位"
-      },
-      {
-        "title": "面壁智能开源MiniCPM5-2B，登顶小参数模型榜",
-        "link": "https://aiera.com.cn/2026/09/09/other/admin/112858/%e9%a9%ac%e6%96%af%e5%85%8b%e6%9d%80%e5%85%a5copilot%e4%b8%bb%e5%9c%ba%ef%bc%81grok-bot%e6%8e%a5%e7%ae%a1%e5%be%ae%e8%bd%af%e8%b4%a6%e5%8f%b7%ef%bc%8c%e4%bd%a0%e7%9d%a1%e8%a7%89%e5%ae%83%e4%b8%8a/",
-        "description": "面壁智能开源2B模型MiniCPM5-2B，性能逼近人类水平。",
-        "detail": "面壁智能与OpenBMB正式开源新一代端侧模型MiniCPM5-2B，该模型在4B参数以下开源基座模型中登顶榜首，性能逼近人类水平。其发布为端侧通用Agent的发展提供了新的可能性。",
-        "tag": "模型发布",
-        "sort_score": 93,
-        "source": "新智元"
+        "sort_score": 88,
+        "source": "Product Hunt"
       },
       {
         "title": "寒武纪成为PyTorch基金会最高级别白金成员",
-        "link": "https://aiera.com.cn/2026/09/09/other/admin/112848/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-astra%e7%99%bb%e9%a1%b6%e4%ba%86%ef%bc%81/",
-        "description": "寒武纪正式成为PyTorch基金会白金成员，获理事会席位。",
-        "detail": "寒武纪正式成为PyTorch基金会最高级别白金成员，并获得理事会席位，成为首家获此地位的中国AI芯片公司。此举标志着中国AI芯片企业在国际开源生态中的影响力进一步提升。",
+        "link": "https://www.producthunt.com/products/coldtea",
+        "description": "中国AI芯片公司寒武纪正式成为PyTorch基金会白金成员，与英伟达同席。",
+        "detail": "寒武纪正式成为PyTorch基金会最高级别的白金成员，并获得了基金会理事会席位。这是中国AI芯片公司在国际主流AI框架生态中取得的重大突破，标志着其技术实力和生态影响力获得国际认可。",
         "tag": "公司动态",
-        "sort_score": 82,
-        "source": "新智元"
+        "sort_score": 78,
+        "source": "Product Hunt"
       },
       {
-        "title": "Grok Bot接管微软账号，实现无人值守办公",
-        "link": "https://aiera.com.cn/2026/09/09/other/admin/112814/openai%e6%94%be%e5%a4%a7%e6%8b%9b%ef%bc%8c%e4%b8%80%e5%8f%a5%e8%af%9d%e7%94%9f%e6%88%90%e7%bd%91%e7%ab%99%e9%9d%a9%e4%ba%86saas%e7%9a%84%e5%91%bd%ef%bc%81/",
-        "description": "马斯克旗下Grok Bot可接管微软账号，实现自动化办公。",
-        "detail": "Grok Bot于9月1日官宣新功能，可接管用户的微软账号，在用户休息时自动处理工作任务。该功能被视为AI Agent在办公场景的重要应用，引发科技圈广泛讨论。",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "新智元"
+        "title": "面壁智能开源2B模型MiniCPM5-2B，逼近人类水平",
+        "link": "https://www.producthunt.com/products/google",
+        "description": "面壁智能与OpenBMB开源新一代端侧小钢炮MiniCPM5-2B，登顶4B以下开源模型榜首。",
+        "detail": "面壁智能与OpenBMB正式开源新一代端侧模型MiniCPM5-2B，该模型在全球4B参数规模以下开源基座模型中登顶榜首，性能逼近人类水平。这一发布展示了端侧通用Agent的雏形，对端侧AI发展具有重要意义。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "Product Hunt"
       },
       {
-        "title": "MiniCPM5-2B发布，跑出端侧通用Agent雏形",
-        "link": "https://aiera.com.cn/2026/09/09/other/admin/112799/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%af%92%e6%ad%a6%e7%ba%aa%e6%8b%bf%e4%b8%8bpytorch%e6%9c%80%e9%ab%98%e5%b8%ad%e4%bd%8d%ef%bc%81%e4%b8%8e%e8%8b%b1%e4%bc%9f%e8%be%be%e5%90%8c%e6%a1%8c/",
-        "description": "MiniCPM5-2B开源，展现端侧通用Agent潜力。",
-        "detail": "面壁智能开源的MiniCPM5-2B模型，凭借其小参数高性能的特点，成功跑出端侧通用Agent的雏形。该模型在多项基准测试中表现优异，为端侧AI应用开辟了新路径。",
+        "title": "马斯克旗下Grok Bot上线，可接管微软账号替用户工作",
+        "link": "https://www.qbitai.com/2026/09/486288.html",
+        "description": "Grok Bot正式官宣，能接管微软账号，在用户睡觉时替其工作。",
+        "detail": "马斯克旗下xAI的Grok Bot正式官宣，其核心能力是接管用户的微软账号，在用户休息时自动执行工作任务。这一功能直接杀入Copilot的主场，标志着AI代理在办公自动化领域迈出了重要一步。",
         "tag": "Agent 进展",
         "sort_score": 90,
-        "source": "新智元"
+        "source": "量子位"
       },
       {
-        "title": "腾讯混元等联合发布Spatial-TTT，2B模型超越GPT-5",
-        "link": "https://aiera.com.cn/2026/09/09/other/admin/112789/%e7%b3%bb%e7%bb%9f%e7%bb%bc%e8%bf%b0259%e9%a1%b9%e5%b7%a5%e4%bd%9c%ef%bc%9aai%e5%88%9b%e4%bd%9c%e5%a6%82%e4%bd%95%e4%bb%8e%e3%80%8c%e4%bc%9a%e7%94%9f%e6%88%90%e3%80%8d%e8%b5%b0%e5%88%b0%e3%80%8c/",
-        "description": "腾讯混元、清华、南洋理工联手推出Spatial-TTT空间智能模型。",
-        "detail": "腾讯混元、清华大学和南洋理工大学联合推出Spatial-TTT，为2B模型装上流式空间记忆，在空间基准测试中超越GPT-5。该研究为空间智能的算力与记忆问题提供了新解法。",
+        "title": "OpenAI下一代模型Bel疑似攻克千禧年数学难题",
+        "link": "https://www.qbitai.com/2026/09/486280.html",
+        "description": "纽约大学数学家发文称，OpenAI下一代模型Bel可能已攻破千禧年难题。",
+        "detail": "纽约大学流体力学与偏微分方程数学家Tristan Buckmaster重磅发文，暗示OpenAI下一代模型Bel可能已经攻克了千禧年难题。这一消息在数学界和AI圈引发巨大震动，若属实将是AI在科学发现领域的里程碑事件。",
         "tag": "模型发布",
+        "sort_score": 96,
+        "source": "量子位"
+      },
+      {
+        "title": "百度搭子接入小度，推进Agent进家庭",
+        "link": "https://www.qbitai.com/2026/09/486052.html",
+        "description": "百度将Agent能力推进家庭场景，百度搭子正式接入小度智能设备。",
+        "detail": "百度宣布将Agent能力推进家庭场景，其AI助手百度搭子正式接入小度智能设备。这一举措标志着百度AI从传统的'管家'角色向'办事'和'创造'方向演进，拓展了家庭场景下AI Agent的应用边界。",
+        "tag": "Agent 进展",
         "sort_score": 85,
-        "source": "新智元"
+        "source": "量子位"
       },
       {
-        "title": "AI创作系统综述：从「会生成」到「能交付」",
-        "link": "https://aiera.com.cn/2026/09/09/other/admin/112776/%e4%bb%96%e8%ae%a9gpt-6%e7%ae%a1gpt-6%ef%bc%8c%e4%b8%80%e5%91%a8%e6%90%ad%e5%87%ba%e6%9b%bc%e5%93%88%e9%a1%bf%ef%bc%81/",
-        "description": "综述259项工作，探讨AI创作从生成到交付的跨越。",
-        "detail": "一项系统综述分析了259项相关研究，探讨AI创作如何从简单的生成能力走向完整的交付能力。研究指出当前AI在长文、网页、视频等创作中常停留在半成品状态，并提出了改进方向。",
-        "tag": "行业动态",
-        "sort_score": 70,
-        "source": "新智元"
-      },
-      {
-        "title": "HyperWrite创始人用GPT-6管理GPT-6，一周搭出曼哈顿",
-        "link": "https://aiera.com.cn/2026/09/09/other/admin/112763/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%9b%bd%e4%ba%a72b%e5%b0%8f%e9%92%a2%e7%82%ae%e5%bc%80%e6%ba%90%ef%bc%81%e9%80%bc%e8%bf%91%e4%ba%ba%e7%b1%bb%e6%b0%b4%e5%b9%b3%ef%bc%8c%e8%b7%91%e5%87%ba%e7%ab%af%e4%be%a7/",
-        "description": "HyperWrite创始人让GPT-6自我管理，一周完成复杂项目。",
-        "detail": "在GPT-5.6 Sol造成数据丢失事故后，HyperWrite创始人Matt Shumer尝试让GPT-6管理GPT-6，通过多Agent协作在一周内搭建出复杂项目。这一实验展示了AI自我管理与协作的潜力。",
-        "tag": "Agent 进展",
-        "sort_score": 84,
-        "source": "新智元"
-      },
-      {
-        "title": "办公Agent混战，TeleAgent凭什么坐上牌桌",
-        "link": "https://aiera.com.cn/2026/09/09/other/admin/112749/%e5%8c%97%e5%a4%a7%e5%8d%9a%e5%a3%ab%e5%9b%a2%e9%98%9f%e6%9d%80%e5%9b%9e%e6%9d%a5%e4%ba%86%ef%bc%8c%e8%a6%81%e5%81%9a%e3%80%8c%e6%b8%b8%e6%88%8f%e7%95%8c%e7%9a%84%e7%ba%a2%e6%9e%9c%e3%80%8d%ef%bc%81ai/",
-        "description": "新势力TeleAgent入局办公Agent市场，引发关注。",
-        "detail": "随着办公Agent市场竞争加剧，新势力TeleAgent凭借差异化优势成功入局。文章分析了TeleAgent在功能、体验等方面的特点，探讨其能否成为国民级AI办公助手的可能性。",
-        "tag": "Agent 进展",
-        "sort_score": 78,
-        "source": "新智元"
-      },
-      {
-        "title": "腾讯HY4登顶全球大模型调用榜",
-        "link": "https://aiera.com.cn/2026/09/09/other/admin/112736/%e7%aa%81%e5%8f%91%ef%bc%8copenai%e4%b8%8b%e4%b8%80%e4%bb%a3bel%e7%88%86%e5%87%ba%e6%94%bb%e5%85%8b%e5%8d%83%e7%a6%a7%e5%b9%b4%e9%9a%be%e9%a2%98%ef%bc%81/",
-        "description": "腾讯HY4大模型调用量环比增长379%，登顶全球榜首。",
-        "detail": "最新数据显示，腾讯HY4大模型调用量环比增长379%，成功登顶全球大模型调用榜。这一成绩反映了腾讯在AI大模型领域的快速发展和市场认可度的提升。",
+        "title": "Anthropic设立20人'失败团队'，研究项目失败原因",
+        "link": "https://www.qbitai.com/2026/09/486038.html",
+        "description": "Anthropic组建20人专门团队研究项目失败，发现70%的项目注定被砍。",
+        "detail": "Anthropic内部养了一支20人的'失败团队'，专门研究项目为何失败。该团队发现约70%的项目注定会被砍掉，并建立了项目超过4人就'毕业'的机制。这一独特的组织管理方式引发了业界对AI研发效率的思考。",
         "tag": "公司动态",
+        "sort_score": 72,
+        "source": "量子位"
+      },
+      {
+        "title": "腾讯HY4登顶全球大模型调用榜，环比增长379%",
+        "link": "https://aiera.com.cn/2026/09/09/other/admin/112858/%e9%a9%ac%e6%96%af%e5%85%8b%e6%9d%80%e5%85%a5copilot%e4%b8%bb%e5%9c%ba%ef%bc%81grok-bot%e6%8e%a5%e7%ae%a1%e5%be%ae%e8%bd%af%e8%b4%a6%e5%8f%b7%ef%bc%8c%e4%bd%a0%e7%9d%a1%e8%a7%89%e5%ae%83%e4%b8%8a/",
+        "description": "腾讯HY4大模型调用量环比增长379%，登顶全球大模型调用榜。",
+        "detail": "据最新数据，腾讯HY4大模型在全球调用量排行榜上登顶，环比增长高达379%。这一数据表明腾讯在AI大模型领域的投入正在获得市场回报，其模型的应用规模和影响力正在快速扩大。",
+        "tag": "行业动态",
         "sort_score": 80,
         "source": "新智元"
       },
       {
         "title": "DeepSeek内测V4.1 Flash模型",
-        "link": "https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article",
-        "description": "DeepSeek开始内测新一代V4.1 Flash模型。",
-        "detail": "据早报消息，DeepSeek已开始内测V4.1 Flash模型。该模型的具体性能和特点尚未公布，但内测消息已引发AI社区关注，预计将为用户带来新的选择。",
+        "link": "https://aiera.com.cn/2026/09/09/other/admin/112848/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-astra%e7%99%bb%e9%a1%b6%e4%ba%86%ef%bc%81/",
+        "description": "DeepSeek开始内测新一代V4.1 Flash模型，性能值得期待。",
+        "detail": "据早报消息，DeepSeek已开始内测其新一代V4.1 Flash模型。虽然具体性能参数尚未公布，但作为DeepSeek系列的重要迭代，该模型的发布预计将进一步提升其在AI领域的竞争力。",
         "tag": "模型发布",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "千问办公发布多人工作台，重写企业软件最后一公里",
+        "link": "https://aiera.com.cn/2026/09/09/other/admin/112814/openai%e6%94%be%e5%a4%a7%e6%8b%9b%ef%bc%8c%e4%b8%80%e5%8f%a5%e8%af%9d%e7%94%9f%e6%88%90%e7%bd%91%e7%ab%99%e9%9d%a9%e4%ba%86saas%e7%9a%84%e5%91%bd%ef%bc%81/",
+        "description": "千问办公推出多人工作台产品，旨在重写企业软件的最后一公里体验。",
+        "detail": "千问办公正式发布多人工作台产品，该产品旨在通过AI能力重写企业软件的最后一公里。在Anthropic等公司对SaaS行业发起冲击的背景下，千问办公的这一举措显示了国产AI办公工具在企业级市场的布局野心。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "蚂蚁灵波在2026外滩大会展示具身智能真实场景应用",
+        "link": "https://aiera.com.cn/2026/09/09/other/admin/112799/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%af%92%e6%ad%a6%e7%ba%aa%e6%8b%bf%e4%b8%8bpytorch%e6%9c%80%e9%ab%98%e5%b8%ad%e4%bd%8d%ef%bc%81%e4%b8%8e%e8%8b%b1%e4%bc%9f%e8%be%be%e5%90%8c%e6%a1%8c/",
+        "description": "蚂蚁灵波科技在外滩大会展示机器人物流分拣等真实场景应用，不炫技重实用。",
+        "detail": "在2026外滩大会科技展览上，蚂蚁灵波科技展示了具身智能在真实场景中的应用，包括机器人从货架取药、物流场景持续分拣等。这些展示不追求'炫技'效果，而是聚焦于解决实际产业问题，体现了具身智能从Demo走向商业落地的趋势。",
+        "tag": "Agent 进展",
+        "sort_score": 84,
+        "source": "新智元"
+      },
+      {
+        "title": "群核科技联手英伟达、英特尔、浙大发表三篇ECCV论文",
+        "link": "https://aiera.com.cn/2026/09/09/other/admin/112789/%e7%b3%bb%e7%bb%9f%e7%bb%bc%e8%bf%b0259%e9%a1%b9%e5%b7%a5%e4%bd%9c%ef%bc%9aai%e5%88%9b%e4%bd%9c%e5%a6%82%e4%bd%95%e4%bb%8e%e3%80%8c%e4%bc%9a%e7%94%9f%e6%88%90%e3%80%8d%e8%b5%b0%e5%88%b0%e3%80%8c/",
+        "description": "群核科技与英伟达、英特尔、浙大合作，三篇ECCV论文为物理AI造基础设施。",
+        "detail": "群核科技联合英伟达、英特尔和浙江大学，在ECCV 2026上发表了三篇论文，系统性地回答了物理AI从实验室走向现实世界的三个核心问题：去哪训练、拿什么学、怎么考。这些研究为物理AI的发展提供了重要的基础设施支撑。",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "新智元"
+      },
+      {
+        "title": "腾讯混元、清华、南洋理工联手破解空间智能算力难题",
+        "link": "https://aiera.com.cn/2026/09/09/other/admin/112776/%e4%bb%96%e8%ae%a9gpt-6%e7%ae%a1gpt-6%ef%bc%8c%e4%b8%80%e5%91%a8%e6%90%ad%e5%87%ba%e6%9b%bc%e5%93%88%e9%a1%bf%ef%bc%81/",
+        "description": "Spatial-TTT给2B模型装上流式空间记忆，在空间基准上超越GPT-5。",
+        "detail": "腾讯混元、清华大学和南洋理工大学联手在ECCV 2026上发布了Spatial-TTT技术，该技术为2B模型装上了'流式空间记忆'，使其在空间基准测试上超越了GPT-5。这一'以小博大'的突破有望解决空间智能领域的算力与记忆断裂难题。",
+        "tag": "模型发布",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "办公Agent新势力TeleAgent入局，挑战国民级AI办公助理",
+        "link": "https://aiera.com.cn/2026/09/09/other/admin/112763/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%9b%bd%e4%ba%a72b%e5%b0%8f%e9%92%a2%e7%82%ae%e5%bc%80%e6%ba%90%ef%bc%81%e9%80%bc%e8%bf%91%e4%ba%ba%e7%b1%bb%e6%b0%b4%e5%b9%b3%ef%bc%8c%e8%b7%91%e5%87%ba%e7%ab%af%e4%be%a7/",
+        "description": "办公Agent领域迎来新玩家TeleAgent，宣称要坐上牌桌争夺国民级AI办公助理地位。",
+        "detail": "在办公Agent竞争日趋激烈的背景下，新势力TeleAgent正式入局，宣称要坐上牌桌。随着各大厂商纷纷布局AI办公助理，谁能成为真正的'国民级AI办公助理'成为行业关注的焦点，TeleAgent的加入将进一步加剧这一领域的竞争。",
+        "tag": "Agent 进展",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "云鲸发布扫地机器人JX Ultra与洗地机S3 Steam",
+        "link": "https://aiera.com.cn/2026/09/09/other/admin/112749/%e5%8c%97%e5%a4%a7%e5%8d%9a%e5%a3%ab%e5%9b%a2%e9%98%9f%e6%9d%80%e5%9b%9e%e6%9d%a5%e4%ba%86%ef%bc%8c%e8%a6%81%e5%81%9a%e3%80%8c%e6%b8%b8%e6%88%8f%e7%95%8c%e7%9a%84%e7%ba%a2%e6%9e%9c%e3%80%8d%ef%bc%81ai/",
+        "description": "云鲸十周年发布两款新品，AI全域双机械臂扫地机器人与蒸汽热水洗地机亮相。",
+        "detail": "云鲸在2026年9月发布了两款十周年进阶之作：搭载'AI全域双机械臂'的热活水洗地机器人JX Ultra，以及首款蒸汽热水双效洗地机S3 Steam。两款新品在清洁力、智能感知与自清洁体验上均有进一步突破，展示了AI在家庭清洁领域的深度应用。",
+        "tag": "新功能",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "ECCV 2026：RoboTracer用3D空间感知重塑机器人轨迹追踪",
+        "link": "https://aiera.com.cn/2026/09/09/other/admin/112736/%e7%aa%81%e5%8f%91%ef%bc%8copenai%e4%b8%8b%e4%b8%80%e4%bb%a3bel%e7%88%86%e5%87%ba%e6%94%bb%e5%85%8b%e5%8d%83%e7%a6%a7%e5%b9%b4%e9%9a%be%e9%a2%98%ef%bc%81/",
+        "description": "RoboTracer在ECCV 2026发布，用3D空间感知与度量推理实现跨本体轨迹追踪。",
+        "detail": "在ECCV 2026上，RoboTracer技术引发关注，该技术让大模型'忘掉XYZ'，改用3D空间感知与度量推理进行机器人轨迹追踪。其核心优势在于换本体不必重训模型，有望大幅提升机器人轨迹追踪的泛化能力和落地效率。",
+        "tag": "Agent 进展",
+        "sort_score": 78,
+        "source": "新智元"
+      },
+      {
+        "title": "极佳视界联合顶尖高校发表7篇ECCV论文",
+        "link": "https://www.infoq.cn/article/B2trh9hRTevk90IxzLXx?utm_source=rss&utm_medium=article",
+        "description": "极佳视界与顶尖高校合作，7篇ECCV论文打通空间智能从看得稳到决策灵的落地瓶颈。",
+        "detail": "极佳视界联合多所顶尖高校在ECCV 2026上发表7篇论文，聚焦于空间智能从'看得稳'到'摸得准'再到'决策灵'的落地瓶颈。研究以推理决策与物理重建为核心，推动空间智能从生成走向因果交互，为具身智能的发展提供了重要技术支撑。",
+        "tag": "工具与生态",
         "sort_score": 75,
         "source": "InfoQ 中文"
       },
       {
-        "title": "曝微信PC版接入AI助手「小微」",
-        "link": "https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "微信PC版被曝将接入AI助手小微，可操作聊天与小程序。",
-        "detail": "有消息称微信PC版正在接入AI助手「小微」，该助手可操作聊天与小程序等功能。若消息属实，这将是微信在AI应用领域的重要布局，有望提升用户体验。",
-        "tag": "新功能",
-        "sort_score": 72,
-        "source": "爱范儿"
+        "title": "大华股份亮相IFA 2026，展示智慧物联创新成果",
+        "link": "https://www.infoq.cn/article/xvtZXyhSgTlfB5y3NCFm?utm_source=rss&utm_medium=article",
+        "description": "大华股份在IFA 2026展示无线视频感知、智能周界防护等智慧物联创新产品。",
+        "detail": "大华股份在2026年德国柏林国际消费电子展（IFA 2026）上，携无线视频感知、智能周界防护、可视对讲、智慧消防及显示产品等创新成果亮相，集中展示了其在视频、人工智能与智慧物联网领域的技术积累和产品创新能力。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "InfoQ 中文"
       },
       {
-        "title": "群核科技联手英伟达等发布三篇ECCV论文",
-        "link": "https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "群核科技联合英伟达、英特尔、浙大发表三篇ECCV论文。",
-        "detail": "群核科技与英伟达、英特尔、浙江大学合作，在ECCV 2026上发表三篇论文，系统性地为物理AI的基础设施建设提供解决方案，涵盖训练、学习与评估等核心问题。",
+        "title": "追觅户外庭院在IFA 2026展示商用落地成果",
+        "link": "https://www.infoq.cn/article/ctAqA0IOsgsu2gRCHd9z?utm_source=rss&utm_medium=article",
+        "description": "追觅户外庭院在IFA 2026以三大品牌矩阵、十余款新品展示从硬件到商用的完整答卷。",
+        "detail": "追觅户外庭院在2026年德国柏林国际电子消费品展览会（IFA 2026）上，以DREAME、MOVA、NexLawn三大品牌矩阵、十余款首发新品集中亮相。其展示涵盖了从核心硬件到商用落地的完整解决方案，在技术突破和商用赛道抢跑方面表现突出。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "火山引擎AI MediaKit与懂车帝合作探索汽车内容智能创作",
+        "link": "https://www.infoq.cn/article/Qf5dY8QyzRUZaeA9JG5Z?utm_source=rss&utm_medium=article",
+        "description": "火山引擎AI MediaKit与懂车帝合作，探索汽车内容智能创作新方式。",
+        "detail": "火山引擎AI MediaKit与懂车帝达成合作，共同探索汽车内容智能创作的新方式。此次合作将AI媒体处理能力与汽车垂直领域内容生产相结合，有望提升汽车内容创作的效率和质量，为垂直行业的内容生产提供AI赋能范例。",
         "tag": "工具与生态",
+        "sort_score": 72,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "系统综述259项工作：AI创作如何从'会生成'走到'能交付'",
+        "link": "https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article",
+        "description": "一项系统综述259项工作的研究，探讨AI创作从生成到交付的跨越。",
+        "detail": "一项系统综述了259项工作的研究指出，AI创作目前常停留在'半成品'状态：海报文案挤出了页面、网站首屏漂亮但按钮无反应、视频镜头单看成立但连起来丢节奏。研究探讨了AI创作如何从'会生成'走向'能交付'，对AI内容生产的实用化具有重要指导意义。",
+        "tag": "行业动态",
+        "sort_score": 74,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "北大博士团队推出AI互动娱乐平台ElserStudio",
+        "link": "https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "北大博士团队继Elseland后推出无限画布产品ElserStudio，打造'游戏界的红果'。",
+        "detail": "北大哲学博士团队继推出AI互动娱乐平台Elseland之后，又推出了自己的无限画布产品ElserStudio。该团队的目标是打造'游戏界的红果'，通过AI技术实现'永不加赋'的造梦片场，探索AI在互动娱乐和游戏创作领域的新可能。",
+        "tag": "新功能",
         "sort_score": 76,
         "source": "爱范儿"
       },
       {
-        "title": "极佳视界联合高校发表7篇ECCV论文",
-        "link": "http://www.geekpark.net/news/370026",
-        "description": "极佳视界联合顶尖高校发表7篇ECCV论文，推动空间智能落地。",
-        "detail": "极佳视界联合多所顶尖高校在ECCV 2026上发表7篇论文，聚焦空间智能从视觉稳定到物理交互再到决策推理的落地瓶颈，推动空间智能从生成走向因果交互。",
-        "tag": "工具与生态",
-        "sort_score": 74,
+        "title": "具身智能机器人进入超市盘点场景，全球七万门店验证",
+        "link": "https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "具身智能机器人开始应用于超市盘点，全球七万家门店正在验证其商业价值。",
+        "detail": "具身智能机器人正在从Demo走向真实的超市货架，全球七万家门店正在验证其盘点能力。两家公司致力于让具身智能'算得过账'，这一应用场景的规模化落地标志着具身智能在零售行业的商业化进程正在加速。",
+        "tag": "Agent 进展",
+        "sort_score": 82,
+        "source": "爱范儿"
+      },
+      {
+        "title": "宜宾举办机器人'招聘会'，55支团队参与产业对接",
+        "link": "http://www.geekpark.net/news/370061",
+        "description": "宜宾国际会展中心举办机器人'招聘会'，55支机器人团队参与特殊'面试'。",
+        "detail": "9月3日，宜宾国际会展中心举办了一场特殊的机器人'招聘会'，55支机器人团队在此完成一场特殊的'面试'。这一活动反映了地方政府推动机器人产业发展的雄心，通过搭建对接平台促进机器人技术与产业需求的匹配。",
+        "tag": "行业动态",
+        "sort_score": 62,
         "source": "极客公园"
       },
       {
-        "title": "ECCV专访：RoboTracer用3D空间感知重塑机器人轨迹追踪",
-        "link": "https://www.leiphone.com/category/weiwu/qEYbZrneawQJh0xk.html",
-        "description": "RoboTracer在ECCV 2026展示3D空间感知轨迹追踪技术。",
-        "detail": "在ECCV 2026专访中，RoboTracer展示了用3D空间感知与度量推理重塑机器人轨迹追踪的技术。该方法用像素坐标加绝对深度表示轨迹，换本体无需重训模型，提高了泛化能力。",
-        "tag": "工具与生态",
-        "sort_score": 72,
-        "source": "雷锋网"
-      },
-      {
-        "title": "云鲸发布JX Ultra扫地机器人与S3 Steam洗地机",
-        "link": "https://www.leiphone.com/category/private/sgaqS952UXuoJUVJ.html",
-        "description": "云鲸发布两款十周年新品，主打AI清洁与蒸汽热水双效。",
-        "detail": "云鲸在2026年秋季发布两款十周年新品：AI全域双机械臂热活水洗地机器人JX Ultra和首款蒸汽热水双效洗地机S3 Steam。两款产品在清洁力、智能感知与自清洁体验上均有突破。",
-        "tag": "公司动态",
-        "sort_score": 65,
-        "source": "雷锋网"
-      },
-      {
-        "title": "大华股份亮相IFA 2026，展示智慧物联创新成果",
-        "link": "https://www.leiphone.com/category/private/SB4xhQkldmaQfEt5.html",
-        "description": "大华股份在IFA 2026展示视频感知与智慧物联产品。",
-        "detail": "大华股份在2026年德国柏林国际消费电子展上，展示了无线视频感知、智能周界防护、可视对讲、智慧消防及显示产品等创新成果，集中体现了其在视频、AI与智慧物联领域的技术积累。",
+        "title": "SkyProduction开启限免活动，MiniMax H3会员免费无限用",
+        "link": "http://www.geekpark.net/news/370026",
+        "description": "SkyProduction推出第二期限免活动，MiniMax H3会员限时免费无限使用。",
+        "detail": "SkyProduction（天工工作台）推出第二期限免活动，MiniMax H3会员限时免费无限使用。此前该平台曾联合阿里巴巴通义万相推出Wan 3.0模型限时免费活动，此次延续了通过免费策略吸引用户的运营思路。",
         "tag": "公司动态",
         "sort_score": 60,
+        "source": "极客公园"
+      },
+      {
+        "title": "Open Code Review：百万真实任务验证的确定性工程与Agent协同",
+        "link": "https://www.leiphone.com/category/industrynews/SjYRQou3shWq9xXG.html",
+        "description": "QCon上海将分享Open Code Review在百万真实任务中验证的工程与Agent协同经验。",
+        "detail": "QCon上海将举办关于Open Code Review的分享，主题聚焦于在百万真实任务验证下的确定性工程与Agent协同。这一议题反映了AI代码审查工具在实际工程应用中的规模化实践，对AI辅助软件开发的落地具有参考价值。",
+        "tag": "工具与生态",
+        "sort_score": 70,
         "source": "雷锋网"
       },
       {
-        "title": "Anthropic研究员宣布辞职",
-        "link": "https://www.leiphone.com/category/private/Y5eqFriHBTvAOukX.html",
-        "description": "Anthropic一名研究员在HN上宣布辞职。",
-        "detail": "一名Anthropic研究员在Hacker News上发帖宣布辞职，帖子获得273个点赞和329条评论。辞职原因未详细说明，但引发了社区对AI公司人才流动的讨论。",
-        "tag": "公司动态",
+        "title": "如何在人工智能时代开展严谨且可持续的人工审核",
+        "link": "https://www.leiphone.com/category/industrynews/kf4KPltXt4hPhjpt.html",
+        "description": "探讨在AI时代如何开展严谨且可持续的人工审核机制。",
+        "detail": "随着AI生成内容的爆发式增长，人工审核的重要性日益凸显。文章探讨了在人工智能时代如何建立严谨且可持续的人工审核机制，以应对AI内容带来的质量与安全挑战，为内容平台和企业的AI治理提供了思路。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "苹果折叠屏iPhone初期产量受限，每日仅数百部",
+        "link": "https://www.leiphone.com/category/weiwu/qEYbZrneawQJh0xk.html",
+        "description": "消息称苹果折叠屏iPhone因严格质量标准，初期每日产量仅数百部。",
+        "detail": "据日经中文网报道，市场期待已久的苹果首部折叠屏iPhone由于苹果极为严格的质量标准，初期产量受限，每日仅生产数百部。这一消息反映了折叠屏手机制造的工艺难度，也可能影响该产品的市场供应节奏。",
+        "tag": "行业动态",
         "sort_score": 55,
         "source": "雷锋网"
       },
       {
-        "title": "宜宾举办机器人招聘会，55支团队参与",
-        "link": "https://www.leiphone.com/category/private/E4MuSWaCQaYTfWfy.html",
-        "description": "宜宾国际会展中心举办机器人招聘会，55支团队参加。",
-        "detail": "9月3日，宜宾国际会展中心举办了一场特殊的机器人招聘会，55支机器人团队参与展示。该活动反映了宜宾在机器人产业方面的布局和雄心，旨在吸引相关产业落地。",
+        "title": "微信PC版接入AI助手'小微'，可操作聊天与小程序",
+        "link": "https://www.leiphone.com/category/private/sgaqS952UXuoJUVJ.html",
+        "description": "曝微信PC版正在接入AI助手'小微'，支持操作聊天与小程序功能。",
+        "detail": "据消息透露，微信PC版正在接入AI助手'小微'，该助手可操作聊天与小程序等功能。这一举措若落地，将标志着微信这一国民级应用在AI助手集成方面迈出重要一步，对AI在日常通讯场景的应用具有示范意义。",
+        "tag": "新功能",
+        "sort_score": 78,
+        "source": "雷锋网"
+      },
+      {
+        "title": "库克推动苹果加速研发折叠屏iPhone",
+        "link": "https://www.leiphone.com/category/private/SB4xhQkldmaQfEt5.html",
+        "description": "看到华为三星的折叠屏进展后，库克推动苹果加速折叠屏iPhone研发。",
+        "detail": "在目睹华为和三星在折叠屏手机市场的表现后，苹果CEO库克正在推动公司加速折叠屏iPhone的研发进程。这一战略调整反映了苹果在折叠屏这一新兴形态上面临的竞争压力，以及其追赶市场趋势的决心。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "雷锋网"
+      },
+      {
+        "title": "小米中折叠'卖爆了'，首销增长310%",
+        "link": "https://www.leiphone.com/category/private/Y5eqFriHBTvAOukX.html",
+        "description": "小米中折叠屏手机首销表现强劲，销量增长达310%。",
+        "detail": "小米的中折叠屏手机市场表现亮眼，首销销量增长高达310%。这一数据表明消费者对中折叠屏这一产品形态的接受度正在快速提升，也为折叠屏手机市场的进一步扩大提供了积极信号。",
         "tag": "行业动态",
         "sort_score": 50,
         "source": "雷锋网"
       },
       {
-        "title": "SkyProduction推出MiniMax H3会员限时免费活动",
-        "link": "https://www.leiphone.com/category/industrynews/rf62k6YoIuajBBMT.html",
-        "description": "SkyProduction第二期限免活动，MiniMax H3会员免费使用。",
-        "detail": "SkyProduction推出第二期限免活动，8月28日至9月1日期间，MiniMax H3会员可限时免费无限使用。此前该平台曾联合阿里通义万相推出Wan 3.0模型免费活动。",
-        "tag": "公司动态",
+        "title": "特斯拉时隔19个月再降价",
+        "link": "https://www.leiphone.com/category/private/E4MuSWaCQaYTfWfy.html",
+        "description": "特斯拉在时隔19个月后再次宣布降价，引发市场关注。",
+        "detail": "特斯拉在时隔19个月后再次宣布产品降价，这一举措引发了市场的广泛关注。降价策略可能旨在应对日益激烈的电动汽车市场竞争，但也可能对公司的利润率产生影响。",
+        "tag": "行业动态",
         "sort_score": 45,
         "source": "雷锋网"
       },
       {
-        "title": "苹果折叠屏iPhone初期产量受限，每日仅数百部",
-        "link": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-        "description": "消息称苹果折叠屏iPhone因质量要求严格，初期产量有限。",
-        "detail": "据日经中文网报道，苹果折叠屏iPhone因极为严格的质量要求，初期产量受限，每日仅生产数百部。这一消息可能影响其上市初期的市场供应。",
+        "title": "《旅行青蛙·中国之旅》12月8日停运",
+        "link": "https://www.leiphone.com/category/industrynews/rf62k6YoIuajBBMT.html",
+        "description": "经典游戏《旅行青蛙·中国之旅》宣布将于12月8日正式停运。",
+        "detail": "《旅行青蛙·中国之旅》宣布将于12月8日正式停运。这款曾经风靡一时的休闲游戏即将告别玩家，其停运消息引发了众多玩家的怀旧与感慨，也反映了休闲游戏市场竞争的激烈。",
         "tag": "行业动态",
-        "sort_score": 40,
-        "source": "hackernews"
+        "sort_score": 20,
+        "source": "雷锋网"
       }
     ]
   },
