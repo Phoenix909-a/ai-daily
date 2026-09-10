@@ -1,5 +1,300 @@
 [
   {
+    "date": "2026-09-10",
+    "weekday": "星期四",
+    "summary": "今日共收录 32 条 AI 动态。 来源包括：InfoQ 中文, Simon Willison, TechCrunch AI, 新智元, 极客公园, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+        "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+        "description": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say. ",
+        "detail": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say. ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Quoting Calif Research",
+        "link": "https://simonwillison.net/2026/Sep/10/calif-research/",
+        "description": "\n    Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]\nThe victim does not need to answer the call, or interact with their",
+        "detail": "\n    Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]\nThe victim does not need to answer the call, or interact with their",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+        "link": "https://www.qbitai.com/2026/09/486436.html",
+        "description": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+        "detail": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+        "link": "https://www.qbitai.com/2026/09/486350.html",
+        "description": "赶上了API限时五折",
+        "detail": "赶上了API限时五折",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "量子位"
+      },
+      {
+        "title": "张宏江外滩大会分享：Agent Economy时代，组织层面的“涌现”成核心竞争力",
+        "link": "https://aiera.com.cn/2026/09/10/other/admin/113040/%e5%bc%a0%e5%ae%8f%e6%b1%9f%e5%a4%96%e6%bb%a9%e5%a4%a7%e4%bc%9a%e5%88%86%e4%ba%ab%ef%bc%9aagent-economy%e6%97%b6%e4%bb%a3%ef%bc%8c%e7%bb%84%e7%bb%87%e5%b1%82%e9%9d%a2%e7%9a%84%e6%b6%8c/",
+        "description": "9月10日，在 2026 Inclusion·外滩大会开幕主论坛上，源码资本投资合伙人、美国国家工程院外籍院士张宏江表示AI新经济将变革企业组织形态。他认为，随着AI技术的发展…",
+        "detail": "9月10日，在 2026 Inclusion·外滩大会开幕主论坛上，源码资本投资合伙人、美国国家工程院外籍院士张宏江表示AI新经济将变革企业组织形态。他认为，随着AI技术的发展…",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "王梦迪外滩大会追问：AI距离自主发现新科学还有多远？",
+        "link": "https://aiera.com.cn/2026/09/10/other/admin/113039/%e7%8e%8b%e6%a2%a6%e8%bf%aa%e5%a4%96%e6%bb%a9%e5%a4%a7%e4%bc%9a%e8%bf%bd%e9%97%ae%ef%bc%9aai%e8%b7%9d%e7%a6%bb%e8%87%aa%e4%b8%bb%e5%8f%91%e7%8e%b0%e6%96%b0%e7%a7%91%e5%ad%a6%e8%bf%98%e6%9c%89%e5%a4%9a/",
+        "description": "9月10日，在2026 Inclusion·外滩大会主论坛上，普林斯顿大学人工智能创新中心主任王梦迪教授提出一个问题：AI距离自主发现新科学还有多远？",
+        "detail": "9月10日，在2026 Inclusion·外滩大会主论坛上，普林斯顿大学人工智能创新中心主任王梦迪教授提出一个问题：AI距离自主发现新科学还有多远？",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "人类视频如何变成机器人技能？大晓发布全球首个可仿真的人–场景交互重建框架 HSImul3R",
+        "link": "https://aiera.com.cn/2026/09/10/other/admin/113033/%e8%8d%a3%e7%99%bbeccv%ef%bc%81%e5%a4%a7%e6%99%93%e5%8f%91%e5%b8%83%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%e5%8f%af%e4%bb%bf%e7%9c%9f%e4%ba%ba-%e5%9c%ba%e6%99%af%e4%ba%a4%e4%ba%92%e9%87%8d/",
+        "description": "一段人坐上椅子的视频，对人类而言再普通不过。我们不仅能看见“人坐了下来”，还天然理解椅子承受人体重量，人与椅面形成接触并最终稳定，这些重力、接触与作用关系共同构成真实世界中的物…",
+        "detail": "一段人坐上椅子的视频，对人类而言再普通不过。我们不仅能看见“人坐了下来”，还天然理解椅子承受人体重量，人与椅面形成接触并最终稳定，这些重力、接触与作用关系共同构成真实世界中的物…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI官宣：88小时攻破千禧年难题！",
+        "link": "https://aiera.com.cn/2026/09/10/other/admin/113025/openai%e5%ae%98%e5%ae%a3%ef%bc%9a88%e5%b0%8f%e6%97%b6%e6%94%bb%e7%a0%b4%e5%8d%83%e7%a6%a7%e5%b9%b4%e9%9a%be%e9%a2%98%ef%bc%81/",
+        "description": "刚刚，OpenAI 宣布，一个内部模型生成了纳维-斯托克斯（Navier-Stokes）存在性与光滑性问题的完整证明，并已通过 Lean 形式化验证！",
+        "detail": "刚刚，OpenAI 宣布，一个内部模型生成了纳维-斯托克斯（Navier-Stokes）存在性与光滑性问题的完整证明，并已通过 Lean 形式化验证！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "中国首个！清华「龙虾老师」登上联合国讲台，GitHub暴涨3万星",
+        "link": "https://aiera.com.cn/2026/09/10/other/admin/113009/%e4%b8%ad%e5%9b%bd%e9%a6%96%e4%b8%aa%ef%bc%81%e6%b8%85%e5%8d%8e%e3%80%8c%e9%be%99%e8%99%be%e8%80%81%e5%b8%88%e3%80%8d%e7%99%bb%e4%b8%8a%e8%81%94%e5%90%88%e5%9b%bd%e8%ae%b2%e5%8f%b0%ef%bc%8cgithub/",
+        "description": "打造出圈级AI「龙虾老师」的清华团队，这一次，在联合国的讲坛上开坛授课了！ 9月8日，巴黎，联合国教科文组织总部。",
+        "detail": "打造出圈级AI「龙虾老师」的清华团队，这一次，在联合国的讲坛上开坛授课了！ 9月8日，巴黎，联合国教科文组织总部。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "揭开多智能体决策的隐形不公，结果指标相同也未必可靠 | EMNLP’26",
+        "link": "https://aiera.com.cn/2026/09/10/other/admin/112966/%e6%8f%ad%e5%bc%80%e5%a4%9a%e6%99%ba%e8%83%bd%e4%bd%93%e5%86%b3%e7%ad%96%e7%9a%84%e9%9a%90%e5%bd%a2%e4%b8%8d%e5%85%ac%ef%bc%8c%e7%bb%93%e6%9e%9c%e6%8c%87%e6%a0%87%e7%9b%b8%e5%90%8c%e4%b9%9f%e6%9c%aa/",
+        "description": "当多个大语言模型（LLM）组成「招聘委员会」，共同筛选简历、讨论候选人、打分并投票时，我们通常会用最终录用率来判断系统是否公平。",
+        "detail": "当多个大语言模型（LLM）组成「招聘委员会」，共同筛选简历、讨论候选人、打分并投票时，我们通常会用最终录用率来判断系统是否公平。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌DeepMind破解人类生命天书！90亿种基因突变全部算穿",
+        "link": "https://aiera.com.cn/2026/09/10/other/admin/112954/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%b0%b7%e6%ad%8cdeepmind%e7%a0%b4%e8%a7%a3%e4%ba%ba%e7%b1%bb%e7%94%9f%e5%91%bd%e5%a4%a9%e4%b9%a6%ef%bc%8190%e4%ba%bf%e7%a7%8d%e5%9f%ba%e5%9b%a0%e7%aa%81%e5%8f%98%e5%85%a8/",
+        "description": "就在刚刚，谷歌DeepMind正式发布「阿尔法」重磅成果——AlphaGenome Atlas。",
+        "detail": "就在刚刚，谷歌DeepMind正式发布「阿尔法」重磅成果——AlphaGenome Atlas。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "27岁研究员连辞OpenAI、Anthropic！两家都在拿我们的命下注",
+        "link": "https://aiera.com.cn/2026/09/10/other/admin/112940/27%e5%b2%81%e7%a0%94%e7%a9%b6%e5%91%98%e8%bf%9e%e8%be%9eopenai%e3%80%81anthropic%ef%bc%81%e4%b8%a4%e5%ae%b6%e9%83%bd%e5%9c%a8%e6%8b%bf%e6%88%91%e4%bb%ac%e7%9a%84%e5%91%bd%e4%b8%8b%e6%b3%a8/",
+        "description": "「我今天从Anthropic辞职了！」 9日凌晨，一条推文在X上炸开： 过去三年，我在OpenAI和Anthropic做预训练研究。两家公司都没有负责任地行事。它们正直奔自我改…",
+        "detail": "「我今天从Anthropic辞职了！」 9日凌晨，一条推文在X上炸开： 过去三年，我在OpenAI和Anthropic做预训练研究。两家公司都没有负责任地行事。它们正直奔自我改…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "60分靠数据，100分靠自进化：清华曹婷和「域变换」攻向机器人可部署",
+        "link": "https://aiera.com.cn/2026/09/10/other/admin/112925/60%e5%88%86%e9%9d%a0%e6%95%b0%e6%8d%ae%ef%bc%8c100%e5%88%86%e9%9d%a0%e8%87%aa%e8%bf%9b%e5%8c%96%ef%bc%9a%e6%b8%85%e5%8d%8e%e6%9b%b9%e5%a9%b7%e5%92%8c%e3%80%8c%e5%9f%9f%e5%8f%98%e6%8d%a2%e3%80%8d/",
+        "description": "具身智能讨论的核心问题正在改变：从谁有更多数据能做出更强基础模型，转向谁能把机器人真正部署到现场，并让它持续做成任务。",
+        "detail": "具身智能讨论的核心问题正在改变：从谁有更多数据能做出更强基础模型，转向谁能把机器人真正部署到现场，并让它持续做成任务。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI官宣：AI成功接管量子计算机",
+        "link": "https://aiera.com.cn/2026/09/10/other/admin/112909/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e5%ae%98%e5%ae%a3%ef%bc%9aai%e6%88%90%e5%8a%9f%e6%8e%a5%e7%ae%a1%e9%87%8f%e5%ad%90%e8%ae%a1%e7%ae%97%e6%9c%ba/",
+        "description": "就在刚刚，OpenAI联合MIT宣布震撼消息：AI成功接管量子计算机！ 在一份名为《案例研究：超导量子比特的智能体校准》的联合报告中，MIT量子工程系统组（EQuS）的研究人员…",
+        "detail": "就在刚刚，OpenAI联合MIT宣布震撼消息：AI成功接管量子计算机！ 在一份名为《案例研究：超导量子比特的智能体校准》的联合报告中，MIT量子工程系统组（EQuS）的研究人员…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "豆包工作这波更新，我给满分！一大波实测来了",
+        "link": "https://aiera.com.cn/2026/09/10/other/admin/112889/%e8%b1%86%e5%8c%85%e5%b7%a5%e4%bd%9c%e8%bf%99%e6%b3%a2%e6%9b%b4%e6%96%b0%ef%bc%8c%e6%88%91%e7%bb%99%e6%bb%a1%e5%88%86%ef%bc%81%e4%b8%80%e5%a4%a7%e6%b3%a2%e5%ae%9e%e6%b5%8b%e6%9d%a5%e4%ba%86/",
+        "description": "AI圈现在卷得最凶的地方，是你的电脑桌面。 OpenAI不断强化桌面端应用，试图用Codex和ChatGPT for Work接管打工人的工作流。",
+        "detail": "AI圈现在卷得最凶的地方，是你的电脑桌面。 OpenAI不断强化桌面端应用，试图用Codex和ChatGPT for Work接管打工人的工作流。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲",
+        "link": "https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战",
+        "link": "https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "中科院江小涓谈 AI 新经济：AI正在改写中国企业“先国内、再出海”的老路径",
+        "link": "https://www.infoq.cn/article/7xE0eQlCGCSoM0wbmAoM?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Meta Muse突袭：人手一台AI虚拟机，全天候干活！扎克伯格想让 AI 自己“挣回饭钱”",
+        "link": "https://www.infoq.cn/article/NSFJ4JFUjL6KaYUDV5Wv?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Copilot 代码审查功能已登陆 Azure Repos，按审查次数计费",
+        "link": "https://www.infoq.cn/article/kB15qdDc6NFLdaUbCbqo?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+        "link": "https://www.infoq.cn/article/I0qWiIGTkCqG8H1hAoJb?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道",
+        "link": "http://www.geekpark.net/news/370089",
+        "description": "\n        \n苹果首款折叠 iPhone Duo 亮相，国行 15999 元起\n北京时间 9 月 10 日凌晨，苹果发布首款折叠手机 iPhone Duo，国行 15999 元起，10 月 16 日开启预售，23 日正式发售。同场推出 iPhone 18 Pro 系列，9999 元起；标准版 iPhone 18 推迟至明年春季发布。\n\n该机采用书本式内折设计，内外屏尺寸与小米 18 Fold",
+        "detail": "\n        \n苹果首款折叠 iPhone Duo 亮相，国行 15999 元起\n北京时间 9 月 10 日凌晨，苹果发布首款折叠手机 iPhone Duo，国行 15999 元起，10 月 16 日开启预售，23 日正式发售。同场推出 iPhone 18 Pro 系列，9999 元起；标准版 iPhone 18 推迟至明年春季发布。\n\n该机采用书本式内折设计，内外屏尺寸与小米 18 Fold",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "苹果第一台折叠 iPhone，15999 元起",
+        "link": "http://www.geekpark.net/news/370088",
+        "description": "\n        \n\niPhone Duo，国行 15999 元起\n\n作者｜张勇毅\n编辑｜靖宇\n\n北京时间今天凌晨，苹果发布了第一台折叠屏手机，名字叫 iPhone Duo。国行 15999 元起，10 月 16 日晚 8 点预购，10 月 23 日发售。同场发布的 iPhone 18 Pro 系列 9999 元起，9 月 12 日晚 8 点预购，18 日发售。\n\n三天前，小米发布了 18 Fol",
+        "detail": "\n        \n\niPhone Duo，国行 15999 元起\n\n作者｜张勇毅\n编辑｜靖宇\n\n北京时间今天凌晨，苹果发布了第一台折叠屏手机，名字叫 iPhone Duo。国行 15999 元起，10 月 16 日晚 8 点预购，10 月 23 日发售。同场发布的 iPhone 18 Pro 系列 9999 元起，9 月 12 日晚 8 点预购，18 日发售。\n\n三天前，小米发布了 18 Fol",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "15000家美国中小企业到场，阿里国际站CoCreate峰会刷屏洛杉矶",
+        "link": "https://www.leiphone.com/category/industrynews/5VPkJnqmy14BdymX.html",
+        "description": "9月9日，苹果发布会同日，美国洛杉矶会展中心，阿里国际站一年一度的海外买家大会——CoCreate 2026开幕。美国当地超15000家中小企业到场，这一数字去年还停留在3000人。从B2B到A2A，1.5万美国老板在CoCreate现场寻找AI时代的下一门好生意，这也使得今年的CoCreate，成为了中国卖家探测海外真实市场水温的绝佳窗口。当日，阿里国际站旗下全球电商AI工作台Accio，也宣布",
+        "detail": "9月9日，苹果发布会同日，美国洛杉矶会展中心，阿里国际站一年一度的海外买家大会——CoCreate 2026开幕。美国当地超15000家中小企业到场，这一数字去年还停留在3000人。从B2B到A2A，1.5万美国老板在CoCreate现场寻找AI时代的下一门好生意，这也使得今年的CoCreate，成为了中国卖家探测海外真实市场水温的绝佳窗口。当日，阿里国际站旗下全球电商AI工作台Accio，也宣布",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "15000家美国中小企业到场，阿里国际站CoCreate峰会刷屏洛杉矶",
+        "link": "https://www.leiphone.com/category/industrynews/ylOQp1pLexaxs32B.html",
+        "description": "9月9日，美国洛杉矶会展中心，阿里国际站一年一度的海外买家大会——CoCreate 2026开幕。美国当地超15000家中小企业到场，这一数字去年还停留在3000人。&nbsp;（图：洛杉矶会展中心，CoCreate 迎来15000家美国中小企业）&nbsp;参会嘉宾，更是汇聚了一帮商业领域的大咖，全球支付与金融科技公司Fiserv首席执行官Takis Georgakopoulos，有“魔术师”之",
+        "detail": "9月9日，美国洛杉矶会展中心，阿里国际站一年一度的海外买家大会——CoCreate 2026开幕。美国当地超15000家中小企业到场，这一数字去年还停留在3000人。&nbsp;（图：洛杉矶会展中心，CoCreate 迎来15000家美国中小企业）&nbsp;参会嘉宾，更是汇聚了一帮商业领域的大咖，全球支付与金融科技公司Fiserv首席执行官Takis Georgakopoulos，有“魔术师”之",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "百度营销擎舵3.0与智能投放重磅发布，双擎驱动AI营销增长新范式",
+        "link": "https://www.leiphone.com/category/industrynews/yUOwpaiKQhm2TIFI.html",
+        "description": "9月9日，百度营销举办「AI 创无界 智投无忧」产品发布会，全面展示了依托AI技术重构创意生产与广告投放全链路的最新成果，并正式发布擎舵3.0营销创意智能体与全新升级的智能投放产品。百度2026年Q2财报显示，AI业务收入占比已经连续两个季度达到50%，AI 已经成为百度核心增长引擎。百度集团副总裁、移动生态大商业事业部总经理平晓黎在致辞中表示：百度营销已构建起覆盖创意生产、全域投放、长效经营的全",
+        "detail": "9月9日，百度营销举办「AI 创无界 智投无忧」产品发布会，全面展示了依托AI技术重构创意生产与广告投放全链路的最新成果，并正式发布擎舵3.0营销创意智能体与全新升级的智能投放产品。百度2026年Q2财报显示，AI业务收入占比已经连续两个季度达到50%，AI 已经成为百度核心增长引擎。百度集团副总裁、移动生态大商业事业部总经理平晓黎在致辞中表示：百度营销已构建起覆盖创意生产、全域投放、长效经营的全",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "营销科技巨头蓝色光标与全球达人营销 AI 平台 AhaCreator 达成深度合作，让品牌更高效连接全球 500 万创作者",
+        "link": "https://www.leiphone.com/category/industrynews/SryBDMCG0EzBrvqk.html",
+        "description": "【北京，2026年9月10日】 —— 营销科技巨头蓝色光标与全球达人营销 AI 平台 AhaCreator 正式宣布达成深度合作。蓝色光标将结合其全球营销服务能力、客户资源与品牌增长经验，向有境外达人营销需求的广告主提供AhaCreator 平台达人资源，为品牌全球化增长提供 AI 驱动的达人营销能力；AhaCreator 则提供覆盖 500 万名全球优质达人的资源网络（其中包括 15 万名在该平",
+        "detail": "【北京，2026年9月10日】 —— 营销科技巨头蓝色光标与全球达人营销 AI 平台 AhaCreator 正式宣布达成深度合作。蓝色光标将结合其全球营销服务能力、客户资源与品牌增长经验，向有境外达人营销需求的广告主提供AhaCreator 平台达人资源，为品牌全球化增长提供 AI 驱动的达人营销能力；AhaCreator 则提供覆盖 500 万名全球优质达人的资源网络（其中包括 15 万名在该平",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "国内首个\"产品级\"技术实力评价服务上线",
+        "link": "https://www.leiphone.com/category/industrynews/jjKrlqNpJ3OPIlQk.html",
+        "description": "9月9日，2026 年中国知识产权年会知识产权出版社同期活动上，国家知识产权局直属单位知识产权出版社联合蚂蚁集团旗下芝麻企业信用，正式发布“产品技术实力评价”服务。这是国内首个面向具体产品的技术实力评价服务——过去技术评价多落在企业层面或以专利数量为主，该服务将评价颗粒度下沉到“具体产品”，从技术、经济、时效三个维度综合评价，依据团体标准《产品技术实力评价报告》（ T/CEEAS 015-2026",
+        "detail": "9月9日，2026 年中国知识产权年会知识产权出版社同期活动上，国家知识产权局直属单位知识产权出版社联合蚂蚁集团旗下芝麻企业信用，正式发布“产品技术实力评价”服务。这是国内首个面向具体产品的技术实力评价服务——过去技术评价多落在企业层面或以专利数量为主，该服务将评价颗粒度下沉到“具体产品”，从技术、经济、时效三个维度综合评价，依据团体标准《产品技术实力评价报告》（ T/CEEAS 015-2026",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "雷锋网"
+      },
+      {
+        "title": "OpenAI might have stolen another major proof",
+        "link": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+        "description": "[HN] +47 points · 5 comments · by tamnd",
+        "detail": "[HN] +47 points · 5 comments · by tamnd",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+        "link": "https://hugovergnes.github.io/little-lm-3-8b/",
+        "description": "[HN] +35 points · 5 comments · by Anon84",
+        "detail": "[HN] +35 points · 5 comments · by Anon84",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "hackernews"
+      },
+      {
+        "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+        "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+        "description": "[HN] +33 points · 20 comments · by cpeterso",
+        "detail": "[HN] +33 points · 20 comments · by cpeterso",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Busabase for DeepSeek Harness: An Agent database that runs apps and skills",
+        "link": "https://github.com/busabase/busabase-dsh-plugin",
+        "description": "[HN] +4 points · 0 comments · by poppylorry",
+        "detail": "[HN] +4 points · 0 comments · by poppylorry",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-09",
     "weekday": "星期三",
     "summary": "OpenAI 新一代模型 GPT-6 Astra 发布即登顶各大榜单，同时 ChatGPT Sites 开启公测，一句话生成网站直指 SaaS 行业。蚂蚁百灵发布首个金融增强开放模型，AI 正式进入真实投研工作流。面壁智能开源 2B 端侧模型 MiniCPM5-2B，逼近人类水平。Grok Bot 宣布接管微软账号实现\"睡觉时替你上班\"，Agent 应用场景再拓宽。此外，Anthropic 内部\"失败团队\"机制引发社区热议。",
