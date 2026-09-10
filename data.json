@@ -2,7 +2,7 @@
   {
     "date": "2026-09-10",
     "weekday": "星期四",
-    "summary": "今日共收录 32 条 AI 动态。 来源包括：InfoQ 中文, Simon Willison, TechCrunch AI, 新智元, 极客公园, 量子位, 雷锋网。",
+    "summary": "今日共收录 48 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, Simon Willison, TechCrunch AI, 新智元, 极客公园, 量子位, 雷锋网。",
     "news": [
       {
         "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -21,6 +21,78 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "Simon Willison"
+      },
+      {
+        "title": "AI Observability by OpenObserve",
+        "link": "https://www.producthunt.com/products/openobserve",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Athenic AI",
+        "link": "https://www.producthunt.com/products/athenic-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Modeinspect - 99 Days Free AI",
+        "link": "https://www.producthunt.com/products/modeinspect-1-0",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "49agents IDE",
+        "link": "https://www.producthunt.com/products/49agents-ide",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "WorkID.ai",
+        "link": "https://www.producthunt.com/products/workid-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+        "link": "https://www.qbitai.com/2026/09/486684.html",
+        "description": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
+        "detail": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+        "link": "https://www.qbitai.com/2026/09/486651.html",
+        "description": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
+        "detail": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+        "link": "https://www.qbitai.com/2026/09/486625.html",
+        "description": "模型可以开源，部署经验不能",
+        "detail": "模型可以开源，部署经验不能",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
       },
       {
         "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
@@ -212,85 +284,40 @@
         "source": "极客公园"
       },
       {
-        "title": "15000家美国中小企业到场，阿里国际站CoCreate峰会刷屏洛杉矶",
-        "link": "https://www.leiphone.com/category/industrynews/5VPkJnqmy14BdymX.html",
-        "description": "9月9日，苹果发布会同日，美国洛杉矶会展中心，阿里国际站一年一度的海外买家大会——CoCreate 2026开幕。美国当地超15000家中小企业到场，这一数字去年还停留在3000人。从B2B到A2A，1.5万美国老板在CoCreate现场寻找AI时代的下一门好生意，这也使得今年的CoCreate，成为了中国卖家探测海外真实市场水温的绝佳窗口。当日，阿里国际站旗下全球电商AI工作台Accio，也宣布",
-        "detail": "9月9日，苹果发布会同日，美国洛杉矶会展中心，阿里国际站一年一度的海外买家大会——CoCreate 2026开幕。美国当地超15000家中小企业到场，这一数字去年还停留在3000人。从B2B到A2A，1.5万美国老板在CoCreate现场寻找AI时代的下一门好生意，这也使得今年的CoCreate，成为了中国卖家探测海外真实市场水温的绝佳窗口。当日，阿里国际站旗下全球电商AI工作台Accio，也宣布",
+        "title": "AI办公生态合作，离真正的「双赢」还有多远？",
+        "link": "https://www.leiphone.com/category/industrynews/8fZVRNXEBS8yb6r1.html",
+        "description": "AI办公大战硝烟再起：大厂不仅亲自下场，还跟生态伙伴联起手。此前雷峰网在《大厂AI To B大战，这回战场为什么是办公？》一文中曾提到，各家手里的牌不同，打法也各有侧重：腾讯C端基因重，做大WorkBuddy个人用户规模的同时，也在向企业端渗透；阿里手握大批企业客户，千问办公从B端直接切入；字节则把拥有庞大C端用户基数的豆包作为核心抓手，推出豆包工作。过去两个月，内部整合是三家大厂AI办公大战的主",
+        "detail": "AI办公大战硝烟再起：大厂不仅亲自下场，还跟生态伙伴联起手。此前雷峰网在《大厂AI To B大战，这回战场为什么是办公？》一文中曾提到，各家手里的牌不同，打法也各有侧重：腾讯C端基因重，做大WorkBuddy个人用户规模的同时，也在向企业端渗透；阿里手握大批企业客户，千问办公从B端直接切入；字节则把拥有庞大C端用户基数的豆包作为核心抓手，推出豆包工作。过去两个月，内部整合是三家大厂AI办公大战的主",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
       },
       {
-        "title": "15000家美国中小企业到场，阿里国际站CoCreate峰会刷屏洛杉矶",
-        "link": "https://www.leiphone.com/category/industrynews/ylOQp1pLexaxs32B.html",
-        "description": "9月9日，美国洛杉矶会展中心，阿里国际站一年一度的海外买家大会——CoCreate 2026开幕。美国当地超15000家中小企业到场，这一数字去年还停留在3000人。&nbsp;（图：洛杉矶会展中心，CoCreate 迎来15000家美国中小企业）&nbsp;参会嘉宾，更是汇聚了一帮商业领域的大咖，全球支付与金融科技公司Fiserv首席执行官Takis Georgakopoulos，有“魔术师”之",
-        "detail": "9月9日，美国洛杉矶会展中心，阿里国际站一年一度的海外买家大会——CoCreate 2026开幕。美国当地超15000家中小企业到场，这一数字去年还停留在3000人。&nbsp;（图：洛杉矶会展中心，CoCreate 迎来15000家美国中小企业）&nbsp;参会嘉宾，更是汇聚了一帮商业领域的大咖，全球支付与金融科技公司Fiserv首席执行官Takis Georgakopoulos，有“魔术师”之",
+        "title": "支付宝牵手飞猪，跟\"阿宝\"聊天就能订机票、买门票",
+        "link": "https://www.leiphone.com/category/industrynews/mU6QNK6pnwlyPtmi.html",
+        "description": "飞猪与AI版支付宝“阿宝”达成深度合作。用户向“阿宝”发出“一句话指令”，即可获得机票及景区门票预订，酒店会员注册、权益查询等服务。以机票预订为例，用户对“阿宝”说出类似“下周五上海飞成都，帮我订飞猪特价机票”的需求，“阿宝”自动识别城市、日期、价格划算等需求，并通过MCP（模型上下文协议）调用飞猪服务，返回带推荐理由的结果卡片，点击即可跳转至支付宝上的飞猪小程序完成下单。如果用户只提供了目的地，",
+        "detail": "飞猪与AI版支付宝“阿宝”达成深度合作。用户向“阿宝”发出“一句话指令”，即可获得机票及景区门票预订，酒店会员注册、权益查询等服务。以机票预订为例，用户对“阿宝”说出类似“下周五上海飞成都，帮我订飞猪特价机票”的需求，“阿宝”自动识别城市、日期、价格划算等需求，并通过MCP（模型上下文协议）调用飞猪服务，返回带推荐理由的结果卡片，点击即可跳转至支付宝上的飞猪小程序完成下单。如果用户只提供了目的地，",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
       },
       {
-        "title": "百度营销擎舵3.0与智能投放重磅发布，双擎驱动AI营销增长新范式",
-        "link": "https://www.leiphone.com/category/industrynews/yUOwpaiKQhm2TIFI.html",
-        "description": "9月9日，百度营销举办「AI 创无界 智投无忧」产品发布会，全面展示了依托AI技术重构创意生产与广告投放全链路的最新成果，并正式发布擎舵3.0营销创意智能体与全新升级的智能投放产品。百度2026年Q2财报显示，AI业务收入占比已经连续两个季度达到50%，AI 已经成为百度核心增长引擎。百度集团副总裁、移动生态大商业事业部总经理平晓黎在致辞中表示：百度营销已构建起覆盖创意生产、全域投放、长效经营的全",
-        "detail": "9月9日，百度营销举办「AI 创无界 智投无忧」产品发布会，全面展示了依托AI技术重构创意生产与广告投放全链路的最新成果，并正式发布擎舵3.0营销创意智能体与全新升级的智能投放产品。百度2026年Q2财报显示，AI业务收入占比已经连续两个季度达到50%，AI 已经成为百度核心增长引擎。百度集团副总裁、移动生态大商业事业部总经理平晓黎在致辞中表示：百度营销已构建起覆盖创意生产、全域投放、长效经营的全",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "营销科技巨头蓝色光标与全球达人营销 AI 平台 AhaCreator 达成深度合作，让品牌更高效连接全球 500 万创作者",
-        "link": "https://www.leiphone.com/category/industrynews/SryBDMCG0EzBrvqk.html",
-        "description": "【北京，2026年9月10日】 —— 营销科技巨头蓝色光标与全球达人营销 AI 平台 AhaCreator 正式宣布达成深度合作。蓝色光标将结合其全球营销服务能力、客户资源与品牌增长经验，向有境外达人营销需求的广告主提供AhaCreator 平台达人资源，为品牌全球化增长提供 AI 驱动的达人营销能力；AhaCreator 则提供覆盖 500 万名全球优质达人的资源网络（其中包括 15 万名在该平",
-        "detail": "【北京，2026年9月10日】 —— 营销科技巨头蓝色光标与全球达人营销 AI 平台 AhaCreator 正式宣布达成深度合作。蓝色光标将结合其全球营销服务能力、客户资源与品牌增长经验，向有境外达人营销需求的广告主提供AhaCreator 平台达人资源，为品牌全球化增长提供 AI 驱动的达人营销能力；AhaCreator 则提供覆盖 500 万名全球优质达人的资源网络（其中包括 15 万名在该平",
+        "title": "量子计算这个“狼”，真的要来了吗？中科大“量子鬼才”陆朝阳外滩大会回应",
+        "link": "https://www.leiphone.com/category/industrynews/a38GntcRdKD8JNCt.html",
+        "description": "量子计算这个“狼”，真的要来了吗？9月10日，在2026 Inclusion·外滩大会主论坛上，中国科学技术大学上海研究院执行院长陆朝阳教授给火热的量子计算“降了降温”。“量子计算虽然很卷，目前其实还很‘菜’。”陆朝阳说。&nbsp;在他看来，量子计算当然重要，但它并不是一台“加速一切”的超级机器，只有对少数具有特殊数学结构的问题，量子计算才能提供真正的加速。至少到目前为止，没有科学界公认的证据表",
+        "detail": "量子计算这个“狼”，真的要来了吗？9月10日，在2026 Inclusion·外滩大会主论坛上，中国科学技术大学上海研究院执行院长陆朝阳教授给火热的量子计算“降了降温”。“量子计算虽然很卷，目前其实还很‘菜’。”陆朝阳说。&nbsp;在他看来，量子计算当然重要，但它并不是一台“加速一切”的超级机器，只有对少数具有特殊数学结构的问题，量子计算才能提供真正的加速。至少到目前为止，没有科学界公认的证据表",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
       },
       {
-        "title": "国内首个\"产品级\"技术实力评价服务上线",
-        "link": "https://www.leiphone.com/category/industrynews/jjKrlqNpJ3OPIlQk.html",
-        "description": "9月9日，2026 年中国知识产权年会知识产权出版社同期活动上，国家知识产权局直属单位知识产权出版社联合蚂蚁集团旗下芝麻企业信用，正式发布“产品技术实力评价”服务。这是国内首个面向具体产品的技术实力评价服务——过去技术评价多落在企业层面或以专利数量为主，该服务将评价颗粒度下沉到“具体产品”，从技术、经济、时效三个维度综合评价，依据团体标准《产品技术实力评价报告》（ T/CEEAS 015-2026",
-        "detail": "9月9日，2026 年中国知识产权年会知识产权出版社同期活动上，国家知识产权局直属单位知识产权出版社联合蚂蚁集团旗下芝麻企业信用，正式发布“产品技术实力评价”服务。这是国内首个面向具体产品的技术实力评价服务——过去技术评价多落在企业层面或以专利数量为主，该服务将评价颗粒度下沉到“具体产品”，从技术、经济、时效三个维度综合评价，依据团体标准《产品技术实力评价报告》（ T/CEEAS 015-2026",
-        "tag": "新功能",
-        "sort_score": 82,
-        "source": "雷锋网"
-      },
-      {
-        "title": "OpenAI might have stolen another major proof",
-        "link": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
-        "description": "[HN] +47 points · 5 comments · by tamnd",
-        "detail": "[HN] +47 points · 5 comments · by tamnd",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
-      },
-      {
-        "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-        "link": "https://hugovergnes.github.io/little-lm-3-8b/",
-        "description": "[HN] +35 points · 5 comments · by Anon84",
-        "detail": "[HN] +35 points · 5 comments · by Anon84",
-        "tag": "工具与生态",
-        "sort_score": 76,
-        "source": "hackernews"
-      },
-      {
-        "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-        "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-        "description": "[HN] +33 points · 20 comments · by cpeterso",
-        "detail": "[HN] +33 points · 20 comments · by cpeterso",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
-      },
-      {
-        "title": "Busabase for DeepSeek Harness: An Agent database that runs apps and skills",
-        "link": "https://github.com/busabase/busabase-dsh-plugin",
-        "description": "[HN] +4 points · 0 comments · by poppylorry",
-        "detail": "[HN] +4 points · 0 comments · by poppylorry",
+        "title": "两项智能体安全团体标准启动，共筑智能体规模化应用安全基线",
+        "link": "https://www.leiphone.com/category/industrynews/UVg3ZmRYAD7RuGT2.html",
+        "description": "9月9日下午，在2026 Inclusion·外滩大会“智能体时代的安全坐标与责任边界”见解论坛上，《智能体身份鉴别与授权技术框架》《智能体运行时安全技术要求》两项团体标准正式启动。&nbsp;两项标准由中国网络空间安全协会提出，蚂蚁集团联合研究院所、运营商、互联网厂商等单位共同参与编制，旨在推动智能体安全从企业技术实践走向行业共同规范。&nbsp;随着大模型能力持续提升，智能体正从提供信息和生成",
+        "detail": "9月9日下午，在2026 Inclusion·外滩大会“智能体时代的安全坐标与责任边界”见解论坛上，《智能体身份鉴别与授权技术框架》《智能体运行时安全技术要求》两项团体标准正式启动。&nbsp;两项标准由中国网络空间安全协会提出，蚂蚁集团联合研究院所、运营商、互联网厂商等单位共同参与编制，旨在推动智能体安全从企业技术实践走向行业共同规范。&nbsp;随着大模型能力持续提升，智能体正从提供信息和生成",
         "tag": "Agent 进展",
         "sort_score": 88,
-        "source": "hackernews"
+        "source": "雷锋网"
       }
     ]
   },
