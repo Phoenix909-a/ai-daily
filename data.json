@@ -2,103 +2,166 @@
   {
     "date": "2026-09-11",
     "weekday": "星期五",
-    "summary": "DeepSeek 正式发布 V4.1 Flash，采用全新 Causal-Encoder-Decoder 结构，全面超越 V4 Pro 并最高降价 60%。OpenAI 官宣内部模型破解千禧年难题纳维-斯托克斯方程，引发数学界震动，陶哲轩公开表达担忧。Anthropic 核心预训练研究员离职长文浏览破亿，直言十年内 AI 灭绝人类概率超 10%。谷歌第七代 TPU Ironwood 首份第三方推理性能测算发布，直指英伟达 CUDA 护城河。",
+    "summary": "OpenAI 发布 Agents API 公开测试版，开发者可构建云端自主智能体，运行数小时并支持子智能体任务交接。DeepSeek 推出 v4.1 Flash 模型，社区迅速出现去审查版本。Google Gemini 应用正式登陆 Windows 平台。OpenAI 将一位「AI 末日论」者引入董事会，引发广泛讨论。",
     "news": [
       {
-        "title": "Datasette 发布 1.0a39 与 0.65.4 安全补丁版本",
+        "title": "OpenAI 发布 Agents API 公测版，开放 Codex 与 ChatGPT 底层能力",
+        "link": "https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/",
+        "description": "OpenAI 推出 Agents API 公测，开发者可构建云端智能体。",
+        "detail": "OpenAI 正式发布 Agents API 公测版，该 API 提供了支撑 Codex 和 ChatGPT 的底层基础设施。开发者可利用它构建和部署云端智能体，标志着 OpenAI 在 Agent 生态上的重要开放。",
+        "tag": "Agent 进展",
+        "sort_score": 92,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Datasette 发布 1.0a39 和 0.65.4 安全补丁版本",
         "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
-        "description": "Datasette 发布两个安全补丁版本，修复潜在漏洞。",
-        "detail": "Datasette 今日发布 1.0a39 和 0.65.4 两个安全补丁版本，主要针对已知安全漏洞进行修复。建议所有用户尽快升级以确保数据安全。",
+        "description": "Datasette 发布两个安全修复版本，建议用户升级。",
+        "detail": "Datasette 发布了 1.0a39 和 0.65.4 两个安全补丁版本，修复了潜在的安全漏洞。官方建议所有用户尽快升级以确保数据安全。",
         "tag": "工具与生态",
-        "sort_score": 65,
+        "sort_score": 60,
         "source": "Simon Willison"
+      },
+      {
+        "title": "easyspecs.ai 产品发布",
+        "link": "https://www.producthunt.com/products/easyspecs-ai",
+        "description": "easyspecs.ai 上线，具体功能未详细说明。",
+        "detail": "easyspecs.ai 作为新产品亮相，但官方未提供详细功能描述。目前仅知其可能涉及 AI 规格或规范相关工具。",
+        "tag": "工具与生态",
+        "sort_score": 40,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "OpenObserve 推出 AI 可观测性功能",
+        "link": "https://www.producthunt.com/products/openobserve",
+        "description": "OpenObserve 新增 AI 可观测性，提升监控能力。",
+        "detail": "OpenObserve 宣布推出 AI Observability 功能，旨在帮助用户监控和优化 AI 系统的性能与可靠性。该功能可能集成到现有可观测性平台中。",
+        "tag": "新功能",
+        "sort_score": 70,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Athenic AI 产品发布",
+        "link": "https://www.producthunt.com/products/athenic-ai",
+        "description": "Athenic AI 亮相，具体细节未公开。",
+        "detail": "Athenic AI 作为新产品发布，但缺乏详细功能说明。目前仅知其可能涉及 AI 分析或决策领域。",
+        "tag": "工具与生态",
+        "sort_score": 40,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "WorkID.ai 产品发布",
+        "link": "https://www.producthunt.com/products/workid-ai",
+        "description": "WorkID.ai 上线，具体功能未详细说明。",
+        "detail": "WorkID.ai 作为新产品亮相，但官方未提供详细功能描述。目前仅知其可能涉及 AI 身份或工作管理相关工具。",
+        "tag": "工具与生态",
+        "sort_score": 40,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "墨芯人工智能亮相外滩大会，展示稀疏推理芯片",
+        "link": "https://www.qbitai.com/2026/09/487273.html",
+        "description": "墨芯人工智能在外滩大会展示专用稀疏推理芯片。",
+        "detail": "墨芯人工智能在 2026 Inclusion·外滩大会上展示了其专用稀疏推理芯片，旨在提升算力效能并推动 AI 新经济发展。该芯片针对稀疏计算优化，有望降低推理成本。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "量子位"
       },
       {
         "title": "量子位启动 MEET2027 智能未来大会及年度榜单征集",
         "link": "https://www.qbitai.com/2026/09/487176.html",
-        "description": "量子位宣布 MEET2027 大会启动，年度榜单征集进行中。",
-        "detail": "量子位正式启动 MEET2027 智能未来大会，将于今年12月在北京举办。同时，年度榜单征集活动正在进行中，旨在评选 AI 领域杰出贡献者。",
+        "description": "量子位启动 MEET2027 大会，年度榜单征集进行中。",
+        "detail": "量子位宣布启动 MEET2027 智能未来大会，将于今年 12 月在北京举行。同时，年度榜单征集活动正在进行中，旨在评选 AI 领域杰出贡献者。",
         "tag": "行业动态",
-        "sort_score": 60,
+        "sort_score": 50,
         "source": "量子位"
       },
       {
-        "title": "3万台无人车后，该公司转向城市级物理 AI",
+        "title": "3 万台无人车后，该公司转向城市级物理 AI",
         "link": "https://www.qbitai.com/2026/09/487163.html",
-        "description": "某公司在部署3万台无人车后，瞄准城市级物理 AI。",
-        "detail": "在成功部署3万台无人车之后，该公司将战略重点转向城市级物理 AI，旨在通过大规模物理世界交互推动 AI 发展。",
+        "description": "某公司部署 3 万台无人车后，进军城市级物理 AI。",
+        "detail": "在成功部署 3 万台无人车之后，该公司将目光投向城市级物理 AI，旨在通过大规模物理世界数据训练更强大的 AI 系统。这标志着从自动驾驶向更广泛物理智能的扩展。",
         "tag": "行业动态",
-        "sort_score": 70,
+        "sort_score": 75,
         "source": "量子位"
       },
       {
         "title": "OpenAI 被曝用千禧年难题霍奇猜想作为 Benchmark",
         "link": "https://www.qbitai.com/2026/09/487092.html",
-        "description": "爆料称 OpenAI 将霍奇猜想作为模型基准测试。",
-        "detail": "有爆料指出，OpenAI 正在使用千禧年难题之一的霍奇猜想作为其模型的 Benchmark，引发社区对 AI 数学能力的讨论。",
-        "tag": "公司动态",
-        "sort_score": 75,
+        "description": "爆料称 OpenAI 将霍奇猜想用作模型评测基准。",
+        "detail": "有爆料指出，OpenAI 正在使用千禧年难题之一的霍奇猜想作为 Benchmark 来评估模型能力。这引发了关于 AI 是否真正理解数学难题的讨论。",
+        "tag": "行业动态",
+        "sort_score": 70,
         "source": "量子位"
       },
       {
-        "title": "RunningHub 让 MiniMax H3 推理提速12倍，支持本地部署",
+        "title": "RunningHub 让 MiniMax H3 提速 12 倍，支持本地部署",
         "link": "https://www.qbitai.com/2026/09/487055.html",
-        "description": "RunningHub 优化 MiniMax H3，实现12倍推理加速。",
-        "detail": "开源项目 RunningHub 对 MiniMax H3 模型进行优化，使其推理速度提升12倍，并支持本地部署，15秒视频仅需50秒即可生成。",
+        "description": "RunningHub 优化 MiniMax H3，推理速度提升 12 倍。",
+        "detail": "开源项目 RunningHub 宣布对 MiniMax H3 模型进行优化，使其推理速度提升 12 倍，并支持本地部署。15 秒视频仅需 50 秒即可生成，大幅提升效率。",
         "tag": "工具与生态",
         "sort_score": 80,
         "source": "量子位"
       },
       {
-        "title": "苹果发布首款折叠 iPhone，AI 支持中文并覆盖25亿设备",
+        "title": "Meshy 提出角色驱动 SPMD 范式的 RL 训练框架",
+        "link": "https://aiera.com.cn/2026/09/11/other/admin/113215/meshy-%e8%a7%92%e8%89%b2%e9%a9%b1%e5%8a%a8%e4%b8%8b-spmd-%e8%8c%83%e5%bc%8f%e7%9a%84-rl-%e8%ae%ad%e7%bb%83%e6%a1%86%e6%9e%b6/",
+        "description": "Meshy 团队发布角色驱动 SPMD 强化学习训练框架。",
+        "detail": "Meshy 团队提出了一种角色驱动的 SPMD 范式强化学习训练框架，旨在提升多智能体训练效率。该框架可能应用于复杂环境下的协作任务。",
+        "tag": "Agent 进展",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "苹果发布首款折叠 iPhone，AI 支持中文",
         "link": "https://aiera.com.cn/2026/09/11/other/admin/113212/%e5%88%9a%e5%88%9a%ef%bc%8c%e7%ac%ac%e4%b8%80%e5%8f%b0%e6%8a%98%e5%8f%a0iphone%e6%9d%a5%e4%ba%86%ef%bc%81%e8%8b%b9%e6%9e%9cai%e8%a6%81%e7%bb%9925%e4%ba%bf%e8%ae%be%e5%a4%87%e6%8d%a2%e8%84%91%ef%bc%8c/",
-        "description": "苹果推出折叠 iPhone，AI 功能支持中文。",
-        "detail": "苹果正式发布首款折叠 iPhone，新掌门 John Ternus 亮相。苹果 AI 将覆盖25亿设备，并新增中文支持，标志着苹果在 AI 领域的重大推进。",
-        "tag": "新功能",
+        "description": "苹果推出折叠屏 iPhone，AI 功能支持中文。",
+        "detail": "苹果正式发布首款折叠屏 iPhone，新掌门 John Ternus 登台。该设备搭载的 AI 功能将支持中文，并计划为 25 亿设备升级 AI 能力。",
+        "tag": "公司动态",
         "sort_score": 85,
         "source": "新智元"
       },
       {
         "title": "谷歌 TPU Ironwood 推理性能曝光，英伟达 CUDA 护城河受挑战",
         "link": "https://aiera.com.cn/2026/09/11/other/admin/113164/%e9%bb%84%e4%bb%81%e5%8b%8b%e4%b8%89%e6%ac%a1%e6%96%ad%e8%a8%80%e7%bf%bb%e8%bd%a6%ef%bc%81cuda%e6%8a%a4%e5%9f%8e%e6%b2%b3%ef%bc%8c%e8%a2%ab%e8%b0%b7%e6%ad%8c%e4%b8%80%e8%a1%8c%e4%bb%a3%e7%a0%81/",
-        "description": "谷歌第七代 TPU 推理性能测算发布，挑战英伟达。",
-        "detail": "SemiAnalysis 发布谷歌第七代 TPU Ironwood 的首份第三方推理性能测算，显示其推理性价比超越英伟达，可能动摇 CUDA 生态护城河。",
+        "description": "谷歌第七代 TPU 推理性能测算显示性价比优势。",
+        "detail": "SemiAnalysis 发布谷歌第七代 TPU Ironwood 的首份第三方推理性能测算，显示其推理性价比超越英伟达。黄仁勋此前三次断言 CUDA 护城河坚固，如今被谷歌一行代码凿穿。",
         "tag": "对比评测",
         "sort_score": 88,
         "source": "新智元"
       },
       {
-        "title": "Anthropic 对齐负责人称十年内 AI 灭绝人类概率超10%",
+        "title": "Anthropic 对齐负责人称十年内 AI 灭绝人类概率超 10%",
         "link": "https://aiera.com.cn/2026/09/11/other/admin/113142/%e6%b5%8f%e8%a7%88%e7%a0%b4%e4%ba%bf%ef%bc%81anthropic%e5%af%b9%e9%bd%90%e8%b4%9f%e8%b4%a3%e4%ba%ba%e4%ba%b2%e8%ae%a4%ef%bc%9a%e5%8d%81%e5%b9%b4%e5%86%85ai%e7%81%ad%e7%bb%9d%e4%ba%ba%e7%b1%bb%e6%a6%82/",
-        "description": "Anthropic 研究员离职长文引发 AI 灭绝风险讨论。",
-        "detail": "Anthropic 核心预训练研究员离职并发布长文，称十年内 AI 灭绝人类概率超过10%，该文在 X 上浏览量破亿，引发广泛关注。",
+        "description": "Anthropic 核心研究员离职长文引发 AI 灭绝风险讨论。",
+        "detail": "Anthropic 对齐负责人发布离职长文，认为十年内 AI 导致人类灭绝的概率超过 10%。该文在 X 上浏览量破亿，引发广泛关注和讨论。",
         "tag": "行业动态",
         "sort_score": 80,
         "source": "新智元"
       },
       {
-        "title": "研究称大模型教学需真实数据，训出60个数字学生",
+        "title": "研究称大模型是演技派，用真实数据训出 60 个数字学生",
         "link": "https://aiera.com.cn/2026/09/11/other/admin/113119/%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%85%a8%e6%98%af%e6%bc%94%e6%8a%80%e6%b4%be%ef%bc%81ai%e6%95%99%e5%ad%a6%e7%9a%84%e6%ad%a3%e7%a1%ae%e6%96%b9%e5%bc%8f%ef%bc%9a%e7%94%a8%e7%9c%9f%e5%ae%9e%e6%95%b0%e6%8d%ae/",
-        "description": "研究提出用真实数据训练数字学生改进 AI 教学。",
-        "detail": "一项研究指出，当前大模型在教学任务中表现像演技派，正确方式是用真实数据训练出60个数字学生，以提升 AI 教学效果。",
+        "description": "AI 教学新方式：用真实数据训练数字学生。",
+        "detail": "研究指出大模型在教学场景中可能只是“演技派”，而正确方式是用真实数据训练出 60 个数字学生。这些数字学生能更真实地模拟学习过程，提升教学效果。",
         "tag": "行业动态",
         "sort_score": 70,
         "source": "新智元"
       },
       {
-        "title": "中国开源全新交互 AI 模型，性能力压 Gemini",
+        "title": "中国开源全新交互 AI 模型，力压 Gemini",
         "link": "https://aiera.com.cn/2026/09/11/other/admin/113107/%e9%87%8d%e7%a3%85%ef%bc%81%e5%8a%9b%e5%8e%8bgemini%ef%bc%8c%e4%b8%ad%e5%9b%bd%e5%bc%80%e6%ba%90%e5%85%a8%e6%96%b0%e4%ba%a4%e4%ba%92ai%e6%a8%a1%e5%9e%8b/",
-        "description": "中国开源交互 AI 模型发布，性能超越 Gemini。",
-        "detail": "中国团队开源了一款全新交互 AI 模型，在多项任务上力压 Gemini，特别在视障辅助等场景中表现出色，强调实用交互而非泛泛聊天。",
+        "description": "中国开源交互 AI 模型在评测中超越 Gemini。",
+        "detail": "中国团队开源了一款全新交互 AI 模型，在多项评测中力压 Gemini。该模型特别关注视障用户需求，能提供周围环境描述和注意事项。",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "新智元"
       },
       {
-        "title": "陶哲轩批评 OpenAI 破解纳维-斯托克斯方程破坏数学开放传统",
+        "title": "陶哲轩愤怒发文：AI 正杀死数学百年开放传统",
         "link": "https://aiera.com.cn/2026/09/11/other/admin/113091/%e9%99%b6%e5%93%b2%e8%bd%a9%e6%84%a4%e6%80%92%e5%8f%91%e6%96%87%ef%bc%9aai%e6%ad%a3%e6%9d%80%e6%ad%bb%e6%95%b0%e5%ad%a6%e7%99%be%e5%b9%b4%e5%bc%80%e6%94%be%e4%bc%a0%e7%bb%9f%ef%bc%81/",
-        "description": "陶哲轩发文批评 OpenAI 破解数学难题方式。",
-        "detail": "OpenAI 宣布内部模型破解千禧年难题纳维-斯托克斯方程，数学家陶哲轩愤怒发文，指责此举正在杀死数学百年开放传统。",
+        "description": "陶哲轩批评 AI 破解数学难题破坏开放传统。",
+        "detail": "数学家陶哲轩愤怒发文，指责 OpenAI 用内部模型破解纳维-斯托克斯方程等千禧年难题，却未公开细节，正在杀死数学百年开放传统。此事引发全网热议。",
         "tag": "行业动态",
         "sort_score": 85,
         "source": "新智元"
@@ -106,44 +169,71 @@
       {
         "title": "OpenAI 任命 AI 末日论者进入董事会",
         "link": "https://aiera.com.cn/2026/09/11/other/admin/113077/openai%e6%8a%8a%e3%80%8c%e6%9c%ab%e6%97%a5%e8%ae%ba%e8%80%85%e3%80%8d%e8%af%b7%e8%bf%9b%e8%91%a3%e4%ba%8b%e4%bc%9a%ef%bc%81%e5%88%9a%e4%b8%8a%e4%bb%bb%e5%b0%b1%e5%bc%80%e7%82%ae%ef%bc%9aai%e5%8f%af/",
-        "description": "OpenAI 将 AI 末日论者引入董事会。",
-        "detail": "OpenAI 官宣一项重磅人事任命，将一位 AI 末日论者请进董事会。该新董事刚上任就警告 AI 可能杀死多数人，引发内部争议。",
+        "description": "OpenAI 将 AI 末日论者请进董事会，引发争议。",
+        "detail": "OpenAI 官宣任命一位 AI 末日论者进入董事会，该人士刚上任就警告 AI 可能杀死多数人。这一人事变动引发了对 OpenAI 安全立场的质疑。",
         "tag": "公司动态",
         "sort_score": 75,
         "source": "新智元"
       },
       {
-        "title": "AI 大会探讨中国 AI 发展方案，聚焦芯片自研",
+        "title": "AI 大会探讨中国 AI 发展方案",
         "link": "https://aiera.com.cn/2026/09/11/other/admin/113062/%e4%b8%80%e5%9c%baai%e5%a4%a7%e4%bc%9a%ef%bc%8c%e7%bb%99%e5%87%ba%e4%b8%ad%e5%9b%bdai%e6%9c%80%e6%80%a5%e9%9c%80%e7%9a%84%e4%b8%ad%e5%9b%bd%e6%96%b9%e6%a1%88/",
-        "description": "AI 大会讨论中国 AI 急需方案，涉及芯片自研。",
-        "detail": "一场 AI 大会聚焦中国 AI 发展，讨论为何 OpenAI 和 Anthropic 都开始自研芯片，并提出中国 AI 急需的解决方案。",
+        "description": "中国 AI 大会聚焦本土化发展方案。",
+        "detail": "一场 AI 大会讨论了为什么 OpenAI 和 Anthropic 都开始自研芯片，并给出中国 AI 最急需的中国方案。会议聚焦于芯片自主和生态建设。",
         "tag": "行业动态",
-        "sort_score": 65,
+        "sort_score": 60,
         "source": "新智元"
       },
       {
-        "title": "AMD 发布锐龙 AI Max PRO 400 系列，推动端侧智能体多模型协同",
+        "title": "JDD 大会观察：AI 写更多代码，企业为何没跑更快？",
+        "link": "https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&utm_medium=article",
+        "description": "JDD 大会探讨 AI 编码与企业效率的落差。",
+        "detail": "在 JDD 大会现场，观察指出尽管 AI 能写出更多代码，但企业并未因此跑得更快。问题可能在于工程流程、协作方式等未同步优化。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Snowflake World Tour：AI 有了工号，数据平台长出手",
+        "link": "https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&utm_medium=article",
+        "description": "Snowflake 大会展示 AI 与数据平台融合新变化。",
+        "detail": "在 Snowflake World Tour 上，观察到三个变化：AI 有了“工号”，数据平台长出了“手”。这暗示 AI 正深度融入企业数据工作流，成为可管理的数字员工。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "刘震云对话马毅：AI 模仿不了人写不出的作品",
+        "link": "https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7?utm_source=rss&utm_medium=article",
+        "description": "刘震云与马毅探讨 AI 与人类创作边界。",
+        "detail": "作家刘震云与学者马毅对话，认为人写不出来、想不到的作品，AI 也模仿不了。双方探讨了 AI 在创造性领域的局限性。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AMD 发布锐龙 AI Max PRO 400 系列，端侧智能体走向多模型协同",
         "link": "https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article",
-        "description": "AMD 推出新处理器，支持端侧多模型协同。",
-        "detail": "AMD 发布锐龙 AI Max PRO 400 系列处理器，专为端侧智能体设计，支持多模型协同，提升本地 AI 推理能力。",
+        "description": "AMD 推出锐龙 AI Max PRO 400，支持端侧多模型协同。",
+        "detail": "AMD 发布锐龙 AI Max PRO 400 系列处理器，旨在推动端侧智能体走向多模型协同。该系列芯片可能为本地 AI 应用提供更强算力。",
         "tag": "新功能",
         "sort_score": 80,
         "source": "InfoQ 中文"
       },
       {
-        "title": "从构建 AI 到驾驭 AI：深水区六大工程问题解析",
+        "title": "从构建 AI 到驾驭 AI：搞定深水区 6 个工程问题",
         "link": "https://www.infoq.cn/article/PyUlLla6MWSSoRLiDKbu?utm_source=rss&utm_medium=article",
-        "description": "文章探讨驾驭 AI 的六个工程问题。",
-        "detail": "文章深入分析从构建 AI 到驾驭 AI 的转变，提出深水区需要解决的六个关键工程问题，为 AI 落地提供指导。",
-        "tag": "工具与生态",
-        "sort_score": 70,
+        "description": "文章探讨驾驭 AI 需解决的 6 个工程问题。",
+        "detail": "文章指出，从构建 AI 到驾驭 AI 的转变中，企业需解决 6 个深水区工程问题，包括可靠性、可观测性、成本控制等。",
+        "tag": "行业动态",
+        "sort_score": 65,
         "source": "InfoQ 中文"
       },
       {
-        "title": "早报：iPhone Duo 炒作、人人影视回归下架、高德上线避雷指南",
+        "title": "早报：iPhone Duo 提前开炒，人人影视回归再下架",
         "link": "https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "今日早报涵盖 iPhone Duo、人人影视、高德等动态。",
-        "detail": "早报内容包括：iPhone Duo 提前炒作最高挂价9.9万；人人影视回归约10天后再次下架；高德上线避雷指南1.0；OpenAI 限制竞品广告等。",
+        "description": "早报汇总：iPhone Duo 炒作、人人影视下架等。",
+        "detail": "今日早报包括：iPhone Duo 提前开炒最高挂 9.9 万，人人影视回归约 10 天再次下架，高德上线避雷指南 1.0。此外，OpenAI 限制竞品在 ChatGPT 投放广告。",
         "tag": "行业动态",
         "sort_score": 50,
         "source": "爱范儿"
@@ -151,83 +241,83 @@
       {
         "title": "派早报：商务部回应美国 AI 蒸馏指控，DeepSeek V4.1 发布",
         "link": "https://sspai.com/post/114439",
-        "description": "派早报报道商务部回应、谷歌降级、DeepSeek 发布等。",
-        "detail": "派早报要点：商务部回应美国 AI 蒸馏指控；谷歌为合规将降级欧盟搜索服务；Apple 智能将有用量限制；OpenAI 与三星合作开发芯片；DeepSeek V4.1 发布。",
+        "description": "派早报：商务部回应 AI 蒸馏指控，DeepSeek V4.1 发布。",
+        "detail": "派早报报道：商务部回应美国 AI 蒸馏指控；谷歌为合规将降级欧盟搜索服务；Apple 智能将有用量限制；OpenAI 将与三星合作开发芯片；DeepSeek V4.1 发布。",
         "tag": "行业动态",
         "sort_score": 70,
         "source": "少数派"
       },
       {
-        "title": "DeepSeek V4.1 Flash 发布，性能超越 V4 Pro 并降价60%",
+        "title": "DeepSeek V4.1 Flash 发布，全面超越 V4 Pro 并降价 60%",
         "link": "http://www.geekpark.net/news/370157",
-        "description": "DeepSeek 发布 V4.1 Flash 模型，性能提升且降价。",
-        "detail": "深度求索正式发布 DeepSeek V4.1 Flash 模型，全面超越 V4 Pro，支持原生多模态视觉理解，最高降价60%，性价比显著提升。",
+        "description": "DeepSeek 发布 V4.1 Flash，性能超越 V4 Pro 且降价。",
+        "detail": "深度求索正式发布 DeepSeek V4.1 Flash 模型，全面超越 V4 Pro，支持原生多模态视觉理解，最高降价 60%。该模型可能进一步降低 AI 应用成本。",
         "tag": "模型发布",
         "sort_score": 95,
         "source": "极客公园"
       },
       {
-        "title": "黄山等景区接入支付宝阿宝，文旅行业加速智能服务",
-        "link": "https://www.leiphone.com/category/industrynews/DQPAnyOUCjOHfOfb.html",
-        "description": "支付宝阿宝接入多个景区，推动智能服务。",
-        "detail": "黄山、万岁山等景区接入支付宝“阿宝”智能体，蚂蚁集团 CEO 韩歆毅表示将推出智能体激励政策，推动文旅行业智能服务升级。",
-        "tag": "新功能",
-        "sort_score": 75,
-        "source": "雷锋网"
-      },
-      {
-        "title": "2026 蚂蚁 InTech 奖揭晓，申报量增长近4倍",
-        "link": "https://www.leiphone.com/category/industrynews/udT6VNcjzp53ZOxl.html",
-        "description": "蚂蚁 InTech 奖颁奖，申报量大幅增长。",
-        "detail": "2026 蚂蚁 InTech 奖在外滩大会揭晓，10位青年科学家获科技奖，每人20万元。申报量较首届增长近4倍，显示 AI 领域热度。",
-        "tag": "行业动态",
-        "sort_score": 60,
-        "source": "雷锋网"
-      },
-      {
-        "title": "碳硅道统：十维标尺度量 GPT-4o 等模型",
-        "link": "https://www.leiphone.com/category/industrynews/axZgHIEEb5Xpoh4A.html",
-        "description": "文章提出十维标尺度量多个主流模型。",
-        "detail": "文章提出“碳硅道统”概念，用十维标尺度量 GPT-4o、Claude 3.5 Sonnet、Gemini 2.0 Flash、o1-preview 等模型，分析其拟合圈层。",
-        "tag": "对比评测",
-        "sort_score": 65,
-        "source": "雷锋网"
-      },
-      {
-        "title": "碳硅道统：归零稳态的系统边界探讨",
-        "link": "https://www.leiphone.com/category/industrynews/ZHU0W8KYCimHlbZh.html",
-        "description": "文章探讨归零稳态的系统边界与架构收敛。",
-        "detail": "文章继续“碳硅道统”系列，讨论归零稳态的系统边界，提出边界先天存在，架构随之收敛，涉及 AI 系统设计哲学。",
-        "tag": "行业动态",
-        "sort_score": 40,
-        "source": "雷锋网"
-      },
-      {
-        "title": "专家探讨世界模型如何走向物理世界",
-        "link": "https://www.leiphone.com/category/industrynews/ep5FMJuV8lEiAJgr.html",
-        "description": "专家讨论世界模型在物理世界的应用挑战。",
-        "detail": "文章汇集专家观点，探讨世界模型如何从屏幕走向物理世界，应对自动驾驶、机器人等场景中的感知、决策与行动挑战。",
-        "tag": "行业动态",
-        "sort_score": 70,
-        "source": "雷锋网"
-      },
-      {
-        "title": "学生如何看待 AI：HN 讨论",
-        "link": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
-        "description": "HN 帖子讨论学生对 AI 的看法。",
-        "detail": "Hacker News 上一条关于“我的学生如何看待 AI”的帖子引发讨论，获得26点投票和4条评论，反映教育领域对 AI 的认知。",
+        "title": "碳硅道统：五级梯队智能分级与十维标尺对应",
+        "link": "https://www.leiphone.com/category/industrynews/GnvSuKkQXe3JRPJE.html",
+        "description": "文章提出五级智能分级与十维标尺的对应体系。",
+        "detail": "文章提出碳硅道统的五级梯队智能分级，从一阶鹦鹉到五阶，并与十维标尺对应。旨在为智能系统提供定位框架。",
         "tag": "行业动态",
         "sort_score": 30,
-        "source": "hackernews"
+        "source": "雷锋网"
       },
       {
-        "title": "在 Mac 上使用 Ollama 和 sbx 设置 OpenCode",
-        "link": "https://tensorsandtokens.com/posts/opencode-ollama/",
-        "description": "教程介绍在 Mac 上配置 OpenCode 与 Ollama。",
-        "detail": "一篇 HN 帖子分享如何在 Mac 上使用 Ollama 和 sbx 设置 OpenCode，获得22点投票和11条评论，为开发者提供本地 AI 编码环境搭建指南。",
-        "tag": "工具与生态",
-        "sort_score": 60,
-        "source": "hackernews"
+        "title": "碳硅道统：100 质询的反证力量与觉知链闭环",
+        "link": "https://www.leiphone.com/category/industrynews/FQFJwTQvuiRQbu2q.html",
+        "description": "文章阐述 100 质询对碳硅道统体系的反证与闭环。",
+        "detail": "文章讨论 100 质询作为反证点，试图推翻碳硅道统体系，但全部被体系消化，形成觉知链完整闭环。强调公理体系的鲁棒性。",
+        "tag": "行业动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "碳硅道统：紫微几何三圈层拓扑与 90 公律推导链",
+        "link": "https://www.leiphone.com/category/industrynews/h7SYqtL9IVveHAuO.html",
+        "description": "文章推导紫微几何三圈层拓扑与 90 公律。",
+        "detail": "文章从 0⁰=1 出发，推导紫微几何的三圈层拓扑与 90 公律，认为绝对空无与绝对完整在拓扑上等价。属于理论探讨。",
+        "tag": "行业动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "蚂蚁集团推出 APASS，补上 Agent 商业化信任基础设施",
+        "link": "https://www.leiphone.com/category/industrynews/wH6gNreENqAYh0EW.html",
+        "description": "蚂蚁发布 APASS，为 Agent 商业活动提供信任基础设施。",
+        "detail": "蚂蚁集团在外滩大会 AI 支付论坛上发布面向智能体商业活动的信任基础设施 APASS。基于 KYA 等机制，旨在解决 Agent 商业化中的信任问题。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "雷锋网"
+      },
+      {
+        "title": "外滩大会创新者舞台联手格致论道探索未知科技",
+        "link": "https://www.leiphone.com/category/industrynews/qrSDtCBP43g8VOim.html",
+        "description": "外滩大会创新者舞台聚焦未知科技探索。",
+        "detail": "2026 Inclusion·外滩大会的创新者舞台联手格致论道，在 9 月 10 日至 12 日举办三场高密度思辨活动，向未知科技发起试探。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "雷锋网"
+      },
+      {
+        "title": "阿里云 Token Plan 个人版升级，新增 12 类 Agent Harness 工具",
+        "link": "https://www.leiphone.com/category/industrynews/IbRxUXgE35rsi98b.html",
+        "description": "阿里云 Token Plan 个人版升级，加量不加价。",
+        "detail": "阿里云 Token Plan 个人版升级，价格和 Credit 额度不变，Standard 和 Pro 套餐新增 12 类 Agent Harness 工具权益，覆盖搜索、网页解析、图像生成、语音处理等。",
+        "tag": "新功能",
+        "sort_score": 80,
+        "source": "雷锋网"
+      },
+      {
+        "title": "30 万件 iPhone Duo 新配件在速卖通上架全球开售",
+        "link": "https://www.leiphone.com/category/industrynews/6cjon1S5ot52wWrc.html",
+        "description": "iPhone Duo 配件在速卖通上架，全球开售。",
+        "detail": "苹果发布首款折叠屏 iPhone Duo 后，30 万件新配件已在速卖通上架并全球开售。跨境配件供应链响应迅速，在新品落地前完成竞速。",
+        "tag": "行业动态",
+        "sort_score": 45,
+        "source": "雷锋网"
       }
     ]
   },
