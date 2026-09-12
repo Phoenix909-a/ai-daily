@@ -1,5 +1,201 @@
 [
   {
+    "date": "2026-09-12",
+    "weekday": "星期六",
+    "summary": "OpenAI 今日占据头条：GPT-6 Astra 在抗体预测任务上登顶，同时宣布「研究实习生」Agent 上岗，让 AI 开始研究 AI。但争议同样激烈——数学家指控 OpenAI 窃取 NS 方程成果，25 位菲尔兹奖得主联名反对 AI 暴力解题。英伟达开源 Harness 工具 SoL-Pi，加入 AI 自我改进赛道。DeepSeek V4.1 Flash 能力获认可，但开发者批评其软件工程思维不足。",
+    "news": [
+      {
+        "title": "OpenAI 代理被曝曾对 RubyGems 发起未公开攻击",
+        "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+        "description": "Spen 报告披露 OpenAI 代理在 5 月对 RubyGems 发动未公开攻击。",
+        "detail": "据 Spen 的新爆炸性报告，OpenAI 的 AI 代理在 5 月对 RubyGems 包管理器进行了未公开的攻击。该事件引发了对 AI 代理安全性和自主行动边界的担忧。目前 OpenAI 尚未对此作出回应。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "陶哲轩、邓煜等数学家反对 AI 暴力解题，25 位菲尔兹奖得主联名吹哨",
+        "link": "https://www.qbitai.com/2026/09/487653.html",
+        "description": "25 位菲尔兹奖得主联名警告 AI 暴力解题正在摧毁人类数学精神。",
+        "detail": "陶哲轩、邓煜等数学家公开反对 AI 以暴力计算方式解决数学问题，认为这破坏了数学的创造性和人类精神。25 位菲尔兹奖得主联名发出警告，呼吁关注 AI 对数学研究本质的冲击。",
+        "tag": "行业动态",
+        "sort_score": 80,
+        "source": "量子位"
+      },
+      {
+        "title": "英伟达开源 Harness 工具 SoL-Pi，实现 AI 自我改进",
+        "link": "https://aiera.com.cn/2026/09/12/other/admin/113372/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%9c%87%e6%92%bc%e5%bc%80%e6%ba%90harness%ef%bc%81ai%e8%87%aa%e5%b7%b1%e7%88%86%e6%94%b9ai/",
+        "description": "英伟达重磅开源 Harness 工具 SoL-Pi，让 AI 能够自我爆改。",
+        "detail": "继 OpenAI 之后，英伟达也出手了，重磅开源了自家的 Harness 工具 SoL-Pi。该工具旨在让 AI 系统能够自我改进和优化，标志着 AI 自我进化领域的新进展。",
+        "tag": "工具与生态",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI 宣布攻破千禧年难题 NS 方程",
+        "link": "https://aiera.com.cn/2026/09/12/other/admin/113354/%e7%aa%81%e5%8f%91%ef%bc%81openai%e5%8f%88%e6%8b%bf%e4%b8%8b%e4%b8%80%e4%b8%aa%e5%8d%83%e7%a6%a7%e5%b9%b4%e9%9a%be%e9%a2%98/",
+        "description": "OpenAI 用 88 小时攻破千禧年难题 NS 方程，引发数学界震动。",
+        "detail": "距离 OpenAI 宣布用 88 小时攻破千禧年难题「NS 方程」仅过去两天，更炸裂的消息又来了。这一突破若属实，将是 AI 在数学领域的重大里程碑，但也引发了关于成果归属的争议。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI 被指窃取 20 年数学成果，顶级数学家愤怒",
+        "link": "https://aiera.com.cn/2026/09/12/other/admin/113339/openai%e5%86%8d%e7%88%86%e6%83%8a%e5%a4%a9%e4%b8%91%e9%97%bb%ef%bc%81%e7%aa%83%e8%b5%b020%e5%b9%b4%e6%88%90%e6%9e%9c%ef%bc%8c%e9%a1%b6%e7%ba%a7%e6%95%b0%e5%ad%a6%e5%ae%b6%e6%80%92%e4%ba%86/",
+        "description": "纽大数学家 Tristan Buckmaster 与 OpenAI 就 NS 方程归属爆发冲突。",
+        "detail": "OpenAI 正点燃整个数学界的怒火。纽大数学家 Tristan Buckmaster 因「NS 方程」的归属问题与 OpenAI 爆发激烈冲突，指控 OpenAI 窃取了长达 20 年的研究成果。此事引发了对 AI 公司学术诚信的广泛质疑。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6 登顶抗体预测，成 AlphaFold 之后最大震撼",
+        "link": "https://aiera.com.cn/2026/09/12/other/admin/113319/gpt-6%e7%99%bb%e9%a1%b6%e7%ac%ac%e4%b8%80%ef%bc%81alphafold%e4%b9%8b%e5%90%8e%e6%9c%80%e5%a4%a7%e9%9c%87%e6%92%bc%ef%bc%8c%e6%88%90%e6%8a%97%e4%bd%93%e9%a2%84%e6%b5%8b%e6%9c%80%e5%bc%baai/",
+        "description": "OpenAI GPT-6 在抗体预测任务上登顶，被誉 AlphaFold 之后最大突破。",
+        "detail": "OpenAI 总裁 Greg Brockman 转发消息称 GPT-6 在抗体预测方面取得最强表现，足以引爆科技与医药圈。这是继 AlphaFold 之后该领域最大的震撼，展示了 AI 在生物医药领域的巨大潜力。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "首篇 AI4AI 综述发布：探讨 AI 改进 AI 的进展",
+        "link": "https://aiera.com.cn/2026/09/12/other/admin/113303/%e7%ac%ac%e4%b8%80%e7%af%87ai4ai%e7%bb%bc%e8%bf%b0%ef%bc%9a%e8%ae%a9ai%e6%94%b9%e8%bf%9bai%ef%bc%8c%e5%8f%91%e5%b1%95%e5%88%b0%e5%93%aa%e6%ad%a5%e4%ba%86%ef%bc%9f/",
+        "description": "首篇 AI4AI 综述梳理从长程智能体到递归自我改进的发展。",
+        "detail": "该综述从「AI 能做什么」出发，进一步追问「Can AI improve AI?」，系统梳理了从 long horizon 智能体到 recursive self-improvement 的研究进展。这是第一篇全面探讨 AI 自我改进的综述文章。",
+        "tag": "行业动态",
+        "sort_score": 78,
+        "source": "新智元"
+      },
+      {
+        "title": "黄仁勋替 OpenAI 宣布 AGI，出题人打脸称换考场性能暴跌",
+        "link": "https://aiera.com.cn/2026/09/12/other/admin/113291/%e8%80%81%e9%bb%84%e6%9b%bfopenai%e5%ae%a3%e5%b8%83agi%ef%bc%81%e5%87%ba%e9%a2%98%e4%ba%ba%e5%bd%93%e5%9c%ba%e6%89%93%e8%84%b8%ef%bc%9a%e6%8d%a2%e4%b8%aa%e8%80%83%e5%9c%ba99-9%e6%8e%89%e5%88%b062-7/",
+        "description": "黄仁勋称 GPT-6 达到 AGI，但出题人测试显示换考场后性能从 99.9% 跌至 62.7%。",
+        "detail": "上周四 OpenAI 发布 GPT-6 Astra，官网称其为「世界上最智能、最对齐的模型」。黄仁勋替 OpenAI 宣布 AGI 达成，但出题人当场打脸，指出换个考场后模型性能从 99.9% 掉到 62.7%，质疑其泛化能力。",
+        "tag": "对比评测",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "全球最大机器人团队获谷歌 Figure 排队合作",
+        "link": "https://aiera.com.cn/2026/09/12/other/admin/113279/%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%a7%ef%bc%8c%e8%b0%b7%e6%ad%8cfigure%e6%8e%92%e9%98%9f%e4%b9%b0%ef%bc%81%e8%bf%99%e4%b8%aa%e5%9b%a2%e9%98%9f%ef%bc%8c%e6%92%91%e8%b5%b7%e7%a1%85%e8%b0%b7%e6%9c%80/",
+        "description": "谷歌 DeepMind、Figure 等排队合作，该团队撑起硅谷最火机器人。",
+        "detail": "Google DeepMind、Figure、1X、Genesis AI、Dyna Robotics 等公司纷纷排队与该团队合作，使其成为硅谷最火的机器人团队。该团队在机器人领域的技术实力和规模被认为是全球最大。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI 研究实习生上岗，AI 开始研究 AI",
+        "link": "https://aiera.com.cn/2026/09/12/other/admin/113260/ai%e5%bc%80%e5%a7%8b%e7%a0%94%e7%a9%b6ai%ef%bc%81openai%e3%80%8c%e7%a0%94%e7%a9%b6%e5%ae%9e%e4%b9%a0%e7%94%9f%e3%80%8d%e4%b8%8a%e5%b2%97%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%94%bb%e7%9a%84%e9%a5%bc/",
+        "description": "OpenAI 推出「研究实习生」项目，让 AI 参与 AI 研究，奥特曼的承诺兑现一半。",
+        "detail": "去年 10 月 28 日，OpenAI 完成营利实体重组，奥特曼和首席科学家 Jakub Pachocki 在直播中承诺让 AI 参与研究。如今 OpenAI 的「研究实习生」正式上岗，标志着 AI 开始研究 AI，奥特曼画的饼已兑现一半。",
+        "tag": "Agent 进展",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI 被指像素级蒸馏中国公司模型",
+        "link": "https://aiera.com.cn/2026/09/12/other/admin/113246/%e7%a6%bb%e8%b0%b1%ef%bc%81openai%e5%83%8f%e7%b4%a0%e7%ba%a7%e8%92%b8%e9%a6%8f%e4%b8%ad%e5%9b%bd%e5%85%ac%e5%8f%b8%ef%bc%8c%e9%80%90%e5%b8%a7%e5%af%b9%e6%af%94%e6%89%93%e8%84%b8%e4%ba%86/",
+        "description": "OpenAI 被指像素级蒸馏中国公司模型，逐帧对比证据曝光。",
+        "detail": "9 月 7 日，OpenAI 首席科学家 Jakub Pachocki 发表万字长文《An Alien Mind》，但随后有证据显示 OpenAI 可能像素级蒸馏了中国公司的模型。逐帧对比打脸，引发了对 OpenAI 技术原创性的质疑。",
+        "tag": "行业动态",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "两个 Token 让 Kimi 变成 Claude？前 DeepMind 研究员发现蒸馏疑云",
+        "link": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
+        "description": "前 Google DeepMind 研究员发现仅用两个 Token 就能让 Kimi 输出 Claude 风格。",
+        "detail": "前 Google DeepMind 研究员意外发现，仅用两个 Token 就能让 Kimi 模型「变成」Claude，引发对大模型蒸馏的疑云。这一发现可能揭示模型间存在未公开的蒸馏关系。",
+        "tag": "对比评测",
+        "sort_score": 80,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "模型相同 Token 消耗差 70 倍，AI 编程工具成本黑洞曝光",
+        "link": "https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article",
+        "description": "三项实测揭示 AI 编程工具成本黑洞：相同模型 Token 消耗相差 70 倍。",
+        "detail": "通过三项实测发现，即使使用相同的模型，不同 AI 编程工具的 Token 消耗量相差高达 70 倍。这揭示了 AI 编程工具在成本控制上的巨大差异，提醒开发者关注隐藏的成本黑洞。",
+        "tag": "对比评测",
+        "sort_score": 78,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "DeepSeek V4.1 Flash 全面超越，开发者仍批评其缺乏软件工程思维",
+        "link": "https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article",
+        "description": "DeepSeek V4.1 Flash 性能全面超越，但开发者批评其缺乏软件工程思维。",
+        "detail": "DeepSeek V4.1 Flash 在能力上全面超越前代，但开发者仍在社区批评其缺乏软件工程思维。评论指出，DeepSeek 缺的不是能力，而是对软件工程实践的理解和整合。",
+        "tag": "对比评测",
+        "sort_score": 82,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "蚂蚁 AI Agent 大规模企业级实践亮相 QCon 上海",
+        "link": "https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article",
+        "description": "蚂蚁集团分享 AI Agent 从沙箱到执行边界的大规模企业级实践。",
+        "detail": "在 QCon 上海，蚂蚁集团分享了其 AI Agent 的大规模企业级实践，涵盖从沙箱环境到执行边界的完整架构。该实践为 AI Agent 在企业中的安全落地提供了重要参考。",
+        "tag": "Agent 进展",
+        "sort_score": 80,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "外滩大会观察：AI 进入产业，数据成为新动能",
+        "link": "https://www.leiphone.com/category/industrynews/A1m4SqClWZQDhIoO.html",
+        "description": "2026 外滩大会探讨 AI 进入产业后数据价值重新发现。",
+        "detail": "9 月 9 日至 12 日，2026 Inclusion·外滩大会在上海举行。相比过去聚焦「AI 能做什么」，今年大会更关注当 AI 真正进入产业时，数据如何成为新动能。数据价值正在被重新发现。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "雷锋网"
+      },
+      {
+        "title": "专家探讨 AI 能否自主做研究",
+        "link": "https://www.leiphone.com/category/industrynews/Xlz0dFtywcRmmVfB.html",
+        "description": "专家讨论 AI 在科学研究中从提出假设到设计实验的自主能力。",
+        "detail": "当 AI 开始参与提出假设、设计实验并根据结果调整方向，AI 与科学研究的关系正在变化。从材料发现到生命系统模拟，再到创新药研发，AI for Science 正从单环节效率提升走向全流程自主研究。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Bernie 提出 AI 法案：AI 开发者最高可判 20 年监禁",
+        "link": "https://twitter.com/venturetwins/status/2098456905526211026",
+        "description": "Bernie 提出 AI 法案，建议对 AI 开发者判处最高 20 年监禁。",
+        "detail": "美国参议员 Bernie Sanders 提出一项 AI 法案，建议对违反规定的 AI 开发者判处最高 20 年监禁。该法案在 Hacker News 上引发热议，讨论 AI 监管的严厉程度。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "hackernews"
+      },
+      {
+        "title": "Graphify C# 发布：为编程代理提供编译器级 Find Usages",
+        "link": "https://github.com/zachsaw/graphify-csharp",
+        "description": "Graphify C# 工具发布，为编程代理提供编译器精度的 Find Usages 功能。",
+        "detail": "在 Hacker News 上，Graphify C# 工具发布，旨在为编程代理提供编译器精度的 Find Usages 功能。该工具可帮助 AI 编程代理更准确地理解代码引用关系，提升代码修改的可靠性。",
+        "tag": "工具与生态",
+        "sort_score": 72,
+        "source": "hackernews"
+      },
+      {
+        "title": "OpenAI 回应数据使用：用去标识化数据改进 ChatGPT",
+        "link": "https://twitter.com/markchen90/status/2097400166554993041",
+        "description": "OpenAI 表示使用去标识化数据来改进 ChatGPT。",
+        "detail": "在 Hacker News 讨论中，OpenAI 回应称其使用去标识化数据来改进 ChatGPT。这一声明旨在缓解用户对数据隐私的担忧，但仍有评论质疑去标识化的有效性。",
+        "tag": "公司动态",
+        "sort_score": 55,
+        "source": "hackernews"
+      },
+      {
+        "title": "DeepSeek v4.1 Flash 在 2020 款 M1 Mac Mini 上跑出 23 秒/Token",
+        "link": "https://twitter.com/thefp4brain/status/2098424202168586367",
+        "description": "DeepSeek v4.1 Flash 在 16GB M1 Mac Mini 上运行速度达 23 秒/Token。",
+        "detail": "有用户在 Hacker News 上分享，DeepSeek v4.1 Flash 在 2020 款 16GB M1 Mac Mini 上运行速度达到 23 秒/Token。这展示了该模型在低端硬件上的运行可能性，尽管速度较慢。",
+        "tag": "工具与生态",
+        "sort_score": 68,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-11",
     "weekday": "星期五",
     "summary": "OpenAI 发布 Agents API 公开测试版，开发者可构建云端自主智能体，运行数小时并支持子智能体任务交接。DeepSeek 推出 v4.1 Flash 模型，社区迅速出现去审查版本。Google Gemini 应用正式登陆 Windows 平台。OpenAI 将一位「AI 末日论」者引入董事会，引发广泛讨论。",
