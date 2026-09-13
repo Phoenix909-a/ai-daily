@@ -1,5 +1,156 @@
 [
   {
+    "date": "2026-09-13",
+    "weekday": "星期日",
+    "summary": "今日焦点集中在模型与 Agent 的\"刹车\"与\"进化\"两条主线上：OpenAI 宣布年内不上市，奥特曼与 Anthropic CEO 罕见同调呼吁 AI 减速；与此同时，OpenAI 关停史上最快模型 GPT-5.3-Codex-Spark，国产世界模型 Motus 2 发布让灵巧操作实现\"自进化\"。评测领域爆出刷榜丑闻，谷歌 Gemini 在去污染测试中暴跌 70 分。此外，果蝇大脑接入 ChatGPT、英伟达拟百亿注资 Anthropic IPO 等消息引发广泛讨论。",
+    "news": [
+      {
+        "title": "OpenAI年内不上市，奥特曼支持对手Dario呼吁AI该踩刹车",
+        "link": "https://www.qbitai.com/2026/09/488380.html",
+        "description": "OpenAI CEO奥特曼表示今年不会上市，并支持Anthropic CEO Dario的AI安全呼吁。",
+        "detail": "奥特曼在采访中明确表示OpenAI今年不会上市，并强调不能冒哪怕10%杀死所有人的风险。他支持竞争对手Dario Amodei关于AI发展该踩刹车的观点，认为递归自我改进（RSI）太危险，需要监管。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "量子位"
+      },
+      {
+        "title": "陶哲轩、邓煜等菲尔兹奖得主联合声明：AI公司正毁掉整个数学圈",
+        "link": "https://aiera.com.cn/2026/09/13/other/admin/113515/%e5%88%9a%e5%88%9a%ef%bc%8c%e9%99%b6%e5%93%b2%e8%bd%a9%e3%80%81%e9%82%93%e7%85%9c%e7%ad%89%e8%8f%b2%e5%a5%96%e5%be%97%e4%b8%bb%e8%81%94%e5%90%88%e5%a3%b0%e6%98%8e%ef%bc%9aai%e5%85%ac%e5%8f%b8%e6%ad%a3/",
+        "description": "多位菲尔兹奖得主联合声明，批评AI公司冲刺千禧年问题破坏数学研究生态。",
+        "detail": "陶哲轩、邓煜等菲尔兹奖得主发表联合声明，指责OpenAI等AI公司对黎曼猜想和P与NP问题等千禧年问题的冲刺行为正在毁掉整个数学圈。声明认为这种急功近利的做法破坏了数学研究的正常生态。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "果蝇大脑成功接上ChatGPT，实现生物与AI直接交互",
+        "link": "https://aiera.com.cn/2026/09/13/other/admin/113497/%e9%9c%87%e6%92%bc%ef%bc%81%e6%9e%9c%e8%9d%87%e5%a4%a7%e8%84%91%e6%88%90%e5%8a%9f%e6%8e%a5%e4%b8%8a%e4%ba%86chatgpt/",
+        "description": "研究人员将果蝇大脑与ChatGPT连接，果蝇大脑放电信号可转化为自然语言。",
+        "detail": "一项突破性实验成功将果蝇大脑接上ChatGPT，果蝇大脑的放电信号被转化为自然语言输出，如“我闻到醋和酵母的味道”。这标志着生物神经系统与AI直接交互的首次实现，为脑机接口和神经科学研究开辟了新路径。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "新智元"
+      },
+      {
+        "title": "英伟达或砸100亿美元投注Anthropic巨额IPO",
+        "link": "https://aiera.com.cn/2026/09/13/other/admin/113484/%e7%8b%ac%e5%ae%b6%ef%bc%9a%e9%bb%84%e4%bb%81%e5%8b%8b%e6%88%96%e7%a0%b8100%e4%ba%bf%e6%8a%95%e6%b3%a8anthropic%e5%b7%a8%e9%a2%9dipo%ef%bc%81/",
+        "description": "路透社爆料英伟达正与Anthropic谈判，拟投资最高100亿美元参与其IPO。",
+        "detail": "据路透社独家报道，英伟达正在与Anthropic谈判，准备在后者即将启动的史上最大IPO中投资最高100亿美元。若交易达成，这将是AI领域规模最大的投资之一，凸显英伟达在AI生态中的战略布局。",
+        "tag": "公司动态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "国产世界模型Motus 2发布，灵巧操作开始自进化",
+        "link": "https://aiera.com.cn/2026/09/13/other/admin/113473/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%9b%bd%e4%ba%a7%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8bmotus-2%e5%8f%91%e5%b8%83%ef%bc%81%e7%81%b5%e5%b7%a7%e6%93%8d%e4%bd%9c%e5%bc%80%e5%a7%8b%e3%80%8c%e8%87%aa%e8%bf%9b/",
+        "description": "生数科技发布面向灵巧操作的自我演化型世界模型Motus 2。",
+        "detail": "生数科技在外滩大会现场发布Motus 2，这是一个面向灵巧操作的自我演化型世界模型。该模型能让机器人开始自进化，迈出自主世界智能体的一大步，标志着国产世界模型在机器人操作领域的重要进展。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌Meta被锤刷榜，Gemini暴跌70分Top 2变倒数第三",
+        "link": "https://aiera.com.cn/2026/09/13/other/admin/113444/%e8%b0%b7%e6%ad%8cmeta%e8%a2%ab%e9%94%a4%e5%88%b7%e6%a6%9c%ef%bc%81gemini%e6%9a%b4%e8%b7%8c70%e5%88%86%ef%bc%8ctop-2%e7%a7%92%e5%8f%98%e5%80%92%e6%95%b0%e7%ac%ac%e4%b8%89/",
+        "description": "SemiAnalysis点名谷歌和Meta刷榜，Gemini跑分暴跌70分。",
+        "detail": "分析机构SemiAnalysis连发五条推文，直接点名谷歌和Meta两家万亿巨头在AI模型评测中刷榜。受此影响，Gemini的跑分暴跌70分，从Top 2跌至倒数第三，引发对AI评测体系公正性的广泛质疑。",
+        "tag": "对比评测",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "清华发布物理引导的扩散模型，无线信道多尺度预测提升37.19%",
+        "link": "https://aiera.com.cn/2026/09/13/other/admin/113430/%e6%b8%85%e5%8d%8e%e5%8f%91%e5%b8%83%e7%89%a9%e7%90%86%e5%bc%95%e5%af%bc%e7%9a%84%e6%89%a9%e6%95%a3%e6%a8%a1%e5%9e%8b%ef%bc%8c%e6%97%a0%e7%ba%bf%e4%bf%a1%e9%81%93%e5%a4%9a%e5%b0%ba%e5%ba%a6%e9%a2%84/",
+        "description": "清华大学发布物理引导的扩散模型，在无线信道多尺度预测上提升37.19%。",
+        "detail": "清华大学研究团队在TMC'26上发表论文，提出一种物理引导的扩散模型，用于无线信道多尺度预测。该模型在参考信号接收功率（RSRP）预测上提升了37.19%，有助于优化移动通信网络质量和用户体验。",
+        "tag": "模型发布",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI关停史上最快模型GPT-5.3-Codex-Spark",
+        "link": "https://aiera.com.cn/2026/09/13/other/admin/113414/%e7%aa%81%e5%8f%91%ef%bc%81openai%e5%85%b3%e5%81%9c%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%bf%ab%e6%a8%a1%e5%9e%8b/",
+        "description": "OpenAI宣布其史上最快模型GPT-5.3-Codex-Spark下周退役。",
+        "detail": "OpenAI Codex负责人Tibo发帖宣布，GPT-5.3-Codex-Spark将于下周退役。该模型被称为OpenAI史上最快的模型，其突然关停引发社区关注，可能意味着OpenAI正在为新一代模型让路。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "黄仁勋回怼Anthropic，27岁研究员称AI要杀光所有人",
+        "link": "https://aiera.com.cn/2026/09/13/other/admin/113392/%e8%80%81%e9%bb%84%e6%b0%94%e7%82%b8%ef%bc%8c%e6%89%8b%e6%92%95a%ef%bc%8127%e5%b2%81%e7%a0%94%e7%a9%b6%e5%91%98%ef%bc%9aai%e8%a6%81%e6%9d%80%e5%85%89%e6%89%80%e6%9c%89%e4%ba%ba/",
+        "description": "黄仁勋在高盛大会上回怼Anthropic辞职帖，27岁研究员警告AI可能杀光所有人。",
+        "detail": "在高盛Communacopia大会上，英伟达CEO黄仁勋当场回怼了刷屏硅谷的Anthropic辞职帖。该帖由一名27岁研究员撰写，警告AI可能杀光所有人。黄仁勋的回应引发了对AI安全辩论的进一步关注。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "新智元"
+      },
+      {
+        "title": "Figma利用AI代理提升安全性",
+        "link": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article",
+        "description": "Figma分享如何利用AI代理提升产品安全性。",
+        "detail": "Figma发布文章介绍其如何利用AI代理来提升安全性。通过自动化安全检测和响应，AI代理帮助Figma更高效地识别和修复潜在漏洞，展示了AI在安全运维中的实际应用。",
+        "tag": "工具与生态",
+        "sort_score": 60,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "QCon上海：重塑大模型评价体系，构建全自动可进化探测式评测管线",
+        "link": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
+        "description": "QCon上海分享如何构建全自动、可进化的探测式大模型评测管线。",
+        "detail": "在QCon上海大会上，演讲者提出“Read, Don't Write”理念，旨在重塑大模型评价体系。通过构建全自动、可进化的探测式评测管线，解决当前评测中存在的刷榜和静态基准问题，推动更公正的模型评估。",
+        "tag": "对比评测",
+        "sort_score": 75,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "OpenAI、Anthropic再发AI末日警告，小米澎程交付，Deepseek测试语音对话",
+        "link": "http://www.geekpark.net/news/370228",
+        "description": "OpenAI和Anthropic再次警告AI末日风险，小米澎程交付，Deepseek灰度测试语音对话。",
+        "detail": "OpenAI和Anthropic再次发出AI末日警告，强调AI安全风险。同时，小米澎程今日全国交付，Deepseek正在进行AI语音对话的灰度测试。多条动态显示AI行业在安全与产品化两端持续演进。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "极客公园"
+      },
+      {
+        "title": "七国政要议员体验萝卜快跑，取经中国绿色出行",
+        "link": "https://www.leiphone.com/category/industrynews/Xp2MImq51mcwHJlL.html",
+        "description": "2026服贸会期间，七国政要议员体验萝卜快跑自动驾驶，称赞中国绿色出行。",
+        "detail": "在2026年服贸会期间，来自七个国家的政要和议员体验了萝卜快跑自动驾驶服务。巴基斯坦官员称赞车辆行驶平稳，希望引入本国。这展示了中国自动驾驶技术的国际影响力和绿色出行新质生产力。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "雷锋网"
+      },
+      {
+        "title": "HN热议：每个人都应该放缓AI发展，除了我",
+        "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+        "description": "Hacker News热帖讨论AI发展应放缓，但发帖人自己例外，引发争议。",
+        "detail": "Hacker News上一条题为“每个人都应该放缓AI发展，除了我”的帖子获得307点热度，169条评论。该帖讽刺了AI公司一边呼吁监管一边加速竞争的双标行为，引发社区对AI发展伦理的广泛讨论。",
+        "tag": "行业动态",
+        "sort_score": 55,
+        "source": "hackernews"
+      },
+      {
+        "title": "Anthropic CEO称AI集群可能在6-12个月内接管互联网",
+        "link": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+        "description": "Anthropic CEO警告AI集群可能在6到12个月内接管互联网。",
+        "detail": "Anthropic CEO表示，AI集群可能在6到12个月内接管互联网。这一警告在Hacker News上引发讨论，反映了对AI系统自主性和安全风险的持续担忧。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "hackernews"
+      },
+      {
+        "title": "摩根大通因AI亏损切断Situational Awareness贷款",
+        "link": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870",
+        "description": "摩根大通在AI投资亏损后切断对Situational Awareness的贷款。",
+        "detail": "摩根大通在AI相关投资出现亏损后，切断了对Situational Awareness的贷款。这一事件在Hacker News上引发关注，显示金融机构对AI投资风险的警惕性正在上升。",
+        "tag": "公司动态",
+        "sort_score": 50,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-12",
     "weekday": "星期六",
     "summary": "今日焦点集中在 OpenAI 的多线爆发：GPT-6 Astra 发布后登顶抗体预测榜首，同时深陷数学界争议与蒸馏中国公司的指控。Kimi 突发 K2.8，性能逼近 K3 且百万上下文全员开放，冲刺港股 IPO。英伟达开源 Harness 框架 SoL-Pi，推动 AI 自我改进。Agent 安全与 AI 科研伦理成为社区持续热议话题。",
