@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-09-14",
+    "weekday": "星期一",
+    "summary": "OpenAI 的 GPT-6 Astra 成为今日绝对主角：Perplexity 宣布将其用于端到端系统运维，Plus 用户也开始陆续获得访问权限，但被限制为\"只能干活不能聊天\"。与此同时，Anthropic CEO Dario Amodei 发布长文提出\"全球 AI 限速三步计划\"，引发行业震动。国内方面，智谱提前剧透 GLM-6.0 完全自训练方法，豆包手机助手消费者版本正式发布。Meta 的 RSI 研究则显示\"AI 改进 AI 方法\"进入新阶段。",
+    "news": [
+      {
+        "title": "commit-rewriter 0.1 发布",
+        "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+        "description": "一款帮助重写提交信息的轻量级 Web 应用发布。",
+        "detail": "开发者发布 commit-rewriter 0.1，这是一个小型 Web 应用，旨在帮助用户重写 Git 提交信息。该工具可能利用 AI 技术自动生成或优化提交描述，提升开发效率。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "Perplexity 采用 GPT-6 Astra 实现端到端系统自动化",
+        "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "description": "Perplexity 使用 GPT-6 Astra 撰写通信、修改软件并监控生产系统。",
+        "detail": "Perplexity 将 GPT-6 Astra 集成到其工作流程中，用于自动生成通信内容、修改软件代码以及监控生产系统。这展示了 GPT-6 Astra 在端到端系统自动化方面的能力，可能推动 AI 在运维和开发中的进一步应用。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "OpenAI News"
+      },
+      {
+        "title": "MetaRSI 实现 AI 自我改进方法的平方级突破",
+        "link": "https://www.qbitai.com/2026/09/488832.html",
+        "description": "小模型突破瓶颈，旗舰模型打开新空间，RSI 进入平方时代。",
+        "detail": "MetaRSI 项目在 AI 自我改进（RSI）领域取得进展，小模型突破瓶颈，旗舰模型打开新空间。这标志着 AI 开始改进“改进自己的方法”，可能加速递归自我提升的进程。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "量子位"
+      },
+      {
+        "title": "中国物理 AI 突破：PhysBrain 1.5 登顶全球开源榜一",
+        "link": "https://www.qbitai.com/2026/09/488725.html",
+        "description": "PhysBrain 1.5 在空间智能方面与 GPT-6 Astra 并驾齐驱。",
+        "detail": "中国公司 PhysBrain 发布 1.5 版本，登顶全球开源榜一，在空间智能方面与 GPT-6 Astra 并驾齐驱。该模型跑完了物理闭环里最难的一段路，标志着物理 AI 的重大突破。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "量子位"
+      },
+      {
+        "title": "奥特曼被骗，Anthropic 冲刺 IPO 募资叫板 SpaceX",
+        "link": "https://www.qbitai.com/2026/09/488699.html",
+        "description": "Anthropic 加速 IPO 进程，募资规模对标 SpaceX。",
+        "detail": "Anthropic 一脚油门冲刺 IPO，募资规模叫板 SpaceX，同时有消息称奥特曼被骗。这反映了 AI 公司之间的竞争加剧，以及资本市场对 AI 领域的持续关注。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "量子位"
+      },
+      {
+        "title": "智谱提前剧透 GLM-6.0：完全自训练方法公开",
+        "link": "https://www.qbitai.com/2026/09/488694.html",
+        "description": "智谱在财务公告中剧透 GLM-6.0，公开完全自训练方法。",
+        "detail": "智谱在模型和论文尚未发布时，先从财务公告上剧透了 GLM-6.0，并公开了完全自训练方法。这预示着新一代大模型的发布，可能带来性能提升。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "Dario 提出全球 AI 限速三步计划，奥特曼马斯克支持",
+        "link": "https://aiera.com.cn/2026/09/14/other/admin/113640/%e7%aa%81%e5%8f%91%ef%bc%8cdario%e6%8f%90%e5%85%a8%e7%90%83ai%e9%99%90%e9%80%9f%e4%b8%89%e6%ad%a5%e8%ae%a1%e5%88%92%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e9%a9%ac%e6%96%af%e5%85%8b%e7%ac%ac%e4%b8%80/",
+        "description": "Anthropic CEO 发布长文，呼吁控制前沿 AI 发展节奏。",
+        "detail": "Anthropic CEO Dario Amodei 发布长文《We Must Pace the Frontier》，提出全球 AI 限速三步计划。奥特曼和马斯克第一时间表示支持，引发行业对 AI 安全与发展的讨论。",
+        "tag": "行业动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6 Astra 经营模拟售货机一年赚 1.5 万美元，3 倍碾压 Claude",
+        "link": "https://aiera.com.cn/2026/09/14/other/admin/113626/gpt-6-astra%e4%b8%80%e5%b9%b4%e7%8b%82%e8%b5%9a1-5%e4%b8%87%e7%be%8e%e5%85%83%ef%bc%813%e5%80%8d%e7%a2%be%e5%8e%8bclaude/",
+        "description": "GPT-6 Astra 在模拟经营中展现强大能力，收益远超 Claude。",
+        "detail": "给 GPT-6 Astra 500 美元和一台自动售货机，放手让它经营一个模拟年，最终赚取 1.5 万美元，收益是 Claude 的 3 倍。这展示了 AI 在自主决策和长期规划方面的潜力。",
+        "tag": "对比评测",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI 今年不上市，奥特曼独家专访确认",
+        "link": "https://aiera.com.cn/2026/09/14/other/admin/113611/%e7%aa%81%e5%8f%91%ef%bc%8copenai%e4%bb%8a%e5%b9%b4%e4%b8%8d%e4%b8%8a%e5%b8%82%e4%ba%86%ef%bc%81/",
+        "description": "奥特曼表示 OpenAI 在 2026 年绝对不会上市。",
+        "detail": "奥特曼在接受《财富》独家专访时明确表示，OpenAI 在 2026 年绝对不会上市，浇灭了华尔街的期望。这反映了 OpenAI 对长期战略的坚持。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6 Astra 向 Plus 用户开放，仅限工作不能聊天",
+        "link": "https://aiera.com.cn/2026/09/14/other/admin/113587/gpt-6-astra%e5%bc%80%e6%94%beplus%ef%bc%8120%e7%be%8e%e5%85%83%e5%8f%aa%e8%83%bd%e6%8b%bf%e5%ae%83%e5%b9%b2%e6%b4%bb%ef%bc%8c%e4%b8%8d%e8%83%bd%e8%81%8a%e5%a4%a9/",
+        "description": "OpenAI Plus 用户开始获得 GPT-6 Astra，但仅限工作用途。",
+        "detail": "OpenAI 向 Plus 用户推送 GPT-6 Astra，但限制其只能用于工作，不能聊天。9 月 3 日发布后，官方称未来数日将推送给所有 Plus、Pro、Bu 用户。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "两名高中生用 AI 攻破菲尔兹奖得主未解难题",
+        "link": "https://aiera.com.cn/2026/09/14/other/admin/113577/%e5%85%a8%e7%bd%91%e9%9c%87%e6%92%bc%ef%bc%81%e8%8f%b2%e5%a5%96%e5%be%97%e4%b8%bb%e6%9c%aa%e8%a7%a3%e9%9a%be%e9%a2%98%ef%bc%8c%e7%ab%9f%e8%a2%ab%e4%b8%a4%e5%90%8d%e9%ab%98%e4%b8%ad%e7%94%9f%e7%94%a8ai/",
+        "description": "UCLA 数学圈震惊，高中生借助 AI 解决难题。",
+        "detail": "两名未上大学的高中生利用 AI 攻破了菲尔兹奖得主未解的数学难题，消息从 UCLA 数学圈传出。这展示了 AI 在数学研究中的辅助潜力。",
+        "tag": "行业动态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌 DeepMind 疑似破解 RSI，模型现身 API",
+        "link": "https://aiera.com.cn/2026/09/14/other/admin/113552/%e8%b0%b7%e6%ad%8cdeepmind%ef%bc%8c%e5%b7%b2%e7%bb%8f%e7%a0%b4%e8%a7%a3rsi/",
+        "description": "谷歌生成式语言 API 中出现名为 rsi-model-liverl-le 的模型。",
+        "detail": "一个名为 rsi-model-liverl-le 的模型突然出现在 Google 生成式语言 API 的返回结果中，引发谷歌 DeepMind 已破解 RSI 的猜测。这可能意味着 AI 自我改进技术的重大进展。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "华尔街日报警告 AI 既能解千禧难题也能杀死人类",
+        "link": "https://aiera.com.cn/2026/09/14/other/admin/113531/ai%e8%83%bd%e8%a7%a3%e5%8d%83%e7%a6%a7%e9%9a%be%e9%a2%98%ef%bc%8c%e4%b9%9f%e8%83%bd%e6%9d%80%e6%ad%bb%e4%ba%ba%e7%b1%bb%ef%bc%9f%e5%8d%8e%e5%b0%94%e8%a1%97%e6%97%a5%e6%8a%a5%e6%8b%89%e5%93%8d%e6%9c%ab/",
+        "description": "专栏作家 Ben Cohen 拉响 AI 末日警报。",
+        "detail": "《华尔街日报》专栏作家 Ben Cohen 撰文称，AI 已经强到能解开人类最难的数学题，也能杀光我们。这引发了关于 AI 安全与伦理的讨论。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "新智元"
+      },
+      {
+        "title": "GitLab 警告 AI 代理沙箱安全性取决于网络访问",
+        "link": "https://www.infoq.cn/article/XLzpR2brCNW2VgYuuYJk?utm_source=rss&utm_medium=article",
+        "description": "GitLab 指出 AI 代理沙箱安全与网络访问安全密切相关。",
+        "detail": "GitLab 发布警告称，AI 代理的沙箱安全性取决于其网络访问的安全性。这提醒开发者在部署 AI 代理时需注意网络隔离和权限控制。",
+        "tag": "工具与生态",
+        "sort_score": 75,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报：iPhone 18 Pro 售罄，OpenAI 放弃今年上市，Kimi K2.8 上线",
+        "link": "https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "集邦咨询预计 iPhone Duo 出货 500 万台，Kimi K2.8 全量上线。",
+        "detail": "早报汇总：iPhone 18 Pro 首批售罄，发货延至 10 月；OpenAI 放弃今年上市；Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文；Grok 4.7 延期。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "爱范儿"
+      },
+      {
+        "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+        "link": "https://sspai.com/post/114539",
+        "description": "美国 AI 高管与特朗普在 AI 研发速度上意见相左。",
+        "detail": "派早报报道：美国 AI 高管呼吁放缓研发，特朗普表示反对；苹果解释 Apple Watch 不会持续录音；LG 否认智能电视监控用户；暴雪公布《魔兽世界》怀旧服；儿童贴身使用笔记本电脑导致皮肤灼伤；Android 开始支持密码。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "少数派"
+      },
+      {
+        "title": "专访机器鸭背后硬件推手：未来推动新故事的并非硬件",
+        "link": "http://www.geekpark.net/news/370269",
+        "description": "Hugging Face 旗下 Pollen Robotics 设计的机器鸭引发关注。",
+        "detail": "机器鸭 Microduck 在 X 上刷屏，由 Hugging Face 旗下的 Pollen Robotics 设计，售价 399 美元。专访其硬件推手，探讨未来推动新故事的并非硬件。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "极客公园"
+      },
+      {
+        "title": "豆包手机助手发布消费者版本，首款新机 9 月 16 日开售",
+        "link": "https://www.leiphone.com/category/industrynews/p1zBbVMbsyYNHOJ4.html",
+        "description": "豆包手机助手消费者版本正式发布，与手机厂商系统级合作。",
+        "detail": "9 月 14 日，豆包手机助手消费者版本正式发布。它以豆包 App 为基础，与手机厂商在系统层面合作，围绕交互、任务执行、本地记忆及检索等核心体验，探索 AI 在手机中的应用。首款新机将于 9 月 16 日正式开售。",
+        "tag": "新功能",
+        "sort_score": 80,
+        "source": "雷锋网"
+      },
+      {
+        "title": "NUS Show Lab 寿政教授：打通自回归与离散扩散，打造下一代具身大模型底座",
+        "link": "https://www.leiphone.com/category/private/m2CuWb5rm0qnkznY.html",
+        "description": "ECCV 2026 演讲探讨自回归与离散扩散融合，开启 AI 体验时代。",
+        "detail": "NUS Show Lab 寿政教授在 ECCV 2026 上分享，告别模型拼贴套路，自回归与离散扩散的融合正在开启 AI 的体验时代，旨在打造下一代具身大模型底座。",
+        "tag": "行业动态",
+        "sort_score": 75,
+        "source": "雷锋网"
+      },
+      {
+        "title": "TUM 教授 Angela Dai：逆向自监督重构 3D 空间智能",
+        "link": "https://www.leiphone.com/category/private/IHKmBYxnV5IvYoN0.html",
+        "description": "ECCV 2026 演讲探讨 2D 去噪范式失效，物理机制转化为结构先验。",
+        "detail": "TUM 教授 Angela Dai 在 ECCV 2026 上指出，2D 去噪范式在真实 3D 遮挡前失效，破局关键在于将物理机制转化为结构先验，通过逆向自监督重构 3D 空间智能。",
+        "tag": "行业动态",
+        "sort_score": 75,
+        "source": "雷锋网"
+      },
+      {
+        "title": "开源 AI 与开放模型阅读清单",
+        "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "description": "HN 上分享的开源 AI 与开放模型阅读列表。",
+        "detail": "Hacker News 上分享了一份关于开源 AI 和开放模型的阅读清单，获得 66 分和 7 条评论。该清单可能包含相关论文、文章和资源。",
+        "tag": "工具与生态",
+        "sort_score": 60,
+        "source": "hackernews"
+      },
+      {
+        "title": "AI 生物武器报告引发专家分歧：警告还是过度反应？",
+        "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+        "description": "HN 讨论 AI 生物武器报告，专家意见不一。",
+        "detail": "Hacker News 上讨论了一份关于 AI 生物武器的报告，引发专家分歧。有人认为是“令人不寒而栗”的警告，有人则认为过度反应。该讨论获得 24 分和 9 条评论。",
+        "tag": "行业动态",
+        "sort_score": 55,
+        "source": "hackernews"
+      },
+      {
+        "title": "AI 机器人何时进入家庭？",
+        "link": "https://spectrum.ieee.org/ai-robots",
+        "description": "HN 讨论 AI 机器人进入家庭的时间表。",
+        "detail": "Hacker News 上发起讨论：AI 机器人何时会进入我们的家庭？该话题获得 17 分和 13 条评论，反映了公众对家用机器人的期待与疑虑。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-13",
     "weekday": "星期日",
     "summary": "今日焦点集中在模型与 Agent 的\"刹车\"与\"进化\"两条主线上：OpenAI 宣布年内不上市，奥特曼与 Anthropic CEO 罕见同调呼吁 AI 减速；与此同时，OpenAI 关停史上最快模型 GPT-5.3-Codex-Spark，国产世界模型 Motus 2 发布让灵巧操作实现\"自进化\"。评测领域爆出刷榜丑闻，谷歌 Gemini 在去污染测试中暴跌 70 分。此外，果蝇大脑接入 ChatGPT、英伟达拟百亿注资 Anthropic IPO 等消息引发广泛讨论。",
