@@ -1,5 +1,228 @@
 [
   {
+    "date": "2026-09-15",
+    "weekday": "星期二",
+    "summary": "今日焦点集中在 AI 治理与安全争议：Anthropic CEO Dario Amodei 抛出 AI 全球共管计划，OpenAI 的奥特曼发长文呼吁前沿实验室主动\"踩刹车\"，但特朗普公开抨击这一\"减速\"立场。技术层面，7 名博士生用 3 个月从零训练出 7B 大模型并全量开源，英伟达开源工作流自进化框架 SoL-Pi，苹果 iOS 27 正式推送并为第三方 AI 留出入口。",
+    "news": [
+      {
+        "title": "黄仁勋接听特朗普来电，展示其他内容",
+        "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+        "description": "黄仁勋直播接听特朗普电话，但焦点转向其使用的手机。",
+        "detail": "英伟达CEO黄仁勋在一次直播中接听了美国前总统特朗普的电话，但部分观众更关注他使用的手机设备。这一事件引发了关于科技领袖与政治人物互动的讨论。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "7名博士生3个月从零训练7B大模型，代码数据全公开",
+        "link": "https://www.qbitai.com/2026/09/489227.html",
+        "description": "7名博士生用3个月训练7B大模型，数百Agent参与研发。",
+        "detail": "一个由7名博士生组成的小团队在3个月内从零开始训练了一个7B参数的大语言模型，并公开了代码、数据和训练日志。过程中有数百个AI Agent参与研发，展示了AI辅助AI开发的新模式。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "量子位"
+      },
+      {
+        "title": "Dario紧急抛出AI全球共管计划，特朗普大发雷霆",
+        "link": "https://aiera.com.cn/2026/09/15/other/admin/113764/%e5%88%9a%e5%88%9a%ef%bc%8cdario%e7%b4%a7%e6%80%a5%e6%8a%9b%e5%87%baai%e5%85%a8%e7%90%83%e5%85%b1%e7%ae%a1%e8%ae%a1%e5%88%92%ef%bc%81/",
+        "description": "Anthropic CEO提出AI全球共管计划，特朗普强烈反对。",
+        "detail": "Anthropic CEO Dario Amodei紧急提出AI全球共管计划，呼吁对前沿AI进行国际监管。特朗普对此表示愤怒，同时惠誉警告AI行业放缓可能引发美股下跌。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "iOS 27暗门被扒，Claude将为Siri换脑",
+        "link": "https://aiera.com.cn/2026/09/15/other/admin/113743/ios-27%e6%9a%97%e9%97%a8%e8%a2%ab%e6%89%92%ef%bc%81claude%e8%a6%81%e7%bb%99siri%e6%8d%a2%e8%84%91%e4%ba%86/",
+        "description": "iOS 27被曝为第三方AI留接口，Claude或集成Siri。",
+        "detail": "苹果iOS 27正式推送后，开发者发现系统内藏有允许第三方AI接入的暗门。这可能导致Siri的底层AI被替换为Claude等第三方模型，引发广泛关注。",
+        "tag": "新功能",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI关停200美元套餐，AgnesCode仍免费",
+        "link": "https://aiera.com.cn/2026/09/15/other/admin/113728/openai%e5%85%b3%e5%81%9c200%e5%a5%97%e9%a4%90%ef%bc%8c%e8%bf%99%e6%ac%be%e5%a4%a7%e6%a8%a1%e5%9e%8b%e4%be%9d%e6%97%a7%e5%85%a8%e5%85%8d%e8%b4%b9%ef%bc%81agnescode%e7%8c%9b%e7%8c%9b%e8%b9%ac/",
+        "description": "OpenAI因算力压力关停ChatGPT Pro 200美元套餐。",
+        "detail": "OpenAI宣布关停ChatGPT Pro的200美元套餐，原因是Astra模型导致算力需求过高。与此同时，AgnesCode大模型依然保持免费，吸引大量用户。",
+        "tag": "公司动态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "网页藏毒劫持Agent，自进化女警系统可追凶",
+        "link": "https://aiera.com.cn/2026/09/15/other/admin/113712/%e7%bd%91%e9%a1%b5%e8%97%8f%e6%af%92%ef%bc%8c%e5%8a%ab%e6%8c%81agent%ef%bc%9f%e4%bd%a0%e9%9c%80%e8%a6%81%e4%bc%9a%e3%80%8c%e8%bf%bd%e5%87%b6%e3%80%8d%e7%9a%84%e8%87%aa%e8%bf%9b%e5%8c%96%e5%a5%b3/",
+        "description": "AI Agent面临网页安全威胁，自进化系统可追踪攻击。",
+        "detail": "随着AI Agent接入浏览器、文件系统等，网页藏毒和劫持风险增加。一种自进化的“女警”安全系统被提出，能够追踪和应对针对Agent的攻击。",
+        "tag": "Agent 进展",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "何泳澔出任CTO，黑马公司60天融资数千万",
+        "link": "https://aiera.com.cn/2026/09/15/other/admin/113700/60%e5%a4%a9%e8%9e%8d%e8%b5%84%e6%95%b0%e5%8d%83%e4%b8%87%ef%bc%8c%e4%bd%95%e6%b3%b3%e6%be%94%e5%87%ba%e4%bb%bbcto%ef%bc%81%e8%bf%99%e5%ae%b6%e9%bb%91%e9%a9%ac%e5%86%b2%e5%88%ba%e3%80%8c%e6%9c%80/",
+        "description": "具身智能公司60天融资数千万，何泳澔任CTO。",
+        "detail": "一家具身智能领域的黑马公司在60天内完成数千万融资，并宣布何泳澔出任CTO。该公司致力于解决人形机器人落地的“最后一公里”问题。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "分子之心用AI将化学反应模拟从1300万天压至0.25秒",
+        "link": "https://aiera.com.cn/2026/09/15/other/admin/113687/1300%e4%b8%87%e5%a4%a9%e5%8e%8b%e5%88%b00-25%e7%a7%92%ef%bc%81%e5%88%86%e5%ad%90%e4%b9%8b%e5%bf%83%e7%94%a8ai%e6%8a%8a%e5%8c%96%e5%ad%a6%e5%8f%8d%e5%ba%94%e6%8b%8d%e6%88%90%e7%94%b5%e5%bd%b1%ef%bc%8c/",
+        "description": "分子之心AI模拟化学反应，速度提升至0.25秒。",
+        "detail": "分子之心利用AI技术，将十万原子化学反应的模拟时间从传统量子化学方法的1300万天缩短至0.25秒。该成果发表在Science子刊上，展示了AI在计算化学领域的巨大潜力。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "中国AI天团杀向RSI，1分钟预测全球天气",
+        "link": "https://aiera.com.cn/2026/09/15/other/admin/113681/%e5%88%9a%e5%88%9a%ef%bc%8c%e4%b8%ad%e5%9b%bdai%e5%a4%a9%e5%9b%a2%e6%9d%80%e5%90%91rsi%ef%bc%811%e5%88%86%e9%92%9f%e9%a2%84%e6%b5%8b%e5%85%a8%e7%90%83%e5%a4%a9%e6%b0%94%e3%80%8120%e5%88%86%e9%92%9f/",
+        "description": "中国AI团队在RSI领域取得突破，可1分钟预测天气。",
+        "detail": "中国AI团队在递归自我改进（RSI）方向取得进展，能够1分钟预测全球天气，并在20分钟内手搓操作系统。同时提供了大额免费Token Plan。",
+        "tag": "Agent 进展",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "奥特曼深夜长文警告：AI巨头必须集体踩刹车",
+        "link": "https://aiera.com.cn/2026/09/15/other/admin/113663/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%b7%b1%e5%a4%9c%e9%95%bf%e6%96%87%e8%ad%a6%e5%91%8a%ef%bc%9aai%e5%b7%a8%e5%a4%b4%e5%bf%85%e9%a1%bb%e9%9b%86%e4%bd%93%e3%80%8c%e8%b8%a9%e5%88%b9%e8%bd%a6%e3%80%8d%ef%bc%81/",
+        "description": "奥特曼警告AI发展危险，呼吁前沿实验室主动降速。",
+        "detail": "OpenAI CEO奥特曼发表长文，警告AI狂飙突进已到危险十字路口，前沿实验室必须主动降速，确保安全对齐与监控机制跟上。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "Meta打造组织第二大脑智能体的设计思路",
+        "link": "https://www.infoq.cn/article/4OXJdfB36TpMRdvrVgIc?utm_source=rss&utm_medium=article",
+        "description": "Meta分享构建组织第二大脑智能体的设计思路。",
+        "detail": "Meta介绍了其打造“组织第二大脑”智能体的设计理念，旨在通过AI增强组织内部的知识管理和决策效率。",
+        "tag": "Agent 进展",
+        "sort_score": 75,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从Trace到规模化实时评估：生产流量Agent可观测实践",
+        "link": "https://www.infoq.cn/article/556HrGKWUqWSg7NM3YT3?utm_source=rss&utm_medium=article",
+        "description": "QCon上海分享生产环境中Agent可观测性实践。",
+        "detail": "在QCon上海，专家分享了从Trace到规模化实时评估的Agent可观测性实践，帮助企业在生产流量中监控和优化Agent性能。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI负责创造，人来干脏活，这事儿能否停一下？",
+        "link": "https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article",
+        "description": "讨论AI创造与人类脏活分工的现状与反思。",
+        "detail": "文章探讨了当前AI负责创造性工作、人类承担脏活累活的分工模式，并质疑这种模式是否可持续或合理。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "iOS 27正式版体验：Siri AI终于开窍了",
+        "link": "https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "iOS 27正式版体验，Siri AI能力显著提升。",
+        "detail": "iOS 27正式版推送，Siri的AI能力得到大幅增强，老iPhone升级也有新功能。整体体验值得升级。",
+        "tag": "新功能",
+        "sort_score": 80,
+        "source": "爱范儿"
+      },
+      {
+        "title": "早报：iOS27推送，比亚迪高管称燃油车无未来",
+        "link": "https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "iOS27正式推送，比亚迪高管评论燃油车，iPhone降价。",
+        "detail": "今日早报包括iOS27正式推送、比亚迪高管称燃油车在中国没有未来、iPhone 18 Pro渠道降价900元等消息。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "爱范儿"
+      },
+      {
+        "title": "iOS 27、MacOS 27发布，豆包手机助手亮相",
+        "link": "http://www.geekpark.net/news/370306",
+        "description": "苹果发布iOS 27和MacOS 27，豆包手机助手亮相。",
+        "detail": "苹果正式发布iOS 27和MacOS 27，同时豆包手机助手消费者版亮相。李想评论“大车”趋势将结束。特朗普抨击Anthropic CEO，反对AI发展踩刹车。",
+        "tag": "新功能",
+        "sort_score": 78,
+        "source": "极客公园"
+      },
+      {
+        "title": "英伟达开源SoL-Pi，工作流自我进化每小时省13.5刀",
+        "link": "https://www.leiphone.com/category/yanxishe/N5vgkP1Vl7gHCjYr.html",
+        "description": "英伟达开源SoL-Pi，工作流可自我进化，节省成本。",
+        "detail": "英伟达开源了SoL-Pi，能够使工作流自我进化，Token消耗减半而任务完成量不变，每小时节省13.5美元。",
+        "tag": "工具与生态",
+        "sort_score": 85,
+        "source": "雷锋网"
+      },
+      {
+        "title": "DM0.5横扫四榜，具身智能底座面面俱到",
+        "link": "https://www.leiphone.com/category/ai/jIrGoPOXjx7WNljl.html",
+        "description": "DM0.5在四个榜单中夺冠，具身智能底座无短板。",
+        "detail": "DM0.5模型在四个榜单中均排名第一，展示了其在具身智能领域的全面能力，没有结构性短板，适合落地应用。",
+        "tag": "模型发布",
+        "sort_score": 88,
+        "source": "雷锋网"
+      },
+      {
+        "title": "强化学习新作：FAME框架破解学新忘旧困局",
+        "link": "https://www.leiphone.com/category/ai/ThVhOdBYKbsqZo8f.html",
+        "description": "阿尔伯塔大学提出FAME框架，解决持续强化学习遗忘问题。",
+        "detail": "阿尔伯塔大学团队提出FAME框架，为持续强化学习中的“学新忘旧”问题提供了可求解的公式，推动该领域发展。",
+        "tag": "模型发布",
+        "sort_score": 82,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Arm对智能体经济时代算力平台的新理解",
+        "link": "https://www.leiphone.com/category/chipdesign/9c9xucIBDVwB5OYz.html",
+        "description": "Arm分享智能体经济时代算力平台的新思路。",
+        "detail": "Arm在智能体经济时代对算力平台提出新理解，强调200瓦功耗之差的新战场，以及智能体开发员成为新职业的背景。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "雷锋网"
+      },
+      {
+        "title": "英伟达限制员工使用Claude，一汽将成广汽第二大股东",
+        "link": "https://www.leiphone.com/category/zaobao/SrmCbu60oiAwTvkH.html",
+        "description": "英伟达限制员工使用Claude，一汽拟入股广汽。",
+        "detail": "英伟达因担心代码被用于训练而限制员工使用Claude。同时，一汽将成广汽第二大股东，南北丰田拟合并。苹果回应iPhone 18 Pro破发。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "雷锋网"
+      },
+      {
+        "title": "前FTC主席Khan呼吁给AI CEO戴手铐，引1934年先例",
+        "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+        "description": "前FTC主席Khan引用1934年先例，呼吁追究AI CEO责任。",
+        "detail": "前美国联邦贸易委员会主席Khan引用1934年先例，呼吁对AI CEO采取法律行动，甚至戴上手铐，以追究其责任。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "hackernews"
+      },
+      {
+        "title": "以色列有效利他主义公司被指幕后攻击OpenAI等",
+        "link": "https://twitter.com/brianchau57/status/2099580981271318606",
+        "description": "以色列EA公司被指控对OpenAI、Anthropic等发动网络攻击。",
+        "detail": "有报道称，一家以色列有效利他主义公司涉嫌对OpenAI、Anthropic和Meta发动网络攻击，引发对AI行业竞争伦理的关注。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "hackernews"
+      },
+      {
+        "title": "前DeepMind员工警告：应听取AI风险警告",
+        "link": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+        "description": "前Google DeepMind员工撰文，呼吁重视AI风险警告。",
+        "detail": "一位前Google DeepMind员工发表文章，表示在DeepMind的工作经历让他认为公众应该认真听取关于AI风险的警告。",
+        "tag": "行业动态",
+        "sort_score": 55,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "weekday": "星期一",
     "summary": "OpenAI 的 GPT-6 Astra 成为今日绝对主角：Perplexity 宣布将其用于端到端系统运维，Plus 用户也开始陆续收到推送（但仅限\"干活\"场景）。与此同时，Anthropic CEO Dario Amodei 发布长文《We Must Pace the Frontier》，提出全球 AI 限速三步计划，获奥特曼、马斯克第一时间支持。国内方面，智谱在财务公告中提前剧透下一代 GLM 的自训练方法，Kimi K2.8 Preview 全量上线 100 万上下文。Agent 安全与 RSI（递归自我改进）成为技术社区的两大焦点议题。",
