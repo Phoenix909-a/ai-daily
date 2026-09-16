@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-09-16",
+    "weekday": "星期三",
+    "summary": "Anthropic 深夜灰度上线 Claude Opus 5.2，被开发者称为\"RSI 真来了\"；与此同时，英伟达、Palantir 等 Anthropic 顶级金主被曝集体\"拔网线\"，停用 Claude 最强模型。国内方面，飞书与豆包工作合体推出 Agent 工作平台，华为 GTS 让 Agent 学会网络排障，任务通过率提升 24.2%。Google 向全体工程师开放 Claude 使用权限，但 Gemini 仍是默认模型。",
+    "news": [
+      {
+        "title": "英伟达 CEO 黄仁勋呼吁无需 AI 监管，称安全可交由行业负责",
+        "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+        "description": "黄仁勋称 AI 非外星思维，只是硬件软件，主张行业自律。",
+        "detail": "英伟达 CEO 黄仁勋公开表示，AI 并非某种新的“外星思维”，而仅仅是硬件和软件的组合。他呼吁不要对 AI 进行监管，认为安全责任可以交由行业自身承担。此番言论引发对 AI 监管与行业自律的讨论。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "量子位启动 2026 人工智能年度榜单评选",
+        "link": "https://www.qbitai.com/2026/09/490329.html",
+        "description": "量子位 2026 年度 AI 榜单正式启动，报名通道已开启。",
+        "detail": "量子位宣布 2026 人工智能年度榜单正式启动，报名通道已开启，欢迎相关企业及团队参与。该榜单旨在评选年度优秀 AI 产品、技术及公司。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "量子位"
+      },
+      {
+        "title": "杭州团队被英伟达点名，补上 AI for Science 最后一公里",
+        "link": "https://www.qbitai.com/2026/09/490185.html",
+        "description": "杭州团队实现从想法到结果一次对话，获英伟达点名。",
+        "detail": "一支被英伟达点名的杭州团队在 AI for Science 领域取得突破，补上了从想法到结果的“最后一公里”。用户可通过一次对话直接获得科学计算结果，大幅提升科研效率。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "量子位"
+      },
+      {
+        "title": "新方法将记忆交给 CPU，提升大模型推理速度",
+        "link": "https://www.qbitai.com/2026/09/489724.html",
+        "description": "把记忆交给 CPU，让 GPU 专注生成 Token，加速大模型。",
+        "detail": "一项新技术提出将大模型的记忆存储交给 CPU 处理，从而让 GPU 更专注于 Token 生成任务。这种分工有望显著提升大模型推理速度，优化计算资源利用。",
+        "tag": "工具与生态",
+        "sort_score": 75,
+        "source": "量子位"
+      },
+      {
+        "title": "Vidu S2 发布，支持实时互动、实时改视频与空间视频",
+        "link": "https://www.qbitai.com/2026/09/490109.html",
+        "description": "Vidu S2 一次放出三个大招：实时互动、实时改视频、空间视频。",
+        "detail": "Vidu S2 正式发布，带来实时互动、实时视频编辑和空间视频探索三大功能。这些新能力拓展了视频生成与交互的应用场景，提升了创作灵活性。",
+        "tag": "新功能",
+        "sort_score": 85,
+        "source": "量子位"
+      },
+      {
+        "title": "华为 GTS 让 Agent 学会“看着网络排障”，任务通过率提升 24.2%",
+        "link": "https://www.qbitai.com/2026/09/490098.html",
+        "description": "华为 GTS 推出网络排障 Agent，通过率提升 24.2%，成本降 45%。",
+        "detail": "华为 GTS 开发了能够“看着网络排障”的 Agent，在双防火墙难题上几乎全部拿下。该 Agent 使任务通过率提升 24.2%，token 成本最高下降 45%，显著提升运维效率。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "英伟达等公司被曝“封杀” Claude 最强模型",
+        "link": "https://aiera.com.cn/2026/09/16/other/admin/113929/%e7%aa%81%e5%8f%91%ef%bc%81%e8%8b%b1%e4%bc%9f%e8%be%be%e3%80%8c%e5%b0%81%e6%9d%80%e3%80%8dclaude%e6%9c%80%e5%bc%ba%e6%a8%a1%e5%9e%8b/",
+        "description": "英伟达、Palantir 等集体拔网线，停用 Anthropic 顶级模型。",
+        "detail": "英伟达、Palantir、博思艾伦等硅谷巨头被曝集体停止使用 Anthropic 的顶级模型 Claude。这些公司是 Anthropic 的重要金主，此举可能影响 Anthropic 的商业合作与模型推广。",
+        "tag": "公司动态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude Opus 5.2 深夜上线，RSI 能力引关注",
+        "link": "https://aiera.com.cn/2026/09/16/other/admin/113911/%e7%aa%81%e5%8f%91%ef%bc%81opus-5-2%e6%b7%b1%e5%a4%9c%e4%b8%8a%e7%ba%bf%ef%bc%8crsi%e7%9c%9f%e6%9d%a5%e4%ba%86%ef%bc%9f/",
+        "description": "Claude Opus 5.2 在 Claude Code 中灰度测试，RSI 真来了？",
+        "detail": "新一代模型 Claude Opus 5.2 在深夜悄悄上线，许多开发者发现其已在 Claude Code 中开启灰度测试。该模型可能具备 RSI（递归自我改进）能力，引发社区对 AI 自我进化速度的讨论。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI 押注 RSI，国产 AI 火速交卷 Flash 叫板万亿大模型",
+        "link": "https://aiera.com.cn/2026/09/16/other/admin/113886/openai%e6%8a%bc%e6%b3%a8rsi%ef%bc%8c%e5%9b%bd%e4%ba%a7ai%e7%81%ab%e9%80%9f%e4%ba%a4%e5%8d%b7%ef%bc%81flash%e5%8f%ab%e6%9d%bf%e4%b8%87%e4%ba%bf%e5%a4%a7%e6%a8%a1%e5%9e%8b/",
+        "description": "OpenAI 公开内部账押注 RSI，国产 Flash 模型挑战万亿参数。",
+        "detail": "OpenAI 破天荒公开内部账目，显示其押注 RSI（递归自我改进）方向。同时，国产 AI 团队火速交卷，推出 Flash 模型叫板万亿参数大模型，展示高效能小模型竞争力。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude 独立破译 370 年前密文，仅用 44 分钟",
+        "link": "https://aiera.com.cn/2026/09/16/other/admin/113860/claude%e7%8b%ac%e7%ab%8b%e7%a0%b4%e8%af%91370%e5%b9%b4%e5%89%8d%e5%af%86%e6%96%87%ef%bc%81%e4%bb%8544%e5%88%86%e9%92%9f%ef%bc%8c%e5%af%86%e7%a0%81%e5%ad%a6%e5%ae%b6%e7%a0%b4%e9%98%b2%e4%ba%86/",
+        "description": "Claude Fable 5.1 独立破译 370 年前密文，耗时仅 44 分钟。",
+        "detail": "独立研究员给 Claude Fable 5.1 抛出一个纯开放式命题，要求破译 370 年前的密文。Claude 在仅 44 分钟内独立完成破译，令密码学界震惊，展示了大模型在复杂推理任务上的潜力。",
+        "tag": "对比评测",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "特朗普突袭连线黄仁勋，怒怼 Dario 装小天使",
+        "link": "https://aiera.com.cn/2026/09/16/other/admin/113846/%e5%90%8d%e5%9c%ba%e9%9d%a2%ef%bc%81%e7%89%b9%e6%9c%97%e6%99%ae%e7%aa%81%e8%a2%ad%e8%bf%9e%e7%ba%bf%e8%80%81%e9%bb%84%ef%bc%8c%e5%8f%91%e9%a3%99%e6%80%92%e6%80%bcdario%e3%80%8c%e8%a3%85%e5%b0%8f/",
+        "description": "特朗普在 All-In 峰会连线黄仁勋，怒怼 Anthropic CEO。",
+        "detail": "在洛杉矶 All-In 峰会现场，特朗普突然连线正在演讲的黄仁勋，并怒怼 Anthropic CEO Dario Amodei“装小天使”。这一名场面引发广泛关注，反映了 AI 行业与政治的交织。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "新智元"
+      },
+      {
+        "title": "最强 Agent 工作平台亮相，飞书与豆包工作合体",
+        "link": "https://aiera.com.cn/2026/09/16/other/admin/113832/%e5%88%9a%e5%88%9a%ef%bc%8c%e6%9c%80%e5%bc%baagent%e5%b7%a5%e4%bd%9c%e5%b9%b3%e5%8f%b0%e4%ba%ae%e7%9b%b8%ef%bc%81%e9%a3%9e%e4%b9%a6%e3%80%81%e8%b1%86%e5%8c%85%e5%b7%a5%e4%bd%9c%e5%90%88%e4%bd%93/",
+        "description": "飞书和豆包工作合体，推出最强 Agent 工作平台。",
+        "detail": "飞书与豆包工作宣布合体，推出号称最强的 Agent 工作平台。此前 Anthropic 的 Claude Cowork 插件发布曾引发 SaaS 行业震动，此次合体可能进一步改变企业协作与 AI 工作流格局。",
+        "tag": "Agent 进展",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "复旦发布以人为中心的复杂场景音视频追踪基准",
+        "link": "https://aiera.com.cn/2026/09/16/other/admin/113813/%e5%a4%8d%e6%97%a6%e5%8f%91%e5%b8%83%e4%bb%a5%e4%ba%ba%e4%b8%ba%e4%b8%ad%e5%bf%83%e7%9a%84%e5%a4%8d%e6%9d%82%e5%9c%ba%e6%99%af%e9%9f%b3%e8%a7%86%e9%a2%91%e8%bf%bd%e8%b8%aa%e5%9f%ba%e5%87%86-icml-202/",
+        "description": "复旦提出以人为中心的音视频追踪基准，入选 ICML 2026。",
+        "detail": "复旦大学发布了一项以人为中心的复杂场景音视频追踪基准，旨在解决多人会议、综艺素材、监控录像等场景中的说话人追踪问题。该工作被 ICML 2026 收录，推动多模态感知研究。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI o1 功臣预警：AI 还没失控，我们已经快测不准它了",
+        "link": "https://aiera.com.cn/2026/09/16/other/admin/113798/openai-o1%e5%8a%9f%e8%87%a3%e9%a2%84%e8%ad%a6%ef%bc%9aai%e8%bf%98%e6%b2%a1%e5%a4%b1%e6%8e%a7%ef%bc%8c%e6%88%91%e4%bb%ac%e5%b7%b2%e7%bb%8f%e5%bf%ab%e6%b5%8b%e4%b8%8d%e5%87%86%e5%ae%83%e4%ba%86%ef%bc%81/",
+        "description": "OpenAI o1 核心贡献者警告 AI 评估方法已跟不上模型发展。",
+        "detail": "OpenAI o1 项目功臣在 X 上发布个人声明，指出 AI 尚未失控，但人类已经快测不准它了。声明将矛头指向 AI 评估与测试方法的前置问题，呼吁关注模型能力测量的可靠性。",
+        "tag": "行业动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "中国语音 AI 连拿多项全球第一",
+        "link": "https://aiera.com.cn/2026/09/16/other/admin/113782/%e5%88%9a%e5%88%9a%ef%bc%8c%e4%b8%ad%e5%9b%bd%e8%af%ad%e9%9f%b3ai%e8%bf%9e%e6%8b%bf%e5%a4%9a%e9%a1%b9%e5%85%a8%e7%90%83%e7%ac%ac%e4%b8%80%ef%bc%81/",
+        "description": "中国语音 AI 在多项国际评测中夺得第一。",
+        "detail": "中国语音 AI 技术在多项全球评测中连拿第一，涵盖嘈杂环境下的语音识别等任务。例如在地铁急刹、人群骚动等复杂声学场景中，系统仍能保持高识别率，展现技术领先性。",
+        "tag": "行业动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "我和我的 AI 手机吃了 3 顿饭",
+        "link": "https://www.ifanr.com/1679951?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "作者体验 AI 手机，探讨 AI 计算应放在最适合的地方。",
+        "detail": "文章作者分享与 AI 手机共进三顿饭的体验，探讨将 AI 计算放在最适合计算 AI 的地方这一理念。通过日常场景展示 AI 手机的实际表现与局限性。",
+        "tag": "工具与生态",
+        "sort_score": 60,
+        "source": "爱范儿"
+      },
+      {
+        "title": "早报：Google 向全体工程师开放 Claude，Gemini 仍是默认模型",
+        "link": "https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "Google 向工程师开放 Claude，但 Gemini 仍为默认模型。",
+        "detail": "早报消息显示，Google 已向全体工程师开放 Anthropic 的 Claude 模型，但 Gemini 仍是默认模型。此外，鸿蒙智行确认问界合作模式调整，赛力斯主导五项业务；Waymo 计划 2027 年在东京推出全无人出租车。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "爱范儿"
+      },
+      {
+        "title": "OpenAI、Anthropic、谷歌联手研究 AI 安全；字节跳动因 AI 投入净利润下降",
+        "link": "http://www.geekpark.net/news/370375",
+        "description": "三大 AI 公司联手研究安全；字节跳动上半年净利润下降。",
+        "detail": "OpenAI、Anthropic 和谷歌宣布联手研究 AI 安全。同时，微信员工辟谣 AI 助手“小微”偷隐私；美国已在太空部署武器。此外，因加大 AI 投入，字节跳动 2026 上半年净利润同比下降。",
+        "tag": "行业动态",
+        "sort_score": 75,
+        "source": "极客公园"
+      },
+      {
+        "title": "奇安信获国家信息安全漏洞库 CNNVD 两项荣誉",
+        "link": "https://www.leiphone.com/category/industrynews/P4eihytTQZUWVoi1.html",
+        "description": "奇安信在漏洞协同管理与高质量漏洞报送方面获 CNNVD 表彰。",
+        "detail": "在 2026 年国家网络安全宣传周成都系列活动中，奇安信凭借在漏洞协同管理与高质量漏洞报送方面的卓越表现，斩获国家信息安全漏洞库 CNNVD 两项重磅荣誉。",
+        "tag": "公司动态",
+        "sort_score": 50,
+        "source": "雷锋网"
+      },
+      {
+        "title": "王强宇履新百望，推动财税垂直大模型与企业 Palantir 愿景",
+        "link": "https://www.leiphone.com/category/industrynews/eHFMXZuvEmgUO75A.html",
+        "description": "王强宇出任百望股份联席总经理，聚焦财税垂直大模型。",
+        "detail": "王强宇履新百望股份联席总经理，计划从发票 SaaS 工具向财税垂直大模型转型，并打造企业的 Palantir。他在垂类大模型落地和规模化应用方面具有丰富实战经验，获资本市场关注。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "雷锋网"
+      },
+      {
+        "title": "携程上架 510 万太空旅行船票；华为放权问界由赛力斯主导",
+        "link": "https://www.leiphone.com/category/zaobao/PDGNX4A6cRCzbe56.html",
+        "description": "携程太空旅行船票已售 681 张；华为放权问界由赛力斯主导。",
+        "detail": "携程上架单价 510 万元的太空旅行船票，已有 681 人购买，还需自行购买保险。同时，华为放权，问界将由赛力斯主导，华为终端参与赋能。此外，娃哈哈因拖欠员工公积金被查封办公楼。",
+        "tag": "行业动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "在禁止 AI 训练的同时保持搜索可见性",
+        "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+        "description": "HN 讨论如何在禁止 AI 训练的同时保持搜索可见性。",
+        "detail": "Hacker News 上一条讨论引发关注：网站如何在禁止 AI 训练爬虫的同时，仍保持在搜索引擎中的可见性。该话题涉及 robots.txt 与 AI 爬虫的博弈，获得 44 点热度。",
+        "tag": "工具与生态",
+        "sort_score": 65,
+        "source": "hackernews"
+      },
+      {
+        "title": "Datamimic：别让你的编码 Agent 自己发明测试世界",
+        "link": "https://github.com/rapiddweller/datamimic",
+        "description": "Datamimic 工具帮助编码 Agent 使用真实测试数据。",
+        "detail": "Datamimic 是一款新工具，旨在防止编码 Agent 在测试时自行编造不真实的测试环境。它提供结构化的测试数据生成，确保 Agent 在真实数据上验证代码，提升可靠性。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-15",
     "weekday": "星期二",
     "summary": "OpenAI 正式发布面向编程与计算机应用的 GPT-6 Astra，但随即因算力压力关停 ChatGPT Pro $200 套餐，引发广泛关注。与此同时，OpenAI、Anthropic、Google 联合提出的\"放缓前沿 AI 开发\"倡议持续发酵，被 Cohere CEO 直指为\"换名字的卡特尔\"，特朗普亦公开表达不满。Agent 赛道热度不减，OpenAI Agents API、Sierra 多模态 Agent 等产品密集亮相。国内方面，7 名博士生 3 个月从零训练 7B 大模型并全量开源，引发\"AI 造 AI\"讨论。",
