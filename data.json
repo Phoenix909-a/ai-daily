@@ -2,16 +2,97 @@
   {
     "date": "2026-09-25",
     "weekday": "星期五",
-    "summary": "今日共收录 15 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 雷锋网。",
+    "summary": "今日共收录 24 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
+        "link": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/",
+        "description": "\n        The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first.\nThe article White House tells OpenAI an",
+        "detail": "\n        The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first.\nThe article White House tells OpenAI an",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
       {
         "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
         "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-        "description": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-        "detail": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+        "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+        "detail": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "Aks.ai",
+        "link": "https://www.producthunt.com/products/aks-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Howseen AI",
+        "link": "https://www.producthunt.com/products/howseen-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "LaterOn v2: The agentic email plaftform",
+        "link": "https://www.producthunt.com/products/lateron-email",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "JevForAgents",
+        "link": "https://www.producthunt.com/products/jevforagents",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+        "link": "https://www.qbitai.com/2026/09/497075.html",
+        "description": "Agent的手越伸越长",
+        "detail": "Agent的手越伸越长",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "量子位"
+      },
+      {
+        "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+        "link": "https://www.qbitai.com/2026/09/497070.html",
+        "description": "一场物理世界的基模实验",
+        "detail": "一场物理世界的基模实验",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
+        "link": "https://www.qbitai.com/2026/09/497060.html",
+        "description": "人工外包团队",
+        "detail": "人工外包团队",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+        "link": "https://www.qbitai.com/2026/09/497012.html",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
       },
       {
         "title": "GPT-6缓存输入最高省九成，你的账单为啥没打一折？",
