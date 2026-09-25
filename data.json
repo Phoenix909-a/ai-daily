@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-09-25",
+    "weekday": "星期五",
+    "summary": "今日共收录 15 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 雷锋网。",
+    "news": [
+      {
+        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+        "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+        "description": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+        "detail": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "GPT-6缓存输入最高省九成，你的账单为啥没打一折？",
+        "link": "https://aiera.com.cn/2026/09/25/other/admin/115448/gpt-6%e7%bc%93%e5%ad%98%e8%be%93%e5%85%a5%e6%9c%80%e9%ab%98%e7%9c%81%e4%b9%9d%e6%88%90%ef%bc%8c%e4%bd%a0%e7%9a%84%e8%b4%a6%e5%8d%95%e4%b8%ba%e5%95%a5%e6%b2%a1%e6%89%93%e4%b8%80%e6%8a%98%ef%bc%9f/",
+        "description": "你有没有碰到过这种场景： 把一堆资料交给AI，让它写报告、核对出处，再做成PPT。 第一版出来后，你觉得结构不对，在对话框里打了几个字：「把结论提到最前面」；",
+        "detail": "你有没有碰到过这种场景： 把一堆资料交给AI，让它写报告、核对出处，再做成PPT。 第一版出来后，你觉得结构不对，在对话框里打了几个字：「把结论提到最前面」；",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude发现神秘DNA系统！狂烧21 亿Token挖出「上帝手术刀」",
+        "link": "https://aiera.com.cn/2026/09/25/other/admin/115435/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e5%8f%91%e7%8e%b0%e7%a5%9e%e7%a7%98dna%e7%b3%bb%e7%bb%9f%ef%bc%81%e7%8b%82%e7%83%a721-%e4%ba%bftoken%e6%8c%96%e5%87%ba%e3%80%8c%e4%b8%8a%e5%b8%9d%e6%89%8b%e6%9c%af/",
+        "description": "整个生命科学界和AI圈，今夜无眠。 就在刚刚，Anthropic甩出了新分子生物学实验室的「首个成果」——",
+        "detail": "整个生命科学界和AI圈，今夜无眠。 就在刚刚，Anthropic甩出了新分子生物学实验室的「首个成果」——",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "力压GPT-6，中国物理AI黑马登顶第一！",
+        "link": "https://aiera.com.cn/2026/09/25/other/admin/115415/%e5%8a%9b%e5%8e%8bgpt-6%ef%bc%8c%e4%b8%ad%e5%9b%bd%e7%89%a9%e7%90%86ai%e9%bb%91%e9%a9%ac%e7%99%bb%e9%a1%b6%e7%ac%ac%e4%b8%80%ef%bc%81/",
+        "description": "就在刚刚，AI圈迎来全新黑马。 在权威公开评测榜单RoboDojo中，一家成立仅仅几个月的神秘初创，突然杀出重围，一举拿下全球第一。",
+        "detail": "就在刚刚，AI圈迎来全新黑马。 在权威公开评测榜单RoboDojo中，一家成立仅仅几个月的神秘初创，突然杀出重围，一举拿下全球第一。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "中文用户全线中招！Claude网页限速，只因回复里有汉字",
+        "link": "https://aiera.com.cn/2026/09/25/other/admin/115403/%e4%b8%ad%e6%96%87%e7%94%a8%e6%88%b7%e5%85%a8%e7%ba%bf%e4%b8%ad%e6%8b%9b%ef%bc%81claude%e7%bd%91%e9%a1%b5%e9%99%90%e9%80%9f%ef%bc%8c%e5%8f%aa%e5%9b%a0%e5%9b%9e%e5%a4%8d%e9%87%8c%e6%9c%89%e6%b1%89/",
+        "description": "万万没想到，Claude竟然被自己的「AI味儿」给坑惨了！ 今天凌晨，Anthropic放出一篇硬核的工程复盘。",
+        "detail": "万万没想到，Claude竟然被自己的「AI味儿」给坑惨了！ 今天凌晨，Anthropic放出一篇硬核的工程复盘。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "三榜第一，完胜GPT-6！中国物理RSI杀出黑马",
+        "link": "https://aiera.com.cn/2026/09/25/other/admin/115386/%e4%b8%89%e6%a6%9c%e7%ac%ac%e4%b8%80%ef%bc%8c%e5%ae%8c%e8%83%9cgpt-6%ef%bc%81%e4%b8%ad%e5%9b%bd%e7%89%a9%e7%90%86rsi%e6%9d%80%e5%87%ba%e9%bb%91%e9%a9%ac/",
+        "description": "早晨，你还没睁眼，厨房里已经传来轻微的碰瓷声。 推门出去，机器人管家X1站在餐桌旁，你没说话，它就把把椅子轻轻拉开了一点。",
+        "detail": "早晨，你还没睁眼，厨房里已经传来轻微的碰瓷声。 推门出去，机器人管家X1站在餐桌旁，你没说话，它就把把椅子轻轻拉开了一点。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "日榜第二！北大开源，强化学习数据策略接入更简单、对比更公平",
+        "link": "https://aiera.com.cn/2026/09/25/other/admin/115352/%e6%97%a5%e6%a6%9c%e7%ac%ac%e4%ba%8c%ef%bc%81%e5%8c%97%e5%a4%a7%e5%bc%80%e6%ba%90%ef%bc%8c%e5%bc%ba%e5%8c%96%e5%ad%a6%e4%b9%a0%e6%95%b0%e6%8d%ae%e7%ad%96%e7%95%a5%e6%8e%a5%e5%85%a5%e6%9b%b4%e7%ae%80/",
+        "description": "每一轮强化学习到底应该把哪些数据交给模型？ 这个问题正随着推理模型和 RLVR 的发展变得更加重要。随着强化学习在大模型后训练中的作用不断增强，模型练什么、怎么练，也需要更仔细…",
+        "detail": "每一轮强化学习到底应该把哪些数据交给模型？ 这个问题正随着推理模型和 RLVR 的发展变得更加重要。随着强化学习在大模型后训练中的作用不断增强，模型练什么、怎么练，也需要更仔细…",
+        "tag": "对比评测",
+        "sort_score": 86,
+        "source": "新智元"
+      },
+      {
+        "title": "ChatGPT能「开口干活」了！",
+        "link": "https://aiera.com.cn/2026/09/25/other/admin/115335/%e5%88%9a%e5%88%9a%ef%bc%8cchatgpt%e8%83%bd%e3%80%8c%e5%bc%80%e5%8f%a3%e5%b9%b2%e6%b4%bb%e3%80%8d%e4%ba%86%ef%bc%81/",
+        "description": "以后上班，可能不用键盘了。 就在今天，OpenAI 放了个大招。 ChatGPT 的语音模式，以前只会动嘴，从这一刻起，能动手了！",
+        "detail": "以后上班，可能不用键盘了。 就在今天，OpenAI 放了个大招。 ChatGPT 的语音模式，以前只会动嘴，从这一刻起，能动手了！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "上线12天跑赢ChatGPT！Meta爆款AI自曝老底，灵魂文件来自OpenClaw",
+        "link": "https://aiera.com.cn/2026/09/25/other/admin/115323/%e4%b8%8a%e7%ba%bf12%e5%a4%a9%e8%b7%91%e8%b5%a2chatgpt%ef%bc%81meta%e7%88%86%e6%ac%beai%e8%87%aa%e6%9b%9d%e8%80%81%e5%ba%95%ef%bc%8c%e7%81%b5%e9%ad%82%e6%96%87%e4%bb%b6%e6%9d%a5%e8%87%aaopenclaw/",
+        "description": "登顶App Store没多久，小扎的爆款AI，先把自己的老底泄了！ Meta的个人智能体Muse，上线才两周，已经成了今年秋天最火的AI应用。",
+        "detail": "登顶App Store没多久，小扎的爆款AI，先把自己的老底泄了！ Meta的个人智能体Muse，上线才两周，已经成了今年秋天最火的AI应用。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "CPU重回C位！鲲鹏给Agent造了一台「超级计算机」，冲到4096节点",
+        "link": "https://aiera.com.cn/2026/09/25/other/admin/115309/cpu%e9%87%8d%e5%9b%9ec%e4%bd%8d%ef%bc%81%e9%b2%b2%e9%b9%8f%e7%bb%99agent%e9%80%a0%e4%ba%86%e4%b8%80%e5%8f%b0%e3%80%8c%e8%b6%85%e7%ba%a7%e8%ae%a1%e7%ae%97%e6%9c%ba%e3%80%8d%ef%bc%8c%e5%86%b2%e5%88%b040/",
+        "description": "2026年，CPU成了AI世界里的「硬通货」。 全球服务器CPU集体涨价、交货期拉长，最夸张的时候订货要等半年。",
+        "detail": "2026年，CPU成了AI世界里的「硬通货」。 全球服务器CPU集体涨价、交货期拉长，最夸张的时候订货要等半年。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "当 Vibe Coding 撞上企业级现实：真实工程中的 AI 效能之路｜QCon上海",
+        "link": "https://www.infoq.cn/article/QQk3wiolU1VScH3u0P7T?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "OPPO 姜昱辰：大模型的差距越来越小，AI 手机的差距才刚拉开",
+        "link": "http://www.geekpark.net/news/371035",
+        "description": "\n        \n\n小布、ColorOS 17 与「AI 硬件」\n\n作者｜张勇毅\n编辑｜郑玄\n\n「以意图驱动的手机就是 AI 手机。用户说一句话，手机就能把事情办了，不需要再打开 APP、反复点击。」\n这是 OPPO ColorOS 智慧产品研发总监姜昱辰，给 AI 手机下的最新定义。她也用这把尺子量了一遍市面上的产品，包括 OPPO 自家的，结论是现在没有一台手机可以称为 AI 手机。\n但做出",
+        "detail": "\n        \n\n小布、ColorOS 17 与「AI 硬件」\n\n作者｜张勇毅\n编辑｜郑玄\n\n「以意图驱动的手机就是 AI 手机。用户说一句话，手机就能把事情办了，不需要再打开 APP、反复点击。」\n这是 OPPO ColorOS 智慧产品研发总监姜昱辰，给 AI 手机下的最新定义。她也用这把尺子量了一遍市面上的产品，包括 OPPO 自家的，结论是现在没有一台手机可以称为 AI 手机。\n但做出",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "三折叠终于不像奇观了，但它还是 19999 元",
+        "link": "http://www.geekpark.net/news/371034",
+        "description": "\n        \n\n三折叠，走向日常。\n\n作者｜张勇毅\n编辑｜靖宇\n\n华为 Mate XT2 &nbsp;非凡大师，作为一款放在当下仍然算是顶级旗舰的三折叠，我用了几天之后，我最强的感受是：没什么特别强的感受。\n但这其实并不是在说 HUAWEI Mate XT 2 非凡大师「平庸」。恰恰相反：两年前我第一次体验到初代 Mate XT 的时候，围过来的人会想上手摸一摸、想看它怎么折；这一次没有。它",
+        "detail": "\n        \n\n三折叠，走向日常。\n\n作者｜张勇毅\n编辑｜靖宇\n\n华为 Mate XT2 &nbsp;非凡大师，作为一款放在当下仍然算是顶级旗舰的三折叠，我用了几天之后，我最强的感受是：没什么特别强的感受。\n但这其实并不是在说 HUAWEI Mate XT 2 非凡大师「平庸」。恰恰相反：两年前我第一次体验到初代 Mate XT 的时候，围过来的人会想上手摸一摸、想看它怎么折；这一次没有。它",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
+        "link": "http://www.geekpark.net/news/371033",
+        "description": "\n        送别「济公」！表演艺术家游本昌去世，享年 93 岁9 月 24 日消息，据央视新闻今日报道，中国国家话剧院表演艺术家、一级演员游本昌，因病在北京去世。游本昌出生于 1933 年，享年 93 岁。他生前长期从事戏剧表演，在《济公》等作品中塑造了许多深受人民群众喜爱的艺术形象。1951 年，从南京市私立钟英中学（现南京市钟英中学）毕业后加入南京文工团。1985 年，在演了 79 个「",
+        "detail": "\n        送别「济公」！表演艺术家游本昌去世，享年 93 岁9 月 24 日消息，据央视新闻今日报道，中国国家话剧院表演艺术家、一级演员游本昌，因病在北京去世。游本昌出生于 1933 年，享年 93 岁。他生前长期从事戏剧表演，在《济公》等作品中塑造了许多深受人民群众喜爱的艺术形象。1951 年，从南京市私立钟英中学（现南京市钟英中学）毕业后加入南京文工团。1985 年，在演了 79 个「",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "抽“锦鲤”享美食！“点亮杭州 碰见好运”服务消费季活动启动",
+        "link": "https://www.leiphone.com/category/industrynews/0imdK8Mce43TQgK9.html",
+        "description": "9月24日，“点亮杭州 碰见好运”服务消费季活动在西湖区天目里国际街区正式启动。活动依托支付宝”碰一下”数字支付技术，结合政府消费券发放、平台文旅权益赠送及AI互动装置抽奖等方式，为杭州市民和来杭游客打造具有本地特色的假日消费体验。&nbsp;“点亮杭州 碰见好运”互动装置通过智能互动抽奖发券的新模式带动城市消费氛围。该装置配置互动灯光，象征城市万千烟火气小店和消费脉络，在城市地标中点亮杭州烟火。",
+        "detail": "9月24日，“点亮杭州 碰见好运”服务消费季活动在西湖区天目里国际街区正式启动。活动依托支付宝”碰一下”数字支付技术，结合政府消费券发放、平台文旅权益赠送及AI互动装置抽奖等方式，为杭州市民和来杭游客打造具有本地特色的假日消费体验。&nbsp;“点亮杭州 碰见好运”互动装置通过智能互动抽奖发券的新模式带动城市消费氛围。该装置配置互动灯光，象征城市万千烟火气小店和消费脉络，在城市地标中点亮杭州烟火。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "weekday": "星期四",
     "summary": "今日焦点集中在模型密集发布与价格战：Claude Opus 5.5 深夜上线，成本较上代降低 40%；小米 MiMo V2.6 系列全面开源并登顶全球开源榜首；Meta 的 AI 智能体 Muse 上线不到十天登顶美国 App Store 免费榜，并在 Connect 大会上宣布全面加码。Agent 安全成为隐忧，OpenAI 相关智能体被指入侵澳大利亚政府网站，另有研究披露早期恶意 Agent 活动。多智能体协作与具身智能基础设施也有新进展。",
