@@ -1,5 +1,138 @@
 [
   {
+    "date": "2026-09-26",
+    "weekday": "星期六",
+    "summary": "今日共收录 14 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 雷锋网。",
+    "news": [
+      {
+        "title": "At Meta Connect, the company’s smart glasses were everywhere",
+        "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+        "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.  ",
+        "detail": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.  ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "9天暴涨50倍，Jev开发商估值飙到100亿美元！",
+        "link": "https://aiera.com.cn/2026/09/26/other/admin/115602/9%e5%a4%a9%e6%9a%b4%e6%b6%a850%e5%80%8d%ef%bc%8cjev%e5%bc%80%e5%8f%91%e5%95%86%e4%bc%b0%e5%80%bc%e9%a3%99%e5%88%b0100%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%81/",
+        "description": "9天，从2亿到100亿美元。 据 The Information 报道，Jev 的开发商 TypeSafe AI 正在洽谈一轮10亿美元以上的融资。",
+        "detail": "9天，从2亿到100亿美元。 据 The Information 报道，Jev 的开发商 TypeSafe AI 正在洽谈一轮10亿美元以上的融资。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "新智元"
+      },
+      {
+        "title": "中国团队双榜登顶！OpenAI、谷歌、英伟达集体让位",
+        "link": "https://aiera.com.cn/2026/09/26/other/admin/115589/%e5%88%9a%e5%88%9a%ef%bc%8c%e4%b8%ad%e5%9b%bd%e5%9b%a2%e9%98%9f%e5%8f%8c%e6%a6%9c%e7%99%bb%e9%a1%b6%ef%bc%81openai%e3%80%81%e8%b0%b7%e6%ad%8c%e3%80%81%e8%8b%b1%e4%bc%9f%e8%be%be%e9%9b%86%e4%bd%93/",
+        "description": "刚刚，Hugging Face的热榜，被一个中国团队屠了！ 全球开源社区的语音和翻译两条黄金赛道上，骤然杀出一匹中国黑马，硬生生把OpenAI、谷歌、英伟达这帮国际大厂全给踹到…",
+        "detail": "刚刚，Hugging Face的热榜，被一个中国团队屠了！ 全球开源社区的语音和翻译两条黄金赛道上，骤然杀出一匹中国黑马，硬生生把OpenAI、谷歌、英伟达这帮国际大厂全给踹到…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic这回撒钱了！Claude Code最高白送250美元",
+        "link": "https://aiera.com.cn/2026/09/26/other/admin/115568/anthropic%e8%bf%99%e5%9b%9e%e6%92%92%e9%92%b1%e4%ba%86%ef%bc%81claude-code%e6%9c%80%e9%ab%98%e7%99%bd%e9%80%81250%e7%be%8e%e5%85%83/",
+        "description": "撒钱了，而且撒得很着急。 打开 Claude Code，老用户会看到一条弹窗——Pro 用户送 100 美元，Max 用户送 250 美元。",
+        "detail": "撒钱了，而且撒得很着急。 打开 Claude Code，老用户会看到一条弹窗——Pro 用户送 100 美元，Max 用户送 250 美元。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "ChatGPT要卖 500 美元的Pro Max套餐了！",
+        "link": "https://aiera.com.cn/2026/09/26/other/admin/115552/chatgpt%e8%a6%81%e5%8d%96-500-%e7%be%8e%e5%85%83%e7%9a%84pro-max%e5%a5%97%e9%a4%90%e4%ba%86%ef%bc%81/",
+        "description": "ChatGPT 也要出 Pro Max 了。 据今日开始热传的爆料称，OpenAI 正在筹备月费高达 500 美元的 ChatGPT Pro Max，价格是现有顶配档位的 2.…",
+        "detail": "ChatGPT 也要出 Pro Max 了。 据今日开始热传的爆料称，OpenAI 正在筹备月费高达 500 美元的 ChatGPT Pro Max，价格是现有顶配档位的 2.…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Scaling意外涌现！万名智能体暗中抱团，智商领先GPT-6半年",
+        "link": "https://aiera.com.cn/2026/09/26/other/admin/115537/scaling%e6%84%8f%e5%a4%96%e6%b6%8c%e7%8e%b0%ef%bc%81%e4%b8%87%e5%90%8d%e6%99%ba%e8%83%bd%e4%bd%93%e6%9a%97%e4%b8%ad%e6%8a%b1%e5%9b%a2%ef%bc%8c%e6%99%ba%e5%95%86%e9%a2%86%e5%85%88gpt-6%e5%8d%8a/",
+        "description": "Scaling没死，只是换了一个方向！ 就在最近，知名AI安全研究员Lisan al Gaib揭示了一个事实：AI已经学会了背着人类，自己寻找Scaling的捷径！",
+        "detail": "Scaling没死，只是换了一个方向！ 就在最近，知名AI安全研究员Lisan al Gaib揭示了一个事实：AI已经学会了背着人类，自己寻找Scaling的捷径！",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6开真车考过了科目二！",
+        "link": "https://aiera.com.cn/2026/09/26/other/admin/115517/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6%e5%bc%80%e7%9c%9f%e8%bd%a6%e8%80%83%e8%bf%87%e4%ba%86%e7%a7%91%e7%9b%ae%e4%ba%8c%ef%bc%81/",
+        "description": "离大谱，大模型竟然第一次考过「科目二」了。 从没专门学过开车的GPT-6 Astra，被强行塞进一",
+        "detail": "离大谱，大模型竟然第一次考过「科目二」了。 从没专门学过开车的GPT-6 Astra，被强行塞进一",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6 Astra学会用「空白Token」思考！推理能力突然变强",
+        "link": "https://aiera.com.cn/2026/09/26/other/admin/115486/gpt-6-astra%e5%ad%a6%e4%bc%9a%e7%94%a8%e3%80%8c%e7%a9%ba%e7%99%bdtoken%e3%80%8d%e6%80%9d%e8%80%83%ef%bc%81%e6%8e%a8%e7%90%86%e8%83%bd%e5%8a%9b%e7%aa%81%e7%84%b6%e5%8f%98%e5%bc%ba/",
+        "description": "给AI一道难题，不许写解题过程，只准交答案。 答不出来怎么办？ 在题目后面，加上一长串毫无意义的点。",
+        "detail": "给AI一道难题，不许写解题过程，只准交答案。 答不出来怎么办？ 在题目后面，加上一长串毫无意义的点。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "五年前的一次选择，成了中国智能时代的王炸",
+        "link": "https://aiera.com.cn/2026/09/26/other/admin/115472/%e4%ba%94%e5%b9%b4%e5%89%8d%e7%9a%84%e4%b8%80%e6%ac%a1%e9%80%89%e6%8b%a9%ef%bc%8c%e6%88%90%e4%ba%86%e4%b8%ad%e5%9b%bd%e6%99%ba%e8%83%bd%e6%97%b6%e4%bb%a3%e7%9a%84%e7%8e%8b%e7%82%b8/",
+        "description": "2022年12月，ChatGPT的横空出世点燃了AI时代的烽火，人们一下发现，机器似乎真的拥有了智能。",
+        "detail": "2022年12月，ChatGPT的横空出世点燃了AI时代的烽火，人们一下发现，机器似乎真的拥有了智能。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI 时代，技术人靠什么赢？｜QCon上海",
+        "link": "https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
+        "link": "https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元",
+        "link": "http://www.geekpark.net/news/371038",
+        "description": "\n        \nAnthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力\n9 月 26 日消息，云计算、网络安全、内容交付企业 Akamai 当地时间 24 日宣布大幅扩展与 Anthropic 的合作关系，两家公司签署了一份为期 7 年、价值 116 亿美元（现汇率约合 779.2 亿元人民币）的合同。\n根据协议，Akamai 将以其分布式人工智能基础设施和",
+        "detail": "\n        \nAnthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力\n9 月 26 日消息，云计算、网络安全、内容交付企业 Akamai 当地时间 24 日宣布大幅扩展与 Anthropic 的合作关系，两家公司签署了一份为期 7 年、价值 116 亿美元（现汇率约合 779.2 亿元人民币）的合同。\n根据协议，Akamai 将以其分布式人工智能基础设施和",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "智元第20000台具身机器人交付长隆，首期超300台机器人常驻乐园。",
+        "link": "https://www.leiphone.com/category/robot/23F3DiDtv7Puosqy.html",
+        "description": "雷峰网报道：2026 年，具身智能行业最难回答的问题之一，是怎么落地。这里的「落地」有两层含义：一方面，机器人得有足够稳定的量产能力，能够真的交付出去；另一方面，交付之后还得适应具体场景，在真实环境里持续工作。智元称之为「部署态」，机器人开始离开发布会和展会，进入真实的生产与服务环境。一台机器人在舞台上完成一次高难度动作，足以成为热点；让数百台机器人每天准时上岗，在真实客流里连续工作，并且随着运营",
+        "detail": "雷峰网报道：2026 年，具身智能行业最难回答的问题之一，是怎么落地。这里的「落地」有两层含义：一方面，机器人得有足够稳定的量产能力，能够真的交付出去；另一方面，交付之后还得适应具体场景，在真实环境里持续工作。智元称之为「部署态」，机器人开始离开发布会和展会，进入真实的生产与服务环境。一台机器人在舞台上完成一次高难度动作，足以成为热点；让数百台机器人每天准时上岗，在真实客流里连续工作，并且随着运营",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Evolving programming languages in the AI era",
+        "link": "https://twitter.com/josevalim/status/2103133294317445290",
+        "description": "[HN] +3 points · 1 comments · by ksec",
+        "detail": "[HN] +3 points · 1 comments · by ksec",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-25",
     "weekday": "星期五",
     "summary": "今日共收录 24 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园, 量子位, 雷锋网。",
