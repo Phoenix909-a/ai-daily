@@ -2,7 +2,7 @@
   {
     "date": "2026-09-26",
     "weekday": "星期六",
-    "summary": "今日共收录 14 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 雷锋网。",
+    "summary": "今日共收录 21 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, 新智元, 极客公园, 量子位, 雷锋网。",
     "news": [
       {
         "title": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -12,6 +12,60 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "Howseen AI",
+        "link": "https://www.producthunt.com/products/howseen-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "LaterOn v2: The agentic email plaftform",
+        "link": "https://www.producthunt.com/products/lateron-email",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "JevForAgents",
+        "link": "https://www.producthunt.com/products/jevforagents",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+        "link": "https://www.qbitai.com/2026/09/497613.html",
+        "description": "大伟哥：如果做不到，一年两年之后过来打我脸",
+        "detail": "大伟哥：如果做不到，一年两年之后过来打我脸",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+        "link": "https://www.qbitai.com/2026/09/497425.html",
+        "description": "vLLM人马创业公司团队出品",
+        "detail": "vLLM人马创业公司团队出品",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+        "link": "https://www.qbitai.com/2026/09/497382.html",
+        "description": "还把「密钥」叫战利品",
+        "detail": "还把「密钥」叫战利品",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
       },
       {
         "title": "9天暴涨50倍，Jev开发商估值飙到100亿美元！",
@@ -122,10 +176,19 @@
         "source": "雷锋网"
       },
       {
-        "title": "Evolving programming languages in the AI era",
-        "link": "https://twitter.com/josevalim/status/2103133294317445290",
-        "description": "[HN] +3 points · 1 comments · by ksec",
-        "detail": "[HN] +3 points · 1 comments · by ksec",
+        "title": "US DOE will give $5.25B to upgrade the grid for AI datacenters",
+        "link": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276",
+        "description": "[HN] +8 points · 0 comments · by meredithbloom",
+        "detail": "[HN] +8 points · 0 comments · by meredithbloom",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Generate fonts where every LLM token is the same width",
+        "link": "https://ampdot.mesh.host/token-space-fonts.html",
+        "description": "[HN] +5 points · 0 comments · by z-mach9",
+        "detail": "[HN] +5 points · 0 comments · by z-mach9",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "hackernews"
