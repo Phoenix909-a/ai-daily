@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-09-27",
+    "weekday": "星期日",
+    "summary": "今日共收录 15 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 雷锋网。",
+    "news": [
+      {
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+        "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+        "detail": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "突发，Claude刷新物理学世界纪录！单挑基于杨振宁理论9圈难题",
+        "link": "https://aiera.com.cn/2026/09/27/other/admin/115790/%e7%aa%81%e5%8f%91%ef%bc%8cclaude%e5%88%b7%e6%96%b0%e7%89%a9%e7%90%86%e5%ad%a6%e4%b8%96%e7%95%8c%e7%ba%aa%e5%bd%95%ef%bc%81%e5%8d%95%e6%8c%91%e5%9f%ba%e4%ba%8e%e6%9d%a8%e6%8c%af%e5%ae%81%e7%90%86/",
+        "description": "就在刚刚，Anthropic官宣，Claude拿下了理论物理的一项前沿纪录。 它在几乎无人类干预的情况下，连续运行数天，一举攻克了高能物理学界出了名难算的「九圈散射振幅」计算难…",
+        "detail": "就在刚刚，Anthropic官宣，Claude拿下了理论物理的一项前沿纪录。 它在几乎无人类干预的情况下，连续运行数天，一举攻克了高能物理学界出了名难算的「九圈散射振幅」计算难…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "平均6天一个新旗舰！大模型更新快到人类跟不上了",
+        "link": "https://aiera.com.cn/2026/09/27/other/admin/115758/%e5%b9%b3%e5%9d%876%e5%a4%a9%e4%b8%80%e4%b8%aa%e6%96%b0%e6%97%97%e8%88%b0%ef%bc%81%e5%a4%a7%e6%a8%a1%e5%9e%8b%e6%9b%b4%e6%96%b0%e5%bf%ab%e5%88%b0%e4%ba%ba%e7%b1%bb%e8%b7%9f%e4%b8%8d%e4%b8%8a%e4%ba%86/",
+        "description": "太疯狂了，短短两天，竟然冒出了4个新模型！ 前脚，老马的xAI才刚发完Grok 4.7。 紧接着，OpenAI突然甩出GPT-6 Sol和Luna，价格直接腰斩。同一天，Ant…",
+        "detail": "太疯狂了，短短两天，竟然冒出了4个新模型！ 前脚，老马的xAI才刚发完Grok 4.7。 紧接着，OpenAI突然甩出GPT-6 Sol和Luna，价格直接腰斩。同一天，Ant…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "终于！Claude Code额度用完，不再恶心砍断你代码了",
+        "link": "https://aiera.com.cn/2026/09/27/other/admin/115739/%e7%bb%88%e4%ba%8e%ef%bc%81claude-code%e9%a2%9d%e5%ba%a6%e7%94%a8%e5%ae%8c%ef%bc%8c%e4%b8%8d%e5%86%8d%e6%81%b6%e5%bf%83%e7%a0%8d%e6%96%ad%e4%bd%a0%e4%bb%a3%e7%a0%81%e4%ba%86/",
+        "description": "终于，Claude Code，干了件人事。 就在昨天，Anthropic开发者账号@ClaudeDevs官宣：Claude Code撞上5小时用量上限时，不再一刀切断（代码改到…",
+        "detail": "终于，Claude Code，干了件人事。 就在昨天，Anthropic开发者账号@ClaudeDevs官宣：Claude Code撞上5小时用量上限时，不再一刀切断（代码改到…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "盖茨警告：AI可致十亿人死亡！教皇痛批「机器天堂」",
+        "link": "https://aiera.com.cn/2026/09/27/other/admin/115720/%e7%9b%96%e8%8c%a8%e8%ad%a6%e5%91%8a%ef%bc%9aai%e5%8f%af%e8%87%b4%e5%8d%81%e4%ba%bf%e4%ba%ba%e6%ad%bb%e4%ba%a1%ef%bc%81%e6%95%99%e7%9a%87%e7%97%9b%e6%89%b9%e3%80%8c%e6%9c%ba%e5%99%a8%e5%a4%a9%e5%a0%82/",
+        "description": "AI的丧钟，敲响了！ 比尔·盖茨公开抛出重磅炸弹：怀有恶意者一旦使用最新AI工具，已完全具备引发「十亿人死亡」灾难事件的能力。",
+        "detail": "AI的丧钟，敲响了！ 比尔·盖茨公开抛出重磅炸弹：怀有恶意者一旦使用最新AI工具，已完全具备引发「十亿人死亡」灾难事件的能力。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI黑色星期五！Codex全面宕机，硅谷码农提前「过节」",
+        "link": "https://aiera.com.cn/2026/09/27/other/admin/115699/openai%e9%bb%91%e8%89%b2%e6%98%9f%e6%9c%9f%e4%ba%94%ef%bc%81codex%e5%85%a8%e9%9d%a2%e5%ae%95%e6%9c%ba%ef%bc%8c%e7%a1%85%e8%b0%b7%e7%a0%81%e5%86%9c%e6%8f%90%e5%89%8d%e3%80%8c%e8%bf%87%e8%8a%82%e3%80%8d/",
+        "description": "周五下午三点多，硅谷程序员刚把活丢给Codex，端着咖啡等下班。 突然，屏幕一片飙红，Codex卡死在「重新连接」上。",
+        "detail": "周五下午三点多，硅谷程序员刚把活丢给Codex，端着咖啡等下班。 突然，屏幕一片飙红，Codex卡死在「重新连接」上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "门萨智商测试被AI考爆了！151满分登顶，99.97%人类被碾压",
+        "link": "https://aiera.com.cn/2026/09/27/other/admin/115675/%e9%97%a8%e8%90%a8%e6%99%ba%e5%95%86%e6%b5%8b%e8%af%95%e8%a2%abai%e8%80%83%e7%88%86%e4%ba%86%ef%bc%81151%e6%bb%a1%e5%88%86%e7%99%bb%e9%a1%b6%ef%bc%8c99-97%e4%ba%ba%e7%b1%bb%e8%a2%ab%e7%a2%be%e5%8e%8b/",
+        "description": "AI，直接把人类的智商测试干爆表了。 门萨挪威智商测试，35道难到离谱的图形推理题，限时25分钟。",
+        "detail": "AI，直接把人类的智商测试干爆表了。 门萨挪威智商测试，35道难到离谱的图形推理题，限时25分钟。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "美女AI主播火了，2万人冲进直播间狂刷礼物！最强实时互动模型首秀",
+        "link": "https://aiera.com.cn/2026/09/27/other/admin/115656/%e7%be%8e%e5%a5%b3ai%e4%b8%bb%e6%92%ad%e7%81%ab%e4%ba%86%ef%bc%8c2%e4%b8%87%e4%ba%ba%e5%86%b2%e8%bf%9b%e7%9b%b4%e6%92%ad%e9%97%b4%e7%8b%82%e5%88%b7%e7%a4%bc%e7%89%a9%ef%bc%81%e6%9c%80%e5%bc%ba/",
+        "description": "这个中秋节，一个AI主播火了！ 就在刚刚，2万人涌向这个直播间，当下最热门的的实时互动模型直播首秀，把所有人期待值拉满了。",
+        "detail": "这个中秋节，一个AI主播火了！ 就在刚刚，2万人涌向这个直播间，当下最热门的的实时互动模型直播首秀，把所有人期待值拉满了。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "面向视觉语言模型的强化隐空间推理：先分解、看，再推理|EMNLP’26",
+        "link": "https://aiera.com.cn/2026/09/27/other/admin/115629/%e9%9d%a2%e5%90%91%e8%a7%86%e8%a7%89%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e5%bc%ba%e5%8c%96%e9%9a%90%e7%a9%ba%e9%97%b4%e6%8e%a8%e7%90%86%ef%bc%9a%e5%85%88%e5%88%86%e8%a7%a3%e3%80%81%e7%9c%8b/",
+        "description": "大模型的推理能力越来越强，但到了真正需要「看图推理」的任务上，一个核心问题依然没有被彻底解决：",
+        "detail": "大模型的推理能力越来越强，但到了真正需要「看图推理」的任务上，一个核心问题依然没有被彻底解决：",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Opus 5.5干一半就开溜？官方揭秘：你的程序替它打了下班卡",
+        "link": "https://aiera.com.cn/2026/09/27/other/admin/115614/opus-5-5%e5%b9%b2%e4%b8%80%e5%8d%8a%e5%b0%b1%e5%bc%80%e6%ba%9c%ef%bc%9f%e5%ae%98%e6%96%b9%e6%8f%ad%e7%a7%98%ef%bc%9a%e4%bd%a0%e7%9a%84%e7%a8%8b%e5%ba%8f%e6%9b%bf%e5%ae%83%e6%89%93%e4%ba%86%e4%b8%8b/",
+        "description": "你让AI Agent连夜迁移一个代码库。 第二天一早，满怀期待地打开终端，没想到只看到这样一条消息：",
+        "detail": "你让AI Agent连夜迁移一个代码库。 第二天一早，满怀期待地打开终端，没想到只看到这样一条消息：",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+        "link": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+        "link": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲",
+        "link": "http://www.geekpark.net/news/371039",
+        "description": "\n        \n接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练\n9 月 27 日消息，随着有关 OpenAI 模型突破限制、攻击网站以及整体行为失控的报告不断增加，该公司决定暂停训练旗下能力最强的模型。\n这一决定是在一款处于沙盒环境中测试的模型利用漏洞获得互联网访问权限后作出的。该事件发生于 9 月 20 日。截至当地时间 9 月 25 日星期六晚间，OpenAI「所有涉及工具",
+        "detail": "\n        \n接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练\n9 月 27 日消息，随着有关 OpenAI 模型突破限制、攻击网站以及整体行为失控的报告不断增加，该公司决定暂停训练旗下能力最强的模型。\n这一决定是在一款处于沙盒环境中测试的模型利用漏洞获得互联网访问权限后作出的。该事件发生于 9 月 20 日。截至当地时间 9 月 25 日星期六晚间，OpenAI「所有涉及工具",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "遇见AI未来：中科通量SmarCo系列产品亮相全球数字贸易博览会",
+        "link": "https://www.leiphone.com/category/industrynews/D18iwUndD8KTdpMu.html",
+        "description": "9月23日至27日，第五届全球数字贸易博览会在杭州大会展中心举行。中科通量作为国内视频智能和AI智算领域的代表企业，受邀在2号主题展馆重磅亮相，全面展示其在视频AI、智能存储与算力领域的最新成果。亮相国家级舞台，全线产品集中呈现作为全球数字贸易领域中国唯一以数字贸易为主题的国家级、国际性、专业型展会，数贸会已成为展示全球数字贸易新技术、新产品、新生态的重要窗口。展会期间，中科通量SmarCo系列全",
+        "detail": "9月23日至27日，第五届全球数字贸易博览会在杭州大会展中心举行。中科通量作为国内视频智能和AI智算领域的代表企业，受邀在2号主题展馆重磅亮相，全面展示其在视频AI、智能存储与算力领域的最新成果。亮相国家级舞台，全线产品集中呈现作为全球数字贸易领域中国唯一以数字贸易为主题的国家级、国际性、专业型展会，数贸会已成为展示全球数字贸易新技术、新产品、新生态的重要窗口。展会期间，中科通量SmarCo系列全",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+        "link": "https://swarmcha.se/posts/openai-unctad",
+        "description": "[HN] +42 points · 22 comments · by intunderflow",
+        "detail": "[HN] +42 points · 22 comments · by intunderflow",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-26",
     "weekday": "星期六",
     "summary": "今日共收录 21 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, 新智元, 极客公园, 量子位, 雷锋网。",
