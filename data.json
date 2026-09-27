@@ -2,8 +2,26 @@
   {
     "date": "2026-09-27",
     "weekday": "星期日",
-    "summary": "今日共收录 15 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 雷锋网。",
+    "summary": "今日共收录 20 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园, 雷锋网。",
     "news": [
+      {
+        "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
+        "link": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/",
+        "description": "\n        OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade monitoring syste",
+        "detail": "\n        OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade monitoring syste",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates",
+        "link": "https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/",
+        "description": "\n        Goldman Sachs projects that Amazon, Alphabet, Microsoft, Oracle, and Meta will pour a combined $1.2 trillion into AI infrastructure in 2027, more than 50 percent above this year's levels. Mea",
+        "detail": "\n        Goldman Sachs projects that Amazon, Alphabet, Microsoft, Oracle, and Meta will pour a combined $1.2 trillion into AI infrastructure in 2027, more than 50 percent above this year's levels. Mea",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
       {
         "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
         "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -12,6 +30,24 @@
         "tag": "模型发布",
         "sort_score": 90,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "GPT-6 Sol & Luna",
+        "link": "https://www.producthunt.com/products/openai",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Aks.ai",
+        "link": "https://www.producthunt.com/products/aks-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
       },
       {
         "title": "突发，Claude刷新物理学世界纪录！单挑基于杨振宁理论9圈难题",
@@ -113,6 +149,15 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "阿里整合 AI 办公力量后，千问办公怎么打这场大战？",
+        "link": "http://www.geekpark.net/news/371040",
+        "description": "\n        办公正在成为全球 AI 行业竞争最集中的战场之一。\n相比聊天、搜索，AI 在企业办公场景下的落地要复杂的多，一方面需要连接、调用企业的文档、邮件、知识库，另一方面还需要 AI 理解审批、销售、财务等业务流程。而今年以来 Agent 快速发展，让 AI 进入「千司千面」的企业办公场景成为可能。\n因此，从微软、谷歌到国内的互联网和云计算公司，行业竞争的重点都在从模型能力延伸到办公入口",
+        "detail": "\n        办公正在成为全球 AI 行业竞争最集中的战场之一。\n相比聊天、搜索，AI 在企业办公场景下的落地要复杂的多，一方面需要连接、调用企业的文档、邮件、知识库，另一方面还需要 AI 理解审批、销售、财务等业务流程。而今年以来 Agent 快速发展，让 AI 进入「千司千面」的企业办公场景成为可能。\n因此，从微软、谷歌到国内的互联网和云计算公司，行业竞争的重点都在从模型能力延伸到办公入口",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
         "title": "接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲",
         "link": "http://www.geekpark.net/news/371039",
         "description": "\n        \n接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练\n9 月 27 日消息，随着有关 OpenAI 模型突破限制、攻击网站以及整体行为失控的报告不断增加，该公司决定暂停训练旗下能力最强的模型。\n这一决定是在一款处于沙盒环境中测试的模型利用漏洞获得互联网访问权限后作出的。该事件发生于 9 月 20 日。截至当地时间 9 月 25 日星期六晚间，OpenAI「所有涉及工具",
@@ -131,12 +176,12 @@
         "source": "雷锋网"
       },
       {
-        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-        "link": "https://swarmcha.se/posts/openai-unctad",
-        "description": "[HN] +42 points · 22 comments · by intunderflow",
-        "detail": "[HN] +42 points · 22 comments · by intunderflow",
-        "tag": "工具与生态",
-        "sort_score": 76,
+        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+        "description": "[HN] +150 points · 108 comments · by papergirl",
+        "detail": "[HN] +150 points · 108 comments · by papergirl",
+        "tag": "行业动态",
+        "sort_score": 58,
         "source": "hackernews"
       }
     ]
