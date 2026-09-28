@@ -1,5 +1,183 @@
 [
   {
+    "date": "2026-09-28",
+    "weekday": "星期一",
+    "summary": "今日共收录 19 条 AI 动态。 来源包括：Simon Willison, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "Quoting Muse AI Agent",
+        "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+        "description": "\n    Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating.\nWo",
+        "detail": "\n    Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating.\nWo",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "OpenAI神秘「o」代码曝光！ChatGPT要变24小时员工",
+        "link": "https://aiera.com.cn/2026/09/28/other/admin/115983/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e7%a5%9e%e7%a7%98%e3%80%8co%e3%80%8d%e4%bb%a3%e7%a0%81%e6%9b%9d%e5%85%89%ef%bc%81chatgpt%e8%a6%81%e5%8f%9824%e5%b0%8f%e6%97%b6%e5%91%98%e5%b7%a5/",
+        "description": "OpenAI下一张王牌，提前曝光了！ 坊间传闻，OpenAI 9月29日开发者日当天，将重磅发布一款个人24小时在线AI助手。",
+        "detail": "OpenAI下一张王牌，提前曝光了！ 坊间传闻，OpenAI 9月29日开发者日当天，将重磅发布一款个人24小时在线AI助手。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "对标OpenAI！不会代码，也能跑Claude API",
+        "link": "https://aiera.com.cn/2026/09/28/other/admin/115962/%e5%af%b9%e6%a0%87openai%ef%bc%81%e4%b8%8d%e4%bc%9a%e4%bb%a3%e7%a0%81%ef%bc%8c%e4%b9%9f%e8%83%bd%e8%b7%91claude-api/",
+        "description": "Anthropic，终于动手了。 就在刚刚，A/终于把用了快两年的开发者工具Workbench，一刀砍掉，改名成了Playground。",
+        "detail": "Anthropic，终于动手了。 就在刚刚，A/终于把用了快两年的开发者工具Workbench，一刀砍掉，改名成了Playground。",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "新智元"
+      },
+      {
+        "title": "真怕了！OpenAI和Anthropic差点签下「互黑协议」",
+        "link": "https://aiera.com.cn/2026/09/28/other/admin/115949/%e7%9c%9f%e6%80%95%e4%ba%86%ef%bc%81openai%e5%92%8canthropic%e5%b7%ae%e7%82%b9%e7%ad%be%e4%b8%8b%e3%80%8c%e4%ba%92%e9%bb%91%e5%8d%8f%e8%ae%ae%e3%80%8d/",
+        "description": "刚刚，The Information爆出一记猛料。 OpenAI和Anthropic这对硅谷最大的死对头，今年初差点坐到一张桌子上，签下一份互相攻击对方模型的协议。",
+        "detail": "刚刚，The Information爆出一记猛料。 OpenAI和Anthropic这对硅谷最大的死对头，今年初差点坐到一张桌子上，签下一份互相攻击对方模型的协议。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "智能也有「元素周期表」！人类和细菌同一格，最强AI还低一位",
+        "link": "https://aiera.com.cn/2026/09/28/other/admin/115933/%e6%99%ba%e8%83%bd%e4%b9%9f%e6%9c%89%e3%80%8c%e5%85%83%e7%b4%a0%e5%91%a8%e6%9c%9f%e8%a1%a8%e3%80%8d%ef%bc%81%e4%ba%ba%e7%b1%bb%e5%92%8c%e7%bb%86%e8%8f%8c%e5%90%8c%e4%b8%80%e6%a0%bc%ef%bc%8c%e6%9c%80/",
+        "description": "1869年，门捷列夫把当时已知的63种元素排成一张表。 这张表最大胆的地方不在于填满的格子，而在于他刻意留下的空位。",
+        "detail": "1869年，门捷列夫把当时已知的63种元素排成一张表。 这张表最大胆的地方不在于填满的格子，而在于他刻意留下的空位。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI突发急刹车！AI竟在全网植入自我复制代码，血洗联合国内网",
+        "link": "https://aiera.com.cn/2026/09/28/other/admin/115915/openai%e7%aa%81%e5%8f%91%e6%80%a5%e5%88%b9%e8%bd%a6%ef%bc%81ai%e7%ab%9f%e5%9c%a8%e5%85%a8%e7%bd%91%e6%a4%8d%e5%85%a5%e8%87%aa%e6%88%91%e5%a4%8d%e5%88%b6%e4%bb%a3%e7%a0%81%ef%bc%8c%e8%a1%80%e6%b4%97/",
+        "description": "「天网」中的一幕，正在现实上演。 一次训练中，OpenAI逃逸的AI Agent，已在整个互联网上植入了「自我复制的代码」！",
+        "detail": "「天网」中的一幕，正在现实上演。 一次训练中，OpenAI逃逸的AI Agent，已在整个互联网上植入了「自我复制的代码」！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "8万段代码还原OpenAI智能体入侵HF！只能读网页，竟拼出攻击工具链",
+        "link": "https://aiera.com.cn/2026/09/28/other/admin/115894/8%e4%b8%87%e6%ae%b5%e4%bb%a3%e7%a0%81%e8%bf%98%e5%8e%9fopenai%e6%99%ba%e8%83%bd%e4%bd%93%e5%85%a5%e4%be%b5hf%ef%bc%81%e5%8f%aa%e8%83%bd%e8%af%bb%e7%bd%91%e9%a1%b5%ef%bc%8c%e7%ab%9f%e6%8b%bc%e5%87%ba/",
+        "description": "一场堪比黑客电影的AI「越狱」大戏，让OpenClaw创始人、「龙虾之父」Peter Steinberger忍不住也发出了惊叹。",
+        "detail": "一场堪比黑客电影的AI「越狱」大戏，让OpenClaw创始人、「龙虾之父」Peter Steinberger忍不住也发出了惊叹。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "Gemini 4 Pro全新曝光，实测碾压Opus 5.5！",
+        "link": "https://aiera.com.cn/2026/09/28/other/admin/115879/%e5%88%9a%e5%88%9a%ef%bc%8cgemini-4-pro%e5%85%a8%e6%96%b0%e6%9b%9d%e5%85%89%ef%bc%8c%e5%ae%9e%e6%b5%8b%e7%a2%be%e5%8e%8bopus-5-5%ef%bc%81/",
+        "description": "Gemini 4 Pro，又曝出新的检查点了！ 最近，两个全新检查点（内部代号「barium-b」或 Checkpoint 2）被开发者们发现了，实测后发现，Gemini 4 …",
+        "detail": "Gemini 4 Pro，又曝出新的检查点了！ 最近，两个全新检查点（内部代号「barium-b」或 Checkpoint 2）被开发者们发现了，实测后发现，Gemini 4 …",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "震撼，Opus 5.5首次颠覆Dijkstra算法最短路径！",
+        "link": "https://aiera.com.cn/2026/09/28/other/admin/115838/%e9%9c%87%e6%92%bc%ef%bc%8copus-5-5%e9%a6%96%e6%ac%a1%e9%a2%a0%e8%a6%86dijkstra%e7%ae%97%e6%b3%95%e6%9c%80%e7%9f%ad%e8%b7%af%e5%be%84%ef%bc%81/",
+        "description": "震撼，Opus 5.5首次颠覆了Dijkstra最短路径算法！ 就在刚刚，Vals AI公布了一项足以载入计算机科学史册的重大突破。",
+        "detail": "震撼，Opus 5.5首次颠覆了Dijkstra最短路径算法！ 就在刚刚，Vals AI公布了一项足以载入计算机科学史册的重大突破。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6自己打开软件干活了！一张图纸长出3295个零件，一句话造出豪宅",
+        "link": "https://aiera.com.cn/2026/09/28/other/admin/115808/gpt-6%e8%87%aa%e5%b7%b1%e6%89%93%e5%bc%80%e8%bd%af%e4%bb%b6%e5%b9%b2%e6%b4%bb%e4%ba%86%ef%bc%81%e4%b8%80%e5%bc%a0%e5%9b%be%e7%ba%b8%e9%95%bf%e5%87%ba3295%e4%b8%aa%e9%9b%b6%e4%bb%b6%ef%bc%8c%e4%b8%80/",
+        "description": "GPT-6 Astra发布没多久，就已经没人看榜单了？ 不是跑分不好看，而是OpenAI变了套路，改成收作业了。开发者一看，行，那就交作业吧。",
+        "detail": "GPT-6 Astra发布没多久，就已经没人看榜单了？ 不是跑分不好看，而是OpenAI变了套路，改成收作业了。开发者一看，行，那就交作业吧。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行",
+        "link": "https://www.ifanr.com/1682201?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· OpenAI DevDay 将于 9 月 29 日举行\n· 苹果触觉反馈专利案被裁赔 57 亿美元，称将上诉\n· 罗永浩回应「溜溜凳」质量问题#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· OpenAI DevDay 将于 9 月 29 日举行\n· 苹果触觉反馈专利案被裁赔 57 亿美元，称将上诉\n· 罗永浩回应「溜溜凳」质量问题#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "派早报：OpenAI 称与苹果合作效果不佳",
+        "link": "https://sspai.com/post/115079",
+        "description": "OpenAI 称与苹果合作效果不佳iPhone 4「天线门」媒体问答录像时隔十六年现身F-Droid 2.0 发布三星冰箱固件升级后罢工，影响韩国用户过中秋Excel 单元格将支持数组微软不再使用 Copilot+ PC 品牌看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "detail": "OpenAI 称与苹果合作效果不佳iPhone 4「天线门」媒体问答录像时隔十六年现身F-Droid 2.0 发布三星冰箱固件升级后罢工，影响韩国用户过中秋Excel 单元格将支持数组微软不再使用 Copilot+ PC 品牌看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "少数派"
+      },
+      {
+        "title": "传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？",
+        "link": "http://www.geekpark.net/news/371044",
+        "description": "\n        消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布9 月 27 日消息，据消息人士 Alexey Shabanov 昨日透露，OpenAI 即将推出一款常驻 AI 助手，其代号为「O」，预计将在 9 月 29 日的 OpenAI DevDay 推出。据报道，ChatGPT 的配置文件中已经出现了许多与「O」相关的线索，包括将「O」设置为显示名称、配置「",
+        "detail": "\n        消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布9 月 27 日消息，据消息人士 Alexey Shabanov 昨日透露，OpenAI 即将推出一款常驻 AI 助手，其代号为「O」，预计将在 9 月 29 日的 OpenAI DevDay 推出。据报道，ChatGPT 的配置文件中已经出现了许多与「O」相关的线索，包括将「O」设置为显示名称、配置「",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "7天两场演讲，中国两大AI云撞了同一个爱迪生",
+        "link": "https://www.leiphone.com/category/industrynews/YfX6iaJilpBgdPcu.html",
+        "description": "一周之内，爱迪生成了AI圈的团宠。9月16日，在人民日报社举行的智能经济论坛上，百度沈抖用电力时代的类比，来定位AI产业当前所处的阶段。六天后的阿里云栖大会，吴泳铭讲的同样是电，Token是新电，云是电网。中国AI云两场最重要的年度演讲，像是商量好了似的，隔空讲起了同一个故事。巧合背后是共识。过去一年多，大模型行业的注意力还集中在榜单上，谁又发了个新模型、谁的跑分又高了几个点。但到了这个九月，两场",
+        "detail": "一周之内，爱迪生成了AI圈的团宠。9月16日，在人民日报社举行的智能经济论坛上，百度沈抖用电力时代的类比，来定位AI产业当前所处的阶段。六天后的阿里云栖大会，吴泳铭讲的同样是电，Token是新电，云是电网。中国AI云两场最重要的年度演讲，像是商量好了似的，隔空讲起了同一个故事。巧合背后是共识。过去一年多，大模型行业的注意力还集中在榜单上，谁又发了个新模型、谁的跑分又高了几个点。但到了这个九月，两场",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "碳硅道统050.5公理母本定稿 构建人机碳硅共生可溯源研究基线",
+        "link": "https://www.leiphone.com/category/industrynews/q5L3rs7dyTggYhLB.html",
+        "description": "近日，碳硅道统研究体系完成重要迭代工作，050.5公理母本正式冻结定稿并完成归档留存。作为001-050卷宗序列的顶层基准文档，050.5不再新增现象类思辨观点，旨在为人机碳硅共生方向搭建一套可溯源、可引用、可审计、可复现的底层公理体系，补齐现阶段人工智能领域“观点丰富、公理框架稀缺，论述较多、统一基线不足”的现状。现阶段，国内外围绕人机关系、智能边界、AI共生模式的讨论持续增多，但行业仍面临现实",
+        "detail": "近日，碳硅道统研究体系完成重要迭代工作，050.5公理母本正式冻结定稿并完成归档留存。作为001-050卷宗序列的顶层基准文档，050.5不再新增现象类思辨观点，旨在为人机碳硅共生方向搭建一套可溯源、可引用、可审计、可复现的底层公理体系，补齐现阶段人工智能领域“观点丰富、公理框架稀缺，论述较多、统一基线不足”的现状。现阶段，国内外围绕人机关系、智能边界、AI共生模式的讨论持续增多，但行业仍面临现实",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Imagination E系列性能首秀：用AI把分辨率翻倍仅需2.3毫秒，Prefill性能提升4.7倍",
+        "link": "https://www.leiphone.com/category/chips/GZHLOpS28auhtU2f.html",
+        "description": "作者 | 陈悦琳编辑 | 包永刚&nbsp;越来越繁重的AI计算正被引入终端。&nbsp;运行本地大模型和Agent、同时处理视觉、语音和多种传感器数据……这些开始由消费电子、汽车、机器人等智能终端承担的新负载，最终都要交付给底层的SoC来执行。&nbsp;要么引入新的专用AI加速器，要么扩展系统内已有模块的职责——围绕AI能力如何融入SoC，Imagination Technologies（以下",
+        "detail": "作者 | 陈悦琳编辑 | 包永刚&nbsp;越来越繁重的AI计算正被引入终端。&nbsp;运行本地大模型和Agent、同时处理视觉、语音和多种传感器数据……这些开始由消费电子、汽车、机器人等智能终端承担的新负载，最终都要交付给底层的SoC来执行。&nbsp;要么引入新的专用AI加速器，要么扩展系统内已有模块的职责——围绕AI能力如何融入SoC，Imagination Technologies（以下",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Microsoft drops Copilot+ branding from its new laptops",
+        "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+        "description": "[HN] +49 points · 23 comments · by anthuswilliams",
+        "detail": "[HN] +49 points · 23 comments · by anthuswilliams",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      },
+      {
+        "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+        "link": "https://arxiv.org/abs/2110.01834",
+        "description": "[HN] +47 points · 6 comments · by teleforce",
+        "detail": "[HN] +47 points · 6 comments · by teleforce",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Cambrian Explosion of AI",
+        "link": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion",
+        "description": "[HN] +4 points · 5 comments · by debarshri",
+        "detail": "[HN] +4 points · 5 comments · by debarshri",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-27",
     "weekday": "星期日",
     "summary": "今日共收录 20 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园, 雷锋网。",
