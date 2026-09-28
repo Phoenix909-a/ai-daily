@@ -2,7 +2,7 @@
   {
     "date": "2026-09-28",
     "weekday": "星期一",
-    "summary": "今日共收录 19 条 AI 动态。 来源包括：Simon Willison, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 33 条 AI 动态。 来源包括：Product Hunt, Simon Willison, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
     "news": [
       {
         "title": "Quoting Muse AI Agent",
@@ -12,6 +12,51 @@
         "tag": "Agent 进展",
         "sort_score": 88,
         "source": "Simon Willison"
+      },
+      {
+        "title": "vantage.ai",
+        "link": "https://www.producthunt.com/products/vantage-ai-2",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Microsoft Copilot",
+        "link": "https://www.producthunt.com/products/microsoft-copilot-2",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "GPT-6 Sol & Luna",
+        "link": "https://www.producthunt.com/products/openai",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "LaterOn v2: The agentic email plaftform",
+        "link": "https://www.producthunt.com/products/lateron-email",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Howseen AI",
+        "link": "https://www.producthunt.com/products/howseen-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
       },
       {
         "title": "OpenAI神秘「o」代码曝光！ChatGPT要变24小时员工",
@@ -95,6 +140,15 @@
         "source": "新智元"
       },
       {
+        "title": "豆包输入法大更新，AI 最自然的入口回到了键盘",
+        "link": "https://www.ifanr.com/1682232?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "AI 改变输入法，从少折腾开始#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "AI 改变输入法，从少折腾开始#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "爱范儿"
+      },
+      {
         "title": "早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行",
         "link": "https://www.ifanr.com/1682201?utm_source=rss&utm_medium=rss&utm_campaign=",
         "description": "· OpenAI DevDay 将于 9 月 29 日举行\n· 苹果触觉反馈专利案被裁赔 57 亿美元，称将上诉\n· 罗永浩回应「溜溜凳」质量问题#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -113,6 +167,24 @@
         "source": "少数派"
       },
       {
+        "title": "AI 硬件创业第一步，先做 AI 还是先做硬件？",
+        "link": "http://www.geekpark.net/news/371125",
+        "description": "\n        AI 硬件，和过往的硬件，有什么区别？到底谁是主体，软件层的 AI，还是硬件？什么样的 AI 体验必须通过硬件实现？团队该先做软件、先做硬件，还是同时推进？8 月初，在新加坡的 AGI Playground 2026 圆桌，四位不同位置的从业者聊了聊，AI 硬件如何迈出第一步，找到最初的一批用户。Nori 联合创始人兼 COO Isaac Long 正在做一款面向家庭的 AI 助",
+        "detail": "\n        AI 硬件，和过往的硬件，有什么区别？到底谁是主体，软件层的 AI，还是硬件？什么样的 AI 体验必须通过硬件实现？团队该先做软件、先做硬件，还是同时推进？8 月初，在新加坡的 AGI Playground 2026 圆桌，四位不同位置的从业者聊了聊，AI 硬件如何迈出第一步，找到最初的一批用户。Nori 联合创始人兼 COO Isaac Long 正在做一款面向家庭的 AI 助",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线",
+        "link": "http://www.geekpark.net/news/371113",
+        "description": "\n        「这次骁龙峰会最令人兴奋的地方在于，我认为我们终于步入了一个可以清晰看见 AI 智能手机形态的阶段」高通公司总裁兼 CEO 安蒙在峰会第一天说道。\n炎热的美国茂宜岛，早上不到 8 点，会场里已经聚集了来自全球的媒体、开发者、合作伙伴和产业人士。让大家等待的并不只是又一代手机芯片，而是在寻找一个更大的答案&mdash;&mdash;随着 AI 从手机里的一项功能，演进为能够跨终端理",
+        "detail": "\n        「这次骁龙峰会最令人兴奋的地方在于，我认为我们终于步入了一个可以清晰看见 AI 智能手机形态的阶段」高通公司总裁兼 CEO 安蒙在峰会第一天说道。\n炎热的美国茂宜岛，早上不到 8 点，会场里已经聚集了来自全球的媒体、开发者、合作伙伴和产业人士。让大家等待的并不只是又一代手机芯片，而是在寻找一个更大的答案&mdash;&mdash;随着 AI 从手机里的一项功能，演进为能够跨终端理",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
         "title": "传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？",
         "link": "http://www.geekpark.net/news/371044",
         "description": "\n        消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布9 月 27 日消息，据消息人士 Alexey Shabanov 昨日透露，OpenAI 即将推出一款常驻 AI 助手，其代号为「O」，预计将在 9 月 29 日的 OpenAI DevDay 推出。据报道，ChatGPT 的配置文件中已经出现了许多与「O」相关的线索，包括将「O」设置为显示名称、配置「",
@@ -120,6 +192,60 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "极客公园"
+      },
+      {
+        "title": "本田重申Momenta合作，中国智驾全球布局提速",
+        "link": "https://www.leiphone.com/category/industrynews/uBfs2Eq8httYmMN0.html",
+        "description": "本田与Momenta此前达成的智能驾驶合作，在近期媒体沟通会上再次受到关注。&nbsp;除了再次明确采用Momenta高阶智驾方案外，本田还给出了具体的量产时间表，称相关技术将从2027年上市的车型开始陆续导入。双方此前公布的合作方案覆盖高速、城区NOA及泊车等场景。&nbsp;值得注意的是，在本田此次展示的中国技术合作伙伴中，Momenta成为唯一入选的高阶智驾供应商，华为仅提供智能座舱能力。&",
+        "detail": "本田与Momenta此前达成的智能驾驶合作，在近期媒体沟通会上再次受到关注。&nbsp;除了再次明确采用Momenta高阶智驾方案外，本田还给出了具体的量产时间表，称相关技术将从2027年上市的车型开始陆续导入。双方此前公布的合作方案覆盖高速、城区NOA及泊车等场景。&nbsp;值得注意的是，在本田此次展示的中国技术合作伙伴中，Momenta成为唯一入选的高阶智驾供应商，华为仅提供智能座舱能力。&",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "三箭齐发！Sharpa三大新品IROS全球首秀，三位一体再次刷新灵巧操作上限",
+        "link": "https://www.leiphone.com/category/robot/PD6wmXBcwh6pLqU5.html",
+        "description": "&nbsp;美国匹兹堡，9月28日——美国匹兹堡智能机器人与系统国际会议（IROS）现场，Sharpa正式发布三款重磅全自研新品：首个一体式触觉感知灵巧操作机器人D01、新一代全触觉超紧凑、轻量化灵巧手W02，以及高保真外骨骼触感数据手套AE01。三款产品分别面向全身动作执行、手部精细操作与高质量操作数据采集，覆盖机器人如何运动、如何接触和操控物体，以及如何借助人的自然动作完成遥操作与数据获取三大",
+        "detail": "&nbsp;美国匹兹堡，9月28日——美国匹兹堡智能机器人与系统国际会议（IROS）现场，Sharpa正式发布三款重磅全自研新品：首个一体式触觉感知灵巧操作机器人D01、新一代全触觉超紧凑、轻量化灵巧手W02，以及高保真外骨骼触感数据手套AE01。三款产品分别面向全身动作执行、手部精细操作与高质量操作数据采集，覆盖机器人如何运动、如何接触和操控物体，以及如何借助人的自然动作完成遥操作与数据获取三大",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "小米澎程国庆将在19城办展",
+        "link": "https://www.leiphone.com/category/industrynews/aUsTBsDCo1UDRepn.html",
+        "description": "9月28日，小米澎程公布“第N空间”十一巡展计划。此次活动将在上海、北京、杭州、太原、深圳、都江堰、顺德、南京、青岛、重庆、武汉、郑州等19个城市展开，并将会在上海老市府举行特展，这也是小米汽车迄今办展规模最大、覆盖城市最多的一次线下展览活动。小米澎程系列是为追求自在生活的用户所打造的智能可变大空间SUV，以灵活可变的车内空间适配用户通勤、休闲、出游、办公等不同生活场景。此次巡展也将这一产品特点搬",
+        "detail": "9月28日，小米澎程公布“第N空间”十一巡展计划。此次活动将在上海、北京、杭州、太原、深圳、都江堰、顺德、南京、青岛、重庆、武汉、郑州等19个城市展开，并将会在上海老市府举行特展，这也是小米汽车迄今办展规模最大、覆盖城市最多的一次线下展览活动。小米澎程系列是为追求自在生活的用户所打造的智能可变大空间SUV，以灵活可变的车内空间适配用户通勤、休闲、出游、办公等不同生活场景。此次巡展也将这一产品特点搬",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "从「算得快」到「干得了活」：AI推理时代，CPU如何重塑算力版图",
+        "link": "https://www.leiphone.com/category/chipdesign/v7Oa5s4M9TfJpegJ.html",
+        "description": "记者：郭思编辑：包永刚“善弈者谋势，不善弈者谋子。”这句古老的智慧，正精准地映射出当下AI产业的演进轨迹。当行业狂热于大模型训练阶段的算力军备竞赛时，一场更为深刻的重心迁移正在悄然发生，AI已经从回答问题走向解决问题，从单纯的模型训练走向复杂的智能体推理。这种转变对底层算力架构的冲击，远比表面看起来要深远得多。如果说训练阶段是GPU闷头计算的大兵团作战，那么推理时代则是一场需要精密调度的现代化战争",
+        "detail": "记者：郭思编辑：包永刚“善弈者谋势，不善弈者谋子。”这句古老的智慧，正精准地映射出当下AI产业的演进轨迹。当行业狂热于大模型训练阶段的算力军备竞赛时，一场更为深刻的重心迁移正在悄然发生，AI已经从回答问题走向解决问题，从单纯的模型训练走向复杂的智能体推理。这种转变对底层算力架构的冲击，远比表面看起来要深远得多。如果说训练阶段是GPU闷头计算的大兵团作战，那么推理时代则是一场需要精密调度的现代化战争",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "海光1000系列发布，端侧市场为何需要另一颗CPU？",
+        "link": "https://www.leiphone.com/category/chips/Vg21PfMOVphziqqK.html",
+        "description": "近日，海光信息发布了1000系列CPU，首次推出专门面向工业控制等端侧场景设计的处理器。这颗芯片是海光迄今封装尺寸最小的一颗CPU，海光信息总裁助理、创新产品部副总经理李成在发布会上表示，这可能也是公司做过的最复杂的单SoC芯片。从服务器、工作站走向更广泛的工业设备，海光需要为新的使用场景重新定义产品。端侧CPU不能照搬服务器的设计工业设备对处理器的要求，与服务器和普通消费终端存在明显差异。服务器",
+        "detail": "近日，海光信息发布了1000系列CPU，首次推出专门面向工业控制等端侧场景设计的处理器。这颗芯片是海光迄今封装尺寸最小的一颗CPU，海光信息总裁助理、创新产品部副总经理李成在发布会上表示，这可能也是公司做过的最复杂的单SoC芯片。从服务器、工作站走向更广泛的工业设备，海光需要为新的使用场景重新定义产品。端侧CPU不能照搬服务器的设计工业设备对处理器的要求，与服务器和普通消费终端存在明显差异。服务器",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "智己汽车CTO项娇：智己LS6的线控底盘历时8年研发",
+        "link": "https://www.leiphone.com/category/transportation/3USAaLZCbr8AyvEz.html",
+        "description": "一款车经过三年时间、四个版本迭代，终于迎来自己的高光时刻。9月23日，全新一代智己LS6（下称“智己LS6”）上市，搭载76kwh、93kwh、103kwh三种规格大电池，全系标配线控转向、全域800V高压纯电平台、‌B&amp;O音响、4D机械按摩座椅，限时起售价为19.79万元、21.79万元、25.99万元。发布会结束后的57分钟，新增订单超过11000辆。线控转向成为这台车上备受瞩目的焦点",
+        "detail": "一款车经过三年时间、四个版本迭代，终于迎来自己的高光时刻。9月23日，全新一代智己LS6（下称“智己LS6”）上市，搭载76kwh、93kwh、103kwh三种规格大电池，全系标配线控转向、全域800V高压纯电平台、‌B&amp;O音响、4D机械按摩座椅，限时起售价为19.79万元、21.79万元、25.99万元。发布会结束后的57分钟，新增订单超过11000辆。线控转向成为这台车上备受瞩目的焦点",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
       },
       {
         "title": "7天两场演讲，中国两大AI云撞了同一个爱迪生",
@@ -149,28 +275,28 @@
         "source": "雷锋网"
       },
       {
-        "title": "Microsoft drops Copilot+ branding from its new laptops",
-        "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-        "description": "[HN] +49 points · 23 comments · by anthuswilliams",
-        "detail": "[HN] +49 points · 23 comments · by anthuswilliams",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "hackernews"
-      },
-      {
-        "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+        "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
         "link": "https://arxiv.org/abs/2110.01834",
-        "description": "[HN] +47 points · 6 comments · by teleforce",
-        "detail": "[HN] +47 points · 6 comments · by teleforce",
+        "description": "[HN] +106 points · 33 comments · by teleforce",
+        "detail": "[HN] +106 points · 33 comments · by teleforce",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "hackernews"
       },
       {
+        "title": "Prompting Claude Opus 5.5",
+        "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+        "description": "[HN] +97 points · 91 comments · by Michelangelo11",
+        "detail": "[HN] +97 points · 91 comments · by Michelangelo11",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      },
+      {
         "title": "Cambrian Explosion of AI",
         "link": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion",
-        "description": "[HN] +4 points · 5 comments · by debarshri",
-        "detail": "[HN] +4 points · 5 comments · by debarshri",
+        "description": "[HN] +11 points · 8 comments · by debarshri",
+        "detail": "[HN] +11 points · 8 comments · by debarshri",
         "tag": "工具与生态",
         "sort_score": 76,
         "source": "hackernews"
