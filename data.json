@@ -1,5 +1,282 @@
 [
   {
+    "date": "2026-09-30",
+    "weekday": "星期三",
+    "summary": "今日共收录 30 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+        "link": "https://www.qbitai.com/2026/09/499280.html",
+        "description": "机器人上市，风向有变",
+        "detail": "机器人上市，风向有变",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+        "link": "https://www.qbitai.com/2026/09/499263.html",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "苏妈李飞飞两大女王合体！AMD 550亿吞下世界模型",
+        "link": "https://aiera.com.cn/2026/09/30/other/admin/116329/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%8b%8f%e5%a6%88%e6%9d%8e%e9%a3%9e%e9%a3%9e%e4%b8%a4%e5%a4%a7%e5%a5%b3%e7%8e%8b%e5%90%88%e4%bd%93%ef%bc%81amd-550%e4%ba%bf%e5%90%9e%e4%b8%8b%e4%b8%96%e7%95%8c%e6%a8%a1/",
+        "description": "刚刚，硅谷发生一件史诗级重磅并购。 「AI教母」李飞飞创立的空间智能初创公司World Labs，被AMD以82亿美元天价收购！",
+        "detail": "刚刚，硅谷发生一件史诗级重磅并购。 「AI教母」李飞飞创立的空间智能初创公司World Labs，被AMD以82亿美元天价收购！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "北大团队官宣：庞加莱猜想被完整形式化！首个双检验版本来了",
+        "link": "https://aiera.com.cn/2026/09/30/other/admin/116309/%e5%8c%97%e5%a4%a7%e5%9b%a2%e9%98%9f%e5%ae%98%e5%ae%a3%ef%bc%9a%e5%ba%9e%e5%8a%a0%e8%8e%b1%e7%8c%9c%e6%83%b3%e8%a2%ab%e5%ae%8c%e6%95%b4%e5%bd%a2%e5%bc%8f%e5%8c%96%ef%bc%81%e9%a6%96%e4%b8%aa%e5%8f%8c/",
+        "description": "刚刚，北京大学AI for Math团队宣布：他们独立完成了千禧年大奖难题之一——庞加莱猜想在Lean 4中的完整形式化！",
+        "detail": "刚刚，北京大学AI for Math团队宣布：他们独立完成了千禧年大奖难题之一——庞加莱猜想在Lean 4中的完整形式化！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI找出数学反例推翻论文，作者确认！453篇手稿，AI开始自己出题了",
+        "link": "https://aiera.com.cn/2026/09/30/other/admin/116290/ai%e6%89%be%e5%87%ba%e6%95%b0%e5%ad%a6%e5%8f%8d%e4%be%8b%e6%8e%a8%e7%bf%bb%e8%ae%ba%e6%96%87%ef%bc%8c%e4%bd%9c%e8%80%85%e7%a1%ae%e8%ae%a4%ef%bc%81453%e7%af%87%e6%89%8b%e7%a8%bf%ef%bc%8cai%e5%bc%80/",
+        "description": "AI数学，正在越过一个很微妙的分界线。 过去我们问的是：大模型能不能做出一道难题？能不能写出严谨证明？能不能找到人类几十年没发现的反例？",
+        "detail": "AI数学，正在越过一个很微妙的分界线。 过去我们问的是：大模型能不能做出一道难题？能不能写出严谨证明？能不能找到人类几十年没发现的反例？",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "清北天团甩王炸！正面叫板Figure",
+        "link": "https://aiera.com.cn/2026/09/30/other/admin/116279/%e5%88%9a%e5%88%9a%ef%bc%8c%e6%b8%85%e5%8c%97%e5%a4%a9%e5%9b%a2%e7%94%a9%e7%8e%8b%e7%82%b8%ef%bc%81%e6%ad%a3%e9%9d%a2%e5%8f%ab%e6%9d%bffigure/",
+        "description": "刚刚，国产人形机器人「大小脑」， 和Figure杠上了！ 它就是国内初创公司德塔智能新发布的双足人形机器人基础模型，Delta 0。",
+        "detail": "刚刚，国产人形机器人「大小脑」， 和Figure杠上了！ 它就是国内初创公司德塔智能新发布的双足人形机器人基础模型，Delta 0。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "反超Seedance 2.0！RunningHub发布增强版H3，1秒只要0.1 元",
+        "link": "https://aiera.com.cn/2026/09/30/other/admin/116252/%e5%8f%8d%e8%b6%85seedance-2-0%ef%bc%81runninghub%e5%8f%91%e5%b8%83%e5%a2%9e%e5%bc%ba%e7%89%88h3%ef%bc%8c1%e7%a7%92%e5%8f%aa%e8%a6%810-1-%e5%85%83/",
+        "description": "7月底MiniMax H3开源的时候，Artificial Analysis视频编辑榜Elo 1130分。",
+        "detail": "7月底MiniMax H3开源的时候，Artificial Analysis视频编辑榜Elo 1130分。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI紧急叫停GPT-6.1！",
+        "link": "https://aiera.com.cn/2026/09/30/other/admin/116242/openai%e7%b4%a7%e6%80%a5%e5%8f%ab%e5%81%9cgpt-6-1%ef%bc%81/",
+        "description": "开发者大会前夜，OpenAI急踩刹车！ 就在刚刚，WSJ独家爆料，下一代最强GPT-6.1 Astra的发布计划，被OpenAI全面撤回了。",
+        "detail": "开发者大会前夜，OpenAI急踩刹车！ 就在刚刚，WSJ独家爆料，下一代最强GPT-6.1 Astra的发布计划，被OpenAI全面撤回了。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic招股书曝光！5180亿美元算力豪赌，IPO估值或超2万亿",
+        "link": "https://aiera.com.cn/2026/09/30/other/admin/116226/anthropic%e6%8b%9b%e8%82%a1%e4%b9%a6%e6%9b%9d%e5%85%89%ef%bc%815180%e4%ba%bf%e7%be%8e%e5%85%83%e7%ae%97%e5%8a%9b%e8%b1%aa%e8%b5%8c%ef%bc%8cipo%e4%bc%b0%e5%80%bc%e6%88%96%e8%b6%852%e4%b8%87%e4%ba%bf/",
+        "description": "冲击2万亿美元IPO估值，背后竟是5180亿美元的算力豪赌！ 9月28日，路透社披露了Anthropic招股材料中的财务细节。",
+        "detail": "冲击2万亿美元IPO估值，背后竟是5180亿美元的算力豪赌！ 9月28日，路透社披露了Anthropic招股材料中的财务细节。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "新智元"
+      },
+      {
+        "title": "马斯克点赞Opus 5.5视频大作后，我们让MiniMax M3.1 Flash露一手",
+        "link": "https://aiera.com.cn/2026/09/30/other/admin/116213/%e9%a9%ac%e6%96%af%e5%85%8b%e7%82%b9%e8%b5%9eopus-5-5%e8%a7%86%e9%a2%91%e5%a4%a7%e4%bd%9c%e5%90%8e%ef%bc%8c%e6%88%91%e4%bb%ac%e8%ae%a9minimax-m3-1-flash%e9%9c%b2%e4%b8%80%e6%89%8b/",
+        "description": "最近，关注AI圈的人突然发现了只「兔子」。 9月23日，模型聚合平台OpenRouter和编程工具OpenCode同时上线了一个匿名模型，名叫Space Bunny Alpha…",
+        "detail": "最近，关注AI圈的人突然发现了只「兔子」。 9月23日，模型聚合平台OpenRouter和编程工具OpenCode同时上线了一个匿名模型，名叫Space Bunny Alpha…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "一个忘关的开关，与企业Agent的全栈技术账单",
+        "link": "https://www.infoq.cn/article/z9VP6ZQ3vCxTrk1VdU5D?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "首发！openJiuwen workSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和",
+        "link": "https://www.infoq.cn/article/fOuaRtwuySyZsS0iGg7N?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "link": "https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
+        "link": "https://www.ifanr.com/1682644?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "奥特曼：AI 将带来新文艺复兴，而非新工业革命#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "奥特曼：AI 将带来新文艺复兴，而非新工业革命#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一",
+        "link": "https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· DeepSeek Harness 推出桌面端预览版\n· 特斯拉 Roadster 发布会因天气推迟\n· vivo 调整中国区考勤：工作日最晚 9 点打卡，10 月 8 日执行#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· DeepSeek Harness 推出桌面端预览版\n· 特斯拉 Roadster 发布会因天气推迟\n· vivo 调整中国区考勤：工作日最晚 9 点打卡，10 月 8 日执行#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "OpenAI 年度发布会最全总结：25 个新品很夯，但额度减半拉爆了",
+        "link": "https://www.ifanr.com/1682571?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "省流：个人用户亏麻了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "省流：个人用户亏麻了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+        "link": "https://sspai.com/post/114945",
+        "description": "祝你旅途顺遂，假期自由。查看全文",
+        "detail": "祝你旅途顺遂，假期自由。查看全文",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "少数派"
+      },
+      {
+        "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+        "link": "https://sspai.com/post/115197",
+        "description": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。查看全文",
+        "detail": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。查看全文",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "少数派"
+      },
+      {
+        "title": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
+        "link": "http://www.geekpark.net/news/372005",
+        "description": "\n        \nOpenAI 开发者大会推出智能体 dots，重构会员定价，意图打造 AI 超级入口\n北京时间 9 月 30 日凌晨，OpenAI 举办其宣称规模最大的一届开发者大会，一次性发布 25 项更新，覆盖新模型、API、智能体、插件生态与企业软件市场。大会现场，Sam Altman 公布 ChatGPT Pro 会员调整方案时台下一片沉寂，套餐调价成为本次发布最受争议的内容。\n会员体",
+        "detail": "\n        \nOpenAI 开发者大会推出智能体 dots，重构会员定价，意图打造 AI 超级入口\n北京时间 9 月 30 日凌晨，OpenAI 举办其宣称规模最大的一届开发者大会，一次性发布 25 项更新，覆盖新模型、API、智能体、插件生态与企业软件市场。大会现场，Sam Altman 公布 ChatGPT Pro 会员调整方案时台下一片沉寂，套餐调价成为本次发布最受争议的内容。\n会员体",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
+        "title": "除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」",
+        "link": "http://www.geekpark.net/news/372003",
+        "description": "\n        \n\n模型越来越便宜，付费给的用量却砍了半\n\n作者｜Alan\n\n北京时间 9 月 30 日凌晨，OpenAI 开完了它口中「迄今规模最大的一届」开发者大会。官方汇总页上一共列了 25 项发布，从新模型、新 API，一路排到给企业买软件用的应用市场。\n\n现场最安静的一刻，出现在 Sam Altman 讲到 ChatGPT Pro 会员调整的时候。台下没有一个人鼓掌。\n调整本身不复杂：",
+        "detail": "\n        \n\n模型越来越便宜，付费给的用量却砍了半\n\n作者｜Alan\n\n北京时间 9 月 30 日凌晨，OpenAI 开完了它口中「迄今规模最大的一届」开发者大会。官方汇总页上一共列了 25 项发布，从新模型、新 API，一路排到给企业买软件用的应用市场。\n\n现场最安静的一刻，出现在 Sam Altman 讲到 ChatGPT Pro 会员调整的时候。台下没有一个人鼓掌。\n调整本身不复杂：",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "源升智能杨思成：具身模型能力突破之前，灵巧手要先卷性能｜物理AI 50人",
+        "link": "https://www.leiphone.com/category/robot/rhJu6CEW1OjHWAHH.html",
+        "description": "灵巧操作的最高境界，是「无剑胜有剑」。作者：向欣 高景辉编辑：高景辉雷峰网：金庸笔下的独孤求败，对剑术的理解有几重境界：二十岁前看重利剑凌厉刚猛，四十岁前领悟重剑「大巧不工」；四十岁后渐渐达到「不滞于物，草木竹石皆可为剑」的境界，内功强到极致，兵刃都是身外之物。在源升智能创始人杨思成看来，灵巧手之于机器人操作能力，就像兵刃之于剑术，模型（剑术）越强，就越不依赖末端执行工具（兵刃）；反之，当模型能力",
+        "detail": "灵巧操作的最高境界，是「无剑胜有剑」。作者：向欣 高景辉编辑：高景辉雷峰网：金庸笔下的独孤求败，对剑术的理解有几重境界：二十岁前看重利剑凌厉刚猛，四十岁前领悟重剑「大巧不工」；四十岁后渐渐达到「不滞于物，草木竹石皆可为剑」的境界，内功强到极致，兵刃都是身外之物。在源升智能创始人杨思成看来，灵巧手之于机器人操作能力，就像兵刃之于剑术，模型（剑术）越强，就越不依赖末端执行工具（兵刃）；反之，当模型能力",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "具身智能的无本体数据，终于有了自己的「代表作」",
+        "link": "https://www.leiphone.com/category/robot/S9YPlbN9tONrBqrI.html",
+        "description": "无本体数据跑通复杂长程任务的时刻，到了。&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "detail": "无本体数据跑通复杂长程任务的时刻，到了。&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "被质疑「容易复制」的视触觉，到底难在哪？",
+        "link": "https://www.leiphone.com/category/robot/JhZ6UpPE5DgSREvQ.html",
+        "description": "对视触觉的许多质疑，并不中肯。&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+        "detail": "对视触觉的许多质疑，并不中肯。&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "豆包支持出行服务：一句话订机票、火车票，打车导航全覆盖",
+        "link": "https://www.leiphone.com/category/industrynews/THHBFFfWaradAOlZ.html",
+        "description": "国庆黄金周前夕，豆包宣布支持多种出行服务，用户现已可通过豆包一站式完成机票预订、火车票购买、打车及路线导航等多种出行需求，覆盖从长途交通到市内出行的全场景。&nbsp;据了解，豆包此次的功能升级主要围绕用户出行核心需求，在酒店预订和餐饮预订的基础上，新增了包括机票预订、火车票预订，打车出行和导航等多项出行服务。用户只需在豆包对话中以自然语言描述出行需求，例如“帮我订一张明天从北京到上海的机票”或“",
+        "detail": "国庆黄金周前夕，豆包宣布支持多种出行服务，用户现已可通过豆包一站式完成机票预订、火车票购买、打车及路线导航等多种出行需求，覆盖从长途交通到市内出行的全场景。&nbsp;据了解，豆包此次的功能升级主要围绕用户出行核心需求，在酒店预订和餐饮预订的基础上，新增了包括机票预订、火车票预订，打车出行和导航等多项出行服务。用户只需在豆包对话中以自然语言描述出行需求，例如“帮我订一张明天从北京到上海的机票”或“",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "首批搭载第六代骁龙 8 超级至尊版，iQOO16 今日发布并开售",
+        "link": "https://www.leiphone.com/category/industrynews/f6VtGRkwFooHFN7M.html",
+        "description": "&nbsp;&nbsp;2026 年 9 月 29 日，深圳 ——  iQOO16 正式发布。新机首批搭载第六代骁龙 8 超级至尊版，全球首发由 iQOO 和三星显示联合研发的 2K 165Hz 三星珠峰屏，并基于 iQOO 搭建的 “3+2游戏技术版图”，在视效、操控、直播和跨端游戏体验上全面升级，成为性能、屏幕、游戏体验、系统和综合配置全面超 Pro Max 的性能旗舰。不久前，刚结束 202",
+        "detail": "&nbsp;&nbsp;2026 年 9 月 29 日，深圳 ——  iQOO16 正式发布。新机首批搭载第六代骁龙 8 超级至尊版，全球首发由 iQOO 和三星显示联合研发的 2K 165Hz 三星珠峰屏，并基于 iQOO 搭建的 “3+2游戏技术版图”，在视效、操控、直播和跨端游戏体验上全面升级，成为性能、屏幕、游戏体验、系统和综合配置全面超 Pro Max 的性能旗舰。不久前，刚结束 202",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "国启新篇 兴创未来 国兴智能新品亮相，多项技术引领行业变革",
+        "link": "https://www.leiphone.com/category/industrynews/r1gMx892vG7al5M5.html",
+        "description": "9月29日，2026国兴智能新品发布会在山东烟台顺利召开。本次发布会以“国启新篇·兴创未来”为主题，面向具身智能、智慧巡检、应急救援、消防灭火等高危复杂场景，重磅发布11款全新产品。全方位展示企业的技术成果与场景解决方案，为高危行业智能化、无人化转型注入全新动能。发布会上，洪田股份总经理与国兴智能总经理分别致辞。会上，国兴智能技术负责人详细解读了新品的技术优势、研发理念与应用价值，并分享了企业在具",
+        "detail": "9月29日，2026国兴智能新品发布会在山东烟台顺利召开。本次发布会以“国启新篇·兴创未来”为主题，面向具身智能、智慧巡检、应急救援、消防灭火等高危复杂场景，重磅发布11款全新产品。全方位展示企业的技术成果与场景解决方案，为高危行业智能化、无人化转型注入全新动能。发布会上，洪田股份总经理与国兴智能总经理分别致辞。会上，国兴智能技术负责人详细解读了新品的技术优势、研发理念与应用价值，并分享了企业在具",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "GPT-6 丝滑「上身」宇树 G1，斯坦福把机器人控制链封装成了一套「专属 API」",
+        "link": "https://www.leiphone.com/category/ai/AVV9SvszqpZ3u8vU.html",
+        "description": "空间记忆接导航，视觉伺服接抓取，全身运动负责落地。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+        "detail": "空间记忆接导航，视觉伺服接抓取，全身运动负责落地。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "深度拆解 Sonnet 5.5 ：半价 Opus 只是表象，Agent Runtime 才是变化核心",
+        "link": "https://www.leiphone.com/category/ai/eFLQ0PfFrKc5kRSs.html",
+        "description": "Tool Call 少三成，Shell Run 近减半，迭代降至 3.6 次。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+        "detail": "Tool Call 少三成，Shell Run 近减半，迭代降至 3.6 次。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Responsible Release of AI-Generated Mathematics",
+        "link": "https://agmai.org/general-sep29/",
+        "description": "[HN] +24 points · 17 comments · by aureianimus",
+        "detail": "[HN] +24 points · 17 comments · by aureianimus",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      },
+      {
+        "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
+        "link": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
+        "description": "[HN] +10 points · 5 comments · by EA-3167",
+        "detail": "[HN] +10 points · 5 comments · by EA-3167",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-09-29",
     "weekday": "星期二",
     "summary": "今日共收录 49 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
