@@ -2,8 +2,98 @@
   {
     "date": "2026-09-30",
     "weekday": "星期三",
-    "summary": "今日共收录 30 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 52 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, The Verge AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
+        "link": "https://the-decoder.com/trump-and-tech-ceos-sign-an-ai-code-of-conduct-thats-only-morally-binding/",
+        "description": "\n        President Trump and tech leaders including Mark Zuckerberg, Greg Brockman, Jensen Huang, and Elon Musk signed an AI code of conduct at the White House that is only \"morally binding.\" Outside ",
+        "detail": "\n        President Trump and tech leaders including Mark Zuckerberg, Greg Brockman, Jensen Huang, and Elon Musk signed an AI code of conduct at the White House that is only \"morally binding.\" Outside ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+        "description": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We inte",
+        "detail": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We inte",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+        "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+        "description": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't revie",
+        "detail": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't revie",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "OpenAI DevDay 2026: The biggest news and announcements",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+        "description": "It&#8217;s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed ",
+        "detail": "It&#8217;s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "Agent Identity",
+        "link": "https://www.producthunt.com/products/agent-identity",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Flocker Agent Profiles",
+        "link": "https://www.producthunt.com/products/flocker-agent-profiles",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "ooon.ai",
+        "link": "https://www.producthunt.com/products/ooon-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+        "link": "https://www.qbitai.com/2026/09/499592.html",
+        "description": "给Agent配上手机号，再拉个群",
+        "detail": "给Agent配上手机号，再拉个群",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "GPT-6 Astra接上宇树G1，把厨房收拾了！",
+        "link": "https://www.qbitai.com/2026/09/499493.html",
+        "description": "让GPT把机器人技能当工具调用",
+        "detail": "让GPT把机器人技能当工具调用",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+        "link": "https://www.qbitai.com/2026/09/499308.html",
+        "description": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+        "detail": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
       {
         "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
         "link": "https://www.qbitai.com/2026/09/499280.html",
@@ -95,6 +185,15 @@
         "source": "新智元"
       },
       {
+        "title": "从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/hw3PpM2ZlCmCArsNo1y7?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "一个忘关的开关，与企业Agent的全栈技术账单",
         "link": "https://www.infoq.cn/article/z9VP6ZQ3vCxTrk1VdU5D?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -133,8 +232,8 @@
       {
         "title": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一",
         "link": "https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "· DeepSeek Harness 推出桌面端预览版\n· 特斯拉 Roadster 发布会因天气推迟\n· vivo 调整中国区考勤：工作日最晚 9 点打卡，10 月 8 日执行#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "detail": "· DeepSeek Harness 推出桌面端预览版\n· 特斯拉 Roadster 发布会因天气推迟\n· vivo 调整中国区考勤：工作日最晚 9 点打卡，10 月 8 日执行#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "description": "· DeepSeek Harness 推出桌面端预览版\n· 特斯拉 Roadster 发布会因天气推迟\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· DeepSeek Harness 推出桌面端预览版\n· 特斯拉 Roadster 发布会因天气推迟\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "爱范儿"
@@ -185,94 +284,40 @@
         "source": "极客公园"
       },
       {
-        "title": "源升智能杨思成：具身模型能力突破之前，灵巧手要先卷性能｜物理AI 50人",
-        "link": "https://www.leiphone.com/category/robot/rhJu6CEW1OjHWAHH.html",
-        "description": "灵巧操作的最高境界，是「无剑胜有剑」。作者：向欣 高景辉编辑：高景辉雷峰网：金庸笔下的独孤求败，对剑术的理解有几重境界：二十岁前看重利剑凌厉刚猛，四十岁前领悟重剑「大巧不工」；四十岁后渐渐达到「不滞于物，草木竹石皆可为剑」的境界，内功强到极致，兵刃都是身外之物。在源升智能创始人杨思成看来，灵巧手之于机器人操作能力，就像兵刃之于剑术，模型（剑术）越强，就越不依赖末端执行工具（兵刃）；反之，当模型能力",
-        "detail": "灵巧操作的最高境界，是「无剑胜有剑」。作者：向欣 高景辉编辑：高景辉雷峰网：金庸笔下的独孤求败，对剑术的理解有几重境界：二十岁前看重利剑凌厉刚猛，四十岁前领悟重剑「大巧不工」；四十岁后渐渐达到「不滞于物，草木竹石皆可为剑」的境界，内功强到极致，兵刃都是身外之物。在源升智能创始人杨思成看来，灵巧手之于机器人操作能力，就像兵刃之于剑术，模型（剑术）越强，就越不依赖末端执行工具（兵刃）；反之，当模型能力",
+        "title": "对比 Codex，免费的 AgnesCode 也能在底层算子优化任务中打得有来有回",
+        "link": "https://www.leiphone.com/category/yanxishe/Du0MZiWR62J4pzzr.html",
+        "description": "&nbsp;AgnesCode在部分芯片上跑出更高性能，免费模型完成专业级交付。&nbsp; &nbsp; 作者丨吴海明 曹PP&nbsp; &nbsp; 编辑丨李 &nbsp; 娜&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
+        "detail": "&nbsp;AgnesCode在部分芯片上跑出更高性能，免费模型完成专业级交付。&nbsp; &nbsp; 作者丨吴海明 曹PP&nbsp; &nbsp; 编辑丨李 &nbsp; 娜&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
+        "tag": "对比评测",
+        "sort_score": 86,
+        "source": "雷锋网"
+      },
+      {
+        "title": "从海拉鲁到现实世界：视频模型如何理解「变化」",
+        "link": "https://www.leiphone.com/category/yanxishe/NGx4Ckx3MbUWlIs3.html",
+        "description": "HiDream-O1-Video 的三场世界回应测试。&nbsp; &nbsp; 作者丨Reah&nbsp; &nbsp; 编辑丨李 &nbsp; 娜&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "detail": "HiDream-O1-Video 的三场世界回应测试。&nbsp; &nbsp; 作者丨Reah&nbsp; &nbsp; 编辑丨李 &nbsp; 娜&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "雷锋网"
       },
       {
-        "title": "具身智能的无本体数据，终于有了自己的「代表作」",
-        "link": "https://www.leiphone.com/category/robot/S9YPlbN9tONrBqrI.html",
-        "description": "无本体数据跑通复杂长程任务的时刻，到了。&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
-        "detail": "无本体数据跑通复杂长程任务的时刻，到了。&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "title": "在三张圆明园鼠首照片里，我们看到了3D AI的Harness时刻",
+        "link": "https://www.leiphone.com/category/yanxishe/wEE4RarEXO2oNfrH.html",
+        "description": "3D&nbsp;生成的价值正从模型本身转向模型、智能体与专业软件共同完成任务的 3D AI Harness。&nbsp; &nbsp; 作者丨吴海明&nbsp; &nbsp; 编辑丨李娜 岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "detail": "3D&nbsp;生成的价值正从模型本身转向模型、智能体与专业软件共同完成任务的 3D AI Harness。&nbsp; &nbsp; 作者丨吴海明&nbsp; &nbsp; 编辑丨李娜 岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
       },
       {
-        "title": "被质疑「容易复制」的视触觉，到底难在哪？",
-        "link": "https://www.leiphone.com/category/robot/JhZ6UpPE5DgSREvQ.html",
-        "description": "对视触觉的许多质疑，并不中肯。&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
-        "detail": "对视触觉的许多质疑，并不中肯。&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "豆包支持出行服务：一句话订机票、火车票，打车导航全覆盖",
-        "link": "https://www.leiphone.com/category/industrynews/THHBFFfWaradAOlZ.html",
-        "description": "国庆黄金周前夕，豆包宣布支持多种出行服务，用户现已可通过豆包一站式完成机票预订、火车票购买、打车及路线导航等多种出行需求，覆盖从长途交通到市内出行的全场景。&nbsp;据了解，豆包此次的功能升级主要围绕用户出行核心需求，在酒店预订和餐饮预订的基础上，新增了包括机票预订、火车票预订，打车出行和导航等多项出行服务。用户只需在豆包对话中以自然语言描述出行需求，例如“帮我订一张明天从北京到上海的机票”或“",
-        "detail": "国庆黄金周前夕，豆包宣布支持多种出行服务，用户现已可通过豆包一站式完成机票预订、火车票购买、打车及路线导航等多种出行需求，覆盖从长途交通到市内出行的全场景。&nbsp;据了解，豆包此次的功能升级主要围绕用户出行核心需求，在酒店预订和餐饮预订的基础上，新增了包括机票预订、火车票预订，打车出行和导航等多项出行服务。用户只需在豆包对话中以自然语言描述出行需求，例如“帮我订一张明天从北京到上海的机票”或“",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "首批搭载第六代骁龙 8 超级至尊版，iQOO16 今日发布并开售",
-        "link": "https://www.leiphone.com/category/industrynews/f6VtGRkwFooHFN7M.html",
-        "description": "&nbsp;&nbsp;2026 年 9 月 29 日，深圳 ——  iQOO16 正式发布。新机首批搭载第六代骁龙 8 超级至尊版，全球首发由 iQOO 和三星显示联合研发的 2K 165Hz 三星珠峰屏，并基于 iQOO 搭建的 “3+2游戏技术版图”，在视效、操控、直播和跨端游戏体验上全面升级，成为性能、屏幕、游戏体验、系统和综合配置全面超 Pro Max 的性能旗舰。不久前，刚结束 202",
-        "detail": "&nbsp;&nbsp;2026 年 9 月 29 日，深圳 ——  iQOO16 正式发布。新机首批搭载第六代骁龙 8 超级至尊版，全球首发由 iQOO 和三星显示联合研发的 2K 165Hz 三星珠峰屏，并基于 iQOO 搭建的 “3+2游戏技术版图”，在视效、操控、直播和跨端游戏体验上全面升级，成为性能、屏幕、游戏体验、系统和综合配置全面超 Pro Max 的性能旗舰。不久前，刚结束 202",
+        "title": "全球开源前二，阶跃终于回来了",
+        "link": "https://www.leiphone.com/category/yanxishe/LjT1ojuhnJ3pBvu4.html",
+        "description": "&nbsp;Step 5 Preview 回到全球第一梯队&nbsp; &nbsp; 作者丨吴海明&nbsp; &nbsp; 编辑丨李娜&nbsp;岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+        "detail": "&nbsp;Step 5 Preview 回到全球第一梯队&nbsp; &nbsp; 作者丨吴海明&nbsp; &nbsp; 编辑丨李娜&nbsp;岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "雷锋网"
-      },
-      {
-        "title": "国启新篇 兴创未来 国兴智能新品亮相，多项技术引领行业变革",
-        "link": "https://www.leiphone.com/category/industrynews/r1gMx892vG7al5M5.html",
-        "description": "9月29日，2026国兴智能新品发布会在山东烟台顺利召开。本次发布会以“国启新篇·兴创未来”为主题，面向具身智能、智慧巡检、应急救援、消防灭火等高危复杂场景，重磅发布11款全新产品。全方位展示企业的技术成果与场景解决方案，为高危行业智能化、无人化转型注入全新动能。发布会上，洪田股份总经理与国兴智能总经理分别致辞。会上，国兴智能技术负责人详细解读了新品的技术优势、研发理念与应用价值，并分享了企业在具",
-        "detail": "9月29日，2026国兴智能新品发布会在山东烟台顺利召开。本次发布会以“国启新篇·兴创未来”为主题，面向具身智能、智慧巡检、应急救援、消防灭火等高危复杂场景，重磅发布11款全新产品。全方位展示企业的技术成果与场景解决方案，为高危行业智能化、无人化转型注入全新动能。发布会上，洪田股份总经理与国兴智能总经理分别致辞。会上，国兴智能技术负责人详细解读了新品的技术优势、研发理念与应用价值，并分享了企业在具",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "GPT-6 丝滑「上身」宇树 G1，斯坦福把机器人控制链封装成了一套「专属 API」",
-        "link": "https://www.leiphone.com/category/ai/AVV9SvszqpZ3u8vU.html",
-        "description": "空间记忆接导航，视觉伺服接抓取，全身运动负责落地。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
-        "detail": "空间记忆接导航，视觉伺服接抓取，全身运动负责落地。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "深度拆解 Sonnet 5.5 ：半价 Opus 只是表象，Agent Runtime 才是变化核心",
-        "link": "https://www.leiphone.com/category/ai/eFLQ0PfFrKc5kRSs.html",
-        "description": "Tool Call 少三成，Shell Run 近减半，迭代降至 3.6 次。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
-        "detail": "Tool Call 少三成，Shell Run 近减半，迭代降至 3.6 次。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "雷锋网"
-      },
-      {
-        "title": "Responsible Release of AI-Generated Mathematics",
-        "link": "https://agmai.org/general-sep29/",
-        "description": "[HN] +24 points · 17 comments · by aureianimus",
-        "detail": "[HN] +24 points · 17 comments · by aureianimus",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "hackernews"
-      },
-      {
-        "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
-        "link": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
-        "description": "[HN] +10 points · 5 comments · by EA-3167",
-        "detail": "[HN] +10 points · 5 comments · by EA-3167",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
       }
     ]
   },
