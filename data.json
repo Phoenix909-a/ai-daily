@@ -1,5 +1,129 @@
 [
   {
+    "date": "2026-10-02",
+    "weekday": "星期五",
+    "summary": "今日共收录 13 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 雷锋网。",
+    "news": [
+      {
+        "title": "谷歌Gemini 4 Argon杀回前三！追平GPT-6 Astra，Token价只要1/5",
+        "link": "https://aiera.com.cn/2026/10/02/other/admin/116642/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%b0%b7%e6%ad%8cgemini-4-argon%e6%9d%80%e5%9b%9e%e5%89%8d%e4%b8%89%ef%bc%81%e8%bf%bd%e5%b9%b3gpt-6-astra%ef%bc%8ctoken%e4%bb%b7%e5%8f%aa%e8%a6%811-5/",
+        "description": "谷歌沉寂7个月，终于掏出了大的。 北京时间10月1日凌晨，Google DeepMind发布Gemini 4 Argon。这是其 7 个月来首款非 Flash 级专有模型。",
+        "detail": "谷歌沉寂7个月，终于掏出了大的。 北京时间10月1日凌晨，Google DeepMind发布Gemini 4 Argon。这是其 7 个月来首款非 Flash 级专有模型。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "杀进Office腹地！ChatGPT文档能自己更新，协作PPT也要来了",
+        "link": "https://aiera.com.cn/2026/10/02/other/admin/116618/%e6%9d%80%e8%bf%9boffice%e8%85%b9%e5%9c%b0%ef%bc%81chatgpt%e6%96%87%e6%a1%a3%e8%83%bd%e8%87%aa%e5%b7%b1%e6%9b%b4%e6%96%b0%ef%bc%8c%e5%8d%8f%e4%bd%9cppt%e4%b9%9f%e8%a6%81%e6%9d%a5%e4%ba%86/",
+        "description": "AI几分钟写完一份方案，你却还要接着忙上半天。 从聊天窗口复制到文档，整理排版，发给同事，再拆成PPT。",
+        "detail": "AI几分钟写完一份方案，你却还要接着忙上半天。 从聊天窗口复制到文档，整理排版，发给同事，再拆成PPT。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "NeurIPS’26 | 港科大：从CPU到GPU，AI能否真正加速全流程？",
+        "link": "https://aiera.com.cn/2026/10/02/other/admin/116606/neurips26-%e6%b8%af%e7%a7%91%e5%a4%a7%ef%bc%9a%e4%bb%8ecpu%e5%88%b0gpu%ef%bc%8cai%e8%83%bd%e5%90%a6%e7%9c%9f%e6%ad%a3%e5%8a%a0%e9%80%9f%e5%85%a8%e6%b5%81%e7%a8%8b%ef%bc%9f/",
+        "description": "在科学仿真、金融计算、图算法和运筹优化等领域，一个常见的难题并不是「没有程序」，而是程序已经能算对，却跑得太慢。",
+        "detail": "在科学仿真、金融计算、图算法和运筹优化等领域，一个常见的难题并不是「没有程序」，而是程序已经能算对，却跑得太慢。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Gemini 4震撼发布，已实现RSI？谷歌80万行内核已被重写",
+        "link": "https://aiera.com.cn/2026/10/02/other/admin/116593/gemini-4%e9%9c%87%e6%92%bc%e5%8f%91%e5%b8%83%ef%bc%8c%e5%b7%b2%e5%ae%9e%e7%8e%b0rsi%ef%bc%9f%e8%b0%b7%e6%ad%8c80%e4%b8%87%e8%a1%8c%e5%86%85%e6%a0%b8%e5%b7%b2%e8%a2%ab%e9%87%8d%e5%86%99/",
+        "description": "就在刚刚，谷歌正式发布了新一代前沿AI模型——Gemini 4 Argon。 沉寂了半年多，被GPT-6和Claude 5按在地上摩擦后，这次谷歌直接掀翻了牌桌！",
+        "detail": "就在刚刚，谷歌正式发布了新一代前沿AI模型——Gemini 4 Argon。 沉寂了半年多，被GPT-6和Claude 5按在地上摩擦后，这次谷歌直接掀翻了牌桌！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Astra成功通关「我不是机器人」！人类最后一道防线，崩塌了？",
+        "link": "https://aiera.com.cn/2026/10/02/other/admin/116561/astra%e6%88%90%e5%8a%9f%e9%80%9a%e5%85%b3%e3%80%8c%e6%88%91%e4%b8%8d%e6%98%af%e6%9c%ba%e5%99%a8%e4%ba%ba%e3%80%8d%ef%bc%81%e4%ba%ba%e7%b1%bb%e6%9c%80%e5%90%8e%e4%b8%80%e9%81%93%e9%98%b2%e7%ba%bf/",
+        "description": "就在刚刚，GPT-6成功通关了「我不是机器人」游戏中的全部48个关卡！ 这些被称为CAPTCHA的机制，是互联网安全的一道重要闸门。",
+        "detail": "就在刚刚，GPT-6成功通关了「我不是机器人」游戏中的全部48个关卡！ 这些被称为CAPTCHA的机制，是互联网安全的一道重要闸门。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "突发！特朗普签行政令：美国政府全面封杀「AI」",
+        "link": "https://aiera.com.cn/2026/10/02/other/admin/116545/%e7%aa%81%e5%8f%91%ef%bc%81%e7%89%b9%e6%9c%97%e6%99%ae%e7%ad%be%e8%a1%8c%e6%94%bf%e4%bb%a4%ef%bc%9a%e7%be%8e%e5%9b%bd%e6%94%bf%e5%ba%9c%e5%85%a8%e9%9d%a2%e5%b0%81%e6%9d%80%e3%80%8cai%e3%80%8d/",
+        "description": "就在刚刚，特朗普签署了行政令。 从此，美国官方说法中，再也没有人工智能这个词了。 以后，AI要叫做超级智能（SI）。",
+        "detail": "就在刚刚，特朗普签署了行政令。 从此，美国官方说法中，再也没有人工智能这个词了。 以后，AI要叫做超级智能（SI）。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌DeepMind研究员宣称Gemini 4已实现RSI！",
+        "link": "https://aiera.com.cn/2026/10/02/other/admin/116529/%e8%b0%b7%e6%ad%8cdeepmind%e7%a0%94%e7%a9%b6%e5%91%98%e5%ae%a3%e7%a7%b0gemini-4%e5%b7%b2%e5%ae%9e%e7%8e%b0rsi%ef%bc%81/",
+        "description": "我们的模型正式超越了我。我已经没什么能再教它的了。是时候去追寻我的咖啡师梦想啦 :) ☕ 说出这番话的人，是Google DeepMind研究员 Zirui Wang。",
+        "detail": "我们的模型正式超越了我。我已经没什么能再教它的了。是时候去追寻我的咖啡师梦想啦 :) ☕ 说出这番话的人，是Google DeepMind研究员 Zirui Wang。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6 Astra破解拿破仑百年悬案！217年密信曝光，信息量太大了",
+        "link": "https://aiera.com.cn/2026/10/02/other/admin/116514/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-astra%e7%a0%b4%e8%a7%a3%e6%8b%bf%e7%a0%b4%e4%bb%91%e7%99%be%e5%b9%b4%e6%82%ac%e6%a1%88%ef%bc%81217%e5%b9%b4%e5%af%86%e4%bf%a1%e6%9b%9d%e5%85%89%ef%bc%8c%e4%bf%a1/",
+        "description": "就在刚刚，GPT-6 Astra破解了一封217年的拿破仑密信，全网震惊了。 1809年，拿破仑的一封绝密信件被送往亚得里亚海对岸。",
+        "detail": "就在刚刚，GPT-6 Astra破解了一封217年的拿破仑密信，全网震惊了。 1809年，拿破仑的一封绝密信件被送往亚得里亚海对岸。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+        "link": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+        "link": "https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》",
+        "link": "http://www.geekpark.net/news/372069",
+        "description": "\n        \n华为 Mate90 系列发布，售价 5999 元起\n10 月 1 日，华为 Mate90 系列手机正式发布。华为 Mate90 售价 5999 元起，华为 Mate90 Pro 售价 6999 元起，华为 Mate90 Pro Max 售价 9499 元起，华为 Mate90 Pro Max 典藏版售价 10999 元起，华为 Mate90 RS 非凡大师售价 12999 元起",
+        "detail": "\n        \n华为 Mate90 系列发布，售价 5999 元起\n10 月 1 日，华为 Mate90 系列手机正式发布。华为 Mate90 售价 5999 元起，华为 Mate90 Pro 售价 6999 元起，华为 Mate90 Pro Max 售价 9499 元起，华为 Mate90 Pro Max 典藏版售价 10999 元起，华为 Mate90 RS 非凡大师售价 12999 元起",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "连败6场遭强制执行 寒武纪前高管无端再提天价索赔 谁最受伤？",
+        "link": "https://www.leiphone.com/category/industrynews/kf23Cq1EQJfpwbcX.html",
+        "description": "寒武纪9月30日晚间发布公告称，在2025年11月、2026年8月，北京市海淀区人民法院、北京市第一中级人民法院分别做出一审、二审（终审）判决，梁军均败诉。案件走向也进入司法强制执行阶段。不止如此，在双方的股权诉讼纠纷中，梁军已经接连输掉6起诉讼。多起案件共同指向其诉求的核心事实与法律定性，已有司法定论，寒武纪及其相关方的合法权益获得法律支持。梁军方面并不愿正视既定司法结果。就在近期，梁军修改其诉",
+        "detail": "寒武纪9月30日晚间发布公告称，在2025年11月、2026年8月，北京市海淀区人民法院、北京市第一中级人民法院分别做出一审、二审（终审）判决，梁军均败诉。案件走向也进入司法强制执行阶段。不止如此，在双方的股权诉讼纠纷中，梁军已经接连输掉6起诉讼。多起案件共同指向其诉求的核心事实与法律定性，已有司法定论，寒武纪及其相关方的合法权益获得法律支持。梁军方面并不愿正视既定司法结果。就在近期，梁军修改其诉",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "雷锋网"
+      },
+      {
+        "title": "DeepSeek Harness",
+        "link": "https://www.deepseek.com/en/harness/",
+        "description": "[HN] +127 points · 39 comments · by Kuyawa",
+        "detail": "[HN] +127 points · 39 comments · by Kuyawa",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-01",
     "weekday": "星期四",
     "summary": "今日共收录 20 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, Simon Willison, 新智元, 极客公园, 爱范儿。",
