@@ -2,8 +2,98 @@
   {
     "date": "2026-10-02",
     "weekday": "星期五",
-    "summary": "今日共收录 13 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 雷锋网。",
+    "summary": "今日共收录 23 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
+        "link": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
+        "description": "\n        Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription.\nThe article Microsoft AI releases new transcription and text-to-speech models for voice agents a",
+        "detail": "\n        Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription.\nThe article Microsoft AI releases new transcription and text-to-speech models for voice agents a",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
+        "link": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/",
+        "description": "\n        US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian.\nThe article Businesses are using more AI and paying less for it, Ramp AI Index s",
+        "detail": "\n        US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian.\nThe article Businesses are using more AI and paying less for it, Ramp AI Index s",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
+        "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+        "description": "\n        Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with ",
+        "detail": "\n        Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Never Boring AI",
+        "link": "https://www.producthunt.com/products/never-boring-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Syllaby AI Avatar 2.0",
+        "link": "https://www.producthunt.com/products/syllaby-ai-avatar-2-0",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Veltrix AI for E-commerce",
+        "link": "https://www.producthunt.com/products/veltrix-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Vitra.ai",
+        "link": "https://www.producthunt.com/products/vitra-ai-agentic-content-platform",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+        "link": "https://www.qbitai.com/2026/10/500098.html",
+        "description": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+        "detail": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "丘成桐新论文致谢了GPT和Claude",
+        "link": "https://www.qbitai.com/2026/10/499991.html",
+        "description": "44年前被亲自列入问题清单",
+        "detail": "44年前被亲自列入问题清单",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+        "link": "https://www.qbitai.com/2026/10/499958.html",
+        "description": "换区也没用",
+        "detail": "换区也没用",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
       {
         "title": "谷歌Gemini 4 Argon杀回前三！追平GPT-6 Astra，Token价只要1/5",
         "link": "https://aiera.com.cn/2026/10/02/other/admin/116642/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%b0%b7%e6%ad%8cgemini-4-argon%e6%9d%80%e5%9b%9e%e5%89%8d%e4%b8%89%ef%bc%81%e8%bf%bd%e5%b9%b3gpt-6-astra%ef%bc%8ctoken%e4%bb%b7%e5%8f%aa%e8%a6%811-5/",
@@ -113,10 +203,10 @@
         "source": "雷锋网"
       },
       {
-        "title": "DeepSeek Harness",
+        "title": "DeepSeek Harness Desktop for macOS and Windows",
         "link": "https://www.deepseek.com/en/harness/",
-        "description": "[HN] +127 points · 39 comments · by Kuyawa",
-        "detail": "[HN] +127 points · 39 comments · by Kuyawa",
+        "description": "[HN] +240 points · 119 comments · by Kuyawa",
+        "detail": "[HN] +240 points · 119 comments · by Kuyawa",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "hackernews"
