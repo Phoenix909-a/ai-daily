@@ -2,8 +2,44 @@
   {
     "date": "2026-10-03",
     "weekday": "星期六",
-    "summary": "今日共收录 12 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 量子位。",
+    "summary": "今日共收录 22 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园, 爱范儿, 量子位。",
     "news": [
+      {
+        "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
+        "link": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
+        "description": "\n        Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the res",
+        "detail": "\n        Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the res",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
+        "link": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
+        "description": "\n        A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. T",
+        "detail": "\n        A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. T",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
+        "link": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+        "description": "\n        An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes ",
+        "detail": "\n        An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
+        "link": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
+        "description": "\n        Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavio",
+        "detail": "\n        Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavio",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Decoder"
+      },
       {
         "title": "Meta wants your next gadget to be Muse-infused",
         "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
@@ -12,6 +48,51 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "Thanor AI",
+        "link": "https://www.producthunt.com/products/thanor-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Agent Activity",
+        "link": "https://www.producthunt.com/products/agent-activity",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Never Boring AI",
+        "link": "https://www.producthunt.com/products/never-boring-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Veltrix AI for E-commerce",
+        "link": "https://www.producthunt.com/products/veltrix-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+        "link": "https://www.qbitai.com/2026/10/501381.html",
+        "description": "岗位JD甩了篇技术报告",
+        "detail": "岗位JD甩了篇技术报告",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
       },
       {
         "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
@@ -95,6 +176,15 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+        "link": "https://www.ifanr.com/1682888?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "一家影视公司，杀进了视频模型的决赛圈#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "一家影视公司，杀进了视频模型的决赛圈#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
         "title": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文",
         "link": "http://www.geekpark.net/news/372070",
         "description": "\n        \n英伟达股价创新高，逼近 6 万亿美元\n英伟达股价自 5 月以来首次创下历史新高，在两个月的抛售导致市值蒸发逾 1 万亿美元后，投资者重新涌入该股。这家全球市值最高的上市公司股价周五上涨 2.9%，较 7 月底低点累计反弹近 25%。\n英伟达股价今年迄今上涨约 27%，有望连续第四年实现两位数涨幅。目前公司市值约为 5.7 万亿美元，距离成为历史上首家市值达到 6 万亿美元的公司",
@@ -104,12 +194,12 @@
         "source": "极客公园"
       },
       {
-        "title": "What if AI worked at 1.000.000 tokens per seconds?",
-        "link": "https://www.echohive.ai/one-million-tokens-per-second",
-        "description": "[HN] +3 points · 0 comments · by echohive42",
-        "detail": "[HN] +3 points · 0 comments · by echohive42",
-        "tag": "行业动态",
-        "sort_score": 58,
+        "title": "U.S. may have overthrown Venezuela due to chat with Grok",
+        "link": "https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/",
+        "description": "[HN] +28 points · 5 comments · by tty456",
+        "detail": "[HN] +28 points · 5 comments · by tty456",
+        "tag": "模型发布",
+        "sort_score": 90,
         "source": "hackernews"
       }
     ]
