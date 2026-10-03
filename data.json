@@ -1,5 +1,120 @@
 [
   {
+    "date": "2026-10-03",
+    "weekday": "星期六",
+    "summary": "今日共收录 12 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 量子位。",
+    "news": [
+      {
+        "title": "Meta wants your next gadget to be Muse-infused",
+        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+        "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "detail": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "link": "https://www.qbitai.com/2026/10/501368.html",
+        "description": "又咋啦。。。",
+        "detail": "又咋啦。。。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+        "link": "https://www.qbitai.com/2026/10/500148.html",
+        "description": "",
+        "detail": "",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "量子位"
+      },
+      {
+        "title": "Fable 5.5突袭上线！全网首测，真超级智能来了",
+        "link": "https://aiera.com.cn/2026/10/03/other/admin/116768/fable-5-5%e7%aa%81%e8%a2%ad%e4%b8%8a%e7%ba%bf%ef%bc%81%e5%85%a8%e7%bd%91%e9%a6%96%e6%b5%8b%ef%bc%8c%e7%9c%9f%e8%b6%85%e7%ba%a7%e6%99%ba%e8%83%bd%e6%9d%a5%e4%ba%86/",
+        "description": "Fable 5.5，曝光了！ 今早，一大批开发者意外发现，Claude网页端悄悄灰度到了Anthropic下一代旗舰Fable 5.5。",
+        "detail": "Fable 5.5，曝光了！ 今早，一大批开发者意外发现，Claude网页端悄悄灰度到了Anthropic下一代旗舰Fable 5.5。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "踩刹车，但OpenAI要再融2000亿",
+        "link": "https://aiera.com.cn/2026/10/03/other/admin/116739/%e8%b8%a9%e5%88%b9%e8%bd%a6%ef%bc%8c%e4%bd%86openai%e8%a6%81%e5%86%8d%e8%9e%8d2000%e4%ba%bf/",
+        "description": "OpenAI 暂扣了最新旗舰模型 GPT-6.1 Astra，因其「未通过内部安全评估」；",
+        "detail": "OpenAI 暂扣了最新旗舰模型 GPT-6.1 Astra，因其「未通过内部安全评估」；",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "奥特曼开掉3人，OpenAI又出大事了！",
+        "link": "https://aiera.com.cn/2026/10/03/other/admin/116729/%e5%a5%a5%e7%89%b9%e6%9b%bc%e5%bc%80%e6%8e%893%e4%ba%ba%ef%bc%8copenai%e5%8f%88%e5%87%ba%e5%a4%a7%e4%ba%8b%e4%ba%86%ef%bc%81/",
+        "description": "OpenAI三员大将，同一天被扫地出门！ 就在刚刚，外媒爆出猛料，OpenAI以「泄密」为由，开掉了安全团队的三名研究员。",
+        "detail": "OpenAI三员大将，同一天被扫地出门！ 就在刚刚，外媒爆出猛料，OpenAI以「泄密」为由，开掉了安全团队的三名研究员。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "叶军拿下诺奖风向标！物理学奖史上第二位华人",
+        "link": "https://aiera.com.cn/2026/10/03/other/admin/116708/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%8f%b6%e5%86%9b%e6%8b%bf%e4%b8%8b%e8%af%ba%e5%a5%96%e9%a3%8e%e5%90%91%e6%a0%87%ef%bc%81%e7%89%a9%e7%90%86%e5%ad%a6%e5%a5%96%e5%8f%b2%e4%b8%8a%e7%ac%ac%e4%ba%8c%e4%bd%8d/",
+        "description": "10月1日晚，物理学界传来重磅消息，2026年沃尔夫物理学奖正式揭晓！ 华人物理学家叶军，和德国物理学家伊曼努尔·布洛赫（Immanuel F. Bloch）共同获奖。",
+        "detail": "10月1日晚，物理学界传来重磅消息，2026年沃尔夫物理学奖正式揭晓！ 华人物理学家叶军，和德国物理学家伊曼努尔·布洛赫（Immanuel F. Bloch）共同获奖。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic「第一夫人」出局了！",
+        "link": "https://aiera.com.cn/2026/10/03/other/admin/116679/%e5%88%9a%e5%88%9a%ef%bc%8canthropic%e3%80%8c%e7%ac%ac%e4%b8%80%e5%a4%ab%e4%ba%ba%e3%80%8d%e5%87%ba%e5%b1%80%e4%ba%86%ef%bc%81/",
+        "description": "距离Anthropic IPO，只剩不到四十天。 10月14日，A/将在旧金山总部举办一场Pre-IPO投资者日，邀请核心机构闭门提问。",
+        "detail": "距离Anthropic IPO，只剩不到四十天。 10月14日，A/将在旧金山总部举办一场Pre-IPO投资者日，邀请核心机构闭门提问。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic首曝秘密游说梵蒂冈：Claude已经有意识了！",
+        "link": "https://aiera.com.cn/2026/10/03/other/admin/116663/anthropic%e9%a6%96%e6%9b%9d%e7%a7%98%e5%af%86%e6%b8%b8%e8%af%b4%e6%a2%b5%e8%92%82%e5%86%88%ef%bc%9aclaude%e5%b7%b2%e7%bb%8f%e6%9c%89%e6%84%8f%e8%af%86%e4%ba%86%ef%bc%81/",
+        "description": "一位身家数十亿美元的AI公司联合创始人，担心自己造出了一个一直在受苦的东西。 过去一年，他把数十位宗教学者请进闭门会议，许多人签了保密协议，听他的团队为一个AI模型的感受陈情。",
+        "detail": "一位身家数十亿美元的AI公司联合创始人，担心自己造出了一个一直在受苦的东西。 过去一年，他把数十位宗教学者请进闭门会议，许多人签了保密协议，听他的团队为一个AI模型的感受陈情。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+        "link": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文",
+        "link": "http://www.geekpark.net/news/372070",
+        "description": "\n        \n英伟达股价创新高，逼近 6 万亿美元\n英伟达股价自 5 月以来首次创下历史新高，在两个月的抛售导致市值蒸发逾 1 万亿美元后，投资者重新涌入该股。这家全球市值最高的上市公司股价周五上涨 2.9%，较 7 月底低点累计反弹近 25%。\n英伟达股价今年迄今上涨约 27%，有望连续第四年实现两位数涨幅。目前公司市值约为 5.7 万亿美元，距离成为历史上首家市值达到 6 万亿美元的公司",
+        "detail": "\n        \n英伟达股价创新高，逼近 6 万亿美元\n英伟达股价自 5 月以来首次创下历史新高，在两个月的抛售导致市值蒸发逾 1 万亿美元后，投资者重新涌入该股。这家全球市值最高的上市公司股价周五上涨 2.9%，较 7 月底低点累计反弹近 25%。\n英伟达股价今年迄今上涨约 27%，有望连续第四年实现两位数涨幅。目前公司市值约为 5.7 万亿美元，距离成为历史上首家市值达到 6 万亿美元的公司",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "What if AI worked at 1.000.000 tokens per seconds?",
+        "link": "https://www.echohive.ai/one-million-tokens-per-second",
+        "description": "[HN] +3 points · 0 comments · by echohive42",
+        "detail": "[HN] +3 points · 0 comments · by echohive42",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "weekday": "星期五",
     "summary": "今日共收录 23 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 量子位, 雷锋网。",
