@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-10-04",
+    "weekday": "星期日",
+    "summary": "今日共收录 15 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 量子位。",
+    "news": [
+      {
+        "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+        "link": "https://www.qbitai.com/2026/10/501451.html",
+        "description": "专业3D模型反而更稀缺了",
+        "detail": "专业3D模型反而更稀缺了",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "马斯克与Neuralink女高管分手！4娃妈公开私信：不是试管是真爱",
+        "link": "https://aiera.com.cn/2026/10/04/other/admin/116901/%e9%a9%ac%e6%96%af%e5%85%8b%e4%b8%8eneuralink%e5%a5%b3%e9%ab%98%e7%ae%a1%e5%88%86%e6%89%8b%ef%bc%814%e5%a8%83%e5%a6%88%e5%85%ac%e5%bc%80%e7%a7%81%e4%bf%a1%ef%bc%9a%e4%b8%8d%e6%98%af%e8%af%95%e7%ae%a1/",
+        "description": "刚刚，一个大瓜迅速传遍全网。 马斯克和Neralink女高管、为他生下4个孩子的伴侣Shivon Zilis，关系正式破裂！",
+        "detail": "刚刚，一个大瓜迅速传遍全网。 马斯克和Neralink女高管、为他生下4个孩子的伴侣Shivon Zilis，关系正式破裂！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "哈萨比斯嫡系交卷！AI用几天打穿10的60次方化学宇宙，制药业迎「iPhone时刻」",
+        "link": "https://aiera.com.cn/2026/10/04/other/admin/116874/%e5%93%88%e8%90%a8%e6%af%94%e6%96%af%e5%ab%a1%e7%b3%bb%e4%ba%a4%e5%8d%b7%ef%bc%81ai%e7%94%a8%e5%87%a0%e5%a4%a9%e6%89%93%e7%a9%bf10%e7%9a%8460%e6%ac%a1%e6%96%b9%e5%8c%96%e5%ad%a6%e5%ae%87%e5%ae%99/",
+        "description": "五年前的2021年，当DeepMind创始人Demis Hassabis宣布成立全新的AI制药公司Isomorphic Labs时，整个医药界充满了好奇与怀疑：「AI真的能做药…",
+        "detail": "五年前的2021年，当DeepMind创始人Demis Hassabis宣布成立全新的AI制药公司Isomorphic Labs时，整个医药界充满了好奇与怀疑：「AI真的能做药…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Hinton、Bengio等22位巨头重磅联名！AI开始造AI，智能爆炸逼近",
+        "link": "https://aiera.com.cn/2026/10/04/other/admin/116862/hinton%e3%80%81bengio%e7%ad%8922%e4%bd%8d%e5%b7%a8%e5%a4%b4%e9%87%8d%e7%a3%85%e8%81%94%e5%90%8d%ef%bc%81ai%e5%bc%80%e5%a7%8b%e9%80%a0ai%ef%bc%8c%e6%99%ba%e8%83%bd%e7%88%86%e7%82%b8%e9%80%bc%e8%bf%91/",
+        "description": "RSI留给人类的时间，可能只剩几个月了！ 今天，一份注定改变人类命运的论文，在剑桥大学CASP平台上悄然发布。",
+        "detail": "RSI留给人类的时间，可能只剩几个月了！ 今天，一份注定改变人类命运的论文，在剑桥大学CASP平台上悄然发布。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了",
+        "link": "https://aiera.com.cn/2026/10/04/other/admin/116844/ai%e5%bc%95%e5%8f%91%e8%ae%ba%e6%96%87%e5%a4%a7%e7%88%86%e7%82%b8%ef%bc%8c%e5%ae%a1%e7%a8%bf%e4%bd%93%e7%b3%bb%e6%bf%92%e4%b8%b4%e5%b4%a9%e5%a1%8c%ef%bc%9aarxiv%e4%b9%9f%e5%bc%80%e5%a7%8b%e6%9c%80/",
+        "description": "arXiv 正式实施最严新规：每人每月限发 2 篇论文，拒稿也算！ 从 10 月 1 日起，在 arXiv 上挂论文有了次数限制。",
+        "detail": "arXiv 正式实施最严新规：每人每月限发 2 篇论文，拒稿也算！ 从 10 月 1 日起，在 arXiv 上挂论文有了次数限制。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI宗师和OA两家集体疾呼：RSI带来智能爆炸，导致AI彻底失控！",
+        "link": "https://aiera.com.cn/2026/10/04/other/admin/116829/ai%e5%ae%97%e5%b8%88%e5%92%8coa%e4%b8%a4%e5%ae%b6%e9%9b%86%e4%bd%93%e7%96%be%e5%91%bc%ef%bc%9arsi%e5%b8%a6%e6%9d%a5%e6%99%ba%e8%83%bd%e7%88%86%e7%82%b8%ef%bc%8c%e5%af%bc%e8%87%b4ai%e5%bd%bb%e5%ba%95/",
+        "description": "9 月 28 日，剑桥大学 AI 科学与政策项目发布了一篇重磅论文。 22 位署名者中，不仅有 AI 教父 Geoffrey Hinton、Yoshua Bengio、Andr…",
+        "detail": "9 月 28 日，剑桥大学 AI 科学与政策项目发布了一篇重磅论文。 22 位署名者中，不仅有 AI 教父 Geoffrey Hinton、Yoshua Bengio、Andr…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6 Astra破译433年前教皇密信！50万改宗，AI掀王室黑幕",
+        "link": "https://aiera.com.cn/2026/10/04/other/admin/116817/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-astra%e7%a0%b4%e8%af%91433%e5%b9%b4%e5%89%8d%e6%95%99%e7%9a%87%e5%af%86%e4%bf%a1%ef%bc%8150%e4%b8%87%e6%94%b9%e5%ae%97%ef%bc%8cai%e6%8e%80%e7%8e%8b%e5%ae%a4%e9%bb%91/",
+        "description": "就在刚刚，全球科技圈和历史学界被一则重磅消息引爆。 GPT-6 Astra与Claude Opus 5.5，几乎在同一时间，成功破译了433年前的信件！",
+        "detail": "就在刚刚，全球科技圈和历史学界被一则重磅消息引爆。 GPT-6 Astra与Claude Opus 5.5，几乎在同一时间，成功破译了433年前的信件！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "毕树超官宣：Meta AI连破6大世界猜想，数学界AlphaGo时刻来了！",
+        "link": "https://aiera.com.cn/2026/10/04/other/admin/116794/%e6%af%95%e6%a0%91%e8%b6%85%e5%ae%98%e5%ae%a3%ef%bc%9ameta-ai%e8%bf%9e%e7%a0%b46%e5%a4%a7%e4%b8%96%e7%95%8c%e7%8c%9c%e6%83%b3%ef%bc%8c%e6%95%b0%e5%ad%a6%e7%95%8calphago%e6%97%b6%e5%88%bb%e6%9d%a5/",
+        "description": "就在今天，毕树超领衔的Meta超级智能实验室官宣—— 在过去短短6个月内，Meta的最新模型Muse Spark已经协助人类数学家连破6大数学领域的开放性难题。",
+        "detail": "就在今天，毕树超领衔的Meta超级智能实验室官宣—— 在过去短短6个月内，Meta的最新模型Muse Spark已经协助人类数学家连破6大数学领域的开放性难题。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "北大07级数学系校友：O/A两家做的事，在毁掉数学系的年轻人",
+        "link": "https://aiera.com.cn/2026/10/04/other/admin/116777/%e5%8c%97%e5%a4%a707%e7%ba%a7%e6%95%b0%e5%ad%a6%e7%b3%bb%e6%a0%a1%e5%8f%8b%ef%bc%9ao-a%e4%b8%a4%e5%ae%b6%e5%81%9a%e7%9a%84%e4%ba%8b%ef%bc%8c%e5%9c%a8%e6%af%81%e6%8e%89%e6%95%b0%e5%ad%a6%e7%b3%bb/",
+        "description": "上个月，OpenAI和Anthropic开始极限内卷。这边刚宣布攻克了一个尘封百年的数学猜想，那边马上反手甩出一个破解千禧年难题的大新闻。",
+        "detail": "上个月，OpenAI和Anthropic开始极限内卷。这边刚宣布攻克了一个尘封百年的数学猜想，那边马上反手甩出一个破解千禧年难题的大新闻。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+        "link": "https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」",
+        "link": "http://www.geekpark.net/news/372075",
+        "description": "\n        \n作者｜宇航猿\n编辑｜靖宇\n\n一个男人对着镜头拧魔方，屏幕里的女孩盯着他手上的动作，时不时点头，提醒他下一步该转哪一面。他卡住了，低头琢磨，她没有插话，只是安静地等着。等他重新动手，她才接上一句。\n如果没人告诉你，这看起来就是一次再普通不过的视频通话。\n但屏幕里那个女孩并不存在。她的脸、她的声音、她的每一次点头和停顿，全部由 AI 实时生成。\n\nGriffin 模型的演示效果确实",
+        "detail": "\n        \n作者｜宇航猿\n编辑｜靖宇\n\n一个男人对着镜头拧魔方，屏幕里的女孩盯着他手上的动作，时不时点头，提醒他下一步该转哪一面。他卡住了，低头琢磨，她没有插话，只是安静地等着。等他重新动手，她才接上一句。\n如果没人告诉你，这看起来就是一次再普通不过的视频通话。\n但屏幕里那个女孩并不存在。她的脸、她的声音、她的每一次点头和停顿，全部由 AI 实时生成。\n\nGriffin 模型的演示效果确实",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "Claude Code 的「乐高」模式，让程序员彻底玩「上头」了",
+        "link": "http://www.geekpark.net/news/372074",
+        "description": "\n        \n作者｜Wildcard\n编辑｜靖宇\n\n终端向来是程序员最严肃的地盘。黑底白字，光标跳动，每一行输出都关乎代码能不能跑通。\n但最近两周，Claude Code 的画风。被一群开发者彻底带偏了。\n有人在输入框上方养了一只像素宠物，Claude 每调用一次工具它就吃一口饭，调用失败当场生病，碰上 rm -rf 还会抱头惊慌。有人把 Chrome 断网时的小恐龙搬了进来，Claude ",
+        "detail": "\n        \n作者｜Wildcard\n编辑｜靖宇\n\n终端向来是程序员最严肃的地盘。黑底白字，光标跳动，每一行输出都关乎代码能不能跑通。\n但最近两周，Claude Code 的画风。被一群开发者彻底带偏了。\n有人在输入框上方养了一只像素宠物，Claude 每调用一次工具它就吃一口饭，调用失败当场生病，碰上 rm -rf 还会抱头惊慌。有人把 Chrome 断网时的小恐龙搬了进来，Claude ",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道",
+        "link": "http://www.geekpark.net/news/372073",
+        "description": "\n        \n苹果确认：美版 iPhone 18 Pro Max 有问题\n北京时间 10 月 3 日，彭博社报道称，苹果公司表示，AT&amp;T 的问题已导致部分 iPhone 18 Pro Max 用户无法拨打电话、访问数据或在联网时收发短信。目前尚不清楚有多少人遇到此问题。受影响的用户发现，除非连接到 Wi-Fi 网络，否则他们的设备基本无法使用。\n苹果公司已发布运营商设置更新，并推出",
+        "detail": "\n        \n苹果确认：美版 iPhone 18 Pro Max 有问题\n北京时间 10 月 3 日，彭博社报道称，苹果公司表示，AT&amp;T 的问题已导致部分 iPhone 18 Pro Max 用户无法拨打电话、访问数据或在联网时收发短信。目前尚不清楚有多少人遇到此问题。受影响的用户发现，除非连接到 Wi-Fi 网络，否则他们的设备基本无法使用。\n苹果公司已发布运营商设置更新，并推出",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "Religious scholars met with Anthropic",
+        "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+        "description": "[HN] +56 points · 95 comments · by bookofjoe",
+        "detail": "[HN] +56 points · 95 comments · by bookofjoe",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      },
+      {
+        "title": "AI can clone your indie game, but not its soul",
+        "link": "https://twitter.com/robertvaradan/status/2106061989122334778",
+        "description": "[HN] +9 points · 4 comments · by robertvaradan",
+        "detail": "[HN] +9 points · 4 comments · by robertvaradan",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-03",
     "weekday": "星期六",
     "summary": "今日共收录 22 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园, 爱范儿, 量子位。",
