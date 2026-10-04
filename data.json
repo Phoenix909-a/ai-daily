@@ -2,8 +2,80 @@
   {
     "date": "2026-10-04",
     "weekday": "星期日",
-    "summary": "今日共收录 15 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 量子位。",
+    "summary": "今日共收录 25 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
+        "link": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
+        "description": "\n        NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of Lunar Reconn",
+        "detail": "\n        NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of Lunar Reconn",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
+        "link": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
+        "description": "\n        Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced. Aleph Alpha sells ",
+        "detail": "\n        Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced. Aleph Alpha sells ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
+        "link": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/",
+        "description": "\n        Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for",
+        "detail": "\n        Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Gemini 4 Argon",
+        "link": "https://www.producthunt.com/products/gemini-4-argon",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Thanor AI",
+        "link": "https://www.producthunt.com/products/thanor-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Agent Activity",
+        "link": "https://www.producthunt.com/products/agent-activity",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AI算力硬合作，马斯克还是更相信中国制造",
+        "link": "https://www.qbitai.com/2026/10/501605.html",
+        "description": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+        "detail": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "最火AI岗位FDE：月薪5万，都干这些…",
+        "link": "https://www.qbitai.com/2026/10/501506.html",
+        "description": "什么是FDE？它会一直存在吗？",
+        "detail": "什么是FDE？它会一直存在吗？",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
       {
         "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
         "link": "https://www.qbitai.com/2026/10/501451.html",
@@ -95,6 +167,15 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+        "link": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "教会 AI 善待人类前，先学会善待人#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "教会 AI 善待人类前，先学会善待人#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
         "title": "点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」",
         "link": "http://www.geekpark.net/news/372075",
         "description": "\n        \n作者｜宇航猿\n编辑｜靖宇\n\n一个男人对着镜头拧魔方，屏幕里的女孩盯着他手上的动作，时不时点头，提醒他下一步该转哪一面。他卡住了，低头琢磨，她没有插话，只是安静地等着。等他重新动手，她才接上一句。\n如果没人告诉你，这看起来就是一次再普通不过的视频通话。\n但屏幕里那个女孩并不存在。她的脸、她的声音、她的每一次点头和停顿，全部由 AI 实时生成。\n\nGriffin 模型的演示效果确实",
@@ -122,19 +203,28 @@
         "source": "极客公园"
       },
       {
+        "title": "《Dream it Possible》旋律再起，全新华为Mate 90系列踏光而来！",
+        "link": "https://www.leiphone.com/category/industrynews/eqLySNuJ8LMHKrTe.html",
+        "description": "在10月1日的华为Mate 90系列及全场景新品发布会上，开场曲《Dream it Possible》全新版本旋律响起，瞬间把全场的记忆拉回那些与历代Mate同行的岁月。而华为Mate 90系列核心精神内核“踏光向前”，就藏在这首歌与Mate共同写下的故事里。回头看，这首歌的每次唱响都踩在Mate的关键节点上，与品牌理念同频共振。2015年华为Mate 8发布会是起点，彼时唱的还只是普通人追梦的倔",
+        "detail": "在10月1日的华为Mate 90系列及全场景新品发布会上，开场曲《Dream it Possible》全新版本旋律响起，瞬间把全场的记忆拉回那些与历代Mate同行的岁月。而华为Mate 90系列核心精神内核“踏光向前”，就藏在这首歌与Mate共同写下的故事里。回头看，这首歌的每次唱响都踩在Mate的关键节点上，与品牌理念同频共振。2015年华为Mate 8发布会是起点，彼时唱的还只是普通人追梦的倔",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
         "title": "Religious scholars met with Anthropic",
         "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-        "description": "[HN] +56 points · 95 comments · by bookofjoe",
-        "detail": "[HN] +56 points · 95 comments · by bookofjoe",
+        "description": "[HN] +81 points · 166 comments · by bookofjoe",
+        "detail": "[HN] +81 points · 166 comments · by bookofjoe",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "hackernews"
       },
       {
-        "title": "AI can clone your indie game, but not its soul",
-        "link": "https://twitter.com/robertvaradan/status/2106061989122334778",
-        "description": "[HN] +9 points · 4 comments · by robertvaradan",
-        "detail": "[HN] +9 points · 4 comments · by robertvaradan",
+        "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+        "link": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+        "description": "[HN] +24 points · 33 comments · by airhangerf15",
+        "detail": "[HN] +24 points · 33 comments · by airhangerf15",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "hackernews"
