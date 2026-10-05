@@ -2,8 +2,53 @@
   {
     "date": "2026-10-05",
     "weekday": "星期一",
-    "summary": "今日共收录 13 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 量子位。",
+    "summary": "今日共收录 18 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, The Verge AI, 新智元, 极客公园, 量子位。",
     "news": [
+      {
+        "title": "Our minds aren’t equipped to handle AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+        "description": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those",
+        "detail": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "Building advertising for the way people use AI",
+        "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+        "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+        "detail": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "OpenAI News"
+      },
+      {
+        "title": "Unscary AI",
+        "link": "https://www.producthunt.com/products/unscary-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "FastRouter.ai",
+        "link": "https://www.producthunt.com/products/fastrouter-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Gemini 4 Argon",
+        "link": "https://www.producthunt.com/products/gemini-4-argon",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
       {
         "title": "Hinton发了首篇RSI论文",
         "link": "https://www.qbitai.com/2026/10/501705.html",
@@ -104,6 +149,15 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "AI，为什么总在画美女？",
+        "link": "http://www.geekpark.net/news/372084",
+        "description": "\n        \n作者｜汤一涛\n编辑｜靖宇\n&nbsp;\n\n今年 5 月初，X 上一条五秒钟的视频火了。这是一场韩国职业棒球联赛转播，韩华鹰队对阵斗山熊队。镜头扫到看台上一个穿白上衣和牛仔裤的女人，翘着腿。某一刻，她似乎叹了口气，并移开了视线，看起来对比赛感到不满。\n\n视频配文是「普通韩国女性」。截至本文发布，视频播放量已经为 1525 万｜视频来源：X @kangminlee\n但是很快一群资深",
+        "detail": "\n        \n作者｜汤一涛\n编辑｜靖宇\n&nbsp;\n\n今年 5 月初，X 上一条五秒钟的视频火了。这是一场韩国职业棒球联赛转播，韩华鹰队对阵斗山熊队。镜头扫到看台上一个穿白上衣和牛仔裤的女人，翘着腿。某一刻，她似乎叹了口气，并移开了视线，看起来对比赛感到不满。\n\n视频配文是「普通韩国女性」。截至本文发布，视频播放量已经为 1525 万｜视频来源：X @kangminlee\n但是很快一群资深",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
         "title": "马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道",
         "link": "http://www.geekpark.net/news/372082",
         "description": "\n        \n马斯克拟将 SpaceXAI 更名为 SpaceXSI 为「超级智能」概念背书\n美国总统特朗普推动以「超级智能」（Super Intelligence，简称 SI）取代「人工智能」（AI）的举措正在迅速影响科技行业。特斯拉和 SpaceX 首席执行官埃隆&middot;马斯克日前表示，旗下人工智能业务品牌 SpaceXAI 有意更名为 SpaceXSI，并公开宣称「SpaceX",
@@ -111,15 +165,6 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "极客公园"
-      },
-      {
-        "title": "Anthropic reported diary entry to police, woman faces felony charge",
-        "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-        "description": "[HN] +12 points · 1 comments · by emptybits",
-        "detail": "[HN] +12 points · 1 comments · by emptybits",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "hackernews"
       }
     ]
   },
