@@ -1,5 +1,120 @@
 [
   {
+    "date": "2026-10-06",
+    "weekday": "星期二",
+    "summary": "今日共收录 12 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园。",
+    "news": [
+      {
+        "title": "Claude夺舍Codex！GPT-6.1 Sol极速版马上就来",
+        "link": "https://aiera.com.cn/2026/10/06/other/admin/117185/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e5%a4%ba%e8%88%8dcodex%ef%bc%81gpt-6-1-sol%e6%9e%81%e9%80%9f%e7%89%88%e9%a9%ac%e4%b8%8a%e5%b0%b1%e6%9d%a5/",
+        "description": "OpenAI高管在线征集产品需求，评论区当场集体叛变。 一群人张口就喊：Claude！ 10月4日凌晨，OpenAI Codex负责人Tibo在X上发了个互动帖：",
+        "detail": "OpenAI高管在线征集产品需求，评论区当场集体叛变。 一群人张口就喊：Claude！ 10月4日凌晨，OpenAI Codex负责人Tibo在X上发了个互动帖：",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "突发！OpenAI立下28天军令状：不上新就全员重置额度",
+        "link": "https://aiera.com.cn/2026/10/06/other/admin/117163/%e7%aa%81%e5%8f%91%ef%bc%81openai%e7%ab%8b%e4%b8%8b28%e5%a4%a9%e5%86%9b%e4%bb%a4%e7%8a%b6%ef%bc%9a%e4%b8%8d%e4%b8%8a%e6%96%b0%e5%b0%b1%e5%85%a8%e5%91%98%e9%87%8d%e7%bd%ae%e9%a2%9d%e5%ba%a6/",
+        "description": "OpenAI给自己下了一道军令状，28天，天天交作业，交不出就拿额度来赔。 听着像搞福利，细看是被逼急了。",
+        "detail": "OpenAI给自己下了一道军令状，28天，天天交作业，交不出就拿额度来赔。 听着像搞福利，细看是被逼急了。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "哈佛教授90天横扫18个学科，Claude神助攻！连开36篇论文",
+        "link": "https://aiera.com.cn/2026/10/06/other/admin/117150/%e5%93%88%e4%bd%9b%e6%95%99%e6%8e%8890%e5%a4%a9%e6%a8%aa%e6%89%ab18%e4%b8%aa%e5%ad%a6%e7%a7%91%ef%bc%8cclaude%e7%a5%9e%e5%8a%a9%e6%94%bb%ef%bc%81%e8%bf%9e%e5%bc%8036%e7%af%87%e8%ae%ba%e6%96%87/",
+        "description": "全世界拿AI搞科研的姿势，可能从一开始就用错了！ 哈佛物理学家、量子场论教材作者Matthew Schwartz找到的正确姿势，恰恰是别把Claude当科学家。",
+        "detail": "全世界拿AI搞科研的姿势，可能从一开始就用错了！ 哈佛物理学家、量子场论教材作者Matthew Schwartz找到的正确姿势，恰恰是别把Claude当科学家。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "诺奖今晚开奖！11位华人冲奖",
+        "link": "https://aiera.com.cn/2026/10/06/other/admin/117133/%e8%af%ba%e5%a5%96%e4%bb%8a%e6%99%9a%e5%bc%80%e5%a5%96%ef%bc%8111%e4%bd%8d%e5%8d%8e%e4%ba%ba%e5%86%b2%e5%a5%96/",
+        "description": "今晚17:30，2026年诺贝尔奖开奖！ 这一次，三个科学奖的热门名单上，全都站着华人。 今晚打头阵的是生理学或医学奖，热门名单上一口气就有三位。",
+        "detail": "今晚17:30，2026年诺贝尔奖开奖！ 这一次，三个科学奖的热门名单上，全都站着华人。 今晚打头阵的是生理学或医学奖，热门名单上一口气就有三位。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "陶哲轩深夜力挺！抢在OpenAI发布前夜，Caltech物理AI攻克百年难题",
+        "link": "https://aiera.com.cn/2026/10/06/other/admin/117112/%e9%99%b6%e5%93%b2%e8%bd%a9%e6%b7%b1%e5%a4%9c%e5%8a%9b%e6%8c%ba%ef%bc%81%e6%8a%a2%e5%9c%a8openai%e5%8f%91%e5%b8%83%e5%89%8d%e5%a4%9c%ef%bc%8ccaltech%e7%89%a9%e7%90%86ai%e6%94%bb%e5%85%8b%e7%99%be/",
+        "description": "千禧年难题纳维斯托克方程，还有后续？ OpenAI本已陷入漩涡，到底有没有剽窃NUY数学家Buckmaster的成果，已陷入罗生门。",
+        "detail": "千禧年难题纳维斯托克方程，还有后续？ OpenAI本已陷入漩涡，到底有没有剽窃NUY数学家Buckmaster的成果，已陷入罗生门。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "00后浙大博士把4D世界模型首次塞进手机！",
+        "link": "https://aiera.com.cn/2026/10/06/other/admin/117102/00%e5%90%8e%e6%b5%99%e5%a4%a7%e5%8d%9a%e5%a3%ab%e6%8a%8a4d%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e9%a6%96%e6%ac%a1%e5%a1%9e%e8%bf%9b%e6%89%8b%e6%9c%ba%ef%bc%81/",
+        "description": "这个假期，当大家在朋友圈晒国旗、晒旅行、晒美食的时候，华为选择在国庆节这一天扔出了重磅产品——",
+        "detail": "这个假期，当大家在朋友圈晒国旗、晒旅行、晒美食的时候，华为选择在国庆节这一天扔出了重磅产品——",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "放养AI练棋，Claude暴涨250分！GPT-6越练越菜",
+        "link": "https://aiera.com.cn/2026/10/06/other/admin/117088/%e6%94%be%e5%85%bbai%e7%bb%83%e6%a3%8b%ef%bc%8cclaude%e6%9a%b4%e6%b6%a8250%e5%88%86%ef%bc%81gpt-6%e8%b6%8a%e7%bb%83%e8%b6%8a%e8%8f%9c/",
+        "description": "放养两个AI，让它们自己练棋，结果走出了两条完全相反的曲线。 Claude Opus 5.5前75盘还在1500分上下打转，可200盘下完，分数已经涨到1760。",
+        "detail": "放养两个AI，让它们自己练棋，结果走出了两条完全相反的曲线。 Claude Opus 5.5前75盘还在1500分上下打转，可200盘下完，分数已经涨到1760。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "2026年诺奖公布！光遗传学推动大脑革命",
+        "link": "https://aiera.com.cn/2026/10/06/other/admin/117071/%e5%88%9a%e5%88%9a%ef%bc%8c2026%e5%b9%b4%e8%af%ba%e5%a5%96%e5%85%ac%e5%b8%83%ef%bc%81%e5%85%89%e9%81%97%e4%bc%a0%e5%ad%a6%e6%8e%a8%e5%8a%a8%e5%a4%a7%e8%84%91%e9%9d%a9%e5%91%bd/",
+        "description": "刚刚，2026年诺贝尔生理学或医学奖公布！ 三位科学家Karl Deisseroth， Peter Hegemann和Georg Nagel共享此次殊荣，表彰他们在「光控离子…",
+        "detail": "刚刚，2026年诺贝尔生理学或医学奖公布！ 三位科学家Karl Deisseroth， Peter Hegemann和Georg Nagel共享此次殊荣，表彰他们在「光控离子…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "link": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」",
+        "link": "http://www.geekpark.net/news/372086",
+        "description": "\n        \n2026 诺贝尔奖生理学或医学奖揭晓：三学者凭借「光控离子通道和光遗传学」领域发现获表彰\n10 月 5 日消息，诺贝尔奖基金会宣布将 2026 年诺贝尔生理学或医学奖授予以下三人，以表彰他们在「光控离子通道和光遗传学」领域的发现：美国霍华德 &middot; 休斯医学研究所及斯坦福大学的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann、德国维尔",
+        "detail": "\n        \n2026 诺贝尔奖生理学或医学奖揭晓：三学者凭借「光控离子通道和光遗传学」领域发现获表彰\n10 月 5 日消息，诺贝尔奖基金会宣布将 2026 年诺贝尔生理学或医学奖授予以下三人，以表彰他们在「光控离子通道和光遗传学」领域的发现：美国霍华德 &middot; 休斯医学研究所及斯坦福大学的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann、德国维尔",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "极客公园"
+      },
+      {
+        "title": "AI tutoring with Khanmigo in a two-year school experiment",
+        "link": "https://edworkingpapers.com/ai26-1551",
+        "description": "[HN] +61 points · 51 comments · by bryan0",
+        "detail": "[HN] +61 points · 51 comments · by bryan0",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "The AI boom is making the cheapest smartphones disappear",
+        "link": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+        "description": "[HN] +13 points · 3 comments · by jethronethro",
+        "detail": "[HN] +13 points · 3 comments · by jethronethro",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "weekday": "星期一",
     "summary": "今日共收录 18 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, The Verge AI, 新智元, 极客公园, 量子位。",
