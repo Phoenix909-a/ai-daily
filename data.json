@@ -2,8 +2,80 @@
   {
     "date": "2026-10-06",
     "weekday": "星期二",
-    "summary": "今日共收录 12 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园。",
+    "summary": "今日共收录 21 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 量子位。",
     "news": [
+      {
+        "title": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
+        "link": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/",
+        "description": "\n        Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports.\nThe article CATL and Tencent back Deepseek&#039;s ballooning funding round as the AI startup eyes ",
+        "detail": "\n        Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports.\nThe article CATL and Tencent back Deepseek&#039;s ballooning funding round as the AI startup eyes ",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
+        "link": "https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/",
+        "description": "\n        Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions.\nThe article Cohere pi",
+        "detail": "\n        Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions.\nThe article Cohere pi",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Customer Service AI for Etsy",
+        "link": "https://www.producthunt.com/products/customer-service-ai-for-etsy",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Fuse AI",
+        "link": "https://www.producthunt.com/products/fuseai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Cosmic AI Support Agent",
+        "link": "https://www.producthunt.com/products/cosmic",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "FastRouter.ai",
+        "link": "https://www.producthunt.com/products/fastrouter-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "不er，咋陶哲轩也成AI减速派了？？",
+        "link": "https://www.qbitai.com/2026/10/501736.html",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+        "link": "https://www.qbitai.com/2026/10/501726.html",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
       {
         "title": "Claude夺舍Codex！GPT-6.1 Sol极速版马上就来",
         "link": "https://aiera.com.cn/2026/10/06/other/admin/117185/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e5%a4%ba%e8%88%8dcodex%ef%bc%81gpt-6-1-sol%e6%9e%81%e9%80%9f%e7%89%88%e9%a9%ac%e4%b8%8a%e5%b0%b1%e6%9d%a5/",
@@ -97,8 +169,17 @@
       {
         "title": "AI tutoring with Khanmigo in a two-year school experiment",
         "link": "https://edworkingpapers.com/ai26-1551",
-        "description": "[HN] +61 points · 51 comments · by bryan0",
-        "detail": "[HN] +61 points · 51 comments · by bryan0",
+        "description": "[HN] +64 points · 55 comments · by bryan0",
+        "detail": "[HN] +64 points · 55 comments · by bryan0",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "link": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+        "description": "[HN] +50 points · 43 comments · by nsoonhui",
+        "detail": "[HN] +50 points · 43 comments · by nsoonhui",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "hackernews"
@@ -106,8 +187,8 @@
       {
         "title": "The AI boom is making the cheapest smartphones disappear",
         "link": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
-        "description": "[HN] +13 points · 3 comments · by jethronethro",
-        "detail": "[HN] +13 points · 3 comments · by jethronethro",
+        "description": "[HN] +27 points · 7 comments · by jethronethro",
+        "detail": "[HN] +27 points · 7 comments · by jethronethro",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "hackernews"
