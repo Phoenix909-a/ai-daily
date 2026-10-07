@@ -2,8 +2,17 @@
   {
     "date": "2026-10-07",
     "weekday": "星期三",
-    "summary": "今日共收录 14 条 AI 动态。 来源包括：Simon Willison, 新智元, 极客公园, 量子位, 雷锋网。",
+    "summary": "今日共收录 23 条 AI 动态。 来源包括：Product Hunt, Simon Willison, The Decoder, 新智元, 极客公园, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
+        "link": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/",
+        "description": "\n        OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on ",
+        "detail": "\n        OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on ",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "The Decoder"
+      },
       {
         "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
         "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
@@ -12,6 +21,69 @@
         "tag": "Agent 进展",
         "sort_score": 88,
         "source": "Simon Willison"
+      },
+      {
+        "title": "Takweem AI",
+        "link": "https://www.producthunt.com/products/takweem-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Supademo AI Demo Agent",
+        "link": "https://www.producthunt.com/products/supademo",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "DevAlly AI Agent",
+        "link": "https://www.producthunt.com/products/devally",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Figma Agent",
+        "link": "https://www.producthunt.com/products/figma",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Mistral Large 4",
+        "link": "https://www.producthunt.com/products/mistral-7b",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "晕…这年头还有说人话的AI不",
+        "link": "https://www.qbitai.com/2026/10/501796.html",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+        "link": "https://www.qbitai.com/2026/10/501791.html",
+        "description": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+        "detail": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
       },
       {
         "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
@@ -104,6 +176,15 @@
         "source": "极客公园"
       },
       {
+        "title": "美团：南京、成都、西安位列2026国庆假期热门目的地",
+        "link": "https://www.leiphone.com/category/industrynews/2zA5A1rzJebHBpvM.html",
+        "description": "2026年“十一”假期进入尾声，不少游客踏上返程。10月7日，美团发布的数据显示，从热门目的地看，美团数据显示，“十一”假期出游热门Top10目的地分别为南京、成都、西安、北京、重庆、洛阳、武汉、广州、长沙、上海。",
+        "detail": "2026年“十一”假期进入尾声，不少游客踏上返程。10月7日，美团发布的数据显示，从热门目的地看，美团数据显示，“十一”假期出游热门Top10目的地分别为南京、成都、西安、北京、重庆、洛阳、武汉、广州、长沙、上海。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
         "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
         "link": "https://www.leiphone.com/category/industrynews/ZKXlV8iIwXaBOpzO.html",
         "description": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜加州硅谷，2026 年 10 月 5 日 —— 全球领先的 AI 3D 多模态模型公司 Meshy 今日宣布，公司入选由硅谷风险投资机构 Andreessen Horowitz（a16z）发布的“消费级 AI 应用月",
@@ -124,8 +205,8 @@
       {
         "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
         "link": "https://github.com/nano-muse/nanoMuse",
-        "description": "[HN] +10 points · 0 comments · by ilreb",
-        "detail": "[HN] +10 points · 0 comments · by ilreb",
+        "description": "[HN] +21 points · 4 comments · by ilreb",
+        "detail": "[HN] +21 points · 4 comments · by ilreb",
         "tag": "Agent 进展",
         "sort_score": 88,
         "source": "hackernews"
