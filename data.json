@@ -1,5 +1,138 @@
 [
   {
+    "date": "2026-10-07",
+    "weekday": "星期三",
+    "summary": "今日共收录 14 条 AI 动态。 来源包括：Simon Willison, 新智元, 极客公园, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+        "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+        "description": "\n    \nOpenAI “rogue” agent activities found on Wikimedia projects\nGiven how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity ",
+        "detail": "\n    \nOpenAI “rogue” agent activities found on Wikimedia projects\nGiven how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity ",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+        "link": "https://www.qbitai.com/2026/10/501749.html",
+        "description": "三位菲尔兹奖得主：不代表认可",
+        "detail": "三位菲尔兹奖得主：不代表认可",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "GPT-6还没玩明白，OpenAI高管：八九成研究已押向GPT-7、GPT-8！",
+        "link": "https://aiera.com.cn/2026/10/07/other/admin/117348/gpt-6%e8%bf%98%e6%b2%a1%e7%8e%a9%e6%98%8e%e7%99%bd%ef%bc%8copenai%e9%ab%98%e7%ae%a1%ef%bc%9a%e5%85%ab%e4%b9%9d%e6%88%90%e7%a0%94%e7%a9%b6%e5%b7%b2%e6%8a%bc%e5%90%91gpt-7%e3%80%81gpt-8%ef%bc%81/",
+        "description": "GPT-6还没玩明白，GPT-7就已经在路上了？ 近日，OpenAI应用研究负责人Boris Power透露，OpenAI已把目光投向下一代模型：",
+        "detail": "GPT-6还没玩明白，GPT-7就已经在路上了？ 近日，OpenAI应用研究负责人Boris Power透露，OpenAI已把目光投向下一代模型：",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6全系提速50%！",
+        "link": "https://aiera.com.cn/2026/10/07/other/admin/117335/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6%e5%85%a8%e7%b3%bb%e6%8f%90%e9%80%9f50%ef%bc%81/",
+        "description": "未来28天，ChatGPT要满血复活了！ 就在刚刚，「义父」Tibo突袭宣布Day 1计划，直接引爆了全网——",
+        "detail": "未来28天，ChatGPT要满血复活了！ 就在刚刚，「义父」Tibo突袭宣布Day 1计划，直接引爆了全网——",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "今晚诺奖终极预测！凝聚态大热门，薛其坤领跑",
+        "link": "https://aiera.com.cn/2026/10/07/other/admin/117312/%e4%bb%8a%e6%99%9a%e8%af%ba%e5%a5%96%e7%bb%88%e6%9e%81%e9%a2%84%e6%b5%8b%ef%bc%81%e5%87%9d%e8%81%9a%e6%80%81%e5%a4%a7%e7%83%ad%e9%97%a8%ef%bc%8c%e8%96%9b%e5%85%b6%e5%9d%a4%e9%a2%86%e8%b7%91/",
+        "description": "就在今天下午，2026年诺贝尔物理学奖即将正式公布。 谁将戴上这顶最高桂冠？ 我们是否能见证历史，看到中国本土科学家凭借凝聚态物理研究登顶诺奖？",
+        "detail": "就在今天下午，2026年诺贝尔物理学奖即将正式公布。 谁将戴上这顶最高桂冠？ 我们是否能见证历史，看到中国本土科学家凭借凝聚态物理研究登顶诺奖？",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude太贵了！微软砍掉超三成预算，Meta用户直接腰斩",
+        "link": "https://aiera.com.cn/2026/10/07/other/admin/117285/claude%e5%a4%aa%e8%b4%b5%e4%ba%86%ef%bc%81%e5%be%ae%e8%bd%af%e7%a0%8d%e6%8e%89%e8%b6%85%e4%b8%89%e6%88%90%e9%a2%84%e7%ae%97%ef%bc%8cmeta%e7%94%a8%e6%88%b7%e7%9b%b4%e6%8e%a5%e8%85%b0%e6%96%a9/",
+        "description": "刚刚，Anthropic 两个最大的金主，同时踩了刹车。 就在 Anthropic 准备上市敲钟的前夜。",
+        "detail": "刚刚，Anthropic 两个最大的金主，同时踩了刹车。 就在 Anthropic 准备上市敲钟的前夜。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "数学要「毕业」了！xAI联创宣判：两千年英雄史彻底落幕",
+        "link": "https://aiera.com.cn/2026/10/07/other/admin/117275/%e6%95%b0%e5%ad%a6%e8%a6%81%e3%80%8c%e6%af%95%e4%b8%9a%e3%80%8d%e4%ba%86%ef%bc%81xai%e8%81%94%e5%88%9b%e5%ae%a3%e5%88%a4%ef%bc%9a%e4%b8%a4%e5%8d%83%e5%b9%b4%e8%8b%b1%e9%9b%84%e5%8f%b2%e5%bd%bb/",
+        "description": "两千多年来，人类最聪明的大脑，一直在攀登同一片山脉，数学。 从欧几里得、高斯，到希尔伯特、怀尔斯，每征服一座山峰，都要赌上一生。",
+        "detail": "两千多年来，人类最聪明的大脑，一直在攀登同一片山脉，数学。 从欧几里得、高斯，到希尔伯特、怀尔斯，每征服一座山峰，都要赌上一生。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "全球第二、全美第一！一家影视黑马力压硅谷巨头，已估值10亿",
+        "link": "https://aiera.com.cn/2026/10/07/other/admin/117249/%e5%85%a8%e7%90%83%e7%ac%ac%e4%ba%8c%e3%80%81%e5%85%a8%e7%be%8e%e7%ac%ac%e4%b8%80%ef%bc%81%e4%b8%80%e5%ae%b6%e5%bd%b1%e8%a7%86%e9%bb%91%e9%a9%ac%e5%8a%9b%e5%8e%8b%e7%a1%85%e8%b0%b7%e5%b7%a8%e5%a4%b4/",
+        "description": "刚刚，全球AI视频圈迎来一场震动。 在 Artificial Analysis 权威盲评榜单上，一匹黑马脱颖而出。",
+        "detail": "刚刚，全球AI视频圈迎来一场震动。 在 Artificial Analysis 权威盲评榜单上，一匹黑马脱颖而出。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "新智元"
+      },
+      {
+        "title": "北大数院校友出手！ChatGPT代写，要「实名」了",
+        "link": "https://aiera.com.cn/2026/10/07/other/admin/117227/%e5%8c%97%e5%a4%a7%e6%95%b0%e9%99%a2%e6%a0%a1%e5%8f%8b%e5%87%ba%e6%89%8b%ef%bc%81chatgpt%e4%bb%a3%e5%86%99%ef%bc%8c%e8%a6%81%e3%80%8c%e5%ae%9e%e5%90%8d%e3%80%8d%e4%ba%86/",
+        "description": "刚刚，ChatGPT写的字里，要开始逐词「埋暗号」了！ 这套水印叫textGrain。模型每挑一个词，都会悄悄掺进一把只有OpenAI知道的密钥。",
+        "detail": "刚刚，ChatGPT写的字里，要开始逐词「埋暗号」了！ 这套水印叫textGrain。模型每挑一个词，都会悄悄掺进一把只有OpenAI知道的密钥。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "诺贝尔物理奖爆冷！82岁狂人一人独揽，凿穿南极冰川",
+        "link": "https://aiera.com.cn/2026/10/07/other/admin/117207/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%af%ba%e8%b4%9d%e5%b0%94%e7%89%a9%e7%90%86%e5%a5%96%e7%88%86%e5%86%b7%ef%bc%8182%e5%b2%81%e7%8b%82%e4%ba%ba%e4%b8%80%e4%ba%ba%e7%8b%ac%e6%8f%bd%ef%bc%8c%e5%87%bf%e7%a9%bf/",
+        "description": "就在刚刚，2026年诺贝尔物理学奖公布！ 比利时裔理论物理学家、威斯康星大学麦迪逊分校教授Francis Halzen，一人独揽整座诺奖奖杯。",
+        "detail": "就在刚刚，2026年诺贝尔物理学奖公布！ 比利时裔理论物理学家、威斯康星大学麦迪逊分校教授Francis Halzen，一人独揽整座诺奖奖杯。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
+        "link": "http://www.geekpark.net/news/372089",
+        "description": "\n        \n2026 诺贝尔物理学奖揭晓：把一立方公里南极冰变成望远镜，打开「中微子天文学」\n10 月 6 日，2026 年诺贝尔物理学奖授予比利时裔美国物理学家 Francis Halzen，以表彰其「对 IceCube 中微子天文台的决定性贡献，以及发现来自天体的高能中微子」。\nHalzen 领导建设的 IceCube 位于南极，把超过 一立方公里的透明冰层本身变成粒子探测器：5000",
+        "detail": "\n        \n2026 诺贝尔物理学奖揭晓：把一立方公里南极冰变成望远镜，打开「中微子天文学」\n10 月 6 日，2026 年诺贝尔物理学奖授予比利时裔美国物理学家 Francis Halzen，以表彰其「对 IceCube 中微子天文台的决定性贡献，以及发现来自天体的高能中微子」。\nHalzen 领导建设的 IceCube 位于南极，把超过 一立方公里的透明冰层本身变成粒子探测器：5000",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+        "link": "https://www.leiphone.com/category/industrynews/ZKXlV8iIwXaBOpzO.html",
+        "description": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜加州硅谷，2026 年 10 月 5 日 —— 全球领先的 AI 3D 多模态模型公司 Meshy 今日宣布，公司入选由硅谷风险投资机构 Andreessen Horowitz（a16z）发布的“消费级 AI 应用月",
+        "detail": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜加州硅谷，2026 年 10 月 5 日 —— 全球领先的 AI 3D 多模态模型公司 Meshy 今日宣布，公司入选由硅谷风险投资机构 Andreessen Horowitz（a16z）发布的“消费级 AI 应用月",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "蚂蚁阿福“科学减重1亿斤”迎来“退展”：中秋国庆假期全国60万网友胖了100万斤",
+        "link": "https://www.leiphone.com/category/industrynews/7kLgFJjmaGU8YuBW.html",
+        "description": "中秋国庆超长假期即将结束，更“扎心”的灵魂拷问来了：你胖了吗？健康AI蚂蚁阿福数据显示，9月25日-10月6日假期期间，全国参与阿福“科学减重1亿斤”的网友中，60万人累计长胖超100万斤。其中，超10万人长胖了3斤以上。10月4日至7日，蚂蚁阿福APP的减重活动页面的统计数据，也已经连续四天显示“昨日全国增重”，10月7日显示昨日全国单日净增重达3.47万斤，被网友调侃减肥大业迎来了“退展”。在",
+        "detail": "中秋国庆超长假期即将结束，更“扎心”的灵魂拷问来了：你胖了吗？健康AI蚂蚁阿福数据显示，9月25日-10月6日假期期间，全国参与阿福“科学减重1亿斤”的网友中，60万人累计长胖超100万斤。其中，超10万人长胖了3斤以上。10月4日至7日，蚂蚁阿福APP的减重活动页面的统计数据，也已经连续四天显示“昨日全国增重”，10月7日显示昨日全国单日净增重达3.47万斤，被网友调侃减肥大业迎来了“退展”。在",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+        "link": "https://github.com/nano-muse/nanoMuse",
+        "description": "[HN] +10 points · 0 comments · by ilreb",
+        "detail": "[HN] +10 points · 0 comments · by ilreb",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-06",
     "weekday": "星期二",
     "summary": "今日共收录 21 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 量子位。",
