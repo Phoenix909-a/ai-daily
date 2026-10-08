@@ -2,8 +2,116 @@
   {
     "date": "2026-10-08",
     "weekday": "星期四",
-    "summary": "今日共收录 29 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 59 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+        "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+        "description": "\n        Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new",
+        "detail": "\n        Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense",
+        "link": "https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/",
+        "description": "\n        A 16-year-old planned his hiking route on Crown Mountain near Vancouver using Anthropic's Claude and had to be airlifted off a steep rock face. The chatbot had sent him down a route that requ",
+        "detail": "\n        A 16-year-old planned his hiking route on Crown Mountain near Vancouver using Anthropic's Claude and had to be airlifted off a steep rock face. The chatbot had sent him down a route that requ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+        "link": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/",
+        "description": "\n        According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were stolen. The ",
+        "detail": "\n        According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were stolen. The ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Claude Haiku 5.5 🤖, mathpocalypse 🧮, designer influence 👩🏻‍🎨",
+        "link": "https://tldr.tech/tech/2026-10-08",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "TLDR AI"
+      },
+      {
+        "title": "Claude for Google Workspace",
+        "link": "https://www.producthunt.com/products/claude-for-google-workspace",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentGuard",
+        "link": "https://www.producthunt.com/products/agentguard-5",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Claude Haiku 5.5",
+        "link": "https://www.producthunt.com/products/claude-haiku-5-5",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Figma Agent",
+        "link": "https://www.producthunt.com/products/figma",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "浪子回头！Manus重启北京办公室大举招聘",
+        "link": "https://www.qbitai.com/2026/10/502009.html",
+        "description": "开始和国产Agent抢人，还拿到5亿美元新融资",
+        "detail": "开始和国产Agent抢人，还拿到5亿美元新融资",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+        "link": "https://www.qbitai.com/2026/10/501995.html",
+        "description": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+        "detail": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "吉利智充技术正式发布，重塑全球补能新标杆",
+        "link": "https://www.qbitai.com/2026/10/501956.html",
+        "description": "2027年底实现“县县通”",
+        "detail": "2027年底实现“县县通”",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+        "link": "https://www.qbitai.com/2026/10/501930.html",
+        "description": "管理岗砍掉四成，顶级车型涨价20%卖",
+        "detail": "管理岗砍掉四成，顶级车型涨价20%卖",
+        "tag": "公司动态",
+        "sort_score": 35,
+        "source": "量子位"
+      },
       {
         "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
         "link": "https://www.qbitai.com/2026/10/501915.html",
@@ -104,6 +212,15 @@
         "source": "新智元"
       },
       {
+        "title": "谷歌借助 AI 与差分模糊测试将 C 语言依赖库改写为 Rust",
+        "link": "https://www.infoq.cn/article/LVsjSV4pIlh3Liz0KZZE?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "OpenAI刚把多Agent做成产品，o1奠基人却说：1万个Agent解出世界级难题，多Agent贡献不到10%",
         "link": "https://www.infoq.cn/article/3MSU3CcJuh0XjHDyjhXj?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -149,6 +266,15 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "Windows 迎来 AI 时代最大更新，拉来黄仁勋跟 Mac 宣战",
+        "link": "https://www.ifanr.com/1683177?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "能让你回到 Windows 阵营吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "能让你回到 Windows 阵营吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "爱范儿"
+      },
+      {
         "title": "早报｜苹果一大波新品曝光，最快下周发布/全球纯汽油车份额首次跌破50%/2599 美元起，Surface Laptop Ultra发布",
         "link": "https://www.ifanr.com/1683053?utm_source=rss&utm_medium=rss&utm_campaign=",
         "description": "· OpenAI 向 Chat 用户推送 GPT-6，并加入可交互界面\n· 月之暗面估值据报升至约 500 亿美元，筹备明年赴港上市\n· 2026 年诺贝尔奖陆续公布，目前已有 6 位得主#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -185,85 +311,13 @@
         "source": "极客公园"
       },
       {
-        "title": "华为已为KV Cache单独做存储，专用SSD规格却还没定下来",
-        "link": "https://www.leiphone.com/category/chips/JidbQuKCNUBEEV6Z.html",
-        "description": "推理的KV Cache，已经大到需要单独管理了。这已经成为行业内越来越明确的共识。近日，华为全联接大会上推出了华为OceanStor M900，英伟达也已经推出了CMX Context Memory Storage。这类AI记忆存储产品，会将推理过程中已经产生、可能再次复用的KV Cache进行分层管理和存储，在后续请求命中时减少相应的重复计算，这将直接节省有关算力开销。有业者明确表示，即使缓存的",
-        "detail": "推理的KV Cache，已经大到需要单独管理了。这已经成为行业内越来越明确的共识。近日，华为全联接大会上推出了华为OceanStor M900，英伟达也已经推出了CMX Context Memory Storage。这类AI记忆存储产品，会将推理过程中已经产生、可能再次复用的KV Cache进行分层管理和存储，在后续请求命中时减少相应的重复计算，这将直接节省有关算力开销。有业者明确表示，即使缓存的",
+        "title": "全行业迁移治理层｜产业落地的风控基线校准",
+        "link": "https://www.leiphone.com/category/industrynews/yXoEADuBlQVbLjXU.html",
+        "description": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第四篇，是整套理论从制度标准下沉到产业实景、从通用理论落地为行业规范的工程落地层。　　承接前三层技术+制度理论，实现全产业场景标准化治理。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终点。　　体系永久机制：全员勘伪开放、全域反例准入、全",
+        "detail": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第四篇，是整套理论从制度标准下沉到产业实景、从通用理论落地为行业规范的工程落地层。　　承接前三层技术+制度理论，实现全产业场景标准化治理。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终点。　　体系永久机制：全员勘伪开放、全域反例准入、全",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
-      },
-      {
-        "title": "从「工具」到「智能体」：CARES 4.0在港发布，刘宏斌谈医疗AI如何走进临床",
-        "link": "https://www.leiphone.com/category/aihealth/93E68V91AW9aHtDb.html",
-        "description": "近日，由中国科学院香港创新研究院人工智能与机器人创新中心（CAIR）主办、香港科技园公司协办的第四届香港具身智能医疗科技论坛（The 4th Hong Kong Clinical-driven Robotics and Embodied AI TEchnology Symposium，CREATE Symposium），于香港科学园高锟会议中心隆重举办。作为衔接临床医学与前沿科技的重要国际交流平台",
-        "detail": "近日，由中国科学院香港创新研究院人工智能与机器人创新中心（CAIR）主办、香港科技园公司协办的第四届香港具身智能医疗科技论坛（The 4th Hong Kong Clinical-driven Robotics and Embodied AI TEchnology Symposium，CREATE Symposium），于香港科学园高锟会议中心隆重举办。作为衔接临床医学与前沿科技的重要国际交流平台",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "雷锋网"
-      },
-      {
-        "title": "IROS 2026大奖揭晓：长期记忆拿下最佳论文，人形机器人打网球、端托盘双双获奖",
-        "link": "https://www.leiphone.com/category/private/VYRZFCnadDOcPDeX.html",
-        "description": "在机器人领域，一个更大的模型并不能自动解决所有问题。&nbsp; &nbsp; 作者丨马晓宁&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
-        "detail": "在机器人领域，一个更大的模型并不能自动解决所有问题。&nbsp; &nbsp; 作者丨马晓宁&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "研究了1933篇 IROS 论文，我们看到了机器人学的六项新变化",
-        "link": "https://www.leiphone.com/category/private/wEpCJ4T8v9cJFgCn.html",
-        "description": "大模型并没有“吃掉”机器人学。&nbsp; &nbsp; 作者丨马晓宁&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
-        "detail": "大模型并没有“吃掉”机器人学。&nbsp; &nbsp; 作者丨马晓宁&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "银河通用&清华 LATENT：用「不完美人类数据」让机器人学会网球对打 | IROS 2026",
-        "link": "https://www.leiphone.com/category/private/HkC1hSwn255e7hL9.html",
-        "description": "5小时动作碎片，最后变成了机器人的身体直觉。&nbsp; &nbsp; 作者丨吴思梦&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰 马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
-        "detail": "5小时动作碎片，最后变成了机器人的身体直觉。&nbsp; &nbsp; 作者丨吴思梦&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰 马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "吴佳俊 IROS 2026 演讲：结构化表征不是答案， 是机器人学会推理的脚手架 | IROS 2026",
-        "link": "https://www.leiphone.com/category/private/Hd5ntJGqUoFVY1PJ.html",
-        "description": "从结构化表征到无演示学习之路。&nbsp; &nbsp; 作者丨吴思梦&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
-        "detail": "从结构化表征到无演示学习之路。&nbsp; &nbsp; 作者丨吴思梦&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "对话如祺出行COO韩锋：世界模型越强，真实数据才是真壁垒",
-        "link": "https://www.leiphone.com/category/transportation/ESCXNijR4DVx6uDl.html",
-        "description": "过去一年，“物理AI”几乎成了自动驾驶、车企共同争夺的下一张船票。世界模型、具身大模型、机器人数据……众多公司从不同切入口布局物理AI，试图成为新风口之下的主角，相比之下，如祺出行选择了一条不那么显眼的路径，不自己训练大模型，而是尝试成为模型背后的数据基础设施。实际上，如祺出行在2023年就开始思考，除了提供包括Robotaxi等出行服务，一家出行平台还能在AI产业里扮演什么角色。随后两年，如祺出",
-        "detail": "过去一年，“物理AI”几乎成了自动驾驶、车企共同争夺的下一张船票。世界模型、具身大模型、机器人数据……众多公司从不同切入口布局物理AI，试图成为新风口之下的主角，相比之下，如祺出行选择了一条不那么显眼的路径，不自己训练大模型，而是尝试成为模型背后的数据基础设施。实际上，如祺出行在2023年就开始思考，除了提供包括Robotaxi等出行服务，一家出行平台还能在AI产业里扮演什么角色。随后两年，如祺出",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "「无驾驶舱」重卡上路，卡尔动力押注无人货运规模化",
-        "link": "https://www.leiphone.com/category/transportation/YNHH7HgbCnGN56XQ.html",
-        "description": "从鄂尔多斯市区一路向西抵达边陲小镇棋盘井，车窗外，密集的商业住宅渐渐被平原和山体取代，路上的乘用车越来越少，拖着长车厢的重卡却越来越多。煤矿、电厂、工业园区之间，重卡拖着大量货物沿着固定路线流动。这里，也是卡尔动力验证无人货运的主要场景之一。卡尔动力五年前来到内蒙古，尝试编队无人驾驶。如今，它已经拥有百台量级的无人运输车队，业务从内蒙古延伸至新疆、甘肃、陕西、山西等能源运输区域，并开始测试没有驾驶",
-        "detail": "从鄂尔多斯市区一路向西抵达边陲小镇棋盘井，车窗外，密集的商业住宅渐渐被平原和山体取代，路上的乘用车越来越少，拖着长车厢的重卡却越来越多。煤矿、电厂、工业园区之间，重卡拖着大量货物沿着固定路线流动。这里，也是卡尔动力验证无人货运的主要场景之一。卡尔动力五年前来到内蒙古，尝试编队无人驾驶。如今，它已经拥有百台量级的无人运输车队，业务从内蒙古延伸至新疆、甘肃、陕西、山西等能源运输区域，并开始测试没有驾驶",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "Show HN: Pacer – will your AI coding subscription last until the reset?",
-        "link": "https://github.com/dkremsa/claude-pacer",
-        "description": "[HN] +6 points · 2 comments · by dkremsa",
-        "detail": "[HN] +6 points · 2 comments · by dkremsa",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "hackernews"
       }
     ]
   },
