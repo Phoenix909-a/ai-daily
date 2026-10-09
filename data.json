@@ -1,5 +1,309 @@
 [
   {
+    "date": "2026-10-09",
+    "weekday": "星期五",
+    "summary": "今日共收录 33 条 AI 动态。 来源包括：InfoQ 中文, Simon Willison, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "ttok 1.0",
+        "link": "https://simonwillison.net/2026/Oct/9/ttok/",
+        "description": "\n    \n        Release: ttok 1.0\n        I released ttok 0.4, ran uv tool upgrade ttok, piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should ve",
+        "detail": "\n    \n        Release: ttok 1.0\n        I released ttok 0.4, ran uv tool upgrade ttok, piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should ve",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+        "link": "https://www.qbitai.com/2026/10/502330.html",
+        "description": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
+        "detail": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+        "link": "https://www.qbitai.com/2026/10/502125.html",
+        "description": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+        "detail": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+        "link": "https://www.qbitai.com/2026/10/502114.html",
+        "description": "江淮再度跌停",
+        "detail": "江淮再度跌停",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+        "link": "https://www.qbitai.com/2026/10/502106.html",
+        "description": "多Agent协同还能自我进化",
+        "detail": "多Agent协同还能自我进化",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+        "link": "https://www.qbitai.com/2026/10/502096.html",
+        "description": "让AI反复试错的“练兵场”来了",
+        "detail": "让AI反复试错的“练兵场”来了",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+        "link": "https://www.qbitai.com/2026/10/502089.html",
+        "description": "彻底撕破脸了",
+        "detail": "彻底撕破脸了",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+        "link": "https://www.qbitai.com/2026/10/502083.html",
+        "description": "新的“缝合怪”已经出现，怎么能够停滞不前",
+        "detail": "新的“缝合怪”已经出现，怎么能够停滞不前",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "Claude打通谷歌办公三件套！文档表格PPT直接改",
+        "link": "https://aiera.com.cn/2026/10/09/other/admin/117718/claude%e6%89%93%e9%80%9a%e8%b0%b7%e6%ad%8c%e5%8a%9e%e5%85%ac%e4%b8%89%e4%bb%b6%e5%a5%97%ef%bc%81%e6%96%87%e6%a1%a3%e8%a1%a8%e6%a0%bcppt%e7%9b%b4%e6%8e%a5%e6%94%b9/",
+        "description": "AI生成内容越来越快，你要收尾的活儿却越攒越多。 改个开头，换个思路，AI很快就能给你生成新方案。可每多一个版本，你都得重新复制、排版、核对。",
+        "detail": "AI生成内容越来越快，你要收尾的活儿却越攒越多。 改个开头，换个思路，AI很快就能给你生成新方案。可每多一个版本，你都得重新复制、排版、核对。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude Haiku 5.5发布！价格暴降90%",
+        "link": "https://aiera.com.cn/2026/10/09/other/admin/117703/%e5%88%9a%e5%88%9a%ef%bc%8cclaude-haiku-5-5%e5%8f%91%e5%b8%83%ef%bc%81%e4%bb%b7%e6%a0%bc%e6%9a%b4%e9%99%8d90/",
+        "description": "就在刚刚，Anthropic 发布了 Claude Haiku 5.5，单价只有上一代 Haiku 4.5 的 1/10、Sonnet 5.5 的 1/20，和 OpenAI …",
+        "detail": "就在刚刚，Anthropic 发布了 Claude Haiku 5.5，单价只有上一代 Haiku 4.5 的 1/10、Sonnet 5.5 的 1/20，和 OpenAI …",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "突发，GPT-6向全球12亿用户开放！全球软件公司被截杀",
+        "link": "https://aiera.com.cn/2026/10/09/other/admin/117683/%e7%aa%81%e5%8f%91%ef%bc%8cgpt-6%e5%90%91%e5%85%a8%e7%90%8312%e4%ba%bf%e7%94%a8%e6%88%b7%e5%bc%80%e6%94%be%ef%bc%81%e5%85%a8%e7%90%83%e8%bd%af%e4%bb%b6%e5%85%ac%e5%8f%b8%e8%a2%ab%e6%88%aa%e6%9d%80/",
+        "description": "就在刚刚，OpenAI官宣：GPT-6正式全量上线，向全球每周超 12 亿 ChatGPT 用户开放！",
+        "detail": "就在刚刚，OpenAI官宣：GPT-6正式全量上线，向全球每周超 12 亿 ChatGPT 用户开放！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6 Astra推翻59年核聚变猜想！",
+        "link": "https://aiera.com.cn/2026/10/09/other/admin/117656/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-astra%e6%8e%a8%e7%bf%bb59%e5%b9%b4%e6%a0%b8%e8%81%9a%e5%8f%98%e7%8c%9c%e6%83%b3%ef%bc%81/",
+        "description": "一道悬了59年的核聚变难题，GPT-6 Astra只想了20分34秒，就交出了答案。 提问的物理学家，只是在提示词末尾给它打了一句气：",
+        "detail": "一道悬了59年的核聚变难题，GPT-6 Astra只想了20分34秒，就交出了答案。 提问的物理学家，只是在提示词末尾给它打了一句气：",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌把AI搜索塞进手机！不到600MB，照片、视频、录音断网照样搜",
+        "link": "https://aiera.com.cn/2026/10/09/other/admin/117627/%e8%b0%b7%e6%ad%8c%e6%8a%8aai%e6%90%9c%e7%b4%a2%e5%a1%9e%e8%bf%9b%e6%89%8b%e6%9c%ba%ef%bc%81%e4%b8%8d%e5%88%b0600mb%ef%bc%8c%e7%85%a7%e7%89%87%e3%80%81%e8%a7%86%e9%a2%91%e3%80%81%e5%bd%95%e9%9f%b3/",
+        "description": "10月6日，谷歌开源EmbeddingGemma 2，把一个能搜图、看视频、听声音的搜索引擎，塞进了一个内存不到600MB的小模型！",
+        "detail": "10月6日，谷歌开源EmbeddingGemma 2，把一个能搜图、看视频、听声音的搜索引擎，塞进了一个内存不到600MB的小模型！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6凌晨上线智能界面！对话式Agent没戏了",
+        "link": "https://aiera.com.cn/2026/10/09/other/admin/117612/gpt-6%e5%87%8c%e6%99%a8%e4%b8%8a%e7%ba%bf%e6%99%ba%e8%83%bd%e7%95%8c%e9%9d%a2%ef%bc%81%e5%af%b9%e8%af%9d%e5%bc%8fagent%e6%b2%a1%e6%88%8f%e4%ba%86/",
+        "description": "就在刚刚，OpenAI 宣布向 ChatGPT 全体用户推送 GPT-6，同时上线 Intelligent UI（智能界面）。",
+        "detail": "就在刚刚，OpenAI 宣布向 ChatGPT 全体用户推送 GPT-6，同时上线 Intelligent UI（智能界面）。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "马斯克让Grok Bot接入Claude！谁好用，就用谁",
+        "link": "https://aiera.com.cn/2026/10/09/other/admin/117576/%e9%a9%ac%e6%96%af%e5%85%8b%e8%ae%a9grok-bot%e6%8e%a5%e5%85%a5claude%ef%bc%81%e8%b0%81%e5%a5%bd%e7%94%a8%ef%bc%8c%e5%b0%b1%e7%94%a8%e8%b0%81/",
+        "description": "马斯克的AI助手，也开始请Claude来干活了！ 10月7日，马斯克在X上宣布，Grok Bot将根据具体任务选用最合适的后端模型，并直接点名Claude Opus 5.5、M…",
+        "detail": "马斯克的AI助手，也开始请Claude来干活了！ 10月7日，马斯克在X上宣布，Grok Bot将根据具体任务选用最合适的后端模型，并直接点名Claude Opus 5.5、M…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "这台全球首款量产车亮相巴黎！从AI里「长」出来的车，先学会「看你一眼」",
+        "link": "https://aiera.com.cn/2026/10/09/other/admin/117562/%e8%bf%99%e5%8f%b0%e5%85%a8%e7%90%83%e9%a6%96%e6%ac%be%e9%87%8f%e4%ba%a7%e8%bd%a6%e4%ba%ae%e7%9b%b8%e5%b7%b4%e9%bb%8e%ef%bc%81%e4%bb%8eai%e9%87%8c%e3%80%8c%e9%95%bf%e3%80%8d%e5%87%ba%e6%9d%a5%e7%9a%84/",
+        "description": "2026年的巴黎，秋意微凉。 AIVA品牌首款量产车AIVA ME7，在巴黎时装周期间完成了它的全球首秀。",
+        "detail": "2026年的巴黎，秋意微凉。 AIVA品牌首款量产车AIVA ME7，在巴黎时装周期间完成了它的全球首秀。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界",
+        "link": "https://www.infoq.cn/article/ZxZMY50COGlUNHLSAEUo?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从 Demo 到生产：AI Agent 缺的到底是什么？",
+        "link": "https://www.infoq.cn/article/PLEWse6sEviMN99iLE93?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "全球扩散语言模型最大融资诞生：经纬、顺为、君联数亿元押注扩散智能DiffuSpace",
+        "link": "https://www.infoq.cn/article/kjPiCQV1cOO6AzaOjioR?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+        "link": "https://www.infoq.cn/article/832RV3o8ireEdJpO9H4v?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "全球最大独立 AI 原生影视公司，要打造「AI 版 Disney」",
+        "link": "https://www.ifanr.com/1683309?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "这家公司要把 AI 长片送进 2027 年暑期档院线#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "这家公司要把 AI 长片送进 2027 年暑期档院线#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+        "link": "https://sspai.com/post/115532",
+        "description": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型查看全文",
+        "detail": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型查看全文",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "少数派"
+      },
+      {
+        "title": "我使用国产「个人 AI 助手」的十天｜AI 上新",
+        "link": "http://www.geekpark.net/news/372163",
+        "description": "\n        过去一年，AI 产品越来越想变成一个「人」。\n一边是越来越自动化的 Agent，已经可以直接操作电脑，甚至和其他 AI 互相通信。\n而另一边，是近期大火的「个人助理」式 Personal AI，它不仅要完成眼前的任务，还想记住是谁在提需求：这个人关心什么，手上有哪些没做完的事。\n就在最近一个月里， Meta 推出了 Muse； Manus 推出个人 Agent 应用 Cue； O",
+        "detail": "\n        过去一年，AI 产品越来越想变成一个「人」。\n一边是越来越自动化的 Agent，已经可以直接操作电脑，甚至和其他 AI 互相通信。\n而另一边，是近期大火的「个人助理」式 Personal AI，它不仅要完成眼前的任务，还想记住是谁在提需求：这个人关心什么，手上有哪些没做完的事。\n就在最近一个月里， Meta 推出了 Muse； Manus 推出个人 Agent 应用 Cue； O",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」",
+        "link": "http://www.geekpark.net/news/372148",
+        "description": "\n        &nbsp;\n一家深圳公司，让实时「看清」人类大脑变成了可能。\n极客公园获悉，鲲为科技近期完成 4 亿元新一轮融资，新增股东包括 XVC、红杉中国，老股东夏尔巴、腾讯进一步加仓。\n在鲲为位于深圳的研发中心，创始人刘家家向我们展示了实测对比。\n一边是价值数百万的海外顶级旗舰彩超设备，一边是鲲为自主研发的机器。当探头同时置于受试者颅骨侧面，海外设备的声波在穿透至大脑中线后便衰减进一片",
+        "detail": "\n        &nbsp;\n一家深圳公司，让实时「看清」人类大脑变成了可能。\n极客公园获悉，鲲为科技近期完成 4 亿元新一轮融资，新增股东包括 XVC、红杉中国，老股东夏尔巴、腾讯进一步加仓。\n在鲲为位于深圳的研发中心，创始人刘家家向我们展示了实测对比。\n一边是价值数百万的海外顶级旗舰彩超设备，一边是鲲为自主研发的机器。当探头同时置于受试者颅骨侧面，海外设备的声波在穿透至大脑中线后便衰减进一片",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "极客公园"
+      },
+      {
+        "title": "谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车小程序",
+        "link": "http://www.geekpark.net/news/372143",
+        "description": "\n        \n谷歌云发布 Gemini Agent，支持多种 AI 模型\n10 月 8 日，谷歌云在 Gemini at Work 2026 发布会上宣布，面向企业客户推出 Gemini 智能体（Gemini Agent）。这款产品定位「通用工作智能体」，支持 Gemini Enterprise 、Workspace 以及第三方服务。\n谷歌表示，Gemini Agent 只需要用户给出目标就",
+        "detail": "\n        \n谷歌云发布 Gemini Agent，支持多种 AI 模型\n10 月 8 日，谷歌云在 Gemini at Work 2026 发布会上宣布，面向企业客户推出 Gemini 智能体（Gemini Agent）。这款产品定位「通用工作智能体」，支持 Gemini Enterprise 、Workspace 以及第三方服务。\n谷歌表示，Gemini Agent 只需要用户给出目标就",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
+        "title": "法典终局锁档层｜体系自洽与范式边界的闭环校验",
+        "link": "https://www.leiphone.com/category/industrynews/wA8jx0ARGdT19yrC.html",
+        "description": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第七篇，整套七层链路收束闭合，完成从现象、机理、权责、产业、监管、文明，最终回归体系本身的自审勘伪闭环。　　承接文明级迁移风控层长周期扰动研判，完成整套法典基线冻结、边界划定、证伪条款开放。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终",
+        "detail": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第七篇，整套七层链路收束闭合，完成从现象、机理、权责、产业、监管、文明，最终回归体系本身的自审勘伪闭环。　　承接文明级迁移风控层长周期扰动研判，完成整套法典基线冻结、边界划定、证伪条款开放。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "文明级迁移风控层｜长周期不可逆的文明扰动识别",
+        "link": "https://www.leiphone.com/category/industrynews/zWaIaM9e09Kmh5Rm.html",
+        "description": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第六篇，是整套理论从国家元监管升维至文明存续尺度，从短期事件风控延伸到跨代际长周期扰动研判的底层范式层。　　承接顶层监管层的制度框架，进入文明演化维度的风险审计。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终点。　　体系永久机制：全员勘",
+        "detail": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第六篇，是整套理论从国家元监管升维至文明存续尺度，从短期事件风控延伸到跨代际长周期扰动研判的底层范式层。　　承接顶层监管层的制度框架，进入文明演化维度的风险审计。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终点。　　体系永久机制：全员勘",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "跨域顶层监管层｜监管者自身的跨域审计规则",
+        "link": "https://www.leiphone.com/category/industrynews/aemAabCklwZCGjIm.html",
+        "description": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第五篇，是整套理论从企业合规升维到公共治理、从行业自律升维到国家制度、从被动治理升维到元监管的顶层范式层。　　解决全球AI治理终极制度盲区：监管不自审、规则不自勘。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终点。　　体系永久机制：全员",
+        "detail": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第五篇，是整套理论从企业合规升维到公共治理、从行业自律升维到国家制度、从被动治理升维到元监管的顶层范式层。　　解决全球AI治理终极制度盲区：监管不自审、规则不自勘。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终点。　　体系永久机制：全员",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "近万天猫品牌进入东南亚，Lazada把细分需求变成增长机会",
+        "link": "https://www.leiphone.com/category/industrynews/B15TR4XzQCYG9u7a.html",
+        "description": "中国品牌出海东南亚的命题正在发生变化。&nbsp;近日，在Lazada Brand Gala上，一批通过天猫“一键轻出海”项目进入东南亚市场的中国品牌集中亮相。刚刚过去的9.9大促中，泰国时尚、越南电竞等品类均呈现出明显增长，一批中国品牌也在这些垂直市场中跑出新的增长案例。&nbsp;天猫“一键轻出海”项目启动不到一年，截至2026年上半年末，已有近1万家天猫品牌商家加入，参与商家的成交额持续实现",
+        "detail": "中国品牌出海东南亚的命题正在发生变化。&nbsp;近日，在Lazada Brand Gala上，一批通过天猫“一键轻出海”项目进入东南亚市场的中国品牌集中亮相。刚刚过去的9.9大促中，泰国时尚、越南电竞等品类均呈现出明显增长，一批中国品牌也在这些垂直市场中跑出新的增长案例。&nbsp;天猫“一键轻出海”项目启动不到一年，截至2026年上半年末，已有近1万家天猫品牌商家加入，参与商家的成交额持续实现",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Wayfair与雨果跨境达成战略合作，助推供应商高质量出海",
+        "link": "https://www.leiphone.com/category/industrynews/O3pNuPCwkHAjAiUM.html",
+        "description": "近日，全球领先的家居电商平台Wayfair与雨果跨境正式宣布达成战略合作。双方将依托各自的资源与能力优势，围绕品牌招商峰会、产业带城市供应商开发、卖家孵化教育增长、内容合作等项目展开深度协作，助力各类优质卖家扬帆出海、布局全球市场。根据规划，双方的合作将沿着产业带开发、卖家增长、能力建设等多条主线展开，并通过线上线下多种形式落地。·在产业带开发方面，系列合作将通过产业带走访、集群对接与选品调研，把",
+        "detail": "近日，全球领先的家居电商平台Wayfair与雨果跨境正式宣布达成战略合作。双方将依托各自的资源与能力优势，围绕品牌招商峰会、产业带城市供应商开发、卖家孵化教育增长、内容合作等项目展开深度协作，助力各类优质卖家扬帆出海、布局全球市场。根据规划，双方的合作将沿着产业带开发、卖家增长、能力建设等多条主线展开，并通过线上线下多种形式落地。·在产业带开发方面，系列合作将通过产业带走访、集群对接与选品调研，把",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "TRAE全面升级：双端融合，打造全链路开发平台",
+        "link": "https://www.leiphone.com/category/industrynews/wmndjzo2jLJzOY0Z.html",
+        "description": "10 月 9 日，TRAE宣布全面升级：TraeWork与TraeCode双端融合，统一连接Agent与IDE两种模式，覆盖从任务推进到深度编码的开发流程。过去，TraeWork更偏向办公、任务和内容生成，TraeCode更专注专业开发者的编码需求。双端融合后，全新TRAE 用一个统一入口承接连续任务，支持Agent模式与IDE模式无缝切换，覆盖从任务推进到深度编码的不同开发场景。Agent模式适",
+        "detail": "10 月 9 日，TRAE宣布全面升级：TraeWork与TraeCode双端融合，统一连接Agent与IDE两种模式，覆盖从任务推进到深度编码的开发流程。过去，TraeWork更偏向办公、任务和内容生成，TraeCode更专注专业开发者的编码需求。双端融合后，全新TRAE 用一个统一入口承接连续任务，支持Agent模式与IDE模式无缝切换，覆盖从任务推进到深度编码的不同开发场景。Agent模式适",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "豆包工作新增画布功能，并接入豆包2.1 Lite模型",
+        "link": "https://www.leiphone.com/category/industrynews/J8Nj09CidhwiTl90.html",
+        "description": "近期，豆包工作持续更新，推出创作画布功能，并在模型上新增了轻量级的豆包2.1 Lite模型。据介绍，画布功能主要针对复杂创作任务，速度更快，交互体验更好。该功能将素材、设计方案与创作成果集中到同一页面，用户可在一张无限画布上快速实现各个步骤，随时查看、对比和整理。图片生成后，用户仍可继续修改文字、配色和布局，从整体风格到局部细节逐步调整。该功能同时接入全新图片模型Seedream 5.0 Flas",
+        "detail": "近期，豆包工作持续更新，推出创作画布功能，并在模型上新增了轻量级的豆包2.1 Lite模型。据介绍，画布功能主要针对复杂创作任务，速度更快，交互体验更好。该功能将素材、设计方案与创作成果集中到同一页面，用户可在一张无限画布上快速实现各个步骤，随时查看、对比和整理。图片生成后，用户仍可继续修改文字、配色和布局，从整体风格到局部细节逐步调整。该功能同时接入全新图片模型Seedream 5.0 Flas",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+        "link": "https://github.com/edrisranjbar/lifeos",
+        "description": "[HN] +34 points · 12 comments · by edris0077",
+        "detail": "[HN] +34 points · 12 comments · by edris0077",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-08",
     "weekday": "星期四",
     "summary": "今日共收录 59 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
