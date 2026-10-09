@@ -2,8 +2,44 @@
   {
     "date": "2026-10-09",
     "weekday": "星期五",
-    "summary": "今日共收录 33 条 AI 动态。 来源包括：InfoQ 中文, Simon Willison, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 51 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, Simon Willison, TLDR AI, The Decoder, The Verge AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
+        "link": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
+        "description": "\n        Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple ",
+        "detail": "\n        Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple ",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Decoder"
+      },
+      {
+        "title": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
+        "link": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/",
+        "description": "\n        OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Latin America and drew reactions f",
+        "detail": "\n        OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Latin America and drew reactions f",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+        "description": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine",
+        "detail": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "SpaceX mobile 🛰️, Touchscreen MacBook 💻, Claude Code mods 👨‍💻",
+        "link": "https://tldr.tech/tech/2026-10-09",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "TLDR AI"
+      },
       {
         "title": "ttok 1.0",
         "link": "https://simonwillison.net/2026/Oct/9/ttok/",
@@ -12,6 +48,87 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "Simon Willison"
+      },
+      {
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "link": "https://openai.com/index/sophos",
+        "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+        "detail": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "OpenAI News"
+      },
+      {
+        "title": "Gemini Agent for Google Cloud",
+        "link": "https://www.producthunt.com/products/google",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentSDR",
+        "link": "https://www.producthunt.com/products/agentsdr",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentGuard",
+        "link": "https://www.producthunt.com/products/agentguard-5",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "TRAE终于把Code和Work合并了",
+        "link": "https://www.qbitai.com/2026/10/502426.html",
+        "description": "大写的方便",
+        "detail": "大写的方便",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+        "link": "https://www.qbitai.com/2026/10/502422.html",
+        "description": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+        "detail": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+        "link": "https://www.qbitai.com/2026/10/502411.html",
+        "description": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+        "detail": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "字节找到了DeepSeek时强时弱的原因",
+        "link": "https://www.qbitai.com/2026/10/502364.html",
+        "description": "答不答得对，得看Token站位",
+        "detail": "答不答得对，得看Token站位",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+        "link": "https://www.qbitai.com/2026/10/502359.html",
+        "description": "Google 研究成果首次登上《柳叶刀》主刊",
+        "detail": "Google 研究成果首次登上《柳叶刀》主刊",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
       },
       {
         "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
@@ -56,24 +173,6 @@
         "detail": "让AI反复试错的“练兵场”来了",
         "tag": "Agent 进展",
         "sort_score": 88,
-        "source": "量子位"
-      },
-      {
-        "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
-        "link": "https://www.qbitai.com/2026/10/502089.html",
-        "description": "彻底撕破脸了",
-        "detail": "彻底撕破脸了",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "量子位"
-      },
-      {
-        "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-        "link": "https://www.qbitai.com/2026/10/502083.html",
-        "description": "新的“缝合怪”已经出现，怎么能够停滞不前",
-        "detail": "新的“缝合怪”已经出现，怎么能够停滞不前",
-        "tag": "模型发布",
-        "sort_score": 90,
         "source": "量子位"
       },
       {
@@ -149,6 +248,42 @@
         "source": "新智元"
       },
       {
+        "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+        "link": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+        "link": "https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent，还能调用 Claude",
+        "link": "https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启",
+        "link": "https://www.infoq.cn/article/RicHewwNF5jacSMQNy6O?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界",
         "link": "https://www.infoq.cn/article/ZxZMY50COGlUNHLSAEUo?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -183,123 +318,6 @@
         "tag": "模型发布",
         "sort_score": 90,
         "source": "InfoQ 中文"
-      },
-      {
-        "title": "全球最大独立 AI 原生影视公司，要打造「AI 版 Disney」",
-        "link": "https://www.ifanr.com/1683309?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "这家公司要把 AI 长片送进 2027 年暑期档院线#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "detail": "这家公司要把 AI 长片送进 2027 年暑期档院线#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "爱范儿"
-      },
-      {
-        "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
-        "link": "https://sspai.com/post/115532",
-        "description": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型查看全文",
-        "detail": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型查看全文",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "少数派"
-      },
-      {
-        "title": "我使用国产「个人 AI 助手」的十天｜AI 上新",
-        "link": "http://www.geekpark.net/news/372163",
-        "description": "\n        过去一年，AI 产品越来越想变成一个「人」。\n一边是越来越自动化的 Agent，已经可以直接操作电脑，甚至和其他 AI 互相通信。\n而另一边，是近期大火的「个人助理」式 Personal AI，它不仅要完成眼前的任务，还想记住是谁在提需求：这个人关心什么，手上有哪些没做完的事。\n就在最近一个月里， Meta 推出了 Muse； Manus 推出个人 Agent 应用 Cue； O",
-        "detail": "\n        过去一年，AI 产品越来越想变成一个「人」。\n一边是越来越自动化的 Agent，已经可以直接操作电脑，甚至和其他 AI 互相通信。\n而另一边，是近期大火的「个人助理」式 Personal AI，它不仅要完成眼前的任务，还想记住是谁在提需求：这个人关心什么，手上有哪些没做完的事。\n就在最近一个月里， Meta 推出了 Muse； Manus 推出个人 Agent 应用 Cue； O",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "极客公园"
-      },
-      {
-        "title": "攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」",
-        "link": "http://www.geekpark.net/news/372148",
-        "description": "\n        &nbsp;\n一家深圳公司，让实时「看清」人类大脑变成了可能。\n极客公园获悉，鲲为科技近期完成 4 亿元新一轮融资，新增股东包括 XVC、红杉中国，老股东夏尔巴、腾讯进一步加仓。\n在鲲为位于深圳的研发中心，创始人刘家家向我们展示了实测对比。\n一边是价值数百万的海外顶级旗舰彩超设备，一边是鲲为自主研发的机器。当探头同时置于受试者颅骨侧面，海外设备的声波在穿透至大脑中线后便衰减进一片",
-        "detail": "\n        &nbsp;\n一家深圳公司，让实时「看清」人类大脑变成了可能。\n极客公园获悉，鲲为科技近期完成 4 亿元新一轮融资，新增股东包括 XVC、红杉中国，老股东夏尔巴、腾讯进一步加仓。\n在鲲为位于深圳的研发中心，创始人刘家家向我们展示了实测对比。\n一边是价值数百万的海外顶级旗舰彩超设备，一边是鲲为自主研发的机器。当探头同时置于受试者颅骨侧面，海外设备的声波在穿透至大脑中线后便衰减进一片",
-        "tag": "公司动态",
-        "sort_score": 68,
-        "source": "极客公园"
-      },
-      {
-        "title": "谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车小程序",
-        "link": "http://www.geekpark.net/news/372143",
-        "description": "\n        \n谷歌云发布 Gemini Agent，支持多种 AI 模型\n10 月 8 日，谷歌云在 Gemini at Work 2026 发布会上宣布，面向企业客户推出 Gemini 智能体（Gemini Agent）。这款产品定位「通用工作智能体」，支持 Gemini Enterprise 、Workspace 以及第三方服务。\n谷歌表示，Gemini Agent 只需要用户给出目标就",
-        "detail": "\n        \n谷歌云发布 Gemini Agent，支持多种 AI 模型\n10 月 8 日，谷歌云在 Gemini at Work 2026 发布会上宣布，面向企业客户推出 Gemini 智能体（Gemini Agent）。这款产品定位「通用工作智能体」，支持 Gemini Enterprise 、Workspace 以及第三方服务。\n谷歌表示，Gemini Agent 只需要用户给出目标就",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "极客公园"
-      },
-      {
-        "title": "法典终局锁档层｜体系自洽与范式边界的闭环校验",
-        "link": "https://www.leiphone.com/category/industrynews/wA8jx0ARGdT19yrC.html",
-        "description": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第七篇，整套七层链路收束闭合，完成从现象、机理、权责、产业、监管、文明，最终回归体系本身的自审勘伪闭环。　　承接文明级迁移风控层长周期扰动研判，完成整套法典基线冻结、边界划定、证伪条款开放。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终",
-        "detail": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第七篇，整套七层链路收束闭合，完成从现象、机理、权责、产业、监管、文明，最终回归体系本身的自审勘伪闭环。　　承接文明级迁移风控层长周期扰动研判，完成整套法典基线冻结、边界划定、证伪条款开放。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "文明级迁移风控层｜长周期不可逆的文明扰动识别",
-        "link": "https://www.leiphone.com/category/industrynews/zWaIaM9e09Kmh5Rm.html",
-        "description": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第六篇，是整套理论从国家元监管升维至文明存续尺度，从短期事件风控延伸到跨代际长周期扰动研判的底层范式层。　　承接顶层监管层的制度框架，进入文明演化维度的风险审计。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终点。　　体系永久机制：全员勘",
-        "detail": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第六篇，是整套理论从国家元监管升维至文明存续尺度，从短期事件风控延伸到跨代际长周期扰动研判的底层范式层。　　承接顶层监管层的制度框架，进入文明演化维度的风险审计。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终点。　　体系永久机制：全员勘",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "跨域顶层监管层｜监管者自身的跨域审计规则",
-        "link": "https://www.leiphone.com/category/industrynews/aemAabCklwZCGjIm.html",
-        "description": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第五篇，是整套理论从企业合规升维到公共治理、从行业自律升维到国家制度、从被动治理升维到元监管的顶层范式层。　　解决全球AI治理终极制度盲区：监管不自审、规则不自勘。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终点。　　体系永久机制：全员",
-        "detail": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第五篇，是整套理论从企业合规升维到公共治理、从行业自律升维到国家制度、从被动治理升维到元监管的顶层范式层。　　解决全球AI治理终极制度盲区：监管不自审、规则不自勘。　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总纲、七层全域目录谱系。　　体系永恒三原则：创立者零特权、结论零固化、迭代零终点。　　体系永久机制：全员",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "近万天猫品牌进入东南亚，Lazada把细分需求变成增长机会",
-        "link": "https://www.leiphone.com/category/industrynews/B15TR4XzQCYG9u7a.html",
-        "description": "中国品牌出海东南亚的命题正在发生变化。&nbsp;近日，在Lazada Brand Gala上，一批通过天猫“一键轻出海”项目进入东南亚市场的中国品牌集中亮相。刚刚过去的9.9大促中，泰国时尚、越南电竞等品类均呈现出明显增长，一批中国品牌也在这些垂直市场中跑出新的增长案例。&nbsp;天猫“一键轻出海”项目启动不到一年，截至2026年上半年末，已有近1万家天猫品牌商家加入，参与商家的成交额持续实现",
-        "detail": "中国品牌出海东南亚的命题正在发生变化。&nbsp;近日，在Lazada Brand Gala上，一批通过天猫“一键轻出海”项目进入东南亚市场的中国品牌集中亮相。刚刚过去的9.9大促中，泰国时尚、越南电竞等品类均呈现出明显增长，一批中国品牌也在这些垂直市场中跑出新的增长案例。&nbsp;天猫“一键轻出海”项目启动不到一年，截至2026年上半年末，已有近1万家天猫品牌商家加入，参与商家的成交额持续实现",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "Wayfair与雨果跨境达成战略合作，助推供应商高质量出海",
-        "link": "https://www.leiphone.com/category/industrynews/O3pNuPCwkHAjAiUM.html",
-        "description": "近日，全球领先的家居电商平台Wayfair与雨果跨境正式宣布达成战略合作。双方将依托各自的资源与能力优势，围绕品牌招商峰会、产业带城市供应商开发、卖家孵化教育增长、内容合作等项目展开深度协作，助力各类优质卖家扬帆出海、布局全球市场。根据规划，双方的合作将沿着产业带开发、卖家增长、能力建设等多条主线展开，并通过线上线下多种形式落地。·在产业带开发方面，系列合作将通过产业带走访、集群对接与选品调研，把",
-        "detail": "近日，全球领先的家居电商平台Wayfair与雨果跨境正式宣布达成战略合作。双方将依托各自的资源与能力优势，围绕品牌招商峰会、产业带城市供应商开发、卖家孵化教育增长、内容合作等项目展开深度协作，助力各类优质卖家扬帆出海、布局全球市场。根据规划，双方的合作将沿着产业带开发、卖家增长、能力建设等多条主线展开，并通过线上线下多种形式落地。·在产业带开发方面，系列合作将通过产业带走访、集群对接与选品调研，把",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "TRAE全面升级：双端融合，打造全链路开发平台",
-        "link": "https://www.leiphone.com/category/industrynews/wmndjzo2jLJzOY0Z.html",
-        "description": "10 月 9 日，TRAE宣布全面升级：TraeWork与TraeCode双端融合，统一连接Agent与IDE两种模式，覆盖从任务推进到深度编码的开发流程。过去，TraeWork更偏向办公、任务和内容生成，TraeCode更专注专业开发者的编码需求。双端融合后，全新TRAE 用一个统一入口承接连续任务，支持Agent模式与IDE模式无缝切换，覆盖从任务推进到深度编码的不同开发场景。Agent模式适",
-        "detail": "10 月 9 日，TRAE宣布全面升级：TraeWork与TraeCode双端融合，统一连接Agent与IDE两种模式，覆盖从任务推进到深度编码的开发流程。过去，TraeWork更偏向办公、任务和内容生成，TraeCode更专注专业开发者的编码需求。双端融合后，全新TRAE 用一个统一入口承接连续任务，支持Agent模式与IDE模式无缝切换，覆盖从任务推进到深度编码的不同开发场景。Agent模式适",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "豆包工作新增画布功能，并接入豆包2.1 Lite模型",
-        "link": "https://www.leiphone.com/category/industrynews/J8Nj09CidhwiTl90.html",
-        "description": "近期，豆包工作持续更新，推出创作画布功能，并在模型上新增了轻量级的豆包2.1 Lite模型。据介绍，画布功能主要针对复杂创作任务，速度更快，交互体验更好。该功能将素材、设计方案与创作成果集中到同一页面，用户可在一张无限画布上快速实现各个步骤，随时查看、对比和整理。图片生成后，用户仍可继续修改文字、配色和布局，从整体风格到局部细节逐步调整。该功能同时接入全新图片模型Seedream 5.0 Flas",
-        "detail": "近期，豆包工作持续更新，推出创作画布功能，并在模型上新增了轻量级的豆包2.1 Lite模型。据介绍，画布功能主要针对复杂创作任务，速度更快，交互体验更好。该功能将素材、设计方案与创作成果集中到同一页面，用户可在一张无限画布上快速实现各个步骤，随时查看、对比和整理。图片生成后，用户仍可继续修改文字、配色和布局，从整体风格到局部细节逐步调整。该功能同时接入全新图片模型Seedream 5.0 Flas",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-        "link": "https://github.com/edrisranjbar/lifeos",
-        "description": "[HN] +34 points · 12 comments · by edris0077",
-        "detail": "[HN] +34 points · 12 comments · by edris0077",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "hackernews"
       }
     ]
   },
