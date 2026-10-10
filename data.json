@@ -2,8 +2,26 @@
   {
     "date": "2026-10-10",
     "weekday": "星期六",
-    "summary": "今日共收录 29 条 AI 动态。 来源包括：InfoQ 中文, Simon Willison, TechCrunch AI, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 53 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, Simon Willison, TechCrunch AI, The Decoder, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+        "link": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
+        "description": "\n        Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has s",
+        "detail": "\n        Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has s",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+        "link": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/",
+        "description": "\n        Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared C",
+        "detail": "\n        Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared C",
+        "tag": "模型发布",
+        "sort_score": 35,
+        "source": "The Decoder"
+      },
       {
         "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
         "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -21,6 +39,60 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "Simon Willison"
+      },
+      {
+        "title": "ReSO AI",
+        "link": "https://www.producthunt.com/products/reso",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentDock",
+        "link": "https://www.producthunt.com/products/agentdock",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Claude Dashboards & Motion",
+        "link": "https://www.producthunt.com/products/claude-dashboards-motion",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentSDR",
+        "link": "https://www.producthunt.com/products/agentsdr",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "特斯拉FSD，在欧洲被打回原形",
+        "link": "https://www.qbitai.com/2026/10/502467.html",
+        "description": "马斯克反而发文道谢？",
+        "detail": "马斯克反而发文道谢？",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "七天时间，从零开始到把软件卖了三十万，我可能把 Apple Watch 变成了最好的 AI 录音硬件",
+        "link": "https://aiera.com.cn/2026/10/10/other/admin/117904/01-%e5%86%99%e5%9c%a8%e5%89%8d%e9%9d%a2/",
+        "description": "○ 为什么最后选了 Apple Watch ○ Auday 的功能，以及我为什么这样做 ○ 从零出发的超级个体依旧可行",
+        "detail": "○ 为什么最后选了 Apple Watch ○ Auday 的功能，以及我为什么这样做 ○ 从零出发的超级个体依旧可行",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
       },
       {
         "title": "马斯克放大招：Grok Bot免费用Opus 5.5和X全部功能！",
@@ -104,6 +176,69 @@
         "source": "新智元"
       },
       {
+        "title": "模型开放之后，AI能力为什么仍难以复用？",
+        "link": "https://www.infoq.cn/article/rKRPT18fGxtjipPAeaLa?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "GKE Pod 快照可缩短模型加载时间",
+        "link": "https://www.infoq.cn/article/IAvNgDyPz2NpvfZLoDo0?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用",
+        "link": "https://www.infoq.cn/article/MAo3KoDWm9FGIcKau9AK?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "OpenAI 只用 15 天，就杀死了估值 100 亿美元的 Jev？",
+        "link": "https://www.infoq.cn/article/qmoRIQ1TceKfKwGlXN0S?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行",
+        "link": "https://www.infoq.cn/article/SuqGY4FQ95AVzs1S0KSV?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "10 秒视频很惊艳，为什么 AI 做一部短剧还是这么难？",
+        "link": "https://www.infoq.cn/article/8g9tlaqJFUPrb4oGO00A?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Pallas 内核怎么调优？Google 给出的答案是“少信模型，多看寄存器”",
+        "link": "https://www.infoq.cn/article/kVJUKEcbqhpL2qwpp2Eq?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "从 Coding 到 Running：AI Native SRE Agent 的工程实践",
         "link": "https://www.infoq.cn/article/o9XwsHUvCjL3eHKT7YPU?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -131,6 +266,24 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
+        "link": "https://www.ifanr.com/1683674?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "LLM 给人用，这个决策模型给代码用#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "LLM 给人用，这个决策模型给代码用#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "爱范儿"
+      },
+      {
+        "title": "这届 AI PC，太烧心了",
+        "link": "https://www.ifanr.com/1683688?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "AI PC 还没火，先被 AI 背刺了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "AI PC 还没火，先被 AI 背刺了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
         "title": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
         "link": "https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=",
         "description": "· 豆包据称在建设水电燃气缴费等生活服务能力\n· IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现\n· 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -142,8 +295,8 @@
       {
         "title": "好产品就是与时代和生活共振｜2026 年度极客最爱好物启动",
         "link": "http://www.geekpark.net/news/372196",
-        "description": "\n        出门时顺手带上，遇到事情时首先打开，或者因为有了它，愿意尝试一件过去觉得麻烦的事。这样的产品，值得被分享给更多人。\n2026 年，我们把寻找好产品的目光，投向更丰富的形态。能协助完成任务的 AI 应用、戴在身上的智能设备，以及尝试在真实环境中干活的机器人，都进入了今年的选品视野。技术提供了新的可能，具体的产品体验，决定了人们愿不愿意把它们带进生活。\n我们关注产品解决了什么问题，也",
-        "detail": "\n        出门时顺手带上，遇到事情时首先打开，或者因为有了它，愿意尝试一件过去觉得麻烦的事。这样的产品，值得被分享给更多人。\n2026 年，我们把寻找好产品的目光，投向更丰富的形态。能协助完成任务的 AI 应用、戴在身上的智能设备，以及尝试在真实环境中干活的机器人，都进入了今年的选品视野。技术提供了新的可能，具体的产品体验，决定了人们愿不愿意把它们带进生活。\n我们关注产品解决了什么问题，也",
+        "description": "\n        \n一件好产品，往往是在用过一段时间之后，才让人意识到它的好。出门时顺手带上，遇到事情时首先打开，或者因为有了它，愿意尝试一件过去觉得麻烦的事。这样的产品，值得被分享给更多人。\n2026 年，我们把寻找好产品的目光，投向更丰富的形态。能协助完成任务的 AI 应用、戴在身上的智能设备，以及尝试在真实环境中干活的机器人，都进入了今年的选品视野。技术提供了新的可能，具体的产品体验，决定了",
+        "detail": "\n        \n一件好产品，往往是在用过一段时间之后，才让人意识到它的好。出门时顺手带上，遇到事情时首先打开，或者因为有了它，愿意尝试一件过去觉得麻烦的事。这样的产品，值得被分享给更多人。\n2026 年，我们把寻找好产品的目光，投向更丰富的形态。能协助完成任务的 AI 应用、戴在身上的智能设备，以及尝试在真实环境中干活的机器人，都进入了今年的选品视野。技术提供了新的可能，具体的产品体验，决定了",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "极客公园"
@@ -151,8 +304,8 @@
       {
         "title": "记录生生不息的创新力量｜2026 年度「InnoForce 50」启动",
         "link": "http://www.geekpark.net/news/372195",
-        "description": "\n        到了 2026 年，AI 已经不只是技术变量，而成为影响产品形态和组织方式的关键变量。它开始进入办公室、工厂、汽车、机器人、医院等场景，也进入了许多过去并不处在科技叙事中心的行业。它改变软件，也反过来改变硬件；改变一个人的工作方式，也改变一家公司的组织方式。\n但 AI 不是全部。真正值得被记录的，是当 AI 成为新变量之后，整个创新世界被重新点燃了。\n有人从 AI 出发，做出了过",
-        "detail": "\n        到了 2026 年，AI 已经不只是技术变量，而成为影响产品形态和组织方式的关键变量。它开始进入办公室、工厂、汽车、机器人、医院等场景，也进入了许多过去并不处在科技叙事中心的行业。它改变软件，也反过来改变硬件；改变一个人的工作方式，也改变一家公司的组织方式。\n但 AI 不是全部。真正值得被记录的，是当 AI 成为新变量之后，整个创新世界被重新点燃了。\n有人从 AI 出发，做出了过",
+        "description": "\n        \n过去几年，科技行业最重要的变化之一，是创新的底层逻辑正在被重新改写。\n到了 2026 年，AI 已经不只是技术变量，而成为影响产品形态和组织方式的关键变量。它开始进入办公室、工厂、汽车、机器人、医院等场景，也进入了许多过去并不处在科技叙事中心的行业。它改变软件，也反过来改变硬件；改变一个人的工作方式，也改变一家公司的组织方式。\n但 AI 不是全部。真正值得被记录的，是当 AI ",
+        "detail": "\n        \n过去几年，科技行业最重要的变化之一，是创新的底层逻辑正在被重新改写。\n到了 2026 年，AI 已经不只是技术变量，而成为影响产品形态和组织方式的关键变量。它开始进入办公室、工厂、汽车、机器人、医院等场景，也进入了许多过去并不处在科技叙事中心的行业。它改变软件，也反过来改变硬件；改变一个人的工作方式，也改变一家公司的组织方式。\n但 AI 不是全部。真正值得被记录的，是当 AI ",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "极客公园"
@@ -165,105 +318,6 @@
         "tag": "公司动态",
         "sort_score": 68,
         "source": "极客公园"
-      },
-      {
-        "title": "里程碑时刻！比亚迪第15万台新能源商用车下线",
-        "link": "https://www.leiphone.com/category/industrynews/9nmGLAnpJOtHxXbm.html",
-        "description": "2026年10月9日，比亚迪第15万台新能源商用车——Q3纯电动牵引车，在淮安比亚迪卡车智慧工厂正式下线。从1到15万台，十八年深耕见证了商用车业务从技术探索到多元场景规模化应用的跨越。此次里程碑落在Q3上，不仅凝结了长期技术积累与产业协同的成果，更释放出增长重心向卡车业务倾斜、发力干线重卡市场的战略信号。从质疑中起步，以持续突破引领绿色交通转型新能源商用车发展初期，续航、成本和可靠性曾引发行业质",
-        "detail": "2026年10月9日，比亚迪第15万台新能源商用车——Q3纯电动牵引车，在淮安比亚迪卡车智慧工厂正式下线。从1到15万台，十八年深耕见证了商用车业务从技术探索到多元场景规模化应用的跨越。此次里程碑落在Q3上，不仅凝结了长期技术积累与产业协同的成果，更释放出增长重心向卡车业务倾斜、发力干线重卡市场的战略信号。从质疑中起步，以持续突破引领绿色交通转型新能源商用车发展初期，续航、成本和可靠性曾引发行业质",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "人人皆可为师：全球首个物理AI数据众包服务平台“觅蜂派”正式发布",
-        "link": "https://www.leiphone.com/category/robot/2uBaE3bBBq55g8mM.html",
-        "description": "9 月 23 日，以“DATA FOR AI，人人皆可为师”为主题的觅蜂派全球发布会在上海举行。会上，觅蜂科技正式发布全球首个全品类高质量物理 AI 数据众包服务平台 “觅蜂派”，并同步推出机器人训练师职业计划与亿元补贴计划，启动《具身智能众包数据发展报告》编制和场景数据联盟，为具身智能产业补齐真实数据短板提供规模化路径。觅蜂科技董事长兼 CEO 姚卯青表示，机器人真正走进工厂、商店和千家万户，缺",
-        "detail": "9 月 23 日，以“DATA FOR AI，人人皆可为师”为主题的觅蜂派全球发布会在上海举行。会上，觅蜂科技正式发布全球首个全品类高质量物理 AI 数据众包服务平台 “觅蜂派”，并同步推出机器人训练师职业计划与亿元补贴计划，启动《具身智能众包数据发展报告》编制和场景数据联盟，为具身智能产业补齐真实数据短板提供规模化路径。觅蜂科技董事长兼 CEO 姚卯青表示，机器人真正走进工厂、商店和千家万户，缺",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "这届 IROS 2026 上，具身学术与产业边界正在消融",
-        "link": "https://www.leiphone.com/category/ai/4I8YKksz9V10Ih1R.html",
-        "description": "模型、数据、灵巧操作都在工程化，顶会上具身传递出的信号变了&nbsp;&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
-        "detail": "模型、数据、灵巧操作都在工程化，顶会上具身传递出的信号变了&nbsp;&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "阶跃 Step 5 Preview 登上 OpenRouter 全球第一，10月15日开源！",
-        "link": "https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html",
-        "description": "10 月 10 日消息，阶跃星辰最新旗舰基座模型 Step 5 Preview 登顶 OpenRouter Trending 榜，并位列日榜全球第二，成为近期全球开发者社区最受关注的旗舰模型之一。据官方消息，这款模型即将于 10 月 15 日正式开源。（OpenRouter LLM 排行榜 Trending 榜单最新结果）（OpenRouter LLM 排行榜日榜最新结果）&nbsp;作为面向全球",
-        "detail": "10 月 10 日消息，阶跃星辰最新旗舰基座模型 Step 5 Preview 登顶 OpenRouter Trending 榜，并位列日榜全球第二，成为近期全球开发者社区最受关注的旗舰模型之一。据官方消息，这款模型即将于 10 月 15 日正式开源。（OpenRouter LLM 排行榜 Trending 榜单最新结果）（OpenRouter LLM 排行榜日榜最新结果）&nbsp;作为面向全球",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "数据越多≠决策越好：从无人机滑翔到多机器人通信，重新审视数据与信息的关系 | IROS 2026",
-        "link": "https://www.leiphone.com/category/private/1evshSdPUrUacuRC.html",
-        "description": "决定智能上限的从来不是数据的绝对规模，而是数据的质量与信息密度。&nbsp; &nbsp; 作者丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
-        "detail": "决定智能上限的从来不是数据的绝对规模，而是数据的质量与信息密度。&nbsp; &nbsp; 作者丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026",
-        "link": "https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html",
-        "description": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。&nbsp; &nbsp; 作者丨向欣&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
-        "detail": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。&nbsp; &nbsp; 作者丨向欣&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "2026中国国际社会公共安全产品博览会暨第三届智能与安全产业发展大会将于11月3日在北京开幕",
-        "link": "https://www.leiphone.com/category/industrynews/aRKXkAwc34s4SwGT.html",
-        "description": "中国国际社会公共安全产品博览会（以下简称“安博会”）是经中华人民共和国商务部批准，由中国安全防范产品行业协会主办的专业性展会。1994 年创办至今，依托行业主管部门、各地相关单位、行业协会、技术服务机构及国内外安防企业的大力支持，安博会历经 32 年发展，已成功举办十七届。立足新时代使命定位，安博会业已成为贯彻总体国家安全观，强化科技赋能，提升公共安全治理水平，完善社会治理体系，助力推进国家安全体",
-        "detail": "中国国际社会公共安全产品博览会（以下简称“安博会”）是经中华人民共和国商务部批准，由中国安全防范产品行业协会主办的专业性展会。1994 年创办至今，依托行业主管部门、各地相关单位、行业协会、技术服务机构及国内外安防企业的大力支持，安博会历经 32 年发展，已成功举办十七届。立足新时代使命定位，安博会业已成为贯彻总体国家安全观，强化科技赋能，提升公共安全治理水平，完善社会治理体系，助力推进国家安全体",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "赛力斯9月产销快报 全新一代问界M9系列16周累计交付破4万",
-        "link": "https://www.leiphone.com/category/industrynews/flB9MNXXd1jcRTtZ.html",
-        "description": "10月8日，赛力斯发布9月产销快报。数据显示，9月新能源汽车销量29,271辆，环比增长20.7%。问界高端产品交付放量，伴随问界M9 Ultimate领世加长版开启交付，全新一代问界M9 系列16周累计交付突破40000辆，持续斩获50万以上车型销量第一。旗舰领跑新品蓄势 高端产品交付持续突破三季度以来，问界高端产品矩阵持续焕新。问界M9 Ultimate领世加长版首批交付已于9月12日开启，以",
-        "detail": "10月8日，赛力斯发布9月产销快报。数据显示，9月新能源汽车销量29,271辆，环比增长20.7%。问界高端产品交付放量，伴随问界M9 Ultimate领世加长版开启交付，全新一代问界M9 系列16周累计交付突破40000辆，持续斩获50万以上车型销量第一。旗舰领跑新品蓄势 高端产品交付持续突破三季度以来，问界高端产品矩阵持续焕新。问界M9 Ultimate领世加长版首批交付已于9月12日开启，以",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "GMIF 2026：日均140万亿Token调用，正在改变SSD的能力与分工",
-        "link": "https://www.leiphone.com/category/chips/OteTEIc4In9VoZg4.html",
-        "description": "作者 | 陈悦琳编辑 | 包永刚&nbsp;HBM热潮之外，其他存储形式也站在风口。&nbsp;这是今年第五届GMIF2026全球存储器行业创新峰会释放的第一个明显信号。以全球云数据中心资本支出为例，摩根士丹利执行董事、大中华区半导体分析师颜志天指出，在未计入HBM的情况下，2026年存储占比接近五成，2027年预计进一步升至53%。&nbsp;热钱涌向存储，背后是前所未有的推理需求增加。截至今年",
-        "detail": "作者 | 陈悦琳编辑 | 包永刚&nbsp;HBM热潮之外，其他存储形式也站在风口。&nbsp;这是今年第五届GMIF2026全球存储器行业创新峰会释放的第一个明显信号。以全球云数据中心资本支出为例，摩根士丹利执行董事、大中华区半导体分析师颜志天指出，在未计入HBM的情况下，2026年存储占比接近五成，2027年预计进一步升至53%。&nbsp;热钱涌向存储，背后是前所未有的推理需求增加。截至今年",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-        "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-        "description": "[HN] +18 points · 7 comments · by reaperducer",
-        "detail": "[HN] +18 points · 7 comments · by reaperducer",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
-      },
-      {
-        "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
-        "link": "https://ilia.page/writing/introducing-nagare",
-        "description": "[HN] +4 points · 1 comments · by shmilia",
-        "detail": "[HN] +4 points · 1 comments · by shmilia",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "hackernews"
       }
     ]
   },
