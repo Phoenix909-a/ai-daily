@@ -1,5 +1,273 @@
 [
   {
+    "date": "2026-10-10",
+    "weekday": "星期六",
+    "summary": "今日共收录 29 条 AI 动态。 来源包括：InfoQ 中文, Simon Willison, TechCrunch AI, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. ",
+        "detail": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Quoting The New York Times",
+        "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+        "description": "\n    Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had",
+        "detail": "\n    Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "马斯克放大招：Grok Bot免费用Opus 5.5和X全部功能！",
+        "link": "https://aiera.com.cn/2026/10/10/other/admin/117889/%e9%a9%ac%e6%96%af%e5%85%8b%e6%94%be%e5%a4%a7%e6%8b%9b%ef%bc%9agrok-bot%e5%85%8d%e8%b4%b9%e7%94%a8opus-5-5%e5%92%8cx%e5%85%a8%e9%83%a8%e5%8a%9f%e8%83%bd%ef%bc%81/",
+        "description": "谁也没想到，就在昨天，马斯克悄悄干了一件大事。 现在，Opus 5.5 居然可以直连使用了！",
+        "detail": "谁也没想到，就在昨天，马斯克悄悄干了一件大事。 现在，Opus 5.5 居然可以直连使用了！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "AI写代码省的时间，全赔在调试上？Claude官方：让AI自己测、自己改",
+        "link": "https://aiera.com.cn/2026/10/10/other/admin/117870/ai%e5%86%99%e4%bb%a3%e7%a0%81%e7%9c%81%e7%9a%84%e6%97%b6%e9%97%b4%ef%bc%8c%e5%85%a8%e8%b5%94%e5%9c%a8%e8%b0%83%e8%af%95%e4%b8%8a%ef%bc%9fclaude%e5%ae%98%e6%96%b9%ef%bc%9a%e8%ae%a9ai%e8%87%aa%e5%b7%b1/",
+        "description": "你用Claude Code手搓了一个小应用，顺便给它接了个AI客服。 本想让它自动解答用户「怎么登录」「会员服务有啥内容」之类的基础问题，好让自己当个甩手掌柜。",
+        "detail": "你用Claude Code手搓了一个小应用，顺便给它接了个AI客服。 本想让它自动解答用户「怎么登录」「会员服务有啥内容」之类的基础问题，好让自己当个甩手掌柜。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "突发！Anthropic重磅新规：辱骂Claude直接封号",
+        "link": "https://aiera.com.cn/2026/10/10/other/admin/117858/%e7%aa%81%e5%8f%91%ef%bc%81anthropic%e9%87%8d%e7%a3%85%e6%96%b0%e8%a7%84%ef%bc%9a%e8%be%b1%e9%aa%82claude%e7%9b%b4%e6%8e%a5%e5%b0%81%e5%8f%b7/",
+        "description": "「不准虐待Claude，否则取消你的使用资格」！ 就在刚刚，硅谷AI顶流Anthropic扔出了一项重磅新规——",
+        "detail": "「不准虐待Claude，否则取消你的使用资格」！ 就在刚刚，硅谷AI顶流Anthropic扔出了一项重磅新规——",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6.1 Sol极速版上线！",
+        "link": "https://aiera.com.cn/2026/10/10/other/admin/117833/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-1-sol%e6%9e%81%e9%80%9f%e7%89%88%e4%b8%8a%e7%ba%bf%ef%bc%81/",
+        "description": "GPT-6.1 Sol极速版，终于来了！ 今天，OpenAI正式上线Ultrafast极速模，API、Codex、ChatGPT Work三处同步推送。",
+        "detail": "GPT-6.1 Sol极速版，终于来了！ 今天，OpenAI正式上线Ultrafast极速模，API、Codex、ChatGPT Work三处同步推送。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Opus 5.5接入一切，OpenAI遭全硅谷围剿！谷歌马斯克集体叛变了",
+        "link": "https://aiera.com.cn/2026/10/10/other/admin/117812/opus-5-5%e6%8e%a5%e5%85%a5%e4%b8%80%e5%88%87%ef%bc%8copenai%e9%81%ad%e5%85%a8%e7%a1%85%e8%b0%b7%e5%9b%b4%e5%89%bf%ef%bc%81%e8%b0%b7%e6%ad%8c%e9%a9%ac%e6%96%af%e5%85%8b%e9%9b%86%e4%bd%93%e5%8f%9b/",
+        "description": "太震撼了，Gemini 调用 Opus，超级智能体时代真的来了。从今天起，Opus 驱动一切！",
+        "detail": "太震撼了，Gemini 调用 Opus，超级智能体时代真的来了。从今天起，Opus 驱动一切！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "多会话语音记忆基准VoxMem，专治音频大模型记不住「谁说的、怎么说」",
+        "link": "https://aiera.com.cn/2026/10/10/other/admin/117792/%e5%a4%9a%e4%bc%9a%e8%af%9d%e8%af%ad%e9%9f%b3%e8%ae%b0%e5%bf%86%e5%9f%ba%e5%87%86voxmem%ef%bc%8c%e4%b8%93%e6%b2%bb%e9%9f%b3%e9%a2%91%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%ae%b0%e4%b8%8d%e4%bd%8f%e3%80%8c/",
+        "description": "在语音助手、多用户共享的家庭助理等长期对话场景中，模型需要跨越多次会话记住用户的信息，但现有评测常遭遇两大难题：",
+        "detail": "在语音助手、多用户共享的家庭助理等长期对话场景中，模型需要跨越多次会话记住用户的信息，但现有评测常遭遇两大难题：",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "最快今日发布！谷歌Gemini 4 Argon已对部分用户开放",
+        "link": "https://aiera.com.cn/2026/10/10/other/admin/117776/%e6%9c%80%e5%bf%ab%e4%bb%8a%e6%97%a5%e5%8f%91%e5%b8%83%ef%bc%81%e8%b0%b7%e6%ad%8cgemini-4-argon%e5%b7%b2%e5%af%b9%e9%83%a8%e5%88%86%e7%94%a8%e6%88%b7%e5%bc%80%e6%94%be/",
+        "description": "就在刚刚，海外科技圈爆料：谷歌下一代重磅模型 Gemini 4 Argon 已密集现身多个平台，甚至已经对部分 Pro 用户开放！",
+        "detail": "就在刚刚，海外科技圈爆料：谷歌下一代重磅模型 Gemini 4 Argon 已密集现身多个平台，甚至已经对部分 Pro 用户开放！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "太震撼了，Claude画出首张紫外全天图！1.19亿颗星逐颗叠上",
+        "link": "https://aiera.com.cn/2026/10/10/other/admin/117759/%e5%a4%aa%e9%9c%87%e6%92%bc%e4%ba%86%ef%bc%8cclaude%e7%94%bb%e5%87%ba%e9%a6%96%e5%bc%a0%e7%b4%ab%e5%a4%96%e5%85%a8%e5%a4%a9%e5%9b%be%ef%bc%811-19%e4%ba%bf%e9%a2%97%e6%98%9f%e9%80%90%e9%a2%97%e5%8f%a0/",
+        "description": "NASA卫星绕着走了十年的银河，被Claude几天补齐了。 刚刚，Anthropic公布了SI首张完整的紫外全天图，整片天空，一个洞都没留。",
+        "detail": "NASA卫星绕着走了十年的银河，被Claude几天补齐了。 刚刚，Anthropic公布了SI首张完整的紫外全天图，整片天空，一个洞都没留。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "马斯克获美国最高科学荣誉！老黄苏妈上榜",
+        "link": "https://aiera.com.cn/2026/10/10/other/admin/117741/%e5%88%9a%e5%88%9a%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8b%e8%8e%b7%e7%be%8e%e5%9b%bd%e6%9c%80%e9%ab%98%e7%a7%91%e5%ad%a6%e8%8d%a3%e8%aa%89%ef%bc%81%e8%80%81%e9%bb%84%e8%8b%8f%e5%a6%88%e4%b8%8a%e6%a6%9c/",
+        "description": "就在刚刚，特朗普把美国国家科学奖章，颁给了马斯克。 他在台上当众猛夸，「埃隆是我们当代的托马斯·爱迪生」！",
+        "detail": "就在刚刚，特朗普把美国国家科学奖章，颁给了马斯克。 他在台上当众猛夸，「埃隆是我们当代的托马斯·爱迪生」！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "从 Coding 到 Running：AI Native SRE Agent 的工程实践",
+        "link": "https://www.infoq.cn/article/o9XwsHUvCjL3eHKT7YPU?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "比 Astra 还贵！GPT-6.1 Sol 极速版上线，社区吐槽：“500 美元套餐都撑不过一天”",
+        "link": "https://www.infoq.cn/article/soBOt9TSckGlJlBS519y?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "link": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
+        "link": "https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 豆包据称在建设水电燃气缴费等生活服务能力\n· IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现\n· 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 豆包据称在建设水电燃气缴费等生活服务能力\n· IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现\n· 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "好产品就是与时代和生活共振｜2026 年度极客最爱好物启动",
+        "link": "http://www.geekpark.net/news/372196",
+        "description": "\n        出门时顺手带上，遇到事情时首先打开，或者因为有了它，愿意尝试一件过去觉得麻烦的事。这样的产品，值得被分享给更多人。\n2026 年，我们把寻找好产品的目光，投向更丰富的形态。能协助完成任务的 AI 应用、戴在身上的智能设备，以及尝试在真实环境中干活的机器人，都进入了今年的选品视野。技术提供了新的可能，具体的产品体验，决定了人们愿不愿意把它们带进生活。\n我们关注产品解决了什么问题，也",
+        "detail": "\n        出门时顺手带上，遇到事情时首先打开，或者因为有了它，愿意尝试一件过去觉得麻烦的事。这样的产品，值得被分享给更多人。\n2026 年，我们把寻找好产品的目光，投向更丰富的形态。能协助完成任务的 AI 应用、戴在身上的智能设备，以及尝试在真实环境中干活的机器人，都进入了今年的选品视野。技术提供了新的可能，具体的产品体验，决定了人们愿不愿意把它们带进生活。\n我们关注产品解决了什么问题，也",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "记录生生不息的创新力量｜2026 年度「InnoForce 50」启动",
+        "link": "http://www.geekpark.net/news/372195",
+        "description": "\n        到了 2026 年，AI 已经不只是技术变量，而成为影响产品形态和组织方式的关键变量。它开始进入办公室、工厂、汽车、机器人、医院等场景，也进入了许多过去并不处在科技叙事中心的行业。它改变软件，也反过来改变硬件；改变一个人的工作方式，也改变一家公司的组织方式。\n但 AI 不是全部。真正值得被记录的，是当 AI 成为新变量之后，整个创新世界被重新点燃了。\n有人从 AI 出发，做出了过",
+        "detail": "\n        到了 2026 年，AI 已经不只是技术变量，而成为影响产品形态和组织方式的关键变量。它开始进入办公室、工厂、汽车、机器人、医院等场景，也进入了许多过去并不处在科技叙事中心的行业。它改变软件，也反过来改变硬件；改变一个人的工作方式，也改变一家公司的组织方式。\n但 AI 不是全部。真正值得被记录的，是当 AI 成为新变量之后，整个创新世界被重新点燃了。\n有人从 AI 出发，做出了过",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景",
+        "link": "http://www.geekpark.net/news/372184",
+        "description": "\n        \n内存等成本压力上升，2027 全球笔记本价格恐继续上涨\n市场调查机构集邦咨询（Trendforce）于 10 月 8 日发布博文，表示如果零部件价格继续维持高位，品牌扩大成本转嫁，终端涨价可能延长用户换机周期，预估 2027 年全球笔记本市场面临出货、价格双重影响。\n在 2026 年第 3 季度以建议零售价 900 美元的主流笔记本为例，其 CPU、内存及 SSD 占物料成本约",
+        "detail": "\n        \n内存等成本压力上升，2027 全球笔记本价格恐继续上涨\n市场调查机构集邦咨询（Trendforce）于 10 月 8 日发布博文，表示如果零部件价格继续维持高位，品牌扩大成本转嫁，终端涨价可能延长用户换机周期，预估 2027 年全球笔记本市场面临出货、价格双重影响。\n在 2026 年第 3 季度以建议零售价 900 美元的主流笔记本为例，其 CPU、内存及 SSD 占物料成本约",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "极客公园"
+      },
+      {
+        "title": "里程碑时刻！比亚迪第15万台新能源商用车下线",
+        "link": "https://www.leiphone.com/category/industrynews/9nmGLAnpJOtHxXbm.html",
+        "description": "2026年10月9日，比亚迪第15万台新能源商用车——Q3纯电动牵引车，在淮安比亚迪卡车智慧工厂正式下线。从1到15万台，十八年深耕见证了商用车业务从技术探索到多元场景规模化应用的跨越。此次里程碑落在Q3上，不仅凝结了长期技术积累与产业协同的成果，更释放出增长重心向卡车业务倾斜、发力干线重卡市场的战略信号。从质疑中起步，以持续突破引领绿色交通转型新能源商用车发展初期，续航、成本和可靠性曾引发行业质",
+        "detail": "2026年10月9日，比亚迪第15万台新能源商用车——Q3纯电动牵引车，在淮安比亚迪卡车智慧工厂正式下线。从1到15万台，十八年深耕见证了商用车业务从技术探索到多元场景规模化应用的跨越。此次里程碑落在Q3上，不仅凝结了长期技术积累与产业协同的成果，更释放出增长重心向卡车业务倾斜、发力干线重卡市场的战略信号。从质疑中起步，以持续突破引领绿色交通转型新能源商用车发展初期，续航、成本和可靠性曾引发行业质",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "人人皆可为师：全球首个物理AI数据众包服务平台“觅蜂派”正式发布",
+        "link": "https://www.leiphone.com/category/robot/2uBaE3bBBq55g8mM.html",
+        "description": "9 月 23 日，以“DATA FOR AI，人人皆可为师”为主题的觅蜂派全球发布会在上海举行。会上，觅蜂科技正式发布全球首个全品类高质量物理 AI 数据众包服务平台 “觅蜂派”，并同步推出机器人训练师职业计划与亿元补贴计划，启动《具身智能众包数据发展报告》编制和场景数据联盟，为具身智能产业补齐真实数据短板提供规模化路径。觅蜂科技董事长兼 CEO 姚卯青表示，机器人真正走进工厂、商店和千家万户，缺",
+        "detail": "9 月 23 日，以“DATA FOR AI，人人皆可为师”为主题的觅蜂派全球发布会在上海举行。会上，觅蜂科技正式发布全球首个全品类高质量物理 AI 数据众包服务平台 “觅蜂派”，并同步推出机器人训练师职业计划与亿元补贴计划，启动《具身智能众包数据发展报告》编制和场景数据联盟，为具身智能产业补齐真实数据短板提供规模化路径。觅蜂科技董事长兼 CEO 姚卯青表示，机器人真正走进工厂、商店和千家万户，缺",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "这届 IROS 2026 上，具身学术与产业边界正在消融",
+        "link": "https://www.leiphone.com/category/ai/4I8YKksz9V10Ih1R.html",
+        "description": "模型、数据、灵巧操作都在工程化，顶会上具身传递出的信号变了&nbsp;&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "detail": "模型、数据、灵巧操作都在工程化，顶会上具身传递出的信号变了&nbsp;&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "阶跃 Step 5 Preview 登上 OpenRouter 全球第一，10月15日开源！",
+        "link": "https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html",
+        "description": "10 月 10 日消息，阶跃星辰最新旗舰基座模型 Step 5 Preview 登顶 OpenRouter Trending 榜，并位列日榜全球第二，成为近期全球开发者社区最受关注的旗舰模型之一。据官方消息，这款模型即将于 10 月 15 日正式开源。（OpenRouter LLM 排行榜 Trending 榜单最新结果）（OpenRouter LLM 排行榜日榜最新结果）&nbsp;作为面向全球",
+        "detail": "10 月 10 日消息，阶跃星辰最新旗舰基座模型 Step 5 Preview 登顶 OpenRouter Trending 榜，并位列日榜全球第二，成为近期全球开发者社区最受关注的旗舰模型之一。据官方消息，这款模型即将于 10 月 15 日正式开源。（OpenRouter LLM 排行榜 Trending 榜单最新结果）（OpenRouter LLM 排行榜日榜最新结果）&nbsp;作为面向全球",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "数据越多≠决策越好：从无人机滑翔到多机器人通信，重新审视数据与信息的关系 | IROS 2026",
+        "link": "https://www.leiphone.com/category/private/1evshSdPUrUacuRC.html",
+        "description": "决定智能上限的从来不是数据的绝对规模，而是数据的质量与信息密度。&nbsp; &nbsp; 作者丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+        "detail": "决定智能上限的从来不是数据的绝对规模，而是数据的质量与信息密度。&nbsp; &nbsp; 作者丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026",
+        "link": "https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html",
+        "description": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。&nbsp; &nbsp; 作者丨向欣&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+        "detail": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。&nbsp; &nbsp; 作者丨向欣&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "2026中国国际社会公共安全产品博览会暨第三届智能与安全产业发展大会将于11月3日在北京开幕",
+        "link": "https://www.leiphone.com/category/industrynews/aRKXkAwc34s4SwGT.html",
+        "description": "中国国际社会公共安全产品博览会（以下简称“安博会”）是经中华人民共和国商务部批准，由中国安全防范产品行业协会主办的专业性展会。1994 年创办至今，依托行业主管部门、各地相关单位、行业协会、技术服务机构及国内外安防企业的大力支持，安博会历经 32 年发展，已成功举办十七届。立足新时代使命定位，安博会业已成为贯彻总体国家安全观，强化科技赋能，提升公共安全治理水平，完善社会治理体系，助力推进国家安全体",
+        "detail": "中国国际社会公共安全产品博览会（以下简称“安博会”）是经中华人民共和国商务部批准，由中国安全防范产品行业协会主办的专业性展会。1994 年创办至今，依托行业主管部门、各地相关单位、行业协会、技术服务机构及国内外安防企业的大力支持，安博会历经 32 年发展，已成功举办十七届。立足新时代使命定位，安博会业已成为贯彻总体国家安全观，强化科技赋能，提升公共安全治理水平，完善社会治理体系，助力推进国家安全体",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "赛力斯9月产销快报 全新一代问界M9系列16周累计交付破4万",
+        "link": "https://www.leiphone.com/category/industrynews/flB9MNXXd1jcRTtZ.html",
+        "description": "10月8日，赛力斯发布9月产销快报。数据显示，9月新能源汽车销量29,271辆，环比增长20.7%。问界高端产品交付放量，伴随问界M9 Ultimate领世加长版开启交付，全新一代问界M9 系列16周累计交付突破40000辆，持续斩获50万以上车型销量第一。旗舰领跑新品蓄势 高端产品交付持续突破三季度以来，问界高端产品矩阵持续焕新。问界M9 Ultimate领世加长版首批交付已于9月12日开启，以",
+        "detail": "10月8日，赛力斯发布9月产销快报。数据显示，9月新能源汽车销量29,271辆，环比增长20.7%。问界高端产品交付放量，伴随问界M9 Ultimate领世加长版开启交付，全新一代问界M9 系列16周累计交付突破40000辆，持续斩获50万以上车型销量第一。旗舰领跑新品蓄势 高端产品交付持续突破三季度以来，问界高端产品矩阵持续焕新。问界M9 Ultimate领世加长版首批交付已于9月12日开启，以",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "GMIF 2026：日均140万亿Token调用，正在改变SSD的能力与分工",
+        "link": "https://www.leiphone.com/category/chips/OteTEIc4In9VoZg4.html",
+        "description": "作者 | 陈悦琳编辑 | 包永刚&nbsp;HBM热潮之外，其他存储形式也站在风口。&nbsp;这是今年第五届GMIF2026全球存储器行业创新峰会释放的第一个明显信号。以全球云数据中心资本支出为例，摩根士丹利执行董事、大中华区半导体分析师颜志天指出，在未计入HBM的情况下，2026年存储占比接近五成，2027年预计进一步升至53%。&nbsp;热钱涌向存储，背后是前所未有的推理需求增加。截至今年",
+        "detail": "作者 | 陈悦琳编辑 | 包永刚&nbsp;HBM热潮之外，其他存储形式也站在风口。&nbsp;这是今年第五届GMIF2026全球存储器行业创新峰会释放的第一个明显信号。以全球云数据中心资本支出为例，摩根士丹利执行董事、大中华区半导体分析师颜志天指出，在未计入HBM的情况下，2026年存储占比接近五成，2027年预计进一步升至53%。&nbsp;热钱涌向存储，背后是前所未有的推理需求增加。截至今年",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+        "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+        "description": "[HN] +18 points · 7 comments · by reaperducer",
+        "detail": "[HN] +18 points · 7 comments · by reaperducer",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
+        "link": "https://ilia.page/writing/introducing-nagare",
+        "description": "[HN] +4 points · 1 comments · by shmilia",
+        "detail": "[HN] +4 points · 1 comments · by shmilia",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-09",
     "weekday": "星期五",
     "summary": "今日共收录 51 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, Simon Willison, TLDR AI, The Decoder, The Verge AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
