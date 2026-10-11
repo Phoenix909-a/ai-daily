@@ -1,5 +1,156 @@
 [
   {
+    "date": "2026-10-11",
+    "weekday": "星期日",
+    "summary": "今日共收录 16 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 爱范儿。",
+    "news": [
+      {
+        "title": "突发！OpenAI dots全面登陆手机，开口指挥Codex干活了",
+        "link": "https://aiera.com.cn/2026/10/11/other/admin/118075/%e7%aa%81%e5%8f%91%ef%bc%81openai-dots%e5%85%a8%e9%9d%a2%e7%99%bb%e9%99%86%e6%89%8b%e6%9c%ba%ef%bc%8c%e5%bc%80%e5%8f%a3%e6%8c%87%e6%8c%a5codex%e5%b9%b2%e6%b4%bb%e4%ba%86/",
+        "description": "OpenAI真的是一日一更啊！ 就在刚刚，OpenAI「义父」Tibo亮出Day 5更新：「24小时在线Agent」dots，现在用手机就能创建了。",
+        "detail": "OpenAI真的是一日一更啊！ 就在刚刚，OpenAI「义父」Tibo亮出Day 5更新：「24小时在线Agent」dots，现在用手机就能创建了。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "差了200亿美元！OpenAI年化营收数字打架，英伟达跌近3%",
+        "link": "https://aiera.com.cn/2026/10/11/other/admin/118052/%e5%b7%ae%e4%ba%86200%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%81openai%e5%b9%b4%e5%8c%96%e8%90%a5%e6%94%b6%e6%95%b0%e5%ad%97%e6%89%93%e6%9e%b6%ef%bc%8c%e8%8b%b1%e4%bc%9f%e8%be%be%e8%b7%8c%e8%bf%913/",
+        "description": "OpenAI的年化营收，怎么一下子差出了200亿美元？ 10月8日，英国《金融时报》披露，OpenAI向投资者提供的文件显示：",
+        "detail": "OpenAI的年化营收，怎么一下子差出了200亿美元？ 10月8日，英国《金融时报》披露，OpenAI向投资者提供的文件显示：",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "新智元"
+      },
+      {
+        "title": "Agent组队干活，最强模型只完成50%任务！基准评测协作能力",
+        "link": "https://aiera.com.cn/2026/10/11/other/admin/118040/agent%e7%bb%84%e9%98%9f%e5%b9%b2%e6%b4%bb%ef%bc%8c%e6%9c%80%e5%bc%ba%e6%a8%a1%e5%9e%8b%e5%8f%aa%e5%ae%8c%e6%88%9050%e4%bb%bb%e5%8a%a1%ef%bc%81%e5%9f%ba%e5%87%86%e8%af%84%e6%b5%8b%e5%8d%8f%e4%bd%9c/",
+        "description": "个体能力强大的AI Agent正不断涌现。从编写代码、开发软件，到检索文献、辅助科学研究，它们能独立完成的工作越来越多。",
+        "detail": "个体能力强大的AI Agent正不断涌现。从编写代码、开发软件，到检索文献、辅助科学研究，它们能独立完成的工作越来越多。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿！",
+        "link": "https://aiera.com.cn/2026/10/11/other/admin/118028/%e7%8e%8b%e8%99%b9%e6%94%bb%e4%b8%8b%e7%9a%84%e4%b8%89%e7%bb%b4%e6%8c%82%e8%b0%b7%e7%8c%9c%e6%83%b3%ef%bc%8copenai%e6%94%be%e5%87%ba175%e9%a1%b5%e5%9b%9b%e7%bb%b4%e8%af%81%e6%98%8e%e7%a8%bf%ef%bc%81/",
+        "description": "王虹攻下三维，OpenAI直接把四维证明稿摆上桌了！ 10月6日，OpenAI在GitHub上公开首批722篇数学手稿。",
+        "detail": "王虹攻下三维，OpenAI直接把四维证明稿摆上桌了！ 10月6日，OpenAI在GitHub上公开首批722篇数学手稿。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "美国CS教授发文：数学末日来了！人类千年数学殿堂被AI毁了",
+        "link": "https://aiera.com.cn/2026/10/11/other/admin/118007/%e7%be%8e%e5%9b%bdcs%e6%95%99%e6%8e%88%e5%8f%91%e6%96%87%ef%bc%9a%e6%95%b0%e5%ad%a6%e6%9c%ab%e6%97%a5%e6%9d%a5%e4%ba%86%ef%bc%81%e4%ba%ba%e7%b1%bb%e5%8d%83%e5%b9%b4%e6%95%b0%e5%ad%a6%e6%ae%bf%e5%a0%82/",
+        "description": "OpenAI，已经引起全球数学家的众怒！ 10月6日，他们一次性放出了722篇重大数学难题论文。",
+        "detail": "OpenAI，已经引起全球数学家的众怒！ 10月6日，他们一次性放出了722篇重大数学难题论文。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "全球首次！杭州具身黑马比肩Figure，全身协同自主叠衣",
+        "link": "https://aiera.com.cn/2026/10/11/other/admin/117986/%e5%85%a8%e7%90%83%e9%a6%96%e6%ac%a1%ef%bc%81%e6%9d%ad%e5%b7%9e%e5%85%b7%e8%ba%ab%e9%bb%91%e9%a9%ac%e6%af%94%e8%82%a9figure%ef%bc%8c%e5%85%a8%e8%ba%ab%e5%8d%8f%e5%90%8c%e8%87%aa%e4%b8%bb%e5%8f%a0/",
+        "description": "让机器人做家务，是具身智能领域公认的高门槛场景。 家庭环境是为人类设计的，机器人要弯腰、下蹲、转身，去适应人的空间，并且家务对象大多是柔性物体，形态随每一次拉扯而改变。",
+        "detail": "让机器人做家务，是具身智能领域公认的高门槛场景。 家庭环境是为人类设计的，机器人要弯腰、下蹲、转身，去适应人的空间，并且家务对象大多是柔性物体，形态随每一次拉扯而改变。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌下一代杀器Gemini 4 Carbon曝光！RSI大招逼近Opus 5.5",
+        "link": "https://aiera.com.cn/2026/10/11/other/admin/117972/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%b0%b7%e6%ad%8c%e4%b8%8b%e4%b8%80%e4%bb%a3%e6%9d%80%e5%99%a8gemini-4-carbon%e6%9b%9d%e5%85%89%ef%bc%81rsi%e5%a4%a7%e6%8b%9b%e9%80%bc%e8%bf%91opus-5-5/",
+        "description": "谁能想到，谷歌的Gemini 4 Argon还没来，下一代模型的爆料就来了。 就在刚刚，外媒曝出，谷歌Gemini 4下一代模型Carbon，已经作为绝密杀器」，悄悄上线测试了…",
+        "detail": "谁能想到，谷歌的Gemini 4 Argon还没来，下一代模型的爆料就来了。 就在刚刚，外媒曝出，谷歌Gemini 4下一代模型Carbon，已经作为绝密杀器」，悄悄上线测试了…",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "新智元"
+      },
+      {
+        "title": "前OpenAI员工做出不会聊天的AI！刚融8.7亿美元，上线两周老东家就跟了",
+        "link": "https://aiera.com.cn/2026/10/11/other/admin/117943/%e5%89%8dopenai%e5%91%98%e5%b7%a5%e5%81%9a%e5%87%ba%e4%b8%8d%e4%bc%9a%e8%81%8a%e5%a4%a9%e7%9a%84ai%ef%bc%81%e5%88%9a%e8%9e%8d8-7%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%8c%e4%b8%8a%e7%ba%bf%e4%b8%a4%e5%91%a8/",
+        "description": "一个不会陪你聊天的AI，刚拿到8.7亿美元融资！ 10月9日，TypeSafe AI宣布完成A轮融资，估值直接冲到75亿美元。a16z领投，红杉、DCVC等机构参投。",
+        "detail": "一个不会陪你聊天的AI，刚拿到8.7亿美元融资！ 10月9日，TypeSafe AI宣布完成A轮融资，估值直接冲到75亿美元。a16z领投，红杉、DCVC等机构参投。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "全球17大顶级AI实验室大逃杀！惨遭集体翻车，GPT-5.6与Opus断层领先",
+        "link": "https://aiera.com.cn/2026/10/11/other/admin/117928/%e5%85%a8%e7%90%8317%e5%a4%a7%e9%a1%b6%e7%ba%a7ai%e5%ae%9e%e9%aa%8c%e5%ae%a4%e5%a4%a7%e9%80%83%e6%9d%80%ef%bc%81%e6%83%a8%e9%81%ad%e9%9b%86%e4%bd%93%e7%bf%bb%e8%bd%a6%ef%bc%8cgpt-5-6%e4%b8%8eopus/",
+        "description": "2026年，如果你一直关注 AI for Science 的最前沿，你会发现整个风向已经变了。AI Agent 走向真实的科学实验室，已经不再是科幻小说里的情节！",
+        "detail": "2026年，如果你一直关注 AI for Science 的最前沿，你会发现整个风向已经变了。AI Agent 走向真实的科学实验室，已经不再是科幻小说里的情节！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "利用 AI 代码智能体优化软件架构的五种方法",
+        "link": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "link": "https://www.infoq.cn/article/FTtTLqvzJeMiE03IowFP?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+        "link": "https://www.ifanr.com/1683829?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 苹果第二期中国清洁能源基金扩容至 2.12 亿美元\n· Netflix 称约 300 部作品已使用 AI，导演谈降本与创作取舍\n· 长鑫披露 4F² 内存架构进展，首款服务器产品预计年底推出#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 苹果第二期中国清洁能源基金扩容至 2.12 亿美元\n· Netflix 称约 300 部作品已使用 AI，导演谈降本与创作取舍\n· 长鑫披露 4F² 内存架构进展，首款服务器产品预计年底推出#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "12 分钟订单破万，吉利银河战舰 700，要订下新能源越野的新标准",
+        "link": "http://www.geekpark.net/news/372213",
+        "description": "\n        &nbsp;\n\n图片来源：吉利银河\n「这台车我们造了 5 年，这也是吉利第一次造越野车。」吉利汽车研究院院长李传海说到。\n就在几分钟前，10 月 10 日，吉利银河战舰 700，一台新能源野车正式发布，16.98 万（限时焕新价）起的价格，让这台最高配备三电机四驱，千匹马力，能爬 45&deg; 坡、能应急浮水的越野车，变得十分打动人心。\n\n吉利银河战舰 700 的价格梯度比较大",
+        "detail": "\n        &nbsp;\n\n图片来源：吉利银河\n「这台车我们造了 5 年，这也是吉利第一次造越野车。」吉利汽车研究院院长李传海说到。\n就在几分钟前，10 月 10 日，吉利银河战舰 700，一台新能源野车正式发布，16.98 万（限时焕新价）起的价格，让这台最高配备三电机四驱，千匹马力，能爬 45&deg; 坡、能应急浮水的越野车，变得十分打动人心。\n\n吉利银河战舰 700 的价格梯度比较大",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
+        "link": "http://www.geekpark.net/news/372216",
+        "description": "\n        马斯克豪言 SpaceX 估值超 1000 万亿美元，惨遭拉表打脸近日，马斯克在社交平台大胆预测，SpaceX 未来估值有望突破 1000 万亿美元，体量将远超当前全球经济总量。目前 SpaceX 估值仅约 2.2 万亿美元，而 2025 年全球 GDP 总量约 118 万亿美元，此番极具颠覆性的超高估值言论引发全网热议与质疑。面对这一惊人预测，有网友晒出富国银行证券整理的一张名",
+        "detail": "\n        马斯克豪言 SpaceX 估值超 1000 万亿美元，惨遭拉表打脸近日，马斯克在社交平台大胆预测，SpaceX 未来估值有望突破 1000 万亿美元，体量将远超当前全球经济总量。目前 SpaceX 估值仅约 2.2 万亿美元，而 2025 年全球 GDP 总量约 118 万亿美元，此番极具颠覆性的超高估值言论引发全网热议与质疑。面对这一惊人预测，有网友晒出富国银行证券整理的一张名",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
+        "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+        "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+        "description": "[HN] +73 points · 56 comments · by davikr",
+        "detail": "[HN] +73 points · 56 comments · by davikr",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "AI agents in a stand-up call",
+        "link": "https://atoll92.github.io/agent-standup/",
+        "description": "[HN] +20 points · 16 comments · by jonbaer",
+        "detail": "[HN] +20 points · 16 comments · by jonbaer",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-10",
     "weekday": "星期六",
     "summary": "今日共收录 53 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, Simon Willison, TechCrunch AI, The Decoder, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
