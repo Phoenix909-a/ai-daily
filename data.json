@@ -2,8 +2,116 @@
   {
     "date": "2026-10-11",
     "weekday": "星期日",
-    "summary": "今日共收录 16 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 爱范儿。",
+    "summary": "今日共收录 29 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 爱范儿, 量子位。",
     "news": [
+      {
+        "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
+        "link": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/",
+        "description": "\n        Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs drop. If that de",
+        "detail": "\n        Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs drop. If that de",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
+        "link": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/",
+        "description": "\n        Starting October 2026, arXiv will cap submissions at two per person per month. Monthly submissions have doubled in two years, and in the cs.AI category they've grown more than sixfold. Accord",
+        "detail": "\n        Starting October 2026, arXiv will cap submissions at two per person per month. Monthly submissions have doubled in two years, and in the cs.AI category they've grown more than sixfold. Accord",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
+        "link": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
+        "description": "\n        Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language. In his latest blog post",
+        "detail": "\n        Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language. In his latest blog post",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Odyssey-3 is a new generative world model that you can try for free",
+        "link": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+        "description": "\n        Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can re",
+        "detail": "\n        Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can re",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Edgee Mod for Claude Code",
+        "link": "https://www.producthunt.com/products/edgee",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "ReSO AI",
+        "link": "https://www.producthunt.com/products/reso",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Claude Dashboards & Motion",
+        "link": "https://www.producthunt.com/products/claude-dashboards-motion",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentDock",
+        "link": "https://www.producthunt.com/products/agentdock",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "王的猜想，刚刚扩展到四维",
+        "link": "https://www.qbitai.com/2026/10/502584.html",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "硅谷AI现状：谁有算力谁是爹",
+        "link": "https://www.qbitai.com/2026/10/502585.html",
+        "description": "马斯克连横A社，硅谷VC开始囤GPU",
+        "detail": "马斯克连横A社，硅谷VC开始囤GPU",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+        "link": "https://www.qbitai.com/2026/10/502550.html",
+        "description": "初代4o的API快照进入停用倒计时",
+        "detail": "初代4o的API快照进入停用倒计时",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+        "link": "https://www.qbitai.com/2026/10/502544.html",
+        "description": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+        "detail": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
       {
         "title": "突发！OpenAI dots全面登陆手机，开口指挥Codex干活了",
         "link": "https://aiera.com.cn/2026/10/11/other/admin/118075/%e7%aa%81%e5%8f%91%ef%bc%81openai-dots%e5%85%a8%e9%9d%a2%e7%99%bb%e9%99%86%e6%89%8b%e6%9c%ba%ef%bc%8c%e5%bc%80%e5%8f%a3%e6%8c%87%e6%8c%a5codex%e5%b9%b2%e6%b4%bb%e4%ba%86/",
@@ -133,8 +241,8 @@
       {
         "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
         "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-        "description": "[HN] +73 points · 56 comments · by davikr",
-        "detail": "[HN] +73 points · 56 comments · by davikr",
+        "description": "[HN] +98 points · 74 comments · by davikr",
+        "detail": "[HN] +98 points · 74 comments · by davikr",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "hackernews"
@@ -142,10 +250,19 @@
       {
         "title": "AI agents in a stand-up call",
         "link": "https://atoll92.github.io/agent-standup/",
-        "description": "[HN] +20 points · 16 comments · by jonbaer",
-        "detail": "[HN] +20 points · 16 comments · by jonbaer",
+        "description": "[HN] +44 points · 42 comments · by jonbaer",
+        "detail": "[HN] +44 points · 42 comments · by jonbaer",
         "tag": "Agent 进展",
         "sort_score": 88,
+        "source": "hackernews"
+      },
+      {
+        "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
+        "link": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
+        "description": "[HN] +4 points · 0 comments · by trakkstar",
+        "detail": "[HN] +4 points · 0 comments · by trakkstar",
+        "tag": "行业动态",
+        "sort_score": 58,
         "source": "hackernews"
       }
     ]
