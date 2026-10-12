@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-10-12",
+    "weekday": "星期一",
+    "summary": "今日共收录 15 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "Claude突然白送500刀！",
+        "link": "https://aiera.com.cn/2026/10/12/other/admin/118229/claude%e7%aa%81%e7%84%b6%e7%99%bd%e9%80%81500%e5%88%80%ef%bc%81/",
+        "description": "Claude「重度粉」狂喜！ 今天，Anthropic开发者账号悄无声息地发布了一条重磅公告——",
+        "detail": "Claude「重度粉」狂喜！ 今天，Anthropic开发者账号悄无声息地发布了一条重磅公告——",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "离谱，Claude半年封杀1140万账号！申诉后仅4.2万翻案",
+        "link": "https://aiera.com.cn/2026/10/12/other/admin/118215/%e7%a6%bb%e8%b0%b1%ef%bc%8cclaude%e5%8d%8a%e5%b9%b4%e5%b0%81%e6%9d%801140%e4%b8%87%e8%b4%a6%e5%8f%b7%ef%bc%81%e7%94%b3%e8%af%89%e5%90%8e%e4%bb%854-2%e4%b8%87%e7%bf%bb%e6%a1%88/",
+        "description": "太离谱了家人们！ 最近Claude疯狂大面积封号，AI圈的开发者们直接集体破防，直呼「天塌了」。",
+        "detail": "太离谱了家人们！ 最近Claude疯狂大面积封号，AI圈的开发者们直接集体破防，直呼「天塌了」。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "陶哲轩博客爆上热搜！25万数学博士临绝境，必须放缓AI",
+        "link": "https://aiera.com.cn/2026/10/12/other/admin/118197/%e9%99%b6%e5%93%b2%e8%bd%a9%e5%8d%9a%e5%ae%a2%e7%88%86%e4%b8%8a%e7%83%ad%e6%90%9c%ef%bc%8125%e4%b8%87%e6%95%b0%e5%ad%a6%e5%8d%9a%e5%a3%ab%e4%b8%b4%e7%bb%9d%e5%a2%83%ef%bc%8c%e5%bf%85%e9%a1%bb%e6%94%be/",
+        "description": "点开菲尔兹奖得主陶哲轩的博客的评论区，你会感到一种前所未有的震撼——当今世界最顶尖的一批数学家、物理学家、AI圈大佬们齐聚于此，各抒己见，吵得好不激烈。",
+        "detail": "点开菲尔兹奖得主陶哲轩的博客的评论区，你会感到一种前所未有的震撼——当今世界最顶尖的一批数学家、物理学家、AI圈大佬们齐聚于此，各抒己见，吵得好不激烈。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI圈爆出王炸！实现「万物共脑」，连大脑带具身越狱到现实",
+        "link": "https://aiera.com.cn/2026/10/12/other/admin/118175/%e5%88%9a%e5%88%9a%ef%bc%8cai%e5%9c%88%e7%88%86%e5%87%ba%e7%8e%8b%e7%82%b8%ef%bc%81%e5%ae%9e%e7%8e%b0%e3%80%8c%e4%b8%87%e7%89%a9%e5%85%b1%e8%84%91%e3%80%8d%ef%bc%8c%e8%bf%9e%e5%a4%a7%e8%84%91%e5%b8%a6/",
+        "description": "物理AI正在成为人工智能产业最受关注的方向之一。 而让AI走出屏幕，则需要三样东西。一颗足够可靠的大脑，一套能组织它持续工作的执行系统，以及一个能连接物理设备的身体。模型能力不…",
+        "detail": "物理AI正在成为人工智能产业最受关注的方向之一。 而让AI走出屏幕，则需要三样东西。一颗足够可靠的大脑，一套能组织它持续工作的执行系统，以及一个能连接物理设备的身体。模型能力不…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "比Jev更爆火！逆向灭霸 REA 一天登顶GitHub",
+        "link": "https://aiera.com.cn/2026/10/12/other/admin/118162/%e6%af%94jev%e6%9b%b4%e7%88%86%e7%81%ab%ef%bc%81%e9%80%86%e5%90%91%e7%81%ad%e9%9c%b8-rea-%e4%b8%80%e5%a4%a9%e7%99%bb%e9%a1%b6github/",
+        "description": "这两天，GitHub 上一个叫 REA（Reverse Engineer Anything）的项目狂揽了近 7 万颗星！",
+        "detail": "这两天，GitHub 上一个叫 REA（Reverse Engineer Anything）的项目狂揽了近 7 万颗星！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "EMNLP’26 Oral | 麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
+        "link": "https://aiera.com.cn/2026/10/12/other/admin/118143/emnlp26-oral-%e9%ba%bb%e7%9c%81%e7%90%86%e5%b7%a5%ef%bc%9a%e9%9d%a0%e8%ae%bf%e8%b0%88%e8%ae%a9ai%e6%a8%a1%e6%8b%9f%e7%9c%9f%e4%ba%ba%ef%bc%8c%e8%bf%99%e6%9d%a1%e8%b7%af%e8%83%bd%e8%b5%b0%e5%a4%9a/",
+        "description": "只要和一个人聊得足够久，大模型就能成为他的「数字分身」吗？ 从虚拟用户、合成受访者，到个性化AI Agent，一条越来越流行的技术路线是：先通过访谈、问卷和个人资料了解一个真实…",
+        "detail": "只要和一个人聊得足够久，大模型就能成为他的「数字分身」吗？ 从虚拟用户、合成受访者，到个性化AI Agent，一条越来越流行的技术路线是：先通过访谈、问卷和个人资料了解一个真实…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude自己组队查Bug！11.6万行代码揪出66个，单Agent最高只找到27个",
+        "link": "https://aiera.com.cn/2026/10/12/other/admin/118129/claude%e8%87%aa%e5%b7%b1%e7%bb%84%e9%98%9f%e6%9f%a5bug%ef%bc%8111-6%e4%b8%87%e8%a1%8c%e4%bb%a3%e7%a0%81%e6%8f%aa%e5%87%ba66%e4%b8%aa%ef%bc%8c%e5%8d%95agent%e6%9c%80%e9%ab%98%e5%8f%aa%e6%89%be%e5%88%b0/",
+        "description": "单Agent最好的一次，找出27个Bug。 换成Claude自己组队，连跑三次，每次都查出66个。",
+        "detail": "单Agent最好的一次，找出27个Bug。 换成Claude自己组队，连跑三次，每次都查出66个。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "MIT教授绝望：OpenAI攻克的千禧年难题，人类已经看不懂了！",
+        "link": "https://aiera.com.cn/2026/10/12/other/admin/118110/mit%e6%95%99%e6%8e%88%e7%bb%9d%e6%9c%9b%ef%bc%9aopenai%e6%94%bb%e5%85%8b%e7%9a%84%e5%8d%83%e7%a6%a7%e5%b9%b4%e9%9a%be%e9%a2%98%ef%bc%8c%e4%ba%ba%e7%b1%bb%e5%b7%b2%e7%bb%8f%e7%9c%8b%e4%b8%8d%e6%87%82/",
+        "description": "最近，全世界的数学圈都被AI核爆了。 OpenAI一口气发表了722篇论文。 这些论文虽仍接受核查，但看起来，从唯一博弈猜想到准黎曼假设，许多知名的未解数学难题已攻克了。",
+        "detail": "最近，全世界的数学圈都被AI核爆了。 OpenAI一口气发表了722篇论文。 这些论文虽仍接受核查，但看起来，从唯一博弈猜想到准黎曼假设，许多知名的未解数学难题已攻克了。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "丘成桐弟子再立功，广义庞加莱猜想证明首次形式化验证！",
+        "link": "https://aiera.com.cn/2026/10/12/other/admin/118091/%e4%b8%98%e6%88%90%e6%a1%90%e5%bc%9f%e5%ad%90%e5%86%8d%e7%ab%8b%e5%8a%9f%ef%bc%8c%e5%b9%bf%e4%b9%89%e5%ba%9e%e5%8a%a0%e8%8e%b1%e7%8c%9c%e6%83%b3%e8%af%81%e6%98%8e%e9%a6%96%e6%ac%a1%e5%bd%a2%e5%bc%8f/",
+        "description": "就在刚刚，数学界又有大消息了。 9月，AI成功形式化验证「庞加莱猜想」已经震撼了数学界。 刚刚，由Ayush Khaitan带领的顶尖学术团队，联合NVIDIA Humanfi…",
+        "detail": "就在刚刚，数学界又有大消息了。 9月，AI成功形式化验证「庞加莱猜想」已经震撼了数学界。 刚刚，由Ayush Khaitan带领的顶尖学术团队，联合NVIDIA Humanfi…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "阿里巴巴中国电商事业群/飞猪CTO陈烨博士已确认出席QCon上海，分享“从 Coding 到消费：AI 的下一场革命”",
+        "link": "https://www.infoq.cn/article/4hYrs8ShAKPAhyzTGQ92?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
+        "link": "https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 曝苹果与 ADT 合作，为家居中枢提供安装服务\n· 蔚来广东换电站达到 500 座，六城同步新增第五代站\n· 苹果 COO 探访郑州工厂，披露 iPhone Duo 屏幕与芯片制造工艺#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 曝苹果与 ADT 合作，为家居中枢提供安装服务\n· 蔚来广东换电站达到 500 座，六城同步新增第五代站\n· 苹果 COO 探访郑州工厂，披露 iPhone Duo 屏幕与芯片制造工艺#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+        "link": "https://sspai.com/post/115845",
+        "description": "工信部等就进一步加强汽车产品创新设计管理征求意见三季度全球 PC 出货量骤降法国判决 Cloudflare 无须通过 DNS 屏蔽盗版Anthropic 宣布切断内部评估环境的互联网访问权限AI 助力老游戏移植到浏览器3C 证书大面积暂停，电动自行车销售接近停滞看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "detail": "工信部等就进一步加强汽车产品创新设计管理征求意见三季度全球 PC 出货量骤降法国判决 Cloudflare 无须通过 DNS 屏蔽盗版Anthropic 宣布切断内部评估环境的互联网访问权限AI 助力老游戏移植到浏览器3C 证书大面积暂停，电动自行车销售接近停滞看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "少数派"
+      },
+      {
+        "title": "尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道",
+        "link": "http://www.geekpark.net/news/372218",
+        "description": "\n        \n陶哲轩提出「数学 2.0」：AI 解题之外，还要帮助人理解证明\n10 月 11 日，数学家陶哲轩公开了在加州理工学院的演讲《数学 2.0》。他认为，AI 正在降低部分数学问题的求解成本，使数学研究逐渐从「证明稀缺」走向「证明富足」。但目前多数前沿问题仍未解决，不能只凭公开传播的成功案例判断 AI 的整体能力。\n\n陶哲轩指出，得到正确证明，并不意味着研究者理解了证明为何成立，或掌",
+        "detail": "\n        \n陶哲轩提出「数学 2.0」：AI 解题之外，还要帮助人理解证明\n10 月 11 日，数学家陶哲轩公开了在加州理工学院的演讲《数学 2.0》。他认为，AI 正在降低部分数学问题的求解成本，使数学研究逐渐从「证明稀缺」走向「证明富足」。但目前多数前沿问题仍未解决，不能只凭公开传播的成功案例判断 AI 的整体能力。\n\n陶哲轩指出，得到正确证明，并不意味着研究者理解了证明为何成立，或掌",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "一套内容能力撬动多元增长，东南亚内容电商卖家加速布局Shopee",
+        "link": "https://www.leiphone.com/category/industrynews/BLiBzNReTUzIjQ9E.html",
+        "description": "过去几年，东南亚电商持续增长，消费者的购物路径也越来越多元：一边是短视频、直播和达人带货不断成熟，另一边，货架电商依然承接着稳定且广泛的主动消费需求。对已经在内容电商取得一定成绩的卖家来说，如何把现有商品、素材和运营积累带到更多流量场景，正在成为拓展生意边界的新思路。近日，Shopee面向具备成熟内容电商运营经验的优质卖家推出“新航道计划”，通过佣金减免、广告金补贴、流量激励等专项扶持，降低卖家拓",
+        "detail": "过去几年，东南亚电商持续增长，消费者的购物路径也越来越多元：一边是短视频、直播和达人带货不断成熟，另一边，货架电商依然承接着稳定且广泛的主动消费需求。对已经在内容电商取得一定成绩的卖家来说，如何把现有商品、素材和运营积累带到更多流量场景，正在成为拓展生意边界的新思路。近日，Shopee面向具备成熟内容电商运营经验的优质卖家推出“新航道计划”，通过佣金减免、广告金补贴、流量激励等专项扶持，降低卖家拓",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "费莫一刘念邱：智驾无图的经验，也能迁移到机器人 | 物理AI 50人",
+        "link": "https://www.leiphone.com/category/transportation/Y6GLcnioywVn3u7K.html",
+        "description": "刘念邱很难被归进典型的具身创业者模板里。他不是从机器人实验室出来的学者，也不是过去两年才进入 Physical AI 的连续创业者。他曾在英特尔做过新工艺和设备研发，创业做过物联网和工业智能化。2018年加入自动驾驶公司元戎启行，他又从硬件一路做到Robotaxi运营、产品、数据、量产和售后。2026年，刘念邱又多了一个身份——费莫一科技创始人。事实上，从2024年开始，他就一直密切关注具身智能的",
+        "detail": "刘念邱很难被归进典型的具身创业者模板里。他不是从机器人实验室出来的学者，也不是过去两年才进入 Physical AI 的连续创业者。他曾在英特尔做过新工艺和设备研发，创业做过物联网和工业智能化。2018年加入自动驾驶公司元戎启行，他又从硬件一路做到Robotaxi运营、产品、数据、量产和售后。2026年，刘念邱又多了一个身份——费莫一科技创始人。事实上，从2024年开始，他就一直密切关注具身智能的",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "weekday": "星期日",
     "summary": "今日共收录 29 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 爱范儿, 量子位。",
