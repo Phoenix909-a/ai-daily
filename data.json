@@ -2,8 +2,71 @@
   {
     "date": "2026-10-12",
     "weekday": "星期一",
-    "summary": "今日共收录 15 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 33 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+        "link": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
+        "description": "\n        Google Deepmind's AlphaProof Nexus solved dozens of open math problems, including nine Erdős problems two of which were unsolved for 56 years, per a study in Science. The publication comes as",
+        "detail": "\n        Google Deepmind's AlphaProof Nexus solved dozens of open math problems, including nine Erdős problems two of which were unsolved for 56 years, per a study in Science. The publication comes as",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Inside Muse 🤖, Apple HomeView 🏠, AI experimentation 👨‍💻",
+        "link": "https://tldr.tech/tech/2026-10-12",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TLDR AI"
+      },
+      {
+        "title": "Invited - AI Reminder Scanner",
+        "link": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Edgee Mod for Claude Code",
+        "link": "https://www.producthunt.com/products/edgee",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+        "link": "https://www.qbitai.com/2026/10/502654.html",
+        "description": "游戏打到21:0，AI甚至不用再调用大模型了",
+        "detail": "游戏打到21:0，AI甚至不用再调用大模型了",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "智谱新模型，490 tokens/s！",
+        "link": "https://www.qbitai.com/2026/10/502649.html",
+        "description": "GLM「速度仙人」来了？",
+        "detail": "GLM「速度仙人」来了？",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "模思智能完成超10亿元Pre-A轮融资，押注下一代AI全模态实时交互基座",
+        "link": "https://aiera.com.cn/2026/10/12/other/admin/118233/%e6%a8%a1%e6%80%9d%e6%99%ba%e8%83%bd%e5%ae%8c%e6%88%90%e8%b6%8510%e4%ba%bf%e5%85%83pre-a%e8%bd%ae%e8%9e%8d%e8%b5%84%ef%bc%8c%e6%8a%bc%e6%b3%a8%e4%b8%8b%e4%b8%80%e4%bb%a3ai%e5%85%a8%e6%a8%a1%e6%80%81/",
+        "description": "10月12日，模思智能官宣完成超10亿元Pre-A轮融资，由华控基金领投，主要投资方包括国开科创、上海科创基金、新微资本、徐汇资本、追光硬科技创投、临港策源基金等，元禾控股、上…",
+        "detail": "10月12日，模思智能官宣完成超10亿元Pre-A轮融资，由华控基金领投，主要投资方包括国开科创、上海科创基金、新微资本、徐汇资本、追光硬科技创投、临港策源基金等，元禾控股、上…",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "新智元"
+      },
       {
         "title": "Claude突然白送500刀！",
         "link": "https://aiera.com.cn/2026/10/12/other/admin/118229/claude%e7%aa%81%e7%84%b6%e7%99%bd%e9%80%81500%e5%88%80%ef%bc%81/",
@@ -86,6 +149,24 @@
         "source": "新智元"
       },
       {
+        "title": "从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕",
+        "link": "https://www.infoq.cn/article/DpieQJ598YdxQC8Ymjso?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
+        "link": "https://www.infoq.cn/article/Qk7CzmLpDCvfYpAiU6Tf?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "阿里巴巴中国电商事业群/飞猪CTO陈烨博士已确认出席QCon上海，分享“从 Coding 到消费：AI 的下一场革命”",
         "link": "https://www.infoq.cn/article/4hYrs8ShAKPAhyzTGQ92?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -122,6 +203,60 @@
         "source": "极客公园"
       },
       {
+        "title": "百度世界2026将于11月12日在北京举办，主题为「下一幕，智能组织」",
+        "link": "https://www.leiphone.com/category/industrynews/ukm5yjK3oT5X29yV.html",
+        "description": "10月12日，百度官方宣布，百度世界2026将于11月12日在北京·国家会议中心二期举办。目前，大会官网已开启售票通道（https://baiduworld2026.events.net.cn/tickets）。&nbsp;本届大会以「下一幕，智能组织」为主题。十年前，百度创始人李彦宏在百度世界2016上提出“互联网的下一幕，是人工智能”。十年后，「下一幕，智能组织」的大会主题与这一判断形成呼应，",
+        "detail": "10月12日，百度官方宣布，百度世界2026将于11月12日在北京·国家会议中心二期举办。目前，大会官网已开启售票通道（https://baiduworld2026.events.net.cn/tickets）。&nbsp;本届大会以「下一幕，智能组织」为主题。十年前，百度创始人李彦宏在百度世界2016上提出“互联网的下一幕，是人工智能”。十年后，「下一幕，智能组织」的大会主题与这一判断形成呼应，",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "奥比中光砍掉割草机器人ODM业务，千台级出货难撑整机梦",
+        "link": "https://www.leiphone.com/category/robot/GUx09tTTDB6WVdTN.html",
+        "description": "雷峰网独家获悉，3D视觉感知企业奥比中光已于9月中旬内部决定，砍掉割草机器人ODM业务。但视觉模组产品线不受影响，面向户外机器人的感知模组仍正常推进。回顾其入局路径，割草机ODM业务原本被寄予厚望。该项目由机器人业务前任销售负责人力推，奥比中光曾为此投入整机研发资源，并获得了上海某客户的订单。但实际出货累计仅数千台，远低于预期。知情人士透露，砍掉ODM业务是多重因素叠加下的及时止损，原因有三。一是",
+        "detail": "雷峰网独家获悉，3D视觉感知企业奥比中光已于9月中旬内部决定，砍掉割草机器人ODM业务。但视觉模组产品线不受影响，面向户外机器人的感知模组仍正常推进。回顾其入局路径，割草机ODM业务原本被寄予厚望。该项目由机器人业务前任销售负责人力推，奥比中光曾为此投入整机研发资源，并获得了上海某客户的订单。但实际出货累计仅数千台，远低于预期。知情人士透露，砍掉ODM业务是多重因素叠加下的及时止损，原因有三。一是",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "吉利银河战舰700上市：限时焕新价16.98万元起，押注电混与智能越野",
+        "link": "https://www.leiphone.com/category/transportation/3ybm9fbHLDY2qSFw.html",
+        "description": "10月10日，吉利首款新能源硬派SUV银河战舰700在杭州正式上市，推出三种动力、六大版型，上市限时焕新价16.98万元起。作为吉利银河拓展硬派SUV品类的首款产品，战舰700将目标用户同时指向越野爱好者与家庭用户。其核心技术包括GTA原生硬派架构、雷神EM-T电混系统，以及AI全地形模式，试图兼顾非铺装路面的通过能力与城市出行的舒适性、能耗和智能化体验。根据官方信息，新车全系标配47kWh电池、",
+        "detail": "10月10日，吉利首款新能源硬派SUV银河战舰700在杭州正式上市，推出三种动力、六大版型，上市限时焕新价16.98万元起。作为吉利银河拓展硬派SUV品类的首款产品，战舰700将目标用户同时指向越野爱好者与家庭用户。其核心技术包括GTA原生硬派架构、雷神EM-T电混系统，以及AI全地形模式，试图兼顾非铺装路面的通过能力与城市出行的舒适性、能耗和智能化体验。根据官方信息，新车全系标配47kWh电池、",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "长城汽车魏牌CEO赵永坡：最大的豪华不是沙发，是刹车；华为被曝将推出子品牌「星芒」；Claude半年封杀1140万个账号，申诉后仅4.2万翻案",
+        "link": "https://www.leiphone.com/category/zaobao/xstKMq1hNFUDGs69.html",
+        "description": "要闻提示1.马斯克向印度超级富豪“道歉”：我太眼拙了，没认出您的真实身份2.长城汽车魏牌CEO赵永坡：最大的豪华不是沙发，是刹车3.华为被曝将推出子品牌「星芒」4.字节、腾讯急推个人智能体产品，紧跟Meta Muse5.iPhone Duo加单30%！还未开售，京东预约人数破200万6.周鸿祎攀岩从3米高处摔下，左膝粉碎性骨折7.不进美国也要当销冠！比亚迪李柯：五年内赶超丰田、大众，登顶全球车企销",
+        "detail": "要闻提示1.马斯克向印度超级富豪“道歉”：我太眼拙了，没认出您的真实身份2.长城汽车魏牌CEO赵永坡：最大的豪华不是沙发，是刹车3.华为被曝将推出子品牌「星芒」4.字节、腾讯急推个人智能体产品，紧跟Meta Muse5.iPhone Duo加单30%！还未开售，京东预约人数破200万6.周鸿祎攀岩从3米高处摔下，左膝粉碎性骨折7.不进美国也要当销冠！比亚迪李柯：五年内赶超丰田、大众，登顶全球车企销",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免 2 周！",
+        "link": "https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html",
+        "description": "10 月 12 日消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将助力 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。Step 5 Pr",
+        "detail": "10 月 12 日消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将助力 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。Step 5 Pr",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "微软用阿里Qwen打造决策模型，或将推广至所有领域",
+        "link": "https://www.leiphone.com/category/industrynews/LApMolUCs9YwwXHn.html",
+        "description": "10月12日，微软基于阿里Qwen，推出全新决策模型Microsoft-Decision-1。微软官方透露称，该模型基于Qwen3.5-9B后训练而成，在结构化决策任务中，该模型在时延和准确性等方面均超过了LLM及Jev 1.13.0等热门决策模型。微软Xbox研究团队已用它处理超过1万条玩家反馈，微软CEO纳德拉也在社交媒体上透露称，基于新模型的优异表现，微软正在所有领域测试应用新模型，包括事件",
+        "detail": "10月12日，微软基于阿里Qwen，推出全新决策模型Microsoft-Decision-1。微软官方透露称，该模型基于Qwen3.5-9B后训练而成，在结构化决策任务中，该模型在时延和准确性等方面均超过了LLM及Jev 1.13.0等热门决策模型。微软Xbox研究团队已用它处理超过1万条玩家反馈，微软CEO纳德拉也在社交媒体上透露称，基于新模型的优异表现，微软正在所有领域测试应用新模型，包括事件",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
         "title": "一套内容能力撬动多元增长，东南亚内容电商卖家加速布局Shopee",
         "link": "https://www.leiphone.com/category/industrynews/BLiBzNReTUzIjQ9E.html",
         "description": "过去几年，东南亚电商持续增长，消费者的购物路径也越来越多元：一边是短视频、直播和达人带货不断成熟，另一边，货架电商依然承接着稳定且广泛的主动消费需求。对已经在内容电商取得一定成绩的卖家来说，如何把现有商品、素材和运营积累带到更多流量场景，正在成为拓展生意边界的新思路。近日，Shopee面向具备成熟内容电商运营经验的优质卖家推出“新航道计划”，通过佣金减免、广告金补贴、流量激励等专项扶持，降低卖家拓",
@@ -138,6 +273,33 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
+      },
+      {
+        "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+        "description": "[HN] +103 points · 77 comments · by m463",
+        "detail": "[HN] +103 points · 77 comments · by m463",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "hackernews"
+      },
+      {
+        "title": "QGIS bans AI assisted contributions",
+        "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "description": "[HN] +23 points · 8 comments · by bwnkl",
+        "detail": "[HN] +23 points · 8 comments · by bwnkl",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "hackernews"
+      },
+      {
+        "title": "Hetzner: The New GPU Server GEX63 for Professional AI Workloads",
+        "link": "https://www.hetzner.com/_ray/pow",
+        "description": "[HN] +6 points · 2 comments · by tosh",
+        "detail": "[HN] +6 points · 2 comments · by tosh",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
       }
     ]
   },
