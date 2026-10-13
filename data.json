@@ -1,5 +1,264 @@
 [
   {
+    "date": "2026-10-13",
+    "weekday": "星期二",
+    "summary": "今日共收录 28 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "PostNitro for Agents",
+        "link": "https://www.producthunt.com/products/postnitro",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Agent Craft",
+        "link": "https://www.producthunt.com/products/agent-craft",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "The Drive AI",
+        "link": "https://www.producthunt.com/products/the-drive-ai-2",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Invited - AI Reminder Scanner",
+        "link": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Karpathy撕开AI折叠真相！全球20亿人被蒙骗，2000万人陷入智能体眩晕",
+        "link": "https://aiera.com.cn/2026/10/13/other/admin/118406/karpathy%e6%92%95%e5%bc%80ai%e6%8a%98%e5%8f%a0%e7%9c%9f%e7%9b%b8%ef%bc%81%e5%85%a8%e7%90%8320%e4%ba%bf%e4%ba%ba%e8%a2%ab%e8%92%99%e9%aa%97%ef%bc%8c2000%e4%b8%87%e4%ba%ba%e9%99%b7%e5%85%a5%e6%99%ba/",
+        "description": "就在刚刚，Karpathy抛出一个冷酷真相：人类对AI能力的认知，正在经历一场惊人的「认知折叠」。",
+        "detail": "就在刚刚，Karpathy抛出一个冷酷真相：人类对AI能力的认知，正在经历一场惊人的「认知折叠」。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "注意力也是FFN？从快权重出发，重新理解高效注意力 |NeurIPS’26",
+        "link": "https://aiera.com.cn/2026/10/13/other/admin/118390/%e6%b3%a8%e6%84%8f%e5%8a%9b%e4%b9%9f%e6%98%afffn%ef%bc%9f%e4%bb%8e%e5%bf%ab%e6%9d%83%e9%87%8d%e5%87%ba%e5%8f%91%ef%bc%8c%e9%87%8d%e6%96%b0%e7%90%86%e8%a7%a3%e9%ab%98%e6%95%88%e6%b3%a8%e6%84%8f/",
+        "description": "一直以来，在Transformer架构中，注意力（Attention）与前馈网络（Feed-Forward Network，FFN）被认为是两个功能不同且互补的模块：",
+        "detail": "一直以来，在Transformer架构中，注意力（Attention）与前馈网络（Feed-Forward Network，FFN）被认为是两个功能不同且互补的模块：",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "6个月引爆重大AI灾难！OpenAI与Anthropic秘密推演「末日第二天」",
+        "link": "https://aiera.com.cn/2026/10/13/other/admin/118353/6%e4%b8%aa%e6%9c%88%e5%bc%95%e7%88%86%e9%87%8d%e5%a4%a7ai%e7%81%be%e9%9a%be%ef%bc%81openai%e4%b8%8eanthropic%e7%a7%98%e5%af%86%e6%8e%a8%e6%bc%94%e3%80%8c%e6%9c%ab%e6%97%a5%e7%ac%ac%e4%ba%8c%e5%a4%a9/",
+        "description": "留给人类的时间，只剩半年了？ Axios最近刚爆了个猛料，OpenAI、Anthropic等硅谷巨头，私底下正在秘密推演一个极端剧本——",
+        "detail": "留给人类的时间，只剩半年了？ Axios最近刚爆了个猛料，OpenAI、Anthropic等硅谷巨头，私底下正在秘密推演一个极端剧本——",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "马斯克亲口承认：全球只有3家拥有足够数据！自己不在其中",
+        "link": "https://aiera.com.cn/2026/10/13/other/admin/118337/%e9%a9%ac%e6%96%af%e5%85%8b%e4%ba%b2%e5%8f%a3%e6%89%bf%e8%ae%a4%ef%bc%9a%e5%85%a8%e7%90%83%e5%8f%aa%e6%9c%893%e5%ae%b6%e6%8b%a5%e6%9c%89%e8%b6%b3%e5%a4%9f%e6%95%b0%e6%8d%ae%ef%bc%81%e8%87%aa%e5%b7%b1/",
+        "description": "600 亿美元，买一张补票。 10 月 10 日，两千多人的 X Takeover 活动现场，马斯克远程连线。主持人直接问他：你为什么要买 Cursor？",
+        "detail": "600 亿美元，买一张补票。 10 月 10 日，两千多人的 X Takeover 活动现场，马斯克远程连线。主持人直接问他：你为什么要买 Cursor？",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "神秘Claude Next偷跑上线！4行提示手搓3D电影级大片",
+        "link": "https://aiera.com.cn/2026/10/13/other/admin/118325/%e5%88%9a%e5%88%9a%ef%bc%8c%e7%a5%9e%e7%a7%98claude-next%e5%81%b7%e8%b7%91%e4%b8%8a%e7%ba%bf%ef%bc%814%e8%a1%8c%e6%8f%90%e7%a4%ba%e6%89%8b%e6%90%933d%e7%94%b5%e5%bd%b1%e7%ba%a7%e5%a4%a7%e7%89%87/",
+        "description": "Anthropic，怕是又憋了个大的！ 明明选的还是Opus 5.5，出来的效果却像换了个模型。",
+        "detail": "Anthropic，怕是又憋了个大的！ 明明选的还是Opus 5.5，出来的效果却像换了个模型。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic放手，亚马逊想买！帮AI「换芯片」，凭什么值70亿美元？",
+        "link": "https://aiera.com.cn/2026/10/13/other/admin/118295/anthropic%e6%94%be%e6%89%8b%ef%bc%8c%e4%ba%9a%e9%a9%ac%e9%80%8a%e6%83%b3%e4%b9%b0%ef%bc%81%e5%b8%aeai%e3%80%8c%e6%8d%a2%e8%8a%af%e7%89%87%e3%80%8d%ef%bc%8c%e5%87%ad%e4%bb%80%e4%b9%88%e5%80%bc70/",
+        "description": "刚刚，亚马逊曝出一笔约70亿美元的AI收购！ 10月11日，《华尔街日报》援引知情人士称，亚马逊正在洽购AI创业公司Decart，潜在交易估值约70亿美元。",
+        "detail": "刚刚，亚马逊曝出一笔约70亿美元的AI收购！ 10月11日，《华尔街日报》援引知情人士称，亚马逊正在洽购AI创业公司Decart，潜在交易估值约70亿美元。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "前米哈游大佬出手，让「赛博老婆」活过来！已获千万美元融资",
+        "link": "https://aiera.com.cn/2026/10/13/other/admin/118283/%e5%89%8d%e7%b1%b3%e5%93%88%e6%b8%b8%e5%a4%a7%e4%bd%ac%e5%87%ba%e6%89%8b%ef%bc%8c%e8%ae%a9%e3%80%8c%e8%b5%9b%e5%8d%9a%e8%80%81%e5%a9%86%e3%80%8d%e6%b4%bb%e8%bf%87%e6%9d%a5%ef%bc%81%e5%b7%b2%e8%8e%b7/",
+        "description": "未来数字世界会是什么样？ 在全球计算机图形学学术界 TOP1 顶会——SIGGRAPH，已经透露了信号。",
+        "detail": "未来数字世界会是什么样？ 在全球计算机图形学学术界 TOP1 顶会——SIGGRAPH，已经透露了信号。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "新智元"
+      },
+      {
+        "title": "马斯克戳破泡沫！千台机器人勇闯魔都「盲考」，撕开PPT真相",
+        "link": "https://aiera.com.cn/2026/10/13/other/admin/118271/%e9%a9%ac%e6%96%af%e5%85%8b%e6%88%b3%e7%a0%b4%e6%b3%a1%e6%b2%ab%ef%bc%81%e5%8d%83%e5%8f%b0%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%8b%87%e9%97%af%e9%ad%94%e9%83%bd%e3%80%8c%e7%9b%b2%e8%80%83%e3%80%8d%ef%bc%8c/",
+        "description": "2026国际具身智能技能大赛将于10月23日在沪举行——真机实训，打造全国具身智能实景实战示范平台。",
+        "detail": "2026国际具身智能技能大赛将于10月23日在沪举行——真机实训，打造全国具身智能实景实战示范平台。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6.1 Sol一夜扩容500k！完全免费",
+        "link": "https://aiera.com.cn/2026/10/13/other/admin/118249/gpt-6-1-sol%e4%b8%80%e5%a4%9c%e6%89%a9%e5%ae%b9500k%ef%bc%81%e5%ae%8c%e5%85%a8%e5%85%8d%e8%b4%b9/",
+        "description": "GPT-6.1 Sol，默认上下文直接冲到500k！ OpenAI Day 7更新，把Codex和ChatGPT Work里的默认窗口从272k扩到500k，一口气涨了约80%…",
+        "detail": "GPT-6.1 Sol，默认上下文直接冲到500k！ OpenAI Day 7更新，把Codex和ChatGPT Work里的默认窗口从272k扩到500k，一口气涨了约80%…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+        "link": "https://www.infoq.cn/article/MrxaqhrQBMrZTcSGEgL1?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "link": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "link": "https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能",
+        "link": "https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 博通 CEO：晶圆与内存短缺正在缓解，AI 扩张更受资金约束\n· 9 月乘用车零售同比下降 28%，新能源渗透率升至 67%\n· 大众 CEO 呼吁加强合作，应对中国车企竞争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 博通 CEO：晶圆与内存短缺正在缓解，AI 扩张更受资金约束\n· 9 月乘用车零售同比下降 28%，新能源渗透率升至 67%\n· 大众 CEO 呼吁加强合作，应对中国车企竞争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "上线九个月下载破亿，字节在海外再造「红果」",
+        "link": "http://www.geekpark.net/news/372284",
+        "description": "\n        &nbsp;\n头图来源：视觉中国\n上线不到一年，字节跳动旗下的短剧 App PineDrama，累计下载量已经突破 1 亿次。\n10 月 12 日，Sensor Tower 的一组数据让短剧赛道再添热度：字节跳动旗下海外短剧应用 PineDrama 累计下载量已突破 1 亿次，日活跃用户约 700 万，仅 2026 年 9 月单月下载量就超过 1200 万次。\n距离这款产品正式上",
+        "detail": "\n        &nbsp;\n头图来源：视觉中国\n上线不到一年，字节跳动旗下的短剧 App PineDrama，累计下载量已经突破 1 亿次。\n10 月 12 日，Sensor Tower 的一组数据让短剧赛道再添热度：字节跳动旗下海外短剧应用 PineDrama 累计下载量已突破 1 亿次，日活跃用户约 700 万，仅 2026 年 9 月单月下载量就超过 1200 万次。\n距离这款产品正式上",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "极客公园"
+      },
+      {
+        "title": "复旦邱锡鹏团队获超 10 亿融资，成立两年，让模型感知、理解、响应变化的世界",
+        "link": "http://www.geekpark.net/news/372278",
+        "description": "\n        大模型融资还在继续，新的押注转向了能边听、边看、边说的 AI。作者｜Li Yuan编辑｜郑玄想象这样一个家庭场景。孩子正在玩玩具，突然，厨房里「哐」的一声，玻璃碎了，紧接着传来孩子的声音：「不是我。」语速很快，尾音压得很低，有点紧张。两秒后，一只猫从厨房门口窜出来，钻进了沙发底下。今天的模型，能分别识别这些信息。转写模型能记下孩子的话，音频模型能听出是玻璃碎裂，视觉模型能认出那只",
+        "detail": "\n        大模型融资还在继续，新的押注转向了能边听、边看、边说的 AI。作者｜Li Yuan编辑｜郑玄想象这样一个家庭场景。孩子正在玩玩具，突然，厨房里「哐」的一声，玻璃碎了，紧接着传来孩子的声音：「不是我。」语速很快，尾音压得很低，有点紧张。两秒后，一只猫从厨房门口窜出来，钻进了沙发底下。今天的模型，能分别识别这些信息。转写模型能记下孩子的话，音频模型能听出是玻璃碎裂，视觉模型能认出那只",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道",
+        "link": "http://www.geekpark.net/news/372264",
+        "description": "\n        \n曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局具身智能\n据报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域，并与多位该领域创业者交流，探讨机器人、大模型与现实世界交互等方向。\n据知情人士透露，梁文锋正在考虑 DeepSeek 进入具身智能领域的可能性，可能会亲自组建团队下场研发，也可能通过投资相关企业切入。\n此前，梁文锋已投资宇树科技，另据彭博社报道，De",
+        "detail": "\n        \n曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局具身智能\n据报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域，并与多位该领域创业者交流，探讨机器人、大模型与现实世界交互等方向。\n据知情人士透露，梁文锋正在考虑 DeepSeek 进入具身智能领域的可能性，可能会亲自组建团队下场研发，也可能通过投资相关企业切入。\n此前，梁文锋已投资宇树科技，另据彭博社报道，De",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "千问确认将推出「千问Go!」，已开放体验申请",
+        "link": "https://www.leiphone.com/category/industrynews/GalDeSPl8orEfNoI.html",
+        "description": "10月13日，千问官方公众号发布消息，Personal Agent「千问Go!」的体验申请页面已在千问APP上线。用户可通过APP内指定入口提交申请，千问将逐步为更多用户开放体验资格。&nbsp;官方公告显示，让每个人拥有自己专属的AI助理，是千问一直以来的目标，此前，依托阿里生态与开放平台，千问已具备购物、出行、物流等领数十领域的个人办事能力。&nbsp;千问推出Personal Agent「千",
+        "detail": "10月13日，千问官方公众号发布消息，Personal Agent「千问Go!」的体验申请页面已在千问APP上线。用户可通过APP内指定入口提交申请，千问将逐步为更多用户开放体验资格。&nbsp;官方公告显示，让每个人拥有自己专属的AI助理，是千问一直以来的目标，此前，依托阿里生态与开放平台，千问已具备购物、出行、物流等领数十领域的个人办事能力。&nbsp;千问推出Personal Agent「千",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "1688全面接入AI电商工作台Accio",
+        "link": "https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html",
+        "description": "10月13日，阿里旗下数字供应链平台1688宣布，即日起，平台逾1亿年度活跃买家和超100万源头厂商，均可直接开通全球电商AI工作台Accio。接入Accio后，买家不仅能用其完成采购，还能借助“电商管家”智能体运营全网生意；卖家则可通过Accio一站式管理1688店铺。买家直接用1688账号登录Accio即可开通。卖家在Accio下载“1688生意助手”并绑定店铺后即可使用。作为专为B类生意场景",
+        "detail": "10月13日，阿里旗下数字供应链平台1688宣布，即日起，平台逾1亿年度活跃买家和超100万源头厂商，均可直接开通全球电商AI工作台Accio。接入Accio后，买家不仅能用其完成采购，还能借助“电商管家”智能体运营全网生意；卖家则可通过Accio一站式管理1688店铺。买家直接用1688账号登录Accio即可开通。卖家在Accio下载“1688生意助手”并绑定店铺后即可使用。作为专为B类生意场景",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "1688全面接入AI电商工作台Accio",
+        "link": "https://www.leiphone.com/category/industrynews/rsj1mgq45ea7h9mt.html",
+        "description": "10月13日，阿里1688宣布接入全球电商AI工作台Accio。即日起，1688平台逾1亿年度活跃买家和超100万源头厂商均可直接开通。双11前夕，Accio为“1688进货、全网卖货”的中小买家，提供用于全球寻源、比价、谈单的“采购助手”，以及打通淘宝、天猫、抖音、拼多多、京东等多平台的“电商管家”；同时，面向源头厂商上线“1688生意助手”，推出针对现货、定制和跨境三类生意场景的差异化AI能力",
+        "detail": "10月13日，阿里1688宣布接入全球电商AI工作台Accio。即日起，1688平台逾1亿年度活跃买家和超100万源头厂商均可直接开通。双11前夕，Accio为“1688进货、全网卖货”的中小买家，提供用于全球寻源、比价、谈单的“采购助手”，以及打通淘宝、天猫、抖音、拼多多、京东等多平台的“电商管家”；同时，面向源头厂商上线“1688生意助手”，推出针对现货、定制和跨境三类生意场景的差异化AI能力",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "「千问Go！」即将发布，刚帮用户在淘宝申请52元价保退款",
+        "link": "https://www.leiphone.com/category/industrynews/F5qbcy2P4jf6f81T.html",
+        "description": "10月13日消息，千问Personal Agent「千问Go！」即将发布。一位用户使用后分享，通过千问Go为自己申请航班延误理赔，已获取70元理赔款；也有用户表示，千问Go已帮忙申请到52元的淘宝价保退款。此外，千问Go还可执行汽车保养、运动预约和购物比价等任务。&nbsp;资料显示，千问是全球首个能为用户办事的个人AI助理。自去年上线以来，基于阿里生态和开放平台，已实现购物、打车、快递、理财等能",
+        "detail": "10月13日消息，千问Personal Agent「千问Go！」即将发布。一位用户使用后分享，通过千问Go为自己申请航班延误理赔，已获取70元理赔款；也有用户表示，千问Go已帮忙申请到52元的淘宝价保退款。此外，千问Go还可执行汽车保养、运动预约和购物比价等任务。&nbsp;资料显示，千问是全球首个能为用户办事的个人AI助理。自去年上线以来，基于阿里生态和开放平台，已实现购物、打车、快递、理财等能",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+        "link": "https://arxiv.org/abs/2610.13928",
+        "description": "[HN] +153 points · 84 comments · by sbulaev",
+        "detail": "[HN] +153 points · 84 comments · by sbulaev",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+        "link": "https://www.argmin.net/p/faster-fourier-transforms",
+        "description": "[HN] +99 points · 66 comments · by mochomocha",
+        "detail": "[HN] +99 points · 66 comments · by mochomocha",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+        "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+        "description": "[HN] +54 points · 35 comments · by novaRom",
+        "detail": "[HN] +54 points · 35 comments · by novaRom",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Software engineers don't get to be Luddites about AI",
+        "link": "https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
+        "description": "[HN] +20 points · 18 comments · by vismit2000",
+        "detail": "[HN] +20 points · 18 comments · by vismit2000",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-12",
     "weekday": "星期一",
     "summary": "今日共收录 33 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
