@@ -2,11 +2,47 @@
   {
     "date": "2026-10-13",
     "weekday": "星期二",
-    "summary": "今日共收录 28 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 54 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, The Verge AI, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
+        "link": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
+        "description": "\n        Anthropic says it has cut the extraction of Claude's internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Chinese companies Zhipu and Moons",
+        "detail": "\n        Anthropic says it has cut the extraction of Claude's internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Chinese companies Zhipu and Moons",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Anthropic study warns that small AI models could soon replicate across everyday devices",
+        "link": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/",
+        "description": "\n        Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In tests, one ",
+        "detail": "\n        Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In tests, one ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Character.AI files for bankruptcy",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+        "description": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for user",
+        "detail": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for user",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "The Verge AI"
+      },
       {
         "title": "PostNitro for Agents",
         "link": "https://www.producthunt.com/products/postnitro",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "The Drive AI",
+        "link": "https://www.producthunt.com/products/the-drive-ai-2",
         "description": "",
         "detail": "",
         "tag": "行业动态",
@@ -23,15 +59,6 @@
         "source": "Product Hunt"
       },
       {
-        "title": "The Drive AI",
-        "link": "https://www.producthunt.com/products/the-drive-ai-2",
-        "description": "",
-        "detail": "",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "Product Hunt"
-      },
-      {
         "title": "Invited - AI Reminder Scanner",
         "link": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
         "description": "",
@@ -39,6 +66,87 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "Product Hunt"
+      },
+      {
+        "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+        "link": "https://www.qbitai.com/2026/10/503093.html",
+        "description": "Winverse AI",
+        "detail": "Winverse AI",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+        "link": "https://www.qbitai.com/2026/10/502992.html",
+        "description": "宝马保时捷缺席",
+        "detail": "宝马保时捷缺席",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+        "link": "https://www.qbitai.com/2026/10/502954.html",
+        "description": "让材料感知压力，造出超薄高密度电子皮肤",
+        "detail": "让材料感知压力，造出超薄高密度电子皮肤",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+        "link": "https://www.qbitai.com/2026/10/502920.html",
+        "description": "拉马克进化的幽灵",
+        "detail": "拉马克进化的幽灵",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+        "link": "https://www.qbitai.com/2026/10/502907.html",
+        "description": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+        "detail": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
+        "link": "https://www.qbitai.com/2026/10/502784.html",
+        "description": "赢奖金、拿融资、送出海",
+        "detail": "赢奖金、拿融资、送出海",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
+        "link": "https://www.qbitai.com/2026/10/502849.html",
+        "description": "丢一句话进去，事儿就办完了",
+        "detail": "丢一句话进去，事儿就办完了",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+        "link": "https://www.qbitai.com/2026/10/502767.html",
+        "description": "算力、模型、行业，三层生意一起做",
+        "detail": "算力、模型、行业，三层生意一起做",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "量子位"
+      },
+      {
+        "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
+        "link": "https://www.qbitai.com/2026/10/502770.html",
+        "description": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名",
+        "detail": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
       },
       {
         "title": "Karpathy撕开AI折叠真相！全球20亿人被蒙骗，2000万人陷入智能体眩晕",
@@ -122,6 +230,51 @@
         "source": "新智元"
       },
       {
+        "title": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+        "link": "https://www.infoq.cn/article/2QXm6PqYYX57AOxTYyO0?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "刚亮相就传被英伟达收购：Gemini老兵团队凭什么还敢押注Coding Agent？",
+        "link": "https://www.infoq.cn/article/LQjytCZpPdgOE5PrWU59?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构",
+        "link": "https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程",
+        "link": "https://www.infoq.cn/article/R7OkT6DCUifdCQqAvwtJ?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "千问Personal Agent硬件升级：AI眼镜可虹膜支付，携手Bose首发AI耳夹耳机",
+        "link": "https://www.infoq.cn/article/xJ8vYf2lCwGWzVizOTSM?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
         "link": "https://www.infoq.cn/article/MrxaqhrQBMrZTcSGEgL1?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -149,112 +302,22 @@
         "source": "InfoQ 中文"
       },
       {
-        "title": "早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能",
-        "link": "https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "· 博通 CEO：晶圆与内存短缺正在缓解，AI 扩张更受资金约束\n· 9 月乘用车零售同比下降 28%，新能源渗透率升至 67%\n· 大众 CEO 呼吁加强合作，应对中国车企竞争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "detail": "· 博通 CEO：晶圆与内存短缺正在缓解，AI 扩张更受资金约束\n· 9 月乘用车零售同比下降 28%，新能源渗透率升至 67%\n· 大众 CEO 呼吁加强合作，应对中国车企竞争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "tag": "行业动态",
-        "sort_score": 58,
+        "title": "AI学会「寄生繁殖」了，Anthropic 用 15台破电视盒子养活大模型",
+        "link": "https://www.ifanr.com/1683992?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "当大模型也像病毒一样传播#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "当大模型也像病毒一样传播#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
         "source": "爱范儿"
       },
       {
-        "title": "上线九个月下载破亿，字节在海外再造「红果」",
-        "link": "http://www.geekpark.net/news/372284",
-        "description": "\n        &nbsp;\n头图来源：视觉中国\n上线不到一年，字节跳动旗下的短剧 App PineDrama，累计下载量已经突破 1 亿次。\n10 月 12 日，Sensor Tower 的一组数据让短剧赛道再添热度：字节跳动旗下海外短剧应用 PineDrama 累计下载量已突破 1 亿次，日活跃用户约 700 万，仅 2026 年 9 月单月下载量就超过 1200 万次。\n距离这款产品正式上",
-        "detail": "\n        &nbsp;\n头图来源：视觉中国\n上线不到一年，字节跳动旗下的短剧 App PineDrama，累计下载量已经突破 1 亿次。\n10 月 12 日，Sensor Tower 的一组数据让短剧赛道再添热度：字节跳动旗下海外短剧应用 PineDrama 累计下载量已突破 1 亿次，日活跃用户约 700 万，仅 2026 年 9 月单月下载量就超过 1200 万次。\n距离这款产品正式上",
-        "tag": "新功能",
-        "sort_score": 82,
-        "source": "极客公园"
-      },
-      {
-        "title": "复旦邱锡鹏团队获超 10 亿融资，成立两年，让模型感知、理解、响应变化的世界",
-        "link": "http://www.geekpark.net/news/372278",
-        "description": "\n        大模型融资还在继续，新的押注转向了能边听、边看、边说的 AI。作者｜Li Yuan编辑｜郑玄想象这样一个家庭场景。孩子正在玩玩具，突然，厨房里「哐」的一声，玻璃碎了，紧接着传来孩子的声音：「不是我。」语速很快，尾音压得很低，有点紧张。两秒后，一只猫从厨房门口窜出来，钻进了沙发底下。今天的模型，能分别识别这些信息。转写模型能记下孩子的话，音频模型能听出是玻璃碎裂，视觉模型能认出那只",
-        "detail": "\n        大模型融资还在继续，新的押注转向了能边听、边看、边说的 AI。作者｜Li Yuan编辑｜郑玄想象这样一个家庭场景。孩子正在玩玩具，突然，厨房里「哐」的一声，玻璃碎了，紧接着传来孩子的声音：「不是我。」语速很快，尾音压得很低，有点紧张。两秒后，一只猫从厨房门口窜出来，钻进了沙发底下。今天的模型，能分别识别这些信息。转写模型能记下孩子的话，音频模型能听出是玻璃碎裂，视觉模型能认出那只",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "极客公园"
-      },
-      {
-        "title": "曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道",
-        "link": "http://www.geekpark.net/news/372264",
-        "description": "\n        \n曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局具身智能\n据报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域，并与多位该领域创业者交流，探讨机器人、大模型与现实世界交互等方向。\n据知情人士透露，梁文锋正在考虑 DeepSeek 进入具身智能领域的可能性，可能会亲自组建团队下场研发，也可能通过投资相关企业切入。\n此前，梁文锋已投资宇树科技，另据彭博社报道，De",
-        "detail": "\n        \n曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局具身智能\n据报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域，并与多位该领域创业者交流，探讨机器人、大模型与现实世界交互等方向。\n据知情人士透露，梁文锋正在考虑 DeepSeek 进入具身智能领域的可能性，可能会亲自组建团队下场研发，也可能通过投资相关企业切入。\n此前，梁文锋已投资宇树科技，另据彭博社报道，De",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "极客公园"
-      },
-      {
-        "title": "千问确认将推出「千问Go!」，已开放体验申请",
-        "link": "https://www.leiphone.com/category/industrynews/GalDeSPl8orEfNoI.html",
-        "description": "10月13日，千问官方公众号发布消息，Personal Agent「千问Go!」的体验申请页面已在千问APP上线。用户可通过APP内指定入口提交申请，千问将逐步为更多用户开放体验资格。&nbsp;官方公告显示，让每个人拥有自己专属的AI助理，是千问一直以来的目标，此前，依托阿里生态与开放平台，千问已具备购物、出行、物流等领数十领域的个人办事能力。&nbsp;千问推出Personal Agent「千",
-        "detail": "10月13日，千问官方公众号发布消息，Personal Agent「千问Go!」的体验申请页面已在千问APP上线。用户可通过APP内指定入口提交申请，千问将逐步为更多用户开放体验资格。&nbsp;官方公告显示，让每个人拥有自己专属的AI助理，是千问一直以来的目标，此前，依托阿里生态与开放平台，千问已具备购物、出行、物流等领数十领域的个人办事能力。&nbsp;千问推出Personal Agent「千",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "1688全面接入AI电商工作台Accio",
-        "link": "https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html",
-        "description": "10月13日，阿里旗下数字供应链平台1688宣布，即日起，平台逾1亿年度活跃买家和超100万源头厂商，均可直接开通全球电商AI工作台Accio。接入Accio后，买家不仅能用其完成采购，还能借助“电商管家”智能体运营全网生意；卖家则可通过Accio一站式管理1688店铺。买家直接用1688账号登录Accio即可开通。卖家在Accio下载“1688生意助手”并绑定店铺后即可使用。作为专为B类生意场景",
-        "detail": "10月13日，阿里旗下数字供应链平台1688宣布，即日起，平台逾1亿年度活跃买家和超100万源头厂商，均可直接开通全球电商AI工作台Accio。接入Accio后，买家不仅能用其完成采购，还能借助“电商管家”智能体运营全网生意；卖家则可通过Accio一站式管理1688店铺。买家直接用1688账号登录Accio即可开通。卖家在Accio下载“1688生意助手”并绑定店铺后即可使用。作为专为B类生意场景",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "1688全面接入AI电商工作台Accio",
-        "link": "https://www.leiphone.com/category/industrynews/rsj1mgq45ea7h9mt.html",
-        "description": "10月13日，阿里1688宣布接入全球电商AI工作台Accio。即日起，1688平台逾1亿年度活跃买家和超100万源头厂商均可直接开通。双11前夕，Accio为“1688进货、全网卖货”的中小买家，提供用于全球寻源、比价、谈单的“采购助手”，以及打通淘宝、天猫、抖音、拼多多、京东等多平台的“电商管家”；同时，面向源头厂商上线“1688生意助手”，推出针对现货、定制和跨境三类生意场景的差异化AI能力",
-        "detail": "10月13日，阿里1688宣布接入全球电商AI工作台Accio。即日起，1688平台逾1亿年度活跃买家和超100万源头厂商均可直接开通。双11前夕，Accio为“1688进货、全网卖货”的中小买家，提供用于全球寻源、比价、谈单的“采购助手”，以及打通淘宝、天猫、抖音、拼多多、京东等多平台的“电商管家”；同时，面向源头厂商上线“1688生意助手”，推出针对现货、定制和跨境三类生意场景的差异化AI能力",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "「千问Go！」即将发布，刚帮用户在淘宝申请52元价保退款",
-        "link": "https://www.leiphone.com/category/industrynews/F5qbcy2P4jf6f81T.html",
-        "description": "10月13日消息，千问Personal Agent「千问Go！」即将发布。一位用户使用后分享，通过千问Go为自己申请航班延误理赔，已获取70元理赔款；也有用户表示，千问Go已帮忙申请到52元的淘宝价保退款。此外，千问Go还可执行汽车保养、运动预约和购物比价等任务。&nbsp;资料显示，千问是全球首个能为用户办事的个人AI助理。自去年上线以来，基于阿里生态和开放平台，已实现购物、打车、快递、理财等能",
-        "detail": "10月13日消息，千问Personal Agent「千问Go！」即将发布。一位用户使用后分享，通过千问Go为自己申请航班延误理赔，已获取70元理赔款；也有用户表示，千问Go已帮忙申请到52元的淘宝价保退款。此外，千问Go还可执行汽车保养、运动预约和购物比价等任务。&nbsp;资料显示，千问是全球首个能为用户办事的个人AI助理。自去年上线以来，基于阿里生态和开放平台，已实现购物、打车、快递、理财等能",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-        "link": "https://arxiv.org/abs/2610.13928",
-        "description": "[HN] +153 points · 84 comments · by sbulaev",
-        "detail": "[HN] +153 points · 84 comments · by sbulaev",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
-      },
-      {
-        "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
-        "link": "https://www.argmin.net/p/faster-fourier-transforms",
-        "description": "[HN] +99 points · 66 comments · by mochomocha",
-        "detail": "[HN] +99 points · 66 comments · by mochomocha",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
-      },
-      {
-        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-        "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-        "description": "[HN] +54 points · 35 comments · by novaRom",
-        "detail": "[HN] +54 points · 35 comments · by novaRom",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
-      },
-      {
-        "title": "Software engineers don't get to be Luddites about AI",
-        "link": "https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
-        "description": "[HN] +20 points · 18 comments · by vismit2000",
-        "detail": "[HN] +20 points · 18 comments · by vismit2000",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
+        "title": "小扎发布神秘「西瓜」模型，跑分媲美 Opus 5.5，口碑却一言难尽",
+        "link": "https://www.ifanr.com/1683963?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "「西瓜」熟了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "「西瓜」熟了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "对比评测",
+        "sort_score": 86,
+        "source": "爱范儿"
       }
     ]
   },
