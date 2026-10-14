@@ -2,7 +2,7 @@
   {
     "date": "2026-10-14",
     "weekday": "星期三",
-    "summary": "今日共收录 20 条 AI 动态。 来源包括：DeepMind Blog, InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 40 条 AI 动态。 来源包括：DeepMind Blog, InfoQ 中文, Product Hunt, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
       {
         "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -12,6 +12,132 @@
         "tag": "行业动态",
         "sort_score": 35,
         "source": "DeepMind Blog"
+      },
+      {
+        "title": "Gemini 4 Argon",
+        "link": "https://www.producthunt.com/products/gemini-4-argon-2",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Screenwell.ai",
+        "link": "https://www.producthunt.com/products/screenwell-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "daily.dev, now for your agent",
+        "link": "https://www.producthunt.com/products/daily-dev",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Retriever AI",
+        "link": "https://www.producthunt.com/products/rtrvr-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Spinachi AI",
+        "link": "https://www.producthunt.com/products/spinachi-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+        "link": "https://www.qbitai.com/2026/10/503244.html",
+        "description": "这妥妥是个物理版Agent啊！",
+        "detail": "这妥妥是个物理版Agent啊！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+        "link": "https://www.qbitai.com/2026/10/503231.html",
+        "description": "汽车竞争正在回归汽车本身",
+        "detail": "汽车竞争正在回归汽车本身",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+        "link": "https://www.qbitai.com/2026/10/503211.html",
+        "description": "从创意到成本，AI正在重写综艺的生产逻辑",
+        "detail": "从创意到成本，AI正在重写综艺的生产逻辑",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+        "link": "https://www.qbitai.com/2026/10/503201.html",
+        "description": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+        "detail": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+        "link": "https://www.qbitai.com/2026/10/503198.html",
+        "description": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
+        "detail": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+        "link": "https://www.qbitai.com/2026/10/503172.html",
+        "description": "给Ego补上缺失的交互信息",
+        "detail": "给Ego补上缺失的交互信息",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+        "link": "https://www.qbitai.com/2026/10/503173.html",
+        "description": "从“懂空间”到“能干活”",
+        "detail": "从“懂空间”到“能干活”",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+        "link": "https://www.qbitai.com/2026/10/503165.html",
+        "description": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+        "detail": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+        "link": "https://www.qbitai.com/2026/10/503157.html",
+        "description": "一次采集，反复使用",
+        "detail": "一次采集，反复使用",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
       },
       {
         "title": "最新硅谷内幕：三大巨头正集体冲刺RSI！",
@@ -95,6 +221,15 @@
         "source": "新智元"
       },
       {
+        "title": "从大模型到 Agent 落地，这场大会讲透 AI 全链路",
+        "link": "https://www.infoq.cn/article/PuGS7Qxy4AFOal4wVR22?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "Claude写代码太快，Git扛不住了：Anthropic仅靠7人，5个月重造版本控制系统",
         "link": "https://www.infoq.cn/article/6iRATYfkqF7aITPaFR2R?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -111,6 +246,15 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "InfoQ 中文"
+      },
+      {
+        "title": "Anthropic 宣布弃用Git，统治编程20年的工具顶不住AI了",
+        "link": "https://www.ifanr.com/1684269?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "以 AI 发展速度，一年后我们又该弃用 Scion#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "以 AI 发展速度，一年后我们又该弃用 Scion#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "爱范儿"
       },
       {
         "title": "‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌﻿⁡⁤⁡⁣⁡⁤﻿​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家",
@@ -158,31 +302,22 @@
         "source": "极客公园"
       },
       {
-        "title": "宾大茅佳源：从单次演示到 83% 真机泛化，破解具身智能数据困局｜IROS 2026",
-        "link": "https://www.leiphone.com/category/private/x6DMLw9up0rlycKH.html",
-        "description": "剖析视觉与动作脱节，引入 TR 指标与自适应引导，重构具身泛化机制。 &nbsp;&nbsp; &nbsp; 作者丨张璐&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
-        "detail": "剖析视觉与动作脱节，引入 TR 指标与自适应引导，重构具身泛化机制。 &nbsp;&nbsp; &nbsp; 作者丨张璐&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
-        "tag": "行业动态",
-        "sort_score": 58,
+        "title": "千问办公发布电商版，开启邀测",
+        "link": "https://www.leiphone.com/category/industrynews/eg8S5cDorgtGnzPy.html",
+        "description": "10月14日，千问办公发布针对电商行业的AI生产力工具——千问办公电商版，助力商家运营方式升级。目前，千问办公电商版已开启邀测，用户在千问办公中切换“电商经营”模式即可体验。针对电商客户的日常工作场景，千问办公推出“跨平台经营看板”“趋势洞察及卖点分析”“爆款素材批量生成”“跨平台ROI智能优化”等专业功能。目前，千问办公已接入生意参谋、有赞、千牛等业内主流经营工具。未来，千问办公将持续向全行业生",
+        "detail": "10月14日，千问办公发布针对电商行业的AI生产力工具——千问办公电商版，助力商家运营方式升级。目前，千问办公电商版已开启邀测，用户在千问办公中切换“电商经营”模式即可体验。针对电商客户的日常工作场景，千问办公推出“跨平台经营看板”“趋势洞察及卖点分析”“爆款素材批量生成”“跨平台ROI智能优化”等专业功能。目前，千问办公已接入生意参谋、有赞、千牛等业内主流经营工具。未来，千问办公将持续向全行业生",
+        "tag": "模型发布",
+        "sort_score": 90,
         "source": "雷锋网"
       },
       {
-        "title": "腾讯WorkBuddy企业版上线「可观测中心」破解规模化用Agent四大痛点",
-        "link": "https://www.leiphone.com/category/industrynews/f1Qk7Zv1CTpAQhYX.html",
-        "description": "打通企业上下文或只是Agent智能体走进企业办公场景的开始，“成本效率是否可管控、安全合规是否可追溯，应用效果是否可优化”企业经营管理最关心的核心问题。10月13日，腾讯 WorkBuddy 企业版管理后台上线“可观测中心”，作为企业级 Agent 智能体运行管理的「仪表盘」——从统计观测到轨迹分析，让企业级 Agent 全链路「看得全、看得清、看得透」。即日起，“可观测中心”开启公测。企业管理员",
-        "detail": "打通企业上下文或只是Agent智能体走进企业办公场景的开始，“成本效率是否可管控、安全合规是否可追溯，应用效果是否可优化”企业经营管理最关心的核心问题。10月13日，腾讯 WorkBuddy 企业版管理后台上线“可观测中心”，作为企业级 Agent 智能体运行管理的「仪表盘」——从统计观测到轨迹分析，让企业级 Agent 全链路「看得全、看得清、看得透」。即日起，“可观测中心”开启公测。企业管理员",
+        "title": "豆包工作上线新功能，支持跨AI产品一键导入已有配置",
+        "link": "https://www.leiphone.com/category/industrynews/x7Ukz8feAE9FBQsy.html",
+        "description": "近期，豆包工作持续更新，上线“数据导入与同步”功能，支持从其他AI产品一键导入数据，并推出“在新对话中继续”、消息注释和对话摘要侧栏等能力，进一步优化工作任务中的对话体验。据介绍，豆包工作的“数据导入与同步”功能支持从 ChatGPT、Claude Code、TraeWork 等已适配产品，一键导入存储在本地的任务偏好指令、技能、连接器、工作记忆、项目和历史会话等内容。用户换用豆包工作时，可沿用已",
+        "detail": "近期，豆包工作持续更新，上线“数据导入与同步”功能，支持从其他AI产品一键导入数据，并推出“在新对话中继续”、消息注释和对话摘要侧栏等能力，进一步优化工作任务中的对话体验。据介绍，豆包工作的“数据导入与同步”功能支持从 ChatGPT、Claude Code、TraeWork 等已适配产品，一键导入存储在本地的任务偏好指令、技能、连接器、工作记忆、项目和历史会话等内容。用户换用豆包工作时，可沿用已",
         "tag": "新功能",
         "sort_score": 82,
         "source": "雷锋网"
-      },
-      {
-        "title": "I built a tool to track what AI leaders say and how their views change on video",
-        "link": "https://blumify.io/people",
-        "description": "[HN] +61 points · 39 comments · by gcsydney",
-        "detail": "[HN] +61 points · 39 comments · by gcsydney",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
       }
     ]
   },
