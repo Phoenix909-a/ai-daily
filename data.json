@@ -2,7 +2,7 @@
   {
     "date": "2026-10-15",
     "weekday": "星期四",
-    "summary": "今日共收录 26 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 34 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
       {
         "title": "Figma announces new features to define how agents work on its platform",
@@ -30,6 +30,24 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "AI Sandboxes by Buddy",
+        "link": "https://www.producthunt.com/products/buddy",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Screenwell.ai",
+        "link": "https://www.producthunt.com/products/screenwell-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
       },
       {
         "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
@@ -131,6 +149,15 @@
         "source": "新智元"
       },
       {
+        "title": "Istio 1.31 拥抱 AI 智能体，却先宣布“告别”Google Cloud",
+        "link": "https://www.infoq.cn/article/JxVNJwhmsB1YYKmgD9KU?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "亚马逊云科技推出 CloudWatch Omni：不仅监控系统，还要评估 AI 是否靠谱",
         "link": "https://www.infoq.cn/article/5GOXqmJaGKbukSIWU4Uf?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -212,6 +239,24 @@
         "source": "极客公园"
       },
       {
+        "title": "昆仑万维诞生世界上第一款消费级显卡视频大模型游戏，同步开源",
+        "link": "https://www.leiphone.com/category/industrynews/OSk0jtFDeBaSizAH.html",
+        "description": " 从&quot;看 AI 生成视频&quot;，到&quot;亲手玩 AI 生成的世界&quot;——中间隔着的，其实是一道关于&quot;实时&quot;的坎。2026年10月15日，昆仑万维正式发布世界上第一款运行在单张消费级显卡上的视频大模型游戏——Matrix-Game 4.0。Matrix-Game 4.0 构建起了游戏世界模型的新范式：由游戏引擎维护世界状态与交互规则，由视频生成模型实",
+        "detail": " 从&quot;看 AI 生成视频&quot;，到&quot;亲手玩 AI 生成的世界&quot;——中间隔着的，其实是一道关于&quot;实时&quot;的坎。2026年10月15日，昆仑万维正式发布世界上第一款运行在单张消费级显卡上的视频大模型游戏——Matrix-Game 4.0。Matrix-Game 4.0 构建起了游戏世界模型的新范式：由游戏引擎维护世界状态与交互规则，由视频生成模型实",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+        "link": "https://www.leiphone.com/category/industrynews/wFO3YQEoOjeGzHY9.html",
+        "description": "10月15日，百度官方公众号发文公布百度世界2026五大亮点，涵盖李彦宏年度主题演讲、百度全栈AI升级、智能组织进化等内容。&nbsp;据悉，百度世界2026将于11月12日在北京国家会议中心二期举办。本届大会以「下一幕，智能组织」为主题，设置1场主论坛、12场分论坛、30+AI公开课及6000平AI展区。&nbsp;对于正在推进AI转型的企业和开发者而言，本届大会既是观察AI趋势演进、把握技术栈",
+        "detail": "10月15日，百度官方公众号发文公布百度世界2026五大亮点，涵盖李彦宏年度主题演讲、百度全栈AI升级、智能组织进化等内容。&nbsp;据悉，百度世界2026将于11月12日在北京国家会议中心二期举办。本届大会以「下一幕，智能组织」为主题，设置1场主论坛、12场分论坛、30+AI公开课及6000平AI展区。&nbsp;对于正在推进AI转型的企业和开发者而言，本届大会既是观察AI趋势演进、把握技术栈",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
         "title": "短视频、联盟营销与本地化履约，家居卖家如何撑起一场大促增长？",
         "link": "https://www.leiphone.com/category/industrynews/v2QysI05W4eMciQG.html",
         "description": "大促流量涌来时，中小卖家最担心的或许不是“没有流量”，而是流量来了之后，自己能不能接得住。对经营菲律宾市场家居生意的周扬（化名）来说，这个问题尤其现实。相比拥有成熟团队和充足预算的大卖家，中小卖家的每一份资源都需要花在更合适的地方：商品如何被更多消费者看到，营销投入怎样带来实际成交，突然增加的订单又该如何顺利交付，都需要在有限的选择中找到自己的节奏。刚刚过去的Shopee大促，给了周扬一次检验经营",
@@ -237,6 +282,33 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
+      },
+      {
+        "title": "AI was great until it was not",
+        "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+        "description": "[HN] +5 points · 0 comments · by JohnHammersley",
+        "detail": "[HN] +5 points · 0 comments · by JohnHammersley",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Teachers Using AI Say It Frees Up Time for What Matters Most",
+        "link": "https://news.gallup.com/poll/715364/teachers-using-say-frees-time-matters-mostost.aspx",
+        "description": "[HN] +5 points · 0 comments · by giuliomagnifico",
+        "detail": "[HN] +5 points · 0 comments · by giuliomagnifico",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+        "link": "https://github.com/awslabs/aidlc-workflows",
+        "description": "[HN] +4 points · 0 comments · by pramodbiligiri",
+        "detail": "[HN] +4 points · 0 comments · by pramodbiligiri",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "hackernews"
       }
     ]
   },
