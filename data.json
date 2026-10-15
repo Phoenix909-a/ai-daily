@@ -1,5 +1,246 @@
 [
   {
+    "date": "2026-10-15",
+    "weekday": "星期四",
+    "summary": "今日共收录 26 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "Figma announces new features to define how agents work on its platform",
+        "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "description": "Figma is also releasing its code layers feature in open beta.",
+        "detail": "Figma is also releasing its code layers feature in open beta.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des",
+        "detail": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+        "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+        "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can ",
+        "detail": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+        "link": "https://www.qbitai.com/2026/10/503303.html",
+        "description": "给企业Agent打了个样",
+        "detail": "给企业Agent打了个样",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点",
+        "link": "https://aiera.com.cn/2026/10/15/other/admin/118781/%e6%8a%a2%e5%85%88%e7%9b%98%e7%82%b92026%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%85%e5%85%88%e9%94%8b%e5%a4%a7%e4%bc%9a%e6%9a%a8%e5%9b%bd%e9%99%85%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e6%8a%80/",
+        "description": "为深入贯彻习近平总书记在 2026 世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话精神，落实中共中央、国务院《关于发展新质生产力的意见》有关工作部署，全面实施 …",
+        "detail": "为深入贯彻习近平总书记在 2026 世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话精神，落实中共中央、国务院《关于发展新质生产力的意见》有关工作部署，全面实施 …",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Gemini 4全球上线！",
+        "link": "https://aiera.com.cn/2026/10/15/other/admin/118776/%e5%88%9a%e5%88%9a%ef%bc%8cgemini-4%e5%85%a8%e7%90%83%e4%b8%8a%e7%ba%bf%ef%bc%81/",
+        "description": "Gemini 4时代，正式开启！ 就在今夜，谷歌CEO劈柴、Hassabis等几乎同一时间，全员齐刷刷宣告：",
+        "detail": "Gemini 4时代，正式开启！ 就在今夜，谷歌CEO劈柴、Hassabis等几乎同一时间，全员齐刷刷宣告：",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "亚历山大王首次自曝：Muse Wonder搞砸了，Meta就会直接破产！",
+        "link": "https://aiera.com.cn/2026/10/15/other/admin/118748/%e4%ba%9a%e5%8e%86%e5%b1%b1%e5%a4%a7%e7%8e%8b%e9%a6%96%e6%ac%a1%e8%87%aa%e6%9b%9d%ef%bc%9amuse-wonder%e6%90%9e%e7%a0%b8%e4%ba%86%ef%bc%8cmeta%e5%b0%b1%e4%bc%9a%e7%9b%b4%e6%8e%a5%e7%a0%b4%e4%ba%a7/",
+        "description": "在科技巨头的牌桌上，从来没有哪一次下注，像这次这般疯狂。 最近，Meta 现任 AI 负责人亚历山大王接受采访时，首次对外自曝：Meta在进行一场疯狂豪赌。",
+        "detail": "在科技巨头的牌桌上，从来没有哪一次下注，像这次这般疯狂。 最近，Meta 现任 AI 负责人亚历山大王接受采访时，首次对外自曝：Meta在进行一场疯狂豪赌。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌物理真觉醒！全新Gemini 4 Argon一大波实测来了",
+        "link": "https://aiera.com.cn/2026/10/15/other/admin/118733/%e8%b0%b7%e6%ad%8c%e7%89%a9%e7%90%86%e7%9c%9f%e8%a7%89%e9%86%92%ef%bc%81%e5%85%a8%e6%96%b0gemini-4-argon%e4%b8%80%e5%a4%a7%e6%b3%a2%e5%ae%9e%e6%b5%8b%e6%9d%a5%e4%ba%86/",
+        "description": "谷歌Gemini 4 Argon真的来了。 一度被认为掉队的谷歌，终于杀回来了。 根据跑分，它在文本、逻辑上跟GPT-6 Astra和Claude Opus 5.5打得有来有回…",
+        "detail": "谷歌Gemini 4 Argon真的来了。 一度被认为掉队的谷歌，终于杀回来了。 根据跑分，它在文本、逻辑上跟GPT-6 Astra和Claude Opus 5.5打得有来有回…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "证明大爆炸，数学界变天！AI把陶哲轩逼出「数学 2.0」",
+        "link": "https://aiera.com.cn/2026/10/15/other/admin/118690/%e8%af%81%e6%98%8e%e5%a4%a7%e7%88%86%e7%82%b8%ef%bc%8c%e6%95%b0%e5%ad%a6%e7%95%8c%e5%8f%98%e5%a4%a9%ef%bc%81ai%e6%8a%8a%e9%99%b6%e5%93%b2%e8%bd%a9%e9%80%bc%e5%87%ba%e3%80%8c%e6%95%b0%e5%ad%a6-2-0/",
+        "description": "今年10月9日，加州理工学院，贝克曼礼堂，是一场迟到了一年的演讲。 站在台上的，是菲尔兹奖得主陶哲轩。",
+        "detail": "今年10月9日，加州理工学院，贝克曼礼堂，是一场迟到了一年的演讲。 站在台上的，是菲尔兹奖得主陶哲轩。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI高管会议室惊现窃听器！35岁工程师涉案被AI举报送进FBI",
+        "link": "https://aiera.com.cn/2026/10/15/other/admin/118672/openai%e9%ab%98%e7%ae%a1%e4%bc%9a%e8%ae%ae%e5%ae%a4%e6%83%8a%e7%8e%b0%e7%aa%83%e5%90%ac%e5%99%a8%ef%bc%8135%e5%b2%81%e5%b7%a5%e7%a8%8b%e5%b8%88%e6%b6%89%e6%a1%88%e8%a2%abai%e4%b8%be%e6%8a%a5%e9%80%81/",
+        "description": "现实版《碟中谍》，在OpenAI旧金山总部真实上演了！ 就在刚刚，OpenAI自曝一起离奇的办公室窃听案。",
+        "detail": "现实版《碟中谍》，在OpenAI旧金山总部真实上演了！ 就在刚刚，OpenAI自曝一起离奇的办公室窃听案。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Linux之父彻底入坑AI！Claude Code写内核，性能暴涨3倍",
+        "link": "https://aiera.com.cn/2026/10/15/other/admin/118656/linux%e4%b9%8b%e7%88%b6%e5%bd%bb%e5%ba%95%e5%85%a5%e5%9d%91ai%ef%bc%81claude-code%e5%86%99%e5%86%85%e6%a0%b8%ef%bc%8c%e6%80%a7%e8%83%bd%e6%9a%b4%e6%b6%a83%e5%80%8d/",
+        "description": "连Linux之父，都让Claude来写内核了。 就在最近，一位开发者在刷新Linus的官方内核仓库时，赫然发现了一个极不寻常的新分支——",
+        "detail": "连Linux之父，都让Claude来写内核了。 就在最近，一位开发者在刷新Linus的官方内核仓库时，赫然发现了一个极不寻常的新分支——",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude写代码太快，Anthropic连源码系统都重造了！7人只用5个月",
+        "link": "https://aiera.com.cn/2026/10/15/other/admin/118640/claude%e5%86%99%e4%bb%a3%e7%a0%81%e5%a4%aa%e5%bf%ab%ef%bc%8canthropic%e8%bf%9e%e6%ba%90%e7%a0%81%e7%b3%bb%e7%bb%9f%e9%83%bd%e9%87%8d%e9%80%a0%e4%ba%86%ef%bc%817%e4%ba%ba%e5%8f%aa%e7%94%a85%e4%b8%aa/",
+        "description": "一天合并超过3万次代码，Anthropic原有的开发工具跟不上了！ 10月13日，Anthropic在官方工程博客中披露：",
+        "detail": "一天合并超过3万次代码，Anthropic原有的开发工具跟不上了！ 10月13日，Anthropic在官方工程博客中披露：",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "国产芯片大杀器！全栈开源，断网狂飙千亿模型",
+        "link": "https://aiera.com.cn/2026/10/15/other/admin/118630/%e5%9b%bd%e4%ba%a7%e8%8a%af%e7%89%87%e5%a4%a7%e6%9d%80%e5%99%a8%ef%bc%81%e5%85%a8%e6%a0%88%e5%bc%80%e6%ba%90%ef%bc%8c%e6%96%ad%e7%bd%91%e7%8b%82%e9%a3%99%e5%8d%83%e4%ba%bf%e6%a8%a1%e5%9e%8b/",
+        "description": "一张96GB显存的专业卡卖13.8万元，一套128GB的DDR5内存逼近2.5万元。 连一向淡定的库克，都在财报会上把这轮内存暴涨形容成「百年一遇的洪水」。",
+        "detail": "一张96GB显存的专业卡卖13.8万元，一套128GB的DDR5内存逼近2.5万元。 连一向淡定的库克，都在财报会上把这轮内存暴涨形容成「百年一遇的洪水」。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "群星闪耀时：OpenAI公开的722篇稿件，背后的科学家群像",
+        "link": "https://aiera.com.cn/2026/10/15/other/admin/118607/%e7%be%a4%e6%98%9f%e9%97%aa%e8%80%80%e6%97%b6%ef%bc%9aopenai%e5%85%ac%e5%bc%80%e7%9a%84722%e7%af%87%e7%a8%bf%e4%bb%b6%ef%bc%8c%e8%83%8c%e5%90%8e%e7%9a%84%e7%a7%91%e5%ad%a6%e5%ae%b6%e7%be%a4%e5%83%8f/",
+        "description": "OpenAI公开722篇由AI撰写的数学与理论计算机稿件之后，丹麦奥尔堡大学AI安全实验室Qiongxiu Li发起的开源项目On Whose Shoulders 《巨人之肩》…",
+        "detail": "OpenAI公开722篇由AI撰写的数学与理论计算机稿件之后，丹麦奥尔堡大学AI安全实验室Qiongxiu Li发起的开源项目On Whose Shoulders 《巨人之肩》…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "亚马逊云科技推出 CloudWatch Omni：不仅监控系统，还要评估 AI 是否靠谱",
+        "link": "https://www.infoq.cn/article/5GOXqmJaGKbukSIWU4Uf?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "算力效率的边界：以体系结构量化与分布式工程破局 AI Infra",
+        "link": "https://www.infoq.cn/article/JbzA5yvzl2BkuTpkfdrU?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从 Harness 到 Loop：Agent 如何走向可靠交付与持续进化？",
+        "link": "https://www.infoq.cn/article/xKkEswgSftEcGrkK6oTY?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型",
+        "link": "https://www.infoq.cn/article/QdPWpubQFmegrsH9UZFC?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从 App 到 Agent：字节跳动 Supabase 的 Agent-Native 规模化实践｜QCon上海",
+        "link": "https://www.infoq.cn/article/kvzkXDXpKOXILlfirftW?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+        "link": "https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元\n· ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求\n· 9 月消费电子价格普涨，存储设备同比上涨 46.7%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元\n· ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求\n· 9 月消费电子价格普涨，存储设备同比上涨 46.7%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
+        "link": "https://sspai.com/post/116193",
+        "description": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。查看全文",
+        "detail": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。查看全文",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "少数派"
+      },
+      {
+        "title": "卖出去≠全球化成功，中国企业出海究竟还差什么？",
+        "link": "http://www.geekpark.net/news/372386",
+        "description": "\n        中国的汽车产业，正陷入前所未有的冰火两重天夹击。\n2025 年，中国企业的全球销量 2700 万辆，首次超越日本；其中出口 832 万辆，相较十年前的 72.82 万辆增长超 10 倍。\n但销量曲线向上的同时，利润曲线却在一路向下。2026 年上半年，国内汽车销售的利润率已经跌到了 1.52%，创下 10 年最低纪录。\n出海也由此从选择题变成必答题。但出海并不只是把货卖出去这么简",
+        "detail": "\n        中国的汽车产业，正陷入前所未有的冰火两重天夹击。\n2025 年，中国企业的全球销量 2700 万辆，首次超越日本；其中出口 832 万辆，相较十年前的 72.82 万辆增长超 10 倍。\n但销量曲线向上的同时，利润曲线却在一路向下。2026 年上半年，国内汽车销售的利润率已经跌到了 1.52%，创下 10 年最低纪录。\n出海也由此从选择题变成必答题。但出海并不只是把货卖出去这么简",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "腾讯上线「绿泡泡」短剧，主打免费好看；特斯拉 Roadster 跑车明日发布；豆包工作支持一键导入 GPT、Claude 对话 | 极客早知道",
+        "link": "http://www.geekpark.net/news/372366",
+        "description": "\n        \n155 款应用拒绝豆包助手 AI 自动化操作\n10 月 14 日，豆包手机助手《屏幕自动化操作声明协议》（SAEP）30 天公示期结束，官方公布名单显示，已有 155 款第三方应用拒绝 AI 自动化操作，腾讯、阿里、美团、快手旗下多款产品，连同 Kimi、DeepSeek 等 AI 产品均在名单内，堪称互联网头部厂商的集体表态。\nSAEP 协议核心是将 AI 屏幕自动操作的选择",
+        "detail": "\n        \n155 款应用拒绝豆包助手 AI 自动化操作\n10 月 14 日，豆包手机助手《屏幕自动化操作声明协议》（SAEP）30 天公示期结束，官方公布名单显示，已有 155 款第三方应用拒绝 AI 自动化操作，腾讯、阿里、美团、快手旗下多款产品，连同 Kimi、DeepSeek 等 AI 产品均在名单内，堪称互联网头部厂商的集体表态。\nSAEP 协议核心是将 AI 屏幕自动操作的选择",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "短视频、联盟营销与本地化履约，家居卖家如何撑起一场大促增长？",
+        "link": "https://www.leiphone.com/category/industrynews/v2QysI05W4eMciQG.html",
+        "description": "大促流量涌来时，中小卖家最担心的或许不是“没有流量”，而是流量来了之后，自己能不能接得住。对经营菲律宾市场家居生意的周扬（化名）来说，这个问题尤其现实。相比拥有成熟团队和充足预算的大卖家，中小卖家的每一份资源都需要花在更合适的地方：商品如何被更多消费者看到，营销投入怎样带来实际成交，突然增加的订单又该如何顺利交付，都需要在有限的选择中找到自己的节奏。刚刚过去的Shopee大促，给了周扬一次检验经营",
+        "detail": "大促流量涌来时，中小卖家最担心的或许不是“没有流量”，而是流量来了之后，自己能不能接得住。对经营菲律宾市场家居生意的周扬（化名）来说，这个问题尤其现实。相比拥有成熟团队和充足预算的大卖家，中小卖家的每一份资源都需要花在更合适的地方：商品如何被更多消费者看到，营销投入怎样带来实际成交，突然增加的订单又该如何顺利交付，都需要在有限的选择中找到自己的节奏。刚刚过去的Shopee大促，给了周扬一次检验经营",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "首款韬定律逻辑折叠芯片量产，麒麟9050让华为旗舰手机玩出什么新花样？",
+        "link": "https://www.leiphone.com/category/chips/4EHlprZnXovvP0XD.html",
+        "description": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;电路折起来，旗舰手机的创新空间也被打开。三年前，麒麟芯片回归。三年后，问题已经变成回来之后，还能走多远？全新基于韬定律的麒麟9050系列给出了一个新的工程答案。作为华为首款采用逻辑折叠技术的麒麟芯片，麒麟9050 Pro通过跨层重新设",
+        "detail": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;电路折起来，旗舰手机的创新空间也被打开。三年前，麒麟芯片回归。三年后，问题已经变成回来之后，还能走多远？全新基于韬定律的麒麟9050系列给出了一个新的工程答案。作为华为首款采用逻辑折叠技术的麒麟芯片，麒麟9050 Pro通过跨层重新设",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "“圳”启“芯”程 智创未来！2026湾芯展盛大启幕",
+        "link": "https://www.leiphone.com/category/industrynews/YUu9lNqL930KEzeV.html",
+        "description": "10月14日，2026湾区半导体产业生态博览会（湾芯展WESEMiBAY）在深圳会展中心（福田）盛大启幕。本届湾芯展由中国国际工程咨询有限公司指导，深圳市半导体与集成电路产业联盟、深圳市重大产业投资集团有限公司主办。深圳市有关领导同志，市政府有关部门和集成电路发展集聚区有关负责同志，以及国内外半导体与集成电路产业龙头企业、高校、科研院所及媒体代表等莅临现场参观交流。开展首日，近8万平方米展馆人流如",
+        "detail": "10月14日，2026湾区半导体产业生态博览会（湾芯展WESEMiBAY）在深圳会展中心（福田）盛大启幕。本届湾芯展由中国国际工程咨询有限公司指导，深圳市半导体与集成电路产业联盟、深圳市重大产业投资集团有限公司主办。深圳市有关领导同志，市政府有关部门和集成电路发展集聚区有关负责同志，以及国内外半导体与集成电路产业龙头企业、高校、科研院所及媒体代表等莅临现场参观交流。开展首日，近8万平方米展馆人流如",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-10-14",
     "weekday": "星期三",
     "summary": "今日共收录 40 条 AI 动态。 来源包括：DeepMind Blog, InfoQ 中文, Product Hunt, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
