@@ -2,8 +2,35 @@
   {
     "date": "2026-10-16",
     "weekday": "星期五",
-    "summary": "今日共收录 26 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 35 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
     "news": [
+      {
+        "title": "AI Sandboxes by Buddy",
+        "link": "https://www.producthunt.com/products/buddy",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Screenwell.ai",
+        "link": "https://www.producthunt.com/products/screenwell-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”",
+        "link": "https://aiera.com.cn/2026/10/16/other/admin/118942/%e4%bb%8e%e7%9c%8b%e6%87%82%e4%b8%96%e7%95%8c%e5%88%b0%e9%a2%84%e6%bc%94%e4%b8%8b%e4%b8%80%e6%ad%a5%ef%bc%9a%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e4%b8%8e-vla/",
+        "description": "上午的取药高峰，药房门店内订单不断。一台机器人接到线上订单，准确移动至货架前——药盒尺寸相近、包装密集，透明包装还映着灯光。它轻巧探出机械臂，精准夹取一盒，转身送达取药窗口。",
+        "detail": "上午的取药高峰，药房门店内订单不断。一台机器人接到线上订单，准确移动至货架前——药盒尺寸相近、包装密集，透明包装还映着灯光。它轻巧探出机械臂，精准夹取一盒，转身送达取药窗口。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
       {
         "title": "Claude彻底解禁第三方应用！",
         "link": "https://aiera.com.cn/2026/10/16/other/admin/118936/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e5%bd%bb%e5%ba%95%e8%a7%a3%e7%a6%81%e7%ac%ac%e4%b8%89%e6%96%b9%e5%ba%94%e7%94%a8%ef%bc%81/",
@@ -140,6 +167,24 @@
         "source": "少数派"
       },
       {
+        "title": "为什么 Anthropic 不做 Personal AI",
+        "link": "http://www.geekpark.net/news/372461",
+        "description": "\n        不久前，9 月 29 日的 OpenAI DevDay 开发者日，舞台上飘出了几个圆滚滚的小气泡。\n它们叫 dots，是 OpenAI 最新的个人 agent。每个 dot 跑在 GPT-6 Astra 上，拥有一台独立的云端电脑和浏览器，用户关掉 ChatGPT 之后，它还在后台继续干活。OpenAI 对它的描述是：\n「built to handle everything」，什",
+        "detail": "\n        不久前，9 月 29 日的 OpenAI DevDay 开发者日，舞台上飘出了几个圆滚滚的小气泡。\n它们叫 dots，是 OpenAI 最新的个人 agent。每个 dot 跑在 GPT-6 Astra 上，拥有一台独立的云端电脑和浏览器，用户关掉 ChatGPT 之后，它还在后台继续干活。OpenAI 对它的描述是：\n「built to handle everything」，什",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "苹果和 Meta 和好了，是 AI 逼的",
+        "link": "http://www.geekpark.net/news/372458",
+        "description": "\n        没有永远的敌人，只有永远的 AI 焦虑。\n10 月 2 日，苹果做了一件很少见的事，因为一个第三方 App，宣布要调整系统规则。\n起因是《Inc.》杂志的科技专栏作者 Jason Aten 公开指控，Meta 的 AI 智能体 Muse 在他的 Mac 上读取了私人消息。Muse 是 Meta 力推的「能替你办事」的 Agent，会帮你退订闲置会员，甚至替你砍价。\n苹果随即表态，",
+        "detail": "\n        没有永远的敌人，只有永远的 AI 焦虑。\n10 月 2 日，苹果做了一件很少见的事，因为一个第三方 App，宣布要调整系统规则。\n起因是《Inc.》杂志的科技专栏作者 Jason Aten 公开指控，Meta 的 AI 智能体 Muse 在他的 Mac 上读取了私人消息。Muse 是 Meta 力推的「能替你办事」的 Agent，会帮你退订闲置会员，甚至替你砍价。\n苹果随即表态，",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
         "title": "巅峰估值 50 亿美元的 AI 独角兽，何以不到 0.1 折贱卖",
         "link": "http://www.geekpark.net/news/372437",
         "description": "\n        &nbsp;\n头图来源：Chatgpt 生成\n&nbsp;\n当地时间 10 月 12 日，曾经引爆 AI 陪伴赛道的明星项目 Character.AI，在美国特拉华州法院提交《破产法》第 11 章重组申请，开启法院监督下的资产拍卖流程。\n根据披露文件，迪士尼已经与它提前达成了底价竞购协议：2000 万美元，买走部分知识产权的非独占永久许可，外加用一批「前员工」为平台提供过渡期技术",
@@ -183,6 +228,24 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "极客公园"
+      },
+      {
+        "title": "抖省省诞生7个月：引流灌溉、重金猛推，日活2000万后急速降温",
+        "link": "https://www.leiphone.com/category/industrynews/14z0WQVo47kzEmxJ.html",
+        "description": "进入9月，抖音本地生活服务（简称：抖音生服）开始提速盈利节奏，继续降补，并大幅提升广告考核占比。服务零售部分类目广告考核占比提升到80%，GMV考核占比变小。Ka餐饮类目广告考核占比保持20%，商圈广告考核占比保持10%。4月调整架构之前，广告考核还不是硬性指标。过去半年，抖音生服推出独立APP抖省省，猛砸补贴和引流灌溉，使得抖省省日活快速拉升，一度被外界视作对美团的又一场奇袭。雷峰网从Quest",
+        "detail": "进入9月，抖音本地生活服务（简称：抖音生服）开始提速盈利节奏，继续降补，并大幅提升广告考核占比。服务零售部分类目广告考核占比提升到80%，GMV考核占比变小。Ka餐饮类目广告考核占比保持20%，商圈广告考核占比保持10%。4月调整架构之前，广告考核还不是硬性指标。过去半年，抖音生服推出独立APP抖省省，猛砸补贴和引流灌溉，使得抖省省日活快速拉升，一度被外界视作对美团的又一场奇袭。雷峰网从Quest",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "医美消费走向专业化、个性化，美团发布2026北极星医美榜",
+        "link": "https://www.leiphone.com/category/industrynews/6nUC46T5N52m2W2V.html",
+        "description": "10月14日，美团在杭州发布第四届北极星医美榜，全国共有42个城市的181家机构、来自36个城市的269位医生上榜，其中74家机构、156位医生首次上榜。上海、北京、杭州、重庆、成都、深圳、沈阳是北极星机构榜单主力城市，更多长期投入医疗专业与服务品质的机构和医生也进入了公众视野。今年，北极星医美榜延续基于“医疗专业性”与“用户口碑”的双轨评估体系，并进一步加深对专业能力与真实体验的考察。2位权威教",
+        "detail": "10月14日，美团在杭州发布第四届北极星医美榜，全国共有42个城市的181家机构、来自36个城市的269位医生上榜，其中74家机构、156位医生首次上榜。上海、北京、杭州、重庆、成都、深圳、沈阳是北极星机构榜单主力城市，更多长期投入医疗专业与服务品质的机构和医生也进入了公众视野。今年，北极星医美榜延续基于“医疗专业性”与“用户口碑”的双轨评估体系，并进一步加深对专业能力与真实体验的考察。2位权威教",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
       },
       {
         "title": "Kling 4.0正式上线：10-bit HDR、30秒原生直出 刷新视频模型新基准",
@@ -230,12 +293,30 @@
         "source": "雷锋网"
       },
       {
-        "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
-        "link": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
-        "description": "[HN] +6 points · 3 comments · by ryan_j_naughton",
-        "detail": "[HN] +6 points · 3 comments · by ryan_j_naughton",
-        "tag": "模型发布",
-        "sort_score": 90,
+        "title": "Self-Evolving Agent Harness",
+        "link": "https://arxiv.org/abs/2610.18813",
+        "description": "[HN] +7 points · 0 comments · by axis_official",
+        "detail": "[HN] +7 points · 0 comments · by axis_official",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      },
+      {
+        "title": "MuscleMemory: Open-source procedural memory for AI agents",
+        "link": "https://github.com/TheWariend/MuscleMemory",
+        "description": "[HN] +7 points · 0 comments · by maaaz",
+        "detail": "[HN] +7 points · 0 comments · by maaaz",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "hackernews"
+      },
+      {
+        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+        "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "description": "[HN] +6 points · 1 comments · by vinhnx",
+        "detail": "[HN] +6 points · 1 comments · by vinhnx",
+        "tag": "行业动态",
+        "sort_score": 58,
         "source": "hackernews"
       }
     ]
