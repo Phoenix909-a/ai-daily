@@ -1,5 +1,246 @@
 [
   {
+    "date": "2026-10-16",
+    "weekday": "星期五",
+    "summary": "今日共收录 26 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "Claude彻底解禁第三方应用！",
+        "link": "https://aiera.com.cn/2026/10/16/other/admin/118936/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e5%bd%bb%e5%ba%95%e8%a7%a3%e7%a6%81%e7%ac%ac%e4%b8%89%e6%96%b9%e5%ba%94%e7%94%a8%ef%bc%81/",
+        "description": "Claude王者归来了。 就在刚刚，Anthropic祭出王炸，Claude即将大爆发！ 简而言之：Anthropic彻底扫清了政策障碍，正式确认Claude订阅用户的额度，可…",
+        "detail": "Claude王者归来了。 就在刚刚，Anthropic祭出王炸，Claude即将大爆发！ 简而言之：Anthropic彻底扫清了政策障碍，正式确认Claude订阅用户的额度，可…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude Code桌面版暴改，一人指挥AI军团飙代码！",
+        "link": "https://aiera.com.cn/2026/10/16/other/admin/118926/claude-code%e6%a1%8c%e9%9d%a2%e7%89%88%e6%9a%b4%e6%94%b9%ef%bc%8c%e4%b8%80%e4%ba%ba%e6%8c%87%e6%8c%a5ai%e5%86%9b%e5%9b%a2%e9%a3%99%e4%bb%a3%e7%a0%81%ef%bc%81/",
+        "description": "Claude Code一夜进化！ 就在今天，Anthropic正式放出了Claude Code桌面版史诗级更新！",
+        "detail": "Claude Code一夜进化！ 就在今天，Anthropic正式放出了Claude Code桌面版史诗级更新！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI揭秘万级Agent实测！狂飙36小时，狂吞1万亿Token",
+        "link": "https://aiera.com.cn/2026/10/16/other/admin/118908/openai%e6%8f%ad%e7%a7%98%e4%b8%87%e7%ba%a7agent%e5%ae%9e%e6%b5%8b%ef%bc%81%e7%8b%82%e9%a3%9936%e5%b0%8f%e6%97%b6%ef%bc%8c%e7%8b%82%e5%90%9e1%e4%b8%87%e4%ba%bftoken/",
+        "description": "就在刚刚，OpenAI晒出了一份打破纪录的Agent极限实测。 10,000个Agent同时进场，不眠不休连跑36到48个小时，每天吞掉1万亿Token！",
+        "detail": "就在刚刚，OpenAI晒出了一份打破纪录的Agent极限实测。 10,000个Agent同时进场，不眠不休连跑36到48个小时，每天吞掉1万亿Token！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "全球首款，中国造！8K AI空间相机来了，皮克斯抢先上手",
+        "link": "https://aiera.com.cn/2026/10/16/other/admin/118892/%e5%85%a8%e7%90%83%e9%a6%96%e6%ac%be%ef%bc%8c%e4%b8%ad%e5%9b%bd%e9%80%a0%ef%bc%818k-ai%e7%a9%ba%e9%97%b4%e7%9b%b8%e6%9c%ba%e6%9d%a5%e4%ba%86%ef%bc%8c%e7%9a%ae%e5%85%8b%e6%96%af%e6%8a%a2%e5%85%88/",
+        "description": "皮克斯园区那盏经典大台灯，被一台中国相机扫进了3D世界。 旁边的彩球、树木，连地面的光影，也一起被记录下来。",
+        "detail": "皮克斯园区那盏经典大台灯，被一台中国相机扫进了3D世界。 旁边的彩球、树木，连地面的光影，也一起被记录下来。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-5.5退出ChatGPT！GPT-4o旧版API进入3个月下架倒计时",
+        "link": "https://aiera.com.cn/2026/10/16/other/admin/118867/gpt-5-5%e9%80%80%e5%87%bachatgpt%ef%bc%81gpt-4o%e6%97%a7%e7%89%88api%e8%bf%9b%e5%85%a53%e4%b8%aa%e6%9c%88%e4%b8%8b%e6%9e%b6%e5%80%92%e8%ae%a1%e6%97%b6/",
+        "description": "GPT-5.5，正式告别ChatGPT！ 14日，X用户Kol Tregaskes发帖：「GPT-5.5今天退役。」",
+        "detail": "GPT-5.5，正式告别ChatGPT！ 14日，X用户Kol Tregaskes发帖：「GPT-5.5今天退役。」",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "全球领先！千卡超节点算力巨无霸，成功点亮",
+        "link": "https://aiera.com.cn/2026/10/16/other/admin/118855/%e5%85%a8%e7%90%83%e9%a2%86%e5%85%88%ef%bc%81%e5%8d%83%e5%8d%a1%e8%b6%85%e8%8a%82%e7%82%b9%e7%ae%97%e5%8a%9b%e5%b7%a8%e6%97%a0%e9%9c%b8%ef%bc%8c%e6%88%90%e5%8a%9f%e7%82%b9%e4%ba%ae/",
+        "description": "2026 年 10 月 15 日，阶跃星辰正式开源新一代旗舰模型 Step 5 Preview，在 AI 编程、软件工程、专业知识工作、金融等任务上达到前沿水平。",
+        "detail": "2026 年 10 月 15 日，阶跃星辰正式开源新一代旗舰模型 Step 5 Preview，在 AI 编程、软件工程、专业知识工作、金融等任务上达到前沿水平。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "小团队也能预训练！普罗2B：RTX5090训练成本不到5090美元",
+        "link": "https://aiera.com.cn/2026/10/16/other/admin/118846/%e5%b0%8f%e5%9b%a2%e9%98%9f%e4%b9%9f%e8%83%bd%e9%a2%84%e8%ae%ad%e7%bb%83%ef%bc%81%e6%99%ae%e7%bd%972b%ef%bc%9artx5090%e8%ae%ad%e7%bb%83%e6%88%90%e6%9c%ac%e4%b8%8d%e5%88%b05090%e7%be%8e%e5%85%83/",
+        "description": "训不起2.8T的K3，玩够了124M的nanoGPT，想试试十亿参数、万亿token的预训练，门槛有多高？",
+        "detail": "训不起2.8T的K3，玩够了124M的nanoGPT，想试试十亿参数、万亿token的预训练，门槛有多高？",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "突发，Anthropic联创改口：RSI提前到2027！人类只剩6个月",
+        "link": "https://aiera.com.cn/2026/10/16/other/admin/118824/%e7%aa%81%e5%8f%91%ef%bc%8canthropic%e8%81%94%e5%88%9b%e6%94%b9%e5%8f%a3%ef%bc%9arsi%e6%8f%90%e5%89%8d%e5%88%b02027%ef%bc%81%e4%ba%ba%e7%b1%bb%e5%8f%aa%e5%89%a96%e4%b8%aa%e6%9c%88/",
+        "description": "近日，Anthropic高管Jack Clark抛出了一个重磅炸弹。 他将AI实现RSI（递归自我改进） 的时间点，从原本预测的2028年，直接拔前到了2027年。",
+        "detail": "近日，Anthropic高管Jack Clark抛出了一个重磅炸弹。 他将AI实现RSI（递归自我改进） 的时间点，从原本预测的2028年，直接拔前到了2027年。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "中国AI视频TOP3开卷！1秒不到1毛钱，3D漫质感拉满",
+        "link": "https://aiera.com.cn/2026/10/16/other/admin/118804/%e4%b8%ad%e5%9b%bdai%e8%a7%86%e9%a2%91top3%e5%bc%80%e5%8d%b7%ef%bc%811%e7%a7%92%e4%b8%8d%e5%88%b01%e6%af%9b%e9%92%b1%ef%bc%8c3d%e6%bc%ab%e8%b4%a8%e6%84%9f%e6%8b%89%e6%bb%a1/",
+        "description": "最近几部AI短片神作，刷爆全网。 Land工作室的《接招吧！咻孩》，把童年守着电视看特摄的那股劲儿，又拍了出来。",
+        "detail": "最近几部AI短片神作，刷爆全网。 Land工作室的《接招吧！咻孩》，把童年守着电视看特摄的那股劲儿，又拍了出来。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心",
+        "link": "https://www.infoq.cn/article/hQOHf1ZXoBs7uMpWJQss?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Linus用Claude Code改Linux内核，大神也没兜住代码里的Bug",
+        "link": "https://www.infoq.cn/article/hRw4BZQQUW14sqYMo5F6?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Pizza Bot：开源的后台 AI 智能体收件箱",
+        "link": "https://www.infoq.cn/article/aMgWFmwZ2HoZDtw1g0MQ?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "link": "https://www.infoq.cn/article/t3XbHewuN37fsodaprUC?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
+        "link": "https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· iPhone Duo 维修价格公布，内屏损坏预估 7998 元\n· 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明\n· Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· iPhone Duo 维修价格公布，内屏损坏预估 7998 元\n· 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明\n· Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+        "link": "https://sspai.com/post/116355",
+        "description": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文",
+        "detail": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "少数派"
+      },
+      {
+        "title": "巅峰估值 50 亿美元的 AI 独角兽，何以不到 0.1 折贱卖",
+        "link": "http://www.geekpark.net/news/372437",
+        "description": "\n        &nbsp;\n头图来源：Chatgpt 生成\n&nbsp;\n当地时间 10 月 12 日，曾经引爆 AI 陪伴赛道的明星项目 Character.AI，在美国特拉华州法院提交《破产法》第 11 章重组申请，开启法院监督下的资产拍卖流程。\n根据披露文件，迪士尼已经与它提前达成了底价竞购协议：2000 万美元，买走部分知识产权的非独占永久许可，外加用一批「前员工」为平台提供过渡期技术",
+        "detail": "\n        &nbsp;\n头图来源：Chatgpt 生成\n&nbsp;\n当地时间 10 月 12 日，曾经引爆 AI 陪伴赛道的明星项目 Character.AI，在美国特拉华州法院提交《破产法》第 11 章重组申请，开启法院监督下的资产拍卖流程。\n根据披露文件，迪士尼已经与它提前达成了底价竞购协议：2000 万美元，买走部分知识产权的非独占永久许可，外加用一批「前员工」为平台提供过渡期技术",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "极客公园"
+      },
+      {
+        "title": "第一款 AI 手机，被半个互联网「拒」了",
+        "link": "http://www.geekpark.net/news/372436",
+        "description": "\n        &nbsp;\n头图来源：chatgpt 生成\n&nbsp;\n10 月 14 日，豆包手机助手推出的《屏幕自动化操作声明协议》（SAEP，Screen Automation Execution Protocol）正式结束 30 天公示期。随之公布的拒绝名单显示，已有 155 款第三方应用明确关上了 AI 自动化操作的大门。名单当日经两轮更新，首批发布为 153 款，最终补全长尾应用",
+        "detail": "\n        &nbsp;\n头图来源：chatgpt 生成\n&nbsp;\n10 月 14 日，豆包手机助手推出的《屏幕自动化操作声明协议》（SAEP，Screen Automation Execution Protocol）正式结束 30 天公示期。随之公布的拒绝名单显示，已有 155 款第三方应用明确关上了 AI 自动化操作的大门。名单当日经两轮更新，首批发布为 153 款，最终补全长尾应用",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "腾讯盯上了字节的摇钱树",
+        "link": "http://www.geekpark.net/news/372435",
+        "description": "\n        &nbsp;\n头图来源：Chatgpt 生成\n&nbsp;\n短剧正在成为互联网行业最吸金的时长黑洞。\nQuestMobile 数据显示，2026 年 7 月，红果短剧日活达到 1.68 亿，超过腾讯视频、爱奇艺、优酷、芒果 TV 四大长视频平台的日活总和，用户人均单日刷剧时长达到 125 分钟，甚至一度超过抖音主站同期的人均使用时长。\n而据第三方监测数据，到 10 月其日活规模已",
+        "detail": "\n        &nbsp;\n头图来源：Chatgpt 生成\n&nbsp;\n短剧正在成为互联网行业最吸金的时长黑洞。\nQuestMobile 数据显示，2026 年 7 月，红果短剧日活达到 1.68 亿，超过腾讯视频、爱奇艺、优酷、芒果 TV 四大长视频平台的日活总和，用户人均单日刷剧时长达到 125 分钟，甚至一度超过抖音主站同期的人均使用时长。\n而据第三方监测数据，到 10 月其日活规模已",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道",
+        "link": "http://www.geekpark.net/news/372430",
+        "description": "\n        \nDeepSeek 服务故障近 5 小时，官方补偿所有 API 用户 7 天内的消耗金额\n10 月 15 日消息，DeepSeek 网页 / API 服务今日（10 月 15 日）早间出现服务问题，经过近 5 个小时的修复，终于恢复正常。\n对此，DeepSeek 官方开放平台发布服务恢复及补偿通知，将补偿所有 API 用户 7 天内的消耗金额：\n北京时间 2026 年 10 月 ",
+        "detail": "\n        \nDeepSeek 服务故障近 5 小时，官方补偿所有 API 用户 7 天内的消耗金额\n10 月 15 日消息，DeepSeek 网页 / API 服务今日（10 月 15 日）早间出现服务问题，经过近 5 个小时的修复，终于恢复正常。\n对此，DeepSeek 官方开放平台发布服务恢复及补偿通知，将补偿所有 API 用户 7 天内的消耗金额：\n北京时间 2026 年 10 月 ",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "手机大厂开始做穿戴录音，卷的已经不是转写：OPPO 心力球体验",
+        "link": "http://www.geekpark.net/news/372428",
+        "description": "\n        头图来源：极客公园「24 小时全天候录音硬件」这个概念，放到今天其实已经不太新鲜了。无论是年初的 CES，再到国内今年数次硬件展、再到一个月前 IFA 上，我都密集看了一圈把麦克风塞进手环、戒指甚至项链里的 AI 穿戴硬件。不管是海外创业团队还是国内硬件老兵，大家都在试着把屏幕拆掉，把麦克风戴到身上。真正新鲜、也是所有人都还在苦苦寻找答案的问题，是如何把录下来的东西自然地融入你自",
+        "detail": "\n        头图来源：极客公园「24 小时全天候录音硬件」这个概念，放到今天其实已经不太新鲜了。无论是年初的 CES，再到国内今年数次硬件展、再到一个月前 IFA 上，我都密集看了一圈把麦克风塞进手环、戒指甚至项链里的 AI 穿戴硬件。不管是海外创业团队还是国内硬件老兵，大家都在试着把屏幕拆掉，把麦克风戴到身上。真正新鲜、也是所有人都还在苦苦寻找答案的问题，是如何把录下来的东西自然地融入你自",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "Kling 4.0正式上线：10-bit HDR、30秒原生直出 刷新视频模型新基准",
+        "link": "https://www.leiphone.com/category/industrynews/1GERVRJ72xJKmsus.html",
+        "description": "10月15日，可灵AI新一代视频生成模型 Kling 4.0 正式上线。真实、可控、专业，是这一代模型升级的核心方向。Kling 4.0 聚焦高动态、强运镜的视频创作场景，在三个方向实现集中突破：大幅度动态表现更稳定，提升高速运动与复杂运镜的连贯性；单次原生生成最长可达30秒，支持长镜头与连续叙事，导演思维全程在线；全能参考支持最多15项参考素材组合，同时支持最多10张关键帧输入，帮助创作者将一个",
+        "detail": "10月15日，可灵AI新一代视频生成模型 Kling 4.0 正式上线。真实、可控、专业，是这一代模型升级的核心方向。Kling 4.0 聚焦高动态、强运镜的视频创作场景，在三个方向实现集中突破：大幅度动态表现更稳定，提升高速运动与复杂运镜的连贯性；单次原生生成最长可达30秒，支持长镜头与连续叙事，导演思维全程在线；全能参考支持最多15项参考素材组合，同时支持最多10张关键帧输入，帮助创作者将一个",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "阿里千问上车宝马iX3",
+        "link": "https://www.leiphone.com/category/industrynews/1zjGZ4srbO3kyVEw.html",
+        "description": "10月15日消息，在2026宝马集团中国创新日上，宝马宣布新世代BMW iX3将搭载专为中国市场打造的座舱AI能力。该能力由宝马与阿里巴巴联合开发，以阿里千问大模型为AI底座，并由斑马负责座舱应用与车端集成，融入BMW智能个人助理（BMW Intelligent Personal Assistant）。阿里巴巴集团副总裁、阿里云智能集团CTO李飞飞表示，阿里将从用户场景出发，让新世代宝马智能座舱更",
+        "detail": "10月15日消息，在2026宝马集团中国创新日上，宝马宣布新世代BMW iX3将搭载专为中国市场打造的座舱AI能力。该能力由宝马与阿里巴巴联合开发，以阿里千问大模型为AI底座，并由斑马负责座舱应用与车端集成，融入BMW智能个人助理（BMW Intelligent Personal Assistant）。阿里巴巴集团副总裁、阿里云智能集团CTO李飞飞表示，阿里将从用户场景出发，让新世代宝马智能座舱更",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "无人机表演十年后，大漠大想做「会干活」的机群",
+        "link": "https://www.leiphone.com/category/robot/OA7EpCSSkv3D6yMD.html",
+        "description": "即便对大漠大这家公司名字感到陌生的人，大概也看过它的无人机编队表演——7次登上央视春晚，多次出现在《新闻联播》里，但迄今为止，大漠大鲜少对外讲述自己的品牌故事。在刚刚过去的国庆假期，大漠大在南昌、宜昌、昆明等多地执飞的无人机表演刷屏全网，持续推进“低空＋文旅＋融媒”的低空融媒业务运营，为城市发展打造新的内容传播载体。但表演本身并不是大漠大的营收主体。据公司披露，设备销售占其整体营收约70%，研发人",
+        "detail": "即便对大漠大这家公司名字感到陌生的人，大概也看过它的无人机编队表演——7次登上央视春晚，多次出现在《新闻联播》里，但迄今为止，大漠大鲜少对外讲述自己的品牌故事。在刚刚过去的国庆假期，大漠大在南昌、宜昌、昆明等多地执飞的无人机表演刷屏全网，持续推进“低空＋文旅＋融媒”的低空融媒业务运营，为城市发展打造新的内容传播载体。但表演本身并不是大漠大的营收主体。据公司披露，设备销售占其整体营收约70%，研发人",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "付费用户占比超 20%，电商商家「涌入」千问办公",
+        "link": "https://www.leiphone.com/category/industrynews/csaOBaiXpZZLOOtp.html",
+        "description": "一双鞋还没生产出来，商家刘祥龙已经开始琢磨怎么卖了。准备开一家3D打印鞋店时，他没有急着打样、拍摄、做详情页，而是先让AI帮忙调研市场、制作数字样品，再把商品图和详情页准备好，看看消费者愿不愿意点击、将其加购。简单说，就是先让市场“投票”，再决定要不要真的把鞋做出来。过去，开一家新店，从前期调研到商品准备，通常要花上一个月，前期投入超过1万元。如今有千问办公等AI工具搭把手，他把准备周期压缩到了7",
+        "detail": "一双鞋还没生产出来，商家刘祥龙已经开始琢磨怎么卖了。准备开一家3D打印鞋店时，他没有急着打样、拍摄、做详情页，而是先让AI帮忙调研市场、制作数字样品，再把商品图和详情页准备好，看看消费者愿不愿意点击、将其加购。简单说，就是先让市场“投票”，再决定要不要真的把鞋做出来。过去，开一家新店，从前期调研到商品准备，通常要花上一个月，前期投入超过1万元。如今有千问办公等AI工具搭把手，他把准备周期压缩到了7",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "5 年前的机密文档被泄露：Anthropic 的所有胜利，早在 2021 年就写好了",
+        "link": "https://www.leiphone.com/category/yanxishe/gO1lTcRqFyRtbiFP.html",
+        "description": "一张五年前的研发清单，兑现如今 AI 行业大半成果。&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+        "detail": "一张五年前的研发清单，兑现如今 AI 行业大半成果。&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
+        "link": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
+        "description": "[HN] +6 points · 3 comments · by ryan_j_naughton",
+        "detail": "[HN] +6 points · 3 comments · by ryan_j_naughton",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-15",
     "weekday": "星期四",
     "summary": "今日共收录 34 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
