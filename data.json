@@ -1,5 +1,138 @@
 [
   {
+    "date": "2026-10-17",
+    "weekday": "星期六",
+    "summary": "今日共收录 14 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 爱范儿。",
+    "news": [
+      {
+        "title": "Opus 5.5极速版全面解禁！",
+        "link": "https://aiera.com.cn/2026/10/17/other/admin/119139/%e5%88%9a%e5%88%9a%ef%bc%8copus-5-5%e6%9e%81%e9%80%9f%e7%89%88%e5%85%a8%e9%9d%a2%e8%a7%a3%e7%a6%81%ef%bc%81/",
+        "description": "就在刚刚，Claude最强模型极速版，全面解禁了！ 他们正式宣布：Claude Opus 5.5的「极速模式」彻底结束研究预览阶段，取消所有等待名单，向全体开发者全面开放！",
+        "detail": "就在刚刚，Claude最强模型极速版，全面解禁了！ 他们正式宣布：Claude Opus 5.5的「极速模式」彻底结束研究预览阶段，取消所有等待名单，向全体开发者全面开放！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "突发！Fable 5.5现身Azure，硬刚谷歌新模型",
+        "link": "https://aiera.com.cn/2026/10/17/other/admin/119121/%e7%aa%81%e5%8f%91%ef%bc%81fable-5-5%e7%8e%b0%e8%ba%abazure%ef%bc%8c%e7%a1%ac%e5%88%9a%e8%b0%b7%e6%ad%8c%e6%96%b0%e6%a8%a1%e5%9e%8b/",
+        "description": "近日，Claude Fable 5.5 已赫然出现在微软Azure East US 2的模型目录中，状态显示为「正式可用」！",
+        "detail": "近日，Claude Fable 5.5 已赫然出现在微软Azure East US 2的模型目录中，状态显示为「正式可用」！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "16天！他用Opus 5.5把《小王子》做成3D游戏，书里的星球能逛了",
+        "link": "https://aiera.com.cn/2026/10/17/other/admin/119091/16%e5%a4%a9%ef%bc%81%e4%bb%96%e7%94%a8opus-5-5%e6%8a%8a%e3%80%8a%e5%b0%8f%e7%8e%8b%e5%ad%90%e3%80%8b%e5%81%9a%e6%88%903d%e6%b8%b8%e6%88%8f%ef%bc%8c%e4%b9%a6%e9%87%8c%e7%9a%84%e6%98%9f%e7%90%83/",
+        "description": "他用了16天，把《小王子》做成了一款能玩的3D剧情游戏。 10月13日，开发者Sac在X上公布了自己的作品。",
+        "detail": "他用了16天，把《小王子》做成了一款能玩的3D剧情游戏。 10月13日，开发者Sac在X上公布了自己的作品。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "EMNLP’26 | 清华北邮联合警告：扩散式VLM的安全防线步步失守",
+        "link": "https://aiera.com.cn/2026/10/17/other/admin/119077/emnlp26-%e6%b8%85%e5%8d%8e%e5%8c%97%e9%82%ae%e8%81%94%e5%90%88%e8%ad%a6%e5%91%8a%ef%bc%9a%e6%89%a9%e6%95%a3%e5%bc%8fvlm%e7%9a%84%e5%ae%89%e5%85%a8%e9%98%b2%e7%ba%bf%e6%ad%a5%e6%ad%a5%e5%a4%b1/",
+        "description": "视觉语言模型已经进入办公助手、内容审核、机器人和智能终端等场景。 它们面对的任务不再只是读一段文字，而是同时理解图片、文字以及两者之间的关系。",
+        "detail": "视觉语言模型已经进入办公助手、内容审核、机器人和智能终端等场景。 它们面对的任务不再只是读一段文字，而是同时理解图片、文字以及两者之间的关系。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Meta亮出美国最强开源权重模型！两台Mac Studio就能跑",
+        "link": "https://aiera.com.cn/2026/10/17/other/admin/119063/%e5%88%9a%e5%88%9a%ef%bc%8cmeta%e4%ba%ae%e5%87%ba%e7%be%8e%e5%9b%bd%e6%9c%80%e5%bc%ba%e5%bc%80%e6%ba%90%e6%9d%83%e9%87%8d%e6%a8%a1%e5%9e%8b%ef%bc%81%e4%b8%a4%e5%8f%b0mac-studio%e5%b0%b1%e8%83%bd/",
+        "description": "刚刚，Meta宣布重磅消息：Muse Spark Open正式开源。 官方定位极其霸道：「美国迄今为止最强大的开源权重模型」。",
+        "detail": "刚刚，Meta宣布重磅消息：Muse Spark Open正式开源。 官方定位极其霸道：「美国迄今为止最强大的开源权重模型」。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "硬刚OpenAI dots！这家中国公司狂卷Work Agent",
+        "link": "https://aiera.com.cn/2026/10/17/other/admin/119043/%e7%a1%ac%e5%88%9aopenai-dots%ef%bc%81%e8%bf%99%e5%ae%b6%e4%b8%ad%e5%9b%bd%e5%85%ac%e5%8f%b8%e7%8b%82%e5%8d%b7work-agent/",
+        "description": "最近半个月，硅谷和国内大厂在Agent赛道上彻底杀疯了！ 刚刚过去的旧金山开发者大会上，奥特曼突然祭出OpenAI王炸新物种「dots」。这是OpenAI首个自带独立云端电脑…",
+        "detail": "最近半个月，硅谷和国内大厂在Agent赛道上彻底杀疯了！ 刚刚过去的旧金山开发者大会上，奥特曼突然祭出OpenAI王炸新物种「dots」。这是OpenAI首个自带独立云端电脑…",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI前大牛认错！误判AI近十年，90%神经元只干一件事",
+        "link": "https://aiera.com.cn/2026/10/17/other/admin/119010/openai%e5%89%8d%e5%a4%a7%e7%89%9b%e8%ae%a4%e9%94%99%ef%bc%81%e8%af%af%e5%88%a4ai%e8%bf%91%e5%8d%81%e5%b9%b4%ef%bc%8c90%e7%a5%9e%e7%bb%8f%e5%85%83%e5%8f%aa%e5%b9%b2%e4%b8%80%e4%bb%b6%e4%ba%8b/",
+        "description": "人类，或许真能读懂超级智能！ 我们正在造出越来越强大的AI，却迟迟看不清它内部究竟发生了什么。",
+        "detail": "人类，或许真能读懂超级智能！ 我们正在造出越来越强大的AI，却迟迟看不清它内部究竟发生了什么。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI突袭Chrome！ChatGPT长出「双手」，自动打工了",
+        "link": "https://aiera.com.cn/2026/10/17/other/admin/118981/openai%e7%aa%81%e8%a2%adchrome%ef%bc%81chatgpt%e9%95%bf%e5%87%ba%e3%80%8c%e5%8f%8c%e6%89%8b%e3%80%8d%ef%bc%8c%e8%87%aa%e5%8a%a8%e6%89%93%e5%b7%a5%e4%ba%86/",
+        "description": "ChatGPT终于可以接管Chrome了！ 就在今天，OpenAI正式官宣ChatGPT重大升级，把计算机使用能力全面引入Chrome中。",
+        "detail": "ChatGPT终于可以接管Chrome了！ 就在今天，OpenAI正式官宣ChatGPT重大升级，把计算机使用能力全面引入Chrome中。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "断层领先Jev，全球第一！决策模型新王震撼发布新版本",
+        "link": "https://aiera.com.cn/2026/10/17/other/admin/118965/%e6%96%ad%e5%b1%82%e9%a2%86%e5%85%88jev%ef%bc%8c%e5%85%a8%e7%90%83%e7%ac%ac%e4%b8%80%ef%bc%81%e5%86%b3%e7%ad%96%e6%a8%a1%e5%9e%8b%e6%96%b0%e7%8e%8b%e9%9c%87%e6%92%bc%e5%8f%91%e5%b8%83%e6%96%b0/",
+        "description": "前一阵，整个硅谷都在为Jev疯狂。 Jev一出世，整个决策模型领域几乎被它统治了，各大厂商都在追赶。",
+        "detail": "前一阵，整个硅谷都在为Jev疯狂。 Jev一出世，整个决策模型领域几乎被它统治了，各大厂商都在追赶。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "link": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
+        "link": "https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元\n· 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic\n· 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元\n· 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic\n· 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "iPhone Duo 一秒售罄，发货排到明年；马斯克：考虑自建电商平台；谷歌创始人：AI 正开始自己造自己",
+        "link": "http://www.geekpark.net/news/372488",
+        "description": "\n        \n苹果官网 2026 年的 iPhone Duo 已售罄！发货日期排到明年 1 月 22 日\n10 月 16 日，苹果首款折叠屏 iPhone Duo 于当晚 8 点开启线上预购，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等官方直营渠道，购买页面一度无法正常打开。开售一分钟左右，各大电商平台即显示该机型售罄。\n\n目前官网仍可下单，预计发货时间排至 1 ",
+        "detail": "\n        \n苹果官网 2026 年的 iPhone Duo 已售罄！发货日期排到明年 1 月 22 日\n10 月 16 日，苹果首款折叠屏 iPhone Duo 于当晚 8 点开启线上预购，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等官方直营渠道，购买页面一度无法正常打开。开售一分钟左右，各大电商平台即显示该机型售罄。\n\n目前官网仍可下单，预计发货时间排至 1 ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "DeepSeek v4.1 flash on OpenCode pretty good",
+        "link": "https://github.com/aditauqir/shev",
+        "description": "[HN] +6 points · 0 comments · by skmpe",
+        "detail": "[HN] +6 points · 0 comments · by skmpe",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      },
+      {
+        "title": "AI is driving a boom in modestly successful software projects",
+        "link": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+        "description": "[HN] +5 points · 0 comments · by gpi",
+        "detail": "[HN] +5 points · 0 comments · by gpi",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-16",
     "weekday": "星期五",
     "summary": "今日共收录 35 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
