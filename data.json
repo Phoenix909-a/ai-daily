@@ -2,8 +2,26 @@
   {
     "date": "2026-10-17",
     "weekday": "星期六",
-    "summary": "今日共收录 14 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 爱范儿。",
+    "summary": "今日共收录 20 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, 新智元, 极客公园, 爱范儿, 雷锋网。",
     "news": [
+      {
+        "title": "Craft Agents",
+        "link": "https://www.producthunt.com/products/craft-agents",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Notion: Context for your agents",
+        "link": "https://www.producthunt.com/products/notion",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
       {
         "title": "Opus 5.5极速版全面解禁！",
         "link": "https://aiera.com.cn/2026/10/17/other/admin/119139/%e5%88%9a%e5%88%9a%ef%bc%8copus-5-5%e6%9e%81%e9%80%9f%e7%89%88%e5%85%a8%e9%9d%a2%e8%a7%a3%e7%a6%81%ef%bc%81/",
@@ -86,6 +104,15 @@
         "source": "新智元"
       },
       {
+        "title": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+        "link": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
         "link": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -113,21 +140,48 @@
         "source": "极客公园"
       },
       {
-        "title": "DeepSeek v4.1 flash on OpenCode pretty good",
-        "link": "https://github.com/aditauqir/shev",
-        "description": "[HN] +6 points · 0 comments · by skmpe",
-        "detail": "[HN] +6 points · 0 comments · by skmpe",
-        "tag": "模型发布",
-        "sort_score": 90,
+        "title": "双11 iPhone Duo平台大战，比的就是货源，记者实测：只有苹果官网、天猫可下单",
+        "link": "https://www.leiphone.com/category/industrynews/LMBQVV27PkpS0P58.html",
+        "description": "双11 iPhone duo 平台大战，比的就是货源。10 月 16 日消息，苹果首款折叠屏手机 iPhone Duo 今日 20:00 正式开售，首批货源迅速售罄，多家电商平台的官方旗舰店入口一度出现卡顿。&nbsp;&nbsp;截至 21:30，记者实测发现，目前仅苹果官网与苹果天猫官方旗舰店仍可下单，最早的一批于天猫双11开卖日10月20日后3天发货（10月23日）。社交媒体晒单显示，苹果天",
+        "detail": "双11 iPhone duo 平台大战，比的就是货源。10 月 16 日消息，苹果首款折叠屏手机 iPhone Duo 今日 20:00 正式开售，首批货源迅速售罄，多家电商平台的官方旗舰店入口一度出现卡顿。&nbsp;&nbsp;截至 21:30，记者实测发现，目前仅苹果官网与苹果天猫官方旗舰店仍可下单，最早的一批于天猫双11开卖日10月20日后3天发货（10月23日）。社交媒体晒单显示，苹果天",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "抖音商城双11首日数据：消费券带动破千万商家数同比增长74%",
+        "link": "https://www.leiphone.com/category/industrynews/JjzV775vQhP9EgGN.html",
+        "description": "10月15日，2026抖音商城双11好物节正式开启。今年双11覆盖服饰、美妆个护、快消耐消等重点类目，横跨秋冬换季、囤货等消费节点，通过多场景、多节点助力商家把握年末增长机遇，实现销量与生意规模的持续提升。大促开启首日，「立减折扣/一件直降」与「消费券」等多重补贴叠加发力，抖音商城双11增长势头强劲：消费券带动成交额破千万元商家数量同比增长74%，首次参加双11成交额突破百万达人数量同比增长30%",
+        "detail": "10月15日，2026抖音商城双11好物节正式开启。今年双11覆盖服饰、美妆个护、快消耐消等重点类目，横跨秋冬换季、囤货等消费节点，通过多场景、多节点助力商家把握年末增长机遇，实现销量与生意规模的持续提升。大促开启首日，「立减折扣/一件直降」与「消费券」等多重补贴叠加发力，抖音商城双11增长势头强劲：消费券带动成交额破千万元商家数量同比增长74%，首次参加双11成交额突破百万达人数量同比增长30%",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "link": "https://llmspeed.dev/",
+        "description": "[HN] +46 points · 18 comments · by albinstman",
+        "detail": "[HN] +46 points · 18 comments · by albinstman",
+        "tag": "行业动态",
+        "sort_score": 58,
         "source": "hackernews"
       },
       {
-        "title": "AI is driving a boom in modestly successful software projects",
-        "link": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
-        "description": "[HN] +5 points · 0 comments · by gpi",
-        "detail": "[HN] +5 points · 0 comments · by gpi",
+        "title": "Why Math Dumped OpenAI",
+        "link": "https://raymyers.org/post/math-dumped-openai/",
+        "description": "[HN] +6 points · 0 comments · by xeonmc",
+        "detail": "[HN] +6 points · 0 comments · by xeonmc",
         "tag": "行业动态",
         "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Lithos-metal: Qwen3.8-27B on 40-core M5 Max at 168 tokens/s",
+        "link": "https://github.com/lithos-ai/lithos-metal",
+        "description": "[HN] +3 points · 0 comments · by emp_",
+        "detail": "[HN] +3 points · 0 comments · by emp_",
+        "tag": "工具与生态",
+        "sort_score": 76,
         "source": "hackernews"
       }
     ]
