@@ -1,5 +1,129 @@
 [
   {
+    "date": "2026-10-18",
+    "weekday": "星期日",
+    "summary": "今日共收录 13 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园。",
+    "news": [
+      {
+        "title": "Mythos 5破解量子计算重大难题！53小时碾压人类数年",
+        "link": "https://aiera.com.cn/2026/10/18/other/admin/119294/%e5%88%9a%e5%88%9a%ef%bc%8cmythos-5%e7%a0%b4%e8%a7%a3%e9%87%8f%e5%ad%90%e8%ae%a1%e7%ae%97%e9%87%8d%e5%a4%a7%e9%9a%be%e9%a2%98%ef%bc%8153%e5%b0%8f%e6%97%b6%e7%a2%be%e5%8e%8b%e4%ba%ba%e7%b1%bb%e6%95%b0/",
+        "description": "就在刚刚，Anthropic晒出一项炸裂研究。 Mythos 5已经自主闭环，设计出比人类「最佳方案」还要高效得多的全新的量子电路！",
+        "detail": "就在刚刚，Anthropic晒出一项炸裂研究。 Mythos 5已经自主闭环，设计出比人类「最佳方案」还要高效得多的全新的量子电路！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "老黄RTX Spark开卖！740亿大模型塞进笔记本",
+        "link": "https://aiera.com.cn/2026/10/18/other/admin/119273/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%80%81%e9%bb%84rtx-spark%e5%bc%80%e5%8d%96%ef%bc%81740%e4%ba%bf%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%a1%9e%e8%bf%9b%e7%ac%94%e8%ae%b0%e6%9c%ac/",
+        "description": "AI，瘦到22.1GB，直接塞进笔记本！ 就在刚刚，英伟达开放了Nemotron 3.5 Bolt的模型权重。原本约148GB，一口气砍掉约85%，瞄准24GB级本地部署。",
+        "detail": "AI，瘦到22.1GB，直接塞进笔记本！ 就在刚刚，英伟达开放了Nemotron 3.5 Bolt的模型权重。原本约148GB，一口气砍掉约85%，瞄准24GB级本地部署。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "4个Gemini死了605次，竟自己组队打穿《我的世界》！",
+        "link": "https://aiera.com.cn/2026/10/18/other/admin/119256/%e5%88%9a%e5%88%9a%ef%bc%8c4%e4%b8%aagemini%e6%ad%bb%e4%ba%86605%e6%ac%a1%ef%bc%8c%e7%ab%9f%e8%87%aa%e5%b7%b1%e7%bb%84%e9%98%9f%e6%89%93%e7%a9%bf%e3%80%8a%e6%88%91%e7%9a%84%e4%b8%96%e7%95%8c%e3%80%8b/",
+        "description": "AI自己组队打游戏，这回真的打通关了！ 就在刚刚，Google DeepMind正式官宣：4个Gemini 4 Argon智能体被扔进一个全新的沙盒《我的世界》生存世界，从零…",
+        "detail": "AI自己组队打游戏，这回真的打通关了！ 就在刚刚，Google DeepMind正式官宣：4个Gemini 4 Argon智能体被扔进一个全新的沙盒《我的世界》生存世界，从零…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "新基准开测「AI第六感」！人类一眼秒懂，最强模型只拿53.6分",
+        "link": "https://aiera.com.cn/2026/10/18/other/admin/119239/%e6%96%b0%e5%9f%ba%e5%87%86%e5%bc%80%e6%b5%8b%e3%80%8cai%e7%ac%ac%e5%85%ad%e6%84%9f%e3%80%8d%ef%bc%81%e4%ba%ba%e7%b1%bb%e4%b8%80%e7%9c%bc%e7%a7%92%e6%87%82%ef%bc%8c%e6%9c%80%e5%bc%ba%e6%a8%a1%e5%9e%8b/",
+        "description": "AI能读图表、做竞赛题、识别密密麻麻的文字，甚至用上万枚推理Token，把一道视觉题分析得头头是道。",
+        "detail": "AI能读图表、做竞赛题、识别密密麻麻的文字，甚至用上万枚推理Token，把一道视觉题分析得头头是道。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "特斯拉会飞了！马斯克把火箭装进汽车，奥特曼惊呼",
+        "link": "https://aiera.com.cn/2026/10/18/other/admin/119228/%e7%89%b9%e6%96%af%e6%8b%89%e4%bc%9a%e9%a3%9e%e4%ba%86%ef%bc%81%e9%a9%ac%e6%96%af%e5%85%8b%e6%8a%8a%e7%81%ab%e7%ae%ad%e8%a3%85%e8%bf%9b%e6%b1%bd%e8%bd%a6%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%83%8a/",
+        "description": "全球首款飞行汽车，诞生了！ 马斯克8年前的诺言，终于兑现了。 在德州的SpaceX火箭测试基地，一辆长得像隐形战机的超跑亮相了。",
+        "detail": "全球首款飞行汽车，诞生了！ 马斯克8年前的诺言，终于兑现了。 在德州的SpaceX火箭测试基地，一辆长得像隐形战机的超跑亮相了。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Gemini 4 Argon打穿AGI终极考场！",
+        "link": "https://aiera.com.cn/2026/10/18/other/admin/119205/gemini-4-argon%e6%89%93%e7%a9%bfagi%e7%bb%88%e6%9e%81%e8%80%83%e5%9c%ba%ef%bc%81/",
+        "description": "谷歌，终于把这块最硬的骨头啃下来了。 就在刚刚，ARC Prize官方在X上甩出了一张成绩单：",
+        "detail": "谷歌，终于把这块最硬的骨头啃下来了。 就在刚刚，ARC Prize官方在X上甩出了一张成绩单：",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "DeepSeek双王炸！许愿式编程暴击GPT-6 Astra",
+        "link": "https://aiera.com.cn/2026/10/18/other/admin/119192/%e5%88%9a%e5%88%9a%ef%bc%8cdeepseek%e5%8f%8c%e7%8e%8b%e7%82%b8%ef%bc%81%e8%ae%b8%e6%84%bf%e5%bc%8f%e7%bc%96%e7%a8%8b%e6%9a%b4%e5%87%bbgpt-6-astra/",
+        "description": "DeepSeek周末突袭！ 就在刚刚，DeepSeek官宣V4.1 Flash大升级，DeepSeek-V4.1-Flash-1017全面上线。",
+        "detail": "DeepSeek周末突袭！ 就在刚刚，DeepSeek官宣V4.1 Flash大升级，DeepSeek-V4.1-Flash-1017全面上线。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "56年没解开的题，AI全解了！谷歌DeepMind新成果登上Science主刊",
+        "link": "https://aiera.com.cn/2026/10/18/other/admin/119177/56%e5%b9%b4%e6%b2%a1%e8%a7%a3%e5%bc%80%e7%9a%84%e9%a2%98%ef%bc%8cai%e5%85%a8%e8%a7%a3%e4%ba%86%ef%bc%81%e8%b0%b7%e6%ad%8cdeepmind%e6%96%b0%e6%88%90%e6%9e%9c%e7%99%bb%e4%b8%8ascience%e4%b8%bb%e5%88%8a/",
+        "description": "AI数学家，登上Science了！ 论文里的主角，是DeepMind的AlphaProof Nexus。9项埃尔德什问题、44项整数序列猜想，它都给出了证明。",
+        "detail": "AI数学家，登上Science了！ 论文里的主角，是DeepMind的AlphaProof Nexus。9项埃尔德什问题、44项整数序列猜想，它都给出了证明。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic公开4年后的世界！造AI只剩5%留给人",
+        "link": "https://aiera.com.cn/2026/10/18/other/admin/119160/%e5%88%9a%e5%88%9a%ef%bc%8canthropic%e5%85%ac%e5%bc%804%e5%b9%b4%e5%90%8e%e7%9a%84%e4%b8%96%e7%95%8c%ef%bc%81%e9%80%a0ai%e5%8f%aa%e5%89%a95%e7%95%99%e7%bb%99%e4%ba%ba/",
+        "description": "同一个2026年，人类的现实已经悄然裂成了两半！ 在旧金山的Anthropic办公楼里，Agent昼夜运转的总时长已经彻底反超人类，甚至有员工像带真人团队一样，给手下的Clau…",
+        "detail": "同一个2026年，人类的现实已经悄然裂成了两半！ 在旧金山的Anthropic办公楼里，Agent昼夜运转的总时长已经彻底反超人类，甚至有员工像带真人团队一样，给手下的Clau…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "link": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道",
+        "link": "http://www.geekpark.net/news/372512",
+        "description": "\n        \nDeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真\n10 月 17 日，DeepSeek V4.1 Flash 更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。\n在提升性能的同时，模型的任务运行时间与输出长",
+        "detail": "\n        \nDeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真\n10 月 17 日，DeepSeek V4.1 Flash 更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。\n在提升性能的同时，模型的任务运行时间与输出长",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+        "link": "https://sphinx-six-theta.vercel.app/",
+        "description": "[HN] +6 points · 0 comments · by critiquebrowser",
+        "detail": "[HN] +6 points · 0 comments · by critiquebrowser",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "My AI agent caught most of our sites saying sent while no email left the server",
+        "link": "https://iampneuma.com/the-function-returned-true/",
+        "description": "[HN] +4 points · 0 comments · by mrshanebarron",
+        "detail": "[HN] +4 points · 0 comments · by mrshanebarron",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-17",
     "weekday": "星期六",
     "summary": "今日共收录 20 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, 新智元, 极客公园, 爱范儿, 雷锋网。",
