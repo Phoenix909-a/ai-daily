@@ -2,8 +2,44 @@
   {
     "date": "2026-10-18",
     "weekday": "星期日",
-    "summary": "今日共收录 13 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园。",
+    "summary": "今日共收录 18 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 雷锋网。",
     "news": [
+      {
+        "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+        "link": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+        "description": "\n        Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health d",
+        "detail": "\n        Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health d",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Craft Agents",
+        "link": "https://www.producthunt.com/products/craft-agents",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Notion: Context for your agents",
+        "link": "https://www.producthunt.com/products/notion",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "CrewTower Mod for Claude Code",
+        "link": "https://www.producthunt.com/products/crew-tower",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
       {
         "title": "Mythos 5破解量子计算重大难题！53小时碾压人类数年",
         "link": "https://aiera.com.cn/2026/10/18/other/admin/119294/%e5%88%9a%e5%88%9a%ef%bc%8cmythos-5%e7%a0%b4%e8%a7%a3%e9%87%8f%e5%ad%90%e8%ae%a1%e7%ae%97%e9%87%8d%e5%a4%a7%e9%9a%be%e9%a2%98%ef%bc%8153%e5%b0%8f%e6%97%b6%e7%a2%be%e5%8e%8b%e4%ba%ba%e7%b1%bb%e6%95%b0/",
@@ -104,21 +140,30 @@
         "source": "极客公园"
       },
       {
-        "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-        "link": "https://sphinx-six-theta.vercel.app/",
-        "description": "[HN] +6 points · 0 comments · by critiquebrowser",
-        "detail": "[HN] +6 points · 0 comments · by critiquebrowser",
+        "title": "2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众",
+        "link": "https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html",
+        "description": "10月16日，2026湾区半导体产业生态博览会（湾芯展WESEMiBAY）在深圳会展中心（福田）圆满收官。本届展会规模与能级实现跨越式提升，3天展期，近8万平方米展区迎来超15.67万人次专业观众，多位院士、150位顶尖学者同台论道，超500位产业领袖与一线技术精英共赴盛会，来自20余个国家和地区的1000余家海内外优质企业参展，超3000件年度首发新品集中亮相，40余场高规格论坛串联起从技术到产",
+        "detail": "10月16日，2026湾区半导体产业生态博览会（湾芯展WESEMiBAY）在深圳会展中心（福田）圆满收官。本届展会规模与能级实现跨越式提升，3天展期，近8万平方米展区迎来超15.67万人次专业观众，多位院士、150位顶尖学者同台论道，超500位产业领袖与一线技术精英共赴盛会，来自20余个国家和地区的1000余家海内外优质企业参展，超3000件年度首发新品集中亮相，40余场高规格论坛串联起从技术到产",
         "tag": "行业动态",
         "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "link": "https://api-docs.deepseek.com/guides/search/",
+        "description": "[HN] +105 points · 48 comments · by fagnerbrack",
+        "detail": "[HN] +105 points · 48 comments · by fagnerbrack",
+        "tag": "模型发布",
+        "sort_score": 90,
         "source": "hackernews"
       },
       {
-        "title": "My AI agent caught most of our sites saying sent while no email left the server",
-        "link": "https://iampneuma.com/the-function-returned-true/",
-        "description": "[HN] +4 points · 0 comments · by mrshanebarron",
-        "detail": "[HN] +4 points · 0 comments · by mrshanebarron",
-        "tag": "Agent 进展",
-        "sort_score": 88,
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "link": "https://sphinx-six-theta.vercel.app/",
+        "description": "[HN] +102 points · 30 comments · by critiquebrowser",
+        "detail": "[HN] +102 points · 30 comments · by critiquebrowser",
+        "tag": "行业动态",
+        "sort_score": 58,
         "source": "hackernews"
       }
     ]
