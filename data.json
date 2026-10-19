@@ -2,8 +2,17 @@
   {
     "date": "2026-10-19",
     "weekday": "星期一",
-    "summary": "今日共收录 20 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 30 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 爱范儿, 雷锋网。",
     "news": [
+      {
+        "title": "网易LobsterAI发布《中国办公Agent用户行为报告》（9月版）：智谱GLM Token份额环比激增166.7%，居头部厂商之首",
+        "link": "https://aiera.com.cn/2026/10/19/other/admin/119490/01-%e6%b3%9b%e7%bc%96%e7%a8%8b%e4%bb%8d%e6%98%af%e7%ac%ac%e4%b8%80%e5%a4%a7%e7%94%a8%e9%80%94-%e8%ae%be%e8%ae%a1%e4%b8%8e%e5%86%85%e5%ae%b9%e5%88%9b%e4%bd%9c%e6%ad%a3%e5%9c%a8%e5%8d%87%e6%b8%a9/",
+        "description": "回看今年以来，智谱在技术研发与生态布局上动作频频。从GLM-4系列等新一代基座大模型的持续开源与迭代，到坚定走全栈自研路线并全面拥抱国产算力，智谱不仅跑通了“模型+算力”的国产…",
+        "detail": "回看今年以来，智谱在技术研发与生态布局上动作频频。从GLM-4系列等新一代基座大模型的持续开源与迭代，到坚定走全栈自研路线并全面拥抱国产算力，智谱不仅跑通了“模型+算力”的国产…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
       {
         "title": "六项评测超越GPT-6 Astra！大晓ACE-Brain-0.6以数据Scaling推动具身空间智能跃迁",
         "link": "https://aiera.com.cn/2026/10/19/other/admin/119473/%e5%85%ad%e9%a1%b9%e8%af%84%e6%b5%8b%e8%b6%85%e8%b6%8agpt-6-astra%ef%bc%81%e5%a4%a7%e6%99%93ace-brain-0-6%e4%bb%a5%e6%95%b0%e6%8d%aescaling%e6%8e%a8%e5%8a%a8%e5%85%b7%e8%ba%ab%e7%a9%ba%e9%97%b4/",
@@ -95,6 +104,24 @@
         "source": "新智元"
       },
       {
+        "title": "DoorDash的Flux在云端智能体上运行130000个工程任务",
+        "link": "https://www.infoq.cn/article/4IPptJpXQqX5Lr77uBFZ?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "阿里云 7 个样板间，探索 AI 原生研发组织的实践",
+        "link": "https://www.infoq.cn/article/2uG3W14THqtLhb5Vou51?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "Cloudflare 推出面向 AI 代理的 CLI，并逐步停用 Wrangler",
         "link": "https://www.infoq.cn/article/Ddda0DF68laqfoqa4Lju?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -120,6 +147,15 @@
         "tag": "Agent 进展",
         "sort_score": 88,
         "source": "InfoQ 中文"
+      },
+      {
+        "title": "我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来",
+        "link": "https://www.ifanr.com/1684880?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "好用到原地「起飞」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "好用到原地「起飞」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
       },
       {
         "title": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
@@ -149,6 +185,60 @@
         "source": "极客公园"
       },
       {
+        "title": "光量子计算，距离真正的产业化还有多远？",
+        "link": "https://www.leiphone.com/category/chips/1LbhTsMb0OyPhsw6.html",
+        "description": "导语：产业化落地，光量子计算的新考场记者：郭思编辑：包永刚&nbsp;摩尔定律走到红利尽头，AI、新药研发、新材料探索对算力的需求还在不断扩张。依靠持续堆 GPU 提升算力的老路越来越不划算，存算一体、Chiplet、光互连等技术竞相寻找算力增量，量子计算因此被寄予厚望，光量子路线更是长期收到行业关注与讨论。它在实验室创下震撼的量子优越性记录，其工程化进展与产业化时间表也始终是业界关注的焦点。&n",
+        "detail": "导语：产业化落地，光量子计算的新考场记者：郭思编辑：包永刚&nbsp;摩尔定律走到红利尽头，AI、新药研发、新材料探索对算力的需求还在不断扩张。依靠持续堆 GPU 提升算力的老路越来越不划算，存算一体、Chiplet、光互连等技术竞相寻找算力增量，量子计算因此被寄予厚望，光量子路线更是长期收到行业关注与讨论。它在实验室创下震撼的量子优越性记录，其工程化进展与产业化时间表也始终是业界关注的焦点。&n",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "王志宇：拓竹卷C，轻量智造为何押注小B丨未来创新50人",
+        "link": "https://www.leiphone.com/category/weiwu/LNx9jMPQsgXikqfp.html",
+        "description": "三一、华为、创想、安克履历加持，王志宇二次创业绕开C端。作者丨姚单编辑丨董子博七月，雷峰网·鲸犀来到了轻量智造位于深圳西丽的新办公室。60 多个工位坐得满满当当，物业那层空着的三四百平方米，也被这家公司临时占了过来。而这间办公室，他们今年 4 月才从龙华观澜搬来。办公区这边坐不下人，产线那一头却已经独自撑起一栋楼。今年 7 月，公司已有 50 台设备发货、200 台在产线爬坡，制造由欣旺达负责，日",
+        "detail": "三一、华为、创想、安克履历加持，王志宇二次创业绕开C端。作者丨姚单编辑丨董子博七月，雷峰网·鲸犀来到了轻量智造位于深圳西丽的新办公室。60 多个工位坐得满满当当，物业那层空着的三四百平方米，也被这家公司临时占了过来。而这间办公室，他们今年 4 月才从龙华观澜搬来。办公区这边坐不下人，产线那一头却已经独自撑起一栋楼。今年 7 月，公司已有 50 台设备发货、200 台在产线爬坡，制造由欣旺达负责，日",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "｜前Graphcore总裁卢涛加入铭芯启睿，要把LPU做成「高铁」",
+        "link": "https://www.leiphone.com/category/chips/56PWzwTNdteGx04q.html",
+        "description": "铭芯启睿（MemSilicon）CEO兼联合创始人 卢涛雷峰网独家获悉，铭芯启睿（MemSilicon）已完成超4亿元A轮融资，本轮融资由博原资本领投，博世创投、创领资本、米哈游、中关村科学城公司、兆易创新等跟投，老股东复容投资、国开科创、恒裕资本、锦秋基金、顺禧基金、小米战投、中科创星持续加注。前Graphcore总裁兼大中华区总经理卢涛也已加入铭芯启睿，担任CEO兼联合创始人。在半导体行业深耕",
+        "detail": "铭芯启睿（MemSilicon）CEO兼联合创始人 卢涛雷峰网独家获悉，铭芯启睿（MemSilicon）已完成超4亿元A轮融资，本轮融资由博原资本领投，博世创投、创领资本、米哈游、中关村科学城公司、兆易创新等跟投，老股东复容投资、国开科创、恒裕资本、锦秋基金、顺禧基金、小米战投、中科创星持续加注。前Graphcore总裁兼大中华区总经理卢涛也已加入铭芯启睿，担任CEO兼联合创始人。在半导体行业深耕",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Git 被换掉，LLM 被替代：AI 编码开始反噬传统工具链？",
+        "link": "https://www.leiphone.com/category/ai/wHcf2tZUiQkXGM0i.html",
+        "description": "Anthropic 代码量暴涨，GitHub 密钥扫描又慢又贵，两家被迫改造系统。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "detail": "Anthropic 代码量暴涨，GitHub 密钥扫描又慢又贵，两家被迫改造系统。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀",
+        "link": "https://www.leiphone.com/category/ai/jKVjygWUe9Aj0QEd.html",
+        "description": "官方承认 3D 短板，跨模型测试 Harness 不同。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "detail": "官方承认 3D 短板，跨模型测试 Harness 不同。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "阿里速卖通公布未来三年目标：品牌数、品牌滚动GMV每年增长50%",
+        "link": "https://www.leiphone.com/category/industrynews/PjxlLXJnnCMoa2q3.html",
+        "description": "在10月19日举办的速卖通年度峰会上，速卖通总裁惊石公布了未来三年品牌发展目标：品牌数、品牌GMV每年双50%增长。为支撑增长，速卖通将继续投入全球履约、本地化流量、品牌营销、合规及AI能力，并通过AI能力拓展拉美、东南亚、非洲等地区的66个新市场。大会传递了一个重要信号：跨境电商已从轻小件、低价竞争转向全球履约、本地经营、品牌化与合规能力的综合竞争。",
+        "detail": "在10月19日举办的速卖通年度峰会上，速卖通总裁惊石公布了未来三年品牌发展目标：品牌数、品牌GMV每年双50%增长。为支撑增长，速卖通将继续投入全球履约、本地化流量、品牌营销、合规及AI能力，并通过AI能力拓展拉美、东南亚、非洲等地区的66个新市场。大会传递了一个重要信号：跨境电商已从轻小件、低价竞争转向全球履约、本地经营、品牌化与合规能力的综合竞争。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
         "title": "复旦贾萧松：VLA、WAM新架构层出不穷，但真正的瓶颈不在模型架构 | 世界模型50人",
         "link": "https://www.leiphone.com/category/academic/omK9nE62h3kHaQg5.html",
         "description": "严骏驰一通电话，贾萧松五年几次转向。作者：李秋悦编辑：吴彤2021年年底，贾萧松直博上海交通大学没多久，在宿舍里接到一个电话。电话是贾萧松的博导严骏驰打来的，问他接下来读博想研究什么？贾萧松的回答是继续做自动驾驶轨迹预测。两年前，贾萧松在交大致远学院读大三，参加了加州大学伯克利分校的一个暑研项目，在控制理论学者富塚城义（Masayoshi Tomizuka）团队做研究，从车辆交互与轨迹预测入门自动",
@@ -167,21 +257,21 @@
         "source": "雷锋网"
       },
       {
-        "title": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
+        "title": "DeepSeek V4.1 Flash 1017 (Max)",
         "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-        "description": "[HN] +46 points · 10 comments · by theanonymousone",
-        "detail": "[HN] +46 points · 10 comments · by theanonymousone",
+        "description": "[HN] +138 points · 46 comments · by theanonymousone",
+        "detail": "[HN] +138 points · 46 comments · by theanonymousone",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "hackernews"
       },
       {
-        "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-        "link": "https://github.com/strot-ai/Project-STROT",
-        "description": "[HN] +19 points · 4 comments · by solohunter001",
-        "detail": "[HN] +19 points · 4 comments · by solohunter001",
-        "tag": "工具与生态",
-        "sort_score": 76,
+        "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+        "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
+        "description": "[HN] +23 points · 8 comments · by ankitg12",
+        "detail": "[HN] +23 points · 8 comments · by ankitg12",
+        "tag": "模型发布",
+        "sort_score": 90,
         "source": "hackernews"
       }
     ]
