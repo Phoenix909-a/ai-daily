@@ -2,7 +2,7 @@
   {
     "date": "2026-10-20",
     "weekday": "星期二",
-    "summary": "今日共收录 24 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 34 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
       {
         "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
@@ -12,6 +12,15 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "Jotform App Builder for ChatGPT & Claude",
+        "link": "https://www.producthunt.com/products/jotform",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
       },
       {
         "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
@@ -113,6 +122,24 @@
         "source": "新智元"
       },
       {
+        "title": "AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+        "link": "https://www.infoq.cn/article/tgqMEJsqXfX6YzAcOiAR?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "调查发现：AI 生成代码会提升调试难度与故障发生率，并造成代码理解鸿沟",
         "link": "https://www.infoq.cn/article/ywvgVDVLsSU7r47Jk6lq?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -167,6 +194,15 @@
         "source": "少数派"
       },
       {
+        "title": "设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了",
+        "link": "http://www.geekpark.net/news/372612",
+        "description": "\n        2025 年，Lovart 作为全球首款设计 Agent 开始出现在各大设计师社区。第一次用 AI 能力把整个设计流程串联起来。从最初的设计思路、到最终图片或视频的设计物料，终于被完整的放到一块画布上完成。\n随着在生成能力和指令遵循程度上的进步，AI 越发能够满足人们现实世界的真实需求，muse 此时带起关于 personal agent 的讨论显得恰逢其时。AI 在能力上已经具",
+        "detail": "\n        2025 年，Lovart 作为全球首款设计 Agent 开始出现在各大设计师社区。第一次用 AI 能力把整个设计流程串联起来。从最初的设计思路、到最终图片或视频的设计物料，终于被完整的放到一块画布上完成。\n随着在生成能力和指令遵循程度上的进步，AI 越发能够满足人们现实世界的真实需求，muse 此时带起关于 personal agent 的讨论显得恰逢其时。AI 在能力上已经具",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
         "title": "DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道",
         "link": "http://www.geekpark.net/news/372568",
         "description": "\n        \nDeepSeek 新模型登顶 Code Arena WebDev 开源模型榜首\n10 月 19 日，AI 模型评测平台 Arena 宣布，DeepSeek-V4.1-Flash-1017（Max）超过 Kimi K3（Max），成为 Code Arena: WebDev 榜单排名最高的开源模型。&nbsp;\n截至目前，DeepSeek-V4.1-Flash-1017 在该榜单上",
@@ -174,6 +210,60 @@
         "tag": "模型发布",
         "sort_score": 90,
         "source": "极客公园"
+      },
+      {
+        "title": "580天暗战，爱奇艺的AI闯关路",
+        "link": "https://www.leiphone.com/category/industrynews/jJI2TPXI1eYWxECq.html",
+        "description": "今年4月，在北京的一场影视行业论坛上，爱奇艺基础架构与智能分发事业群总裁刘文峰正通过大屏幕演示手机端的一个新功能“跳看”：前一秒还是画师在寺庙中留下一幅未完成点睛的画作，手指一滑，屏幕中一个黑衣人潜入寺中，还未走出几步，便在惊雷中暴毙而亡。一段原本8分钟的开场戏，就浓缩成3分钟，紧凑又充满悬念。“这不跟看短剧一样么？”这一刻起，长视频不再只有一种打开方式。而能够实现“长剧短看”、进退自如切换剧情的",
+        "detail": "今年4月，在北京的一场影视行业论坛上，爱奇艺基础架构与智能分发事业群总裁刘文峰正通过大屏幕演示手机端的一个新功能“跳看”：前一秒还是画师在寺庙中留下一幅未完成点睛的画作，手指一滑，屏幕中一个黑衣人潜入寺中，还未走出几步，便在惊雷中暴毙而亡。一段原本8分钟的开场戏，就浓缩成3分钟，紧凑又充满悬念。“这不跟看短剧一样么？”这一刻起，长视频不再只有一种打开方式。而能够实现“长剧短看”、进退自如切换剧情的",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "奥斯卡大师加持，「电影精神」怎么造就AI剧场？",
+        "link": "https://www.leiphone.com/category/industrynews/6Vycsmo3EhndKZSe.html",
+        "description": "“我73岁转型，我要去拥抱新的技术、去驾驭它，做到真正想做的东西，这就是我的决心。”——鲍德熹十一月的北京已略带寒意，我们在爱奇艺青春中心见到了一代传奇影人鲍德熹。这里是他和爱奇艺合作“鲍德熹·爱奇艺 AI 剧场”的创作营授课现场。其他课程导师上课时，他也会每天早早来到教室，与学员们一同聆听关于电影知识与审美的课程。他时不时自然地接过话筒分享几句感悟，就会引来台下一片会心的笑声与掌声。在影视圈里发",
+        "detail": "“我73岁转型，我要去拥抱新的技术、去驾驭它，做到真正想做的东西，这就是我的决心。”——鲍德熹十一月的北京已略带寒意，我们在爱奇艺青春中心见到了一代传奇影人鲍德熹。这里是他和爱奇艺合作“鲍德熹·爱奇艺 AI 剧场”的创作营授课现场。其他课程导师上课时，他也会每天早早来到教室，与学员们一同聆听关于电影知识与审美的课程。他时不时自然地接过话筒分享几句感悟，就会引来台下一片会心的笑声与掌声。在影视圈里发",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "抖音电商公布双11开门红数据：消费券带动成交额破亿商家数涨2倍",
+        "link": "https://www.leiphone.com/category/industrynews/30w2GXFtLv9CootW.html",
+        "description": "抖音电商公布2026年双11“开门红”阶段数据报告。报告显示，10月15日至18日大促“开门红”阶段，平台上消费券带动成交额破亿的商家数量同比增长200%。平台出资消费券与分层扶持政策共同发力，助力不同发展阶段商家在大促开局实现生意增长；店播、特色行业商家和农产品产业带生意集中爆发。平台全资消费券，助力不同阶段商家生意爆发报告显示，开门红期间平台出资消费券持续带动商家生意增长。10月15日至18日",
+        "detail": "抖音电商公布2026年双11“开门红”阶段数据报告。报告显示，10月15日至18日大促“开门红”阶段，平台上消费券带动成交额破亿的商家数量同比增长200%。平台出资消费券与分层扶持政策共同发力，助力不同发展阶段商家在大促开局实现生意增长；店播、特色行业商家和农产品产业带生意集中爆发。平台全资消费券，助力不同阶段商家生意爆发报告显示，开门红期间平台出资消费券持续带动商家生意增长。10月15日至18日",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "新石器完成近4亿美元新一轮融资，加速全球化与规模化商业落地",
+        "link": "https://www.leiphone.com/category/industrynews/eSrgjx3nGEGMMePm.html",
+        "description": "10月20日，全球领先的自动驾驶科技公司新石器（Neolix）宣布正式完成E轮近4亿美元融资。本轮融资由博裕投资与某国家级基金联合领投，阿里巴巴AEF NextGen香港基金、Monolith砺思资本、纪源资本、淡马锡旗下Vertex Growth、华映资本、广汽资本、金鼎资本、朗玛峰创投、正大机器人、领航新界、高鹄资本等机构参与投资，磊石资本（Stone Venture）、信宸资本、高成投资、云",
+        "detail": "10月20日，全球领先的自动驾驶科技公司新石器（Neolix）宣布正式完成E轮近4亿美元融资。本轮融资由博裕投资与某国家级基金联合领投，阿里巴巴AEF NextGen香港基金、Monolith砺思资本、纪源资本、淡马锡旗下Vertex Growth、华映资本、广汽资本、金鼎资本、朗玛峰创投、正大机器人、领航新界、高鹄资本等机构参与投资，磊石资本（Stone Venture）、信宸资本、高成投资、云",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "雷锋网"
+      },
+      {
+        "title": "好价正当时！双11华为平板这样买，15%国补再叠教育优惠超值入手",
+        "link": "https://www.leiphone.com/category/industrynews/lG1dWd9RNAK2bEb7.html",
+        "description": "双11大促拉开序幕，电子设备迎来换新高峰，「双11平板选购指南」「学生党平板推荐」「2026年哪些办公产品值得买」等话题成为消费者热议的焦点。现在用户选购平板和笔记本，早已不只是为了观影娱乐，无纸化学习、移动办公、专业绘画创作，都成了核心的使用诉求。面对更加多元的需求，华为MatePad系列凭借鸿蒙AI、原生PC应用生态及全面的专业创作流能力，为不同人群提供了更丰富的选择。恰逢双11，华为平板还推",
+        "detail": "双11大促拉开序幕，电子设备迎来换新高峰，「双11平板选购指南」「学生党平板推荐」「2026年哪些办公产品值得买」等话题成为消费者热议的焦点。现在用户选购平板和笔记本，早已不只是为了观影娱乐，无纸化学习、移动办公、专业绘画创作，都成了核心的使用诉求。面对更加多元的需求，华为MatePad系列凭借鸿蒙AI、原生PC应用生态及全面的专业创作流能力，为不同人群提供了更丰富的选择。恰逢双11，华为平板还推",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "启元机器人新进展：北大董豪团队推出 HIL-UMI，让后训练摆脱「真机依赖」",
+        "link": "https://www.leiphone.com/category/ai/XgCxObsqu8pc44px.html",
+        "description": "继无本体之后，具身后训练范式有了新进展。&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "detail": "继无本体之后，具身后训练范式有了新进展。&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
       },
       {
         "title": "抖音商城双11开门红数据发布：消费券带动成交额破亿商家数同比增长200%",
@@ -214,8 +304,8 @@
       {
         "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
         "link": "https://github.com/gojko/lights-on-software-factory",
-        "description": "[HN] +8 points · 0 comments · by gojkoa",
-        "detail": "[HN] +8 points · 0 comments · by gojkoa",
+        "description": "[HN] +13 points · 5 comments · by gojkoa",
+        "detail": "[HN] +13 points · 5 comments · by gojkoa",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "hackernews"
