@@ -2,8 +2,44 @@
   {
     "date": "2026-10-21",
     "weekday": "星期三",
-    "summary": "今日共收录 27 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 41 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+        "link": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
+        "description": "\n        Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and ",
+        "detail": "\n        Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and ",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Decoder"
+      },
+      {
+        "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+        "link": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
+        "description": "\n        OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development,",
+        "detail": "\n        OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development,",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Agent Pets",
+        "link": "https://www.producthunt.com/products/agent-pets",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Intelli for ChatGPT & Claude",
+        "link": "https://www.producthunt.com/products/intelli",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
       {
         "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
         "link": "https://www.qbitai.com/2026/10/504608.html",
@@ -122,6 +158,42 @@
         "source": "新智元"
       },
       {
+        "title": "推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+        "link": "https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
+        "link": "https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+        "link": "https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "Agent 删库频频发生，几十年前就有的数据库防呆机制不管用了？",
         "link": "https://www.infoq.cn/article/2Z056Q54wWa6vAIQKsqJ?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -185,6 +257,15 @@
         "source": "爱范儿"
       },
       {
+        "title": "App+1｜Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+        "link": "https://sspai.com/post/116445",
+        "description": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文",
+        "detail": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "少数派"
+      },
+      {
         "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
         "link": "https://sspai.com/post/116887",
         "description": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文",
@@ -212,40 +293,31 @@
         "source": "极客公园"
       },
       {
-        "title": "不做提分工具，CapaLeap在AI教育焦虑中找「15度夹角」",
-        "link": "https://www.leiphone.com/category/weiwu/2pumQSfiTnvcy26r.html",
-        "description": "一个六岁的孩子问AI“为什么天是蓝的”。三秒钟，“瑞利散射”的解释弹了出来，精确、流畅、挑不出毛病。孩子听完，点了点头，问了下一个问题。答案拿到了。但自己仰头看天、追问为什么早晚颜色不一样、在脑子里慢慢搭出因果链条的过程，被跳过了。这不是个例。中国青少年研究中心2025年对7省（市）8563名中小学生的调查显示，AI总体使用率61.7%，71.0%用它辅助完成作业，21.5%表示“只想和AI聊天，",
-        "detail": "一个六岁的孩子问AI“为什么天是蓝的”。三秒钟，“瑞利散射”的解释弹了出来，精确、流畅、挑不出毛病。孩子听完，点了点头，问了下一个问题。答案拿到了。但自己仰头看天、追问为什么早晚颜色不一样、在脑子里慢慢搭出因果链条的过程，被跳过了。这不是个例。中国青少年研究中心2025年对7省（市）8563名中小学生的调查显示，AI总体使用率61.7%，71.0%用它辅助完成作业，21.5%表示“只想和AI聊天，",
-        "tag": "工具与生态",
-        "sort_score": 76,
-        "source": "雷锋网"
-      },
-      {
-        "title": "从安防到工业，海康威视底气从何而来",
-        "link": "https://www.leiphone.com/category/5G/4rvebFOnbOPic02a.html",
-        "description": "2026年中国国际工业博览会的工业自动化展区，海康威视的展台被人群围了好几层。一百多款场景数字化产品铺开在眼前，从亚微米级精度的半导体封装3D AXI检测设备，到能在3200℃极限高温下看清工业现场的高清可视高温计，从为皮带托辊“悬丝诊脉”的听诊光纤，到给筒仓做三维建模的扫描成像雷达。有人感叹，“海康真的不止于安防了”，也有人在这片“含AI量十足”的展台前停下来，试图想明白一个问题：这家以安防立身",
-        "detail": "2026年中国国际工业博览会的工业自动化展区，海康威视的展台被人群围了好几层。一百多款场景数字化产品铺开在眼前，从亚微米级精度的半导体封装3D AXI检测设备，到能在3200℃极限高温下看清工业现场的高清可视高温计，从为皮带托辊“悬丝诊脉”的听诊光纤，到给筒仓做三维建模的扫描成像雷达。有人感叹，“海康真的不止于安防了”，也有人在这片“含AI量十足”的展台前停下来，试图想明白一个问题：这家以安防立身",
+        "title": "真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？",
+        "link": "https://www.leiphone.com/category/industrynews/uxVZGVMwc8JuD0Px.html",
+        "description": "机器人在哪里练，练成后用在哪里？越来越多的探索指向同一个答案：把训练放进真实的工位，这就是“实景实训平台”。据中国信息通信研究院《具身智能训练场研究报告（2026年）》及多家机构测算，训练通用具身模型至少需要千万小时级真实交互数据，而目前全球可用的高质量真机具身语料仅在百万小时量级，相差约一个数量级。若主要依靠专家遥控真机采集，产出往往不过每天数十小时。缺的不是又一间展厅，而是能把采集、标注、训练",
+        "detail": "机器人在哪里练，练成后用在哪里？越来越多的探索指向同一个答案：把训练放进真实的工位，这就是“实景实训平台”。据中国信息通信研究院《具身智能训练场研究报告（2026年）》及多家机构测算，训练通用具身模型至少需要千万小时级真实交互数据，而目前全球可用的高质量真机具身语料仅在百万小时量级，相差约一个数量级。若主要依靠专家遥控真机采集，产出往往不过每天数十小时。缺的不是又一间展厅，而是能把采集、标注、训练",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
       },
       {
-        "title": "Using Claude to reduce the attack surface of code",
-        "link": "https://www.anthropic.com/research/attack-surface-reduction",
-        "description": "[HN] +4 points · 0 comments · by dnw",
-        "detail": "[HN] +4 points · 0 comments · by dnw",
+        "title": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
+        "link": "https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html",
+        "description": "质检线上，一台人形机器人从料框里取出平板，送进检测柜；完成检测后，再将成品分流。抓取入柜、多项目质检、成品分拣，机器人与工人同线作业，一气呵成。一次看似简单的抓取，背后串联起感知、判断与执行。在智元2026年9月公开的具身模型中，一帧画面可编码为24个视觉词元（Token）；相关实验还展示了模型生成连续动作的低延迟能力。但若要算清抓取的成本，不能只数视觉词元，还需综合推理耗时、芯片功耗、执行成功率",
+        "detail": "质检线上，一台人形机器人从料框里取出平板，送进检测柜；完成检测后，再将成品分流。抓取入柜、多项目质检、成品分拣，机器人与工人同线作业，一气呵成。一次看似简单的抓取，背后串联起感知、判断与执行。在智元2026年9月公开的具身模型中，一帧画面可编码为24个视觉词元（Token）；相关实验还展示了模型生成连续动作的低延迟能力。但若要算清抓取的成本，不能只数视觉词元，还需综合推理耗时、芯片功耗、执行成功率",
         "tag": "模型发布",
         "sort_score": 90,
-        "source": "hackernews"
+        "source": "雷锋网"
       },
       {
-        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-        "link": "https://github.com/xamrayev/nexus-cli",
-        "description": "[HN] +3 points · 0 comments · by xamrayev",
-        "detail": "[HN] +3 points · 0 comments · by xamrayev",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "hackernews"
+        "title": "当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？",
+        "link": "https://www.leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html",
+        "description": "智能体也开始领“工号”了。8月31日，张江科学之门模力社区，智能体身份码节点管理平台正式上线，30家单位参与节点发放。越来越多的智能体将拥有可识别、可管理的数字身份。但当Agent从个人电脑里的工具，变成能够跨系统调用、参与业务流程的“数字同事”，一个比技术更现实的问题随之浮现：谁给它派活，谁来验收成果，出了问题又由谁担责？这道题，考验的已不只是智能体的能力，更是组织的管理能力。图1张江科学之门模",
+        "detail": "智能体也开始领“工号”了。8月31日，张江科学之门模力社区，智能体身份码节点管理平台正式上线，30家单位参与节点发放。越来越多的智能体将拥有可识别、可管理的数字身份。但当Agent从个人电脑里的工具，变成能够跨系统调用、参与业务流程的“数字同事”，一个比技术更现实的问题随之浮现：谁给它派活，谁来验收成果，出了问题又由谁担责？这道题，考验的已不只是智能体的能力，更是组织的管理能力。图1张江科学之门模",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "雷锋网"
       }
     ]
   },
