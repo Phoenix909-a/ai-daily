@@ -1,5 +1,192 @@
 [
   {
+    "date": "2026-10-22",
+    "weekday": "星期四",
+    "summary": "今日共收录 20 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "奥特曼曝出SI三大终局！最强AI只剩一家，否则熔掉全世界GPU",
+        "link": "https://aiera.com.cn/2026/10/22/other/admin/120014/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%9b%9d%e5%87%basi%e4%b8%89%e5%a4%a7%e7%bb%88%e5%b1%80%ef%bc%81%e6%9c%80%e5%bc%baai%e5%8f%aa%e5%89%a9%e4%b8%80%e5%ae%b6%ef%bc%8c%e5%90%a6%e5%88%99%e7%86%94%e6%8e%89/",
+        "description": "什么！我没听错吧？ OpenAI、Anthropic、谷歌，这几家杀红了眼的死对头，全部并成一家！",
+        "detail": "什么！我没听错吧？ OpenAI、Anthropic、谷歌，这几家杀红了眼的死对头，全部并成一家！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude首次设计出抗蝎毒蛋白！狂算64小时，已过实测",
+        "link": "https://aiera.com.cn/2026/10/22/other/admin/119995/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e9%a6%96%e6%ac%a1%e8%ae%be%e8%ae%a1%e5%87%ba%e6%8a%97%e8%9d%8e%e6%af%92%e8%9b%8b%e7%99%bd%ef%bc%81%e7%8b%82%e7%ae%9764%e5%b0%8f%e6%97%b6%ef%bc%8c%e5%b7%b2%e8%bf%87/",
+        "description": "Claude最新成果，在生物和AI圈彻底刷屏了。 今天，Anthropic公开一份研究中，内部研究版Claude设计的蛋白，真的在试管里抓住了蝎毒！",
+        "detail": "Claude最新成果，在生物和AI圈彻底刷屏了。 今天，Anthropic公开一份研究中，内部研究版Claude设计的蛋白，真的在试管里抓住了蝎毒！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "马斯克自曝：特斯拉与SpaceX或将合并！3.5万亿美元世纪大合体来了",
+        "link": "https://aiera.com.cn/2026/10/22/other/admin/119977/%e5%88%9a%e5%88%9a%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8b%e8%87%aa%e6%9b%9d%ef%bc%9a%e7%89%b9%e6%96%af%e6%8b%89%e4%b8%8espacex%e6%88%96%e5%b0%86%e5%90%88%e5%b9%b6%ef%bc%813-5%e4%b8%87%e4%ba%bf%e7%be%8e/",
+        "description": "刚刚，马斯克曝出了惊人消息。 在SpaceX上市后的第二次财报电话会， 马斯克亲口承认：SpaceX与特斯拉正在合并谈判。",
+        "detail": "刚刚，马斯克曝出了惊人消息。 在SpaceX上市后的第二次财报电话会， 马斯克亲口承认：SpaceX与特斯拉正在合并谈判。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "哈佛重磅研究：AI凭人脸照片，就能预测癌症患者死亡风险！",
+        "link": "https://aiera.com.cn/2026/10/22/other/admin/119963/%e5%93%88%e4%bd%9b%e9%87%8d%e7%a3%85%e7%a0%94%e7%a9%b6%ef%bc%9aai%e5%87%ad%e4%ba%ba%e8%84%b8%e7%85%a7%e7%89%87%ef%bc%8c%e5%b0%b1%e8%83%bd%e9%a2%84%e6%b5%8b%e7%99%8c%e7%97%87%e6%82%a3%e8%80%85%e6%ad%bb/",
+        "description": "就在今天，这个新闻上了各大热搜。 哈佛附属的马萨诸塞州总医院百瀚癌症研究所，在《柳叶刀·数字健康》上发布了一项突破性研究。",
+        "detail": "就在今天，这个新闻上了各大热搜。 哈佛附属的马萨诸塞州总医院百瀚癌症研究所，在《柳叶刀·数字健康》上发布了一项突破性研究。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "自进化AI「杀」进物理世界！王者峡谷屠神，从0打到全胜",
+        "link": "https://aiera.com.cn/2026/10/22/other/admin/119947/%e8%87%aa%e8%bf%9b%e5%8c%96ai%e3%80%8c%e6%9d%80%e3%80%8d%e8%bf%9b%e7%89%a9%e7%90%86%e4%b8%96%e7%95%8c%ef%bc%81%e7%8e%8b%e8%80%85%e5%b3%a1%e8%b0%b7%e5%b1%a0%e7%a5%9e%ef%bc%8c%e4%bb%8e0%e6%89%93/",
+        "description": "一支王者荣耀AI战队，开局被游戏内置人机按在地上摩擦，一局都没赢过。 谁也没想到，AI教练只带它复盘了五轮，胜率竟从0%直接打到了100%！",
+        "detail": "一支王者荣耀AI战队，开局被游戏内置人机按在地上摩擦，一局都没赢过。 谁也没想到，AI教练只带它复盘了五轮，胜率竟从0%直接打到了100%！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "走向超级智能体，AI还需要主动性：UIUC、谷歌等联合综述",
+        "link": "https://aiera.com.cn/2026/10/22/other/admin/119920/%e8%b5%b0%e5%90%91%e8%b6%85%e7%ba%a7%e6%99%ba%e8%83%bd%e4%bd%93%ef%bc%8cai%e8%bf%98%e9%9c%80%e8%a6%81%e4%b8%bb%e5%8a%a8%e6%80%a7%ef%bc%9auiuc%e3%80%81%e8%b0%b7%e6%ad%8c%e7%ad%89%e8%81%94%e5%90%88/",
+        "description": "1995年，Michael Wooldridge和Nicholas Jennings在《Intelligent Agents: Theory and Practice》中，将自…",
+        "detail": "1995年，Michael Wooldridge和Nicholas Jennings在《Intelligent Agents: Theory and Practice》中，将自…",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "半年巨亏80,000,000,000美元！Anthropic招股书曝光了",
+        "link": "https://aiera.com.cn/2026/10/22/other/admin/119896/%e5%8d%8a%e5%b9%b4%e5%b7%a8%e4%ba%8f80000000000%e7%be%8e%e5%85%83%ef%bc%81anthropic%e6%8b%9b%e8%82%a1%e4%b9%a6%e6%9b%9d%e5%85%89%e4%ba%86/",
+        "description": "天呐，Anthropic最新招股书刚刚曝光了！ 今天，WSJ独家公开的S-1招股书草案，彻底撕开了Anthropic奔向万亿估值惊人内幕。",
+        "detail": "天呐，Anthropic最新招股书刚刚曝光了！ 今天，WSJ独家公开的S-1招股书草案，彻底撕开了Anthropic奔向万亿估值惊人内幕。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "黄仁勋柏林震撼演讲！PC已死，AI智能体时代全面爆发",
+        "link": "https://aiera.com.cn/2026/10/22/other/admin/119879/%e5%88%9a%e5%88%9a%ef%bc%8c%e9%bb%84%e4%bb%81%e5%8b%8b%e6%9f%8f%e6%9e%97%e9%9c%87%e6%92%bc%e6%bc%94%e8%ae%b2%ef%bc%81pc%e5%b7%b2%e6%ad%bb%ef%bc%8cai%e6%99%ba%e8%83%bd%e4%bd%93%e6%97%b6%e4%bb%a3/",
+        "description": "十年前要两个人抬上楼的机器，今天被老黄单手举在了台上！ 刚刚，GTC柏林的舞台上，黄仁勋举起一台轻薄的笔记本 RTX Spark，内存128GB。",
+        "detail": "十年前要两个人抬上楼的机器，今天被老黄单手举在了台上！ 刚刚，GTC柏林的舞台上，黄仁勋举起一台轻薄的笔记本 RTX Spark，内存128GB。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "ChatGPT聊天能上锁了！忘记PIN后重置，全部锁定对话将永久删除",
+        "link": "https://aiera.com.cn/2026/10/22/other/admin/119849/chatgpt%e8%81%8a%e5%a4%a9%e8%83%bd%e4%b8%8a%e9%94%81%e4%ba%86%ef%bc%81%e5%bf%98%e8%ae%b0pin%e5%90%8e%e9%87%8d%e7%bd%ae%ef%bc%8c%e5%85%a8%e9%83%a8%e9%94%81%e5%ae%9a%e5%af%b9%e8%af%9d%e5%b0%86%e6%b0%b8/",
+        "description": "10月20日，ChatGPT聊天框里多了一把锁。 OpenAI推出「锁定聊天」功能：设置4位账户PIN码后，用户就能把指定对话藏起来。",
+        "detail": "10月20日，ChatGPT聊天框里多了一把锁。 OpenAI推出「锁定聊天」功能：设置4位账户PIN码后，用户就能把指定对话藏起来。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust",
+        "link": "https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
+        "link": "https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码\n· 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND\n· Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码\n· 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND\n· Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨",
+        "link": "http://www.geekpark.net/news/372711",
+        "description": "\n        \n24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI\n10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet，定位为可主动工作的 AI 智能体（agent），加入由 Meta 的 Muse、以及 OpenAI 的 Dots 领衔的「全天候",
+        "detail": "\n        \n24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI\n10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet，定位为可主动工作的 AI 智能体（agent），加入由 Meta 的 Muse、以及 OpenAI 的 Dots 领衔的「全天候",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
+        "title": "我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」",
+        "link": "http://www.geekpark.net/news/372710",
+        "description": "\n        头图图片来源：极客公园我在 iPhone Duo 上，把淘宝、高德、小红书、腾讯视频、飞书、WPS、XMind，还有篮球游戏 NBA 巅峰对决，这 8 个为它做过适配的 App 挨个用了一遍。淘宝从首页到客服消息，整条购物链路都动过；高德把路线和地图拆成了左右两半；小红书的笔记，变成了左边看图、右边看正文和评论。这台手机的国行首批预订已经售罄。据环球时报 10 月 17 日的报道",
+        "detail": "\n        头图图片来源：极客公园我在 iPhone Duo 上，把淘宝、高德、小红书、腾讯视频、飞书、WPS、XMind，还有篮球游戏 NBA 巅峰对决，这 8 个为它做过适配的 App 挨个用了一遍。淘宝从首页到客服消息，整条购物链路都动过；高德把路线和地图拆成了左右两半；小红书的笔记，变成了左边看图、右边看正文和评论。这台手机的国行首批预订已经售罄。据环球时报 10 月 17 日的报道",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "靳玉志：自动驾驶将重构新的出行方式",
+        "link": "https://www.leiphone.com/category/industrynews/PlEsyIhjrOGsxbYo.html",
+        "description": "10月21日，2026世界智能网联汽车大会在北京举行。华为公司高级副总裁、引望公司CEO靳玉志出席巅峰对话环节，围绕智能化下半场的变化、引望在技术生态中的角色等话题分享了观点。靳玉志指出，“智能化下半场”正发生三大变化。第一是产业加速从辅助驾驶迈向自动驾驶。根据工信部统计数据，截至今年9月，L2及以上辅助驾驶搭载率已达到70%。工信部正有序开展L3级自动驾驶准入测试，强标也已正式发布，并将于202",
+        "detail": "10月21日，2026世界智能网联汽车大会在北京举行。华为公司高级副总裁、引望公司CEO靳玉志出席巅峰对话环节，围绕智能化下半场的变化、引望在技术生态中的角色等话题分享了观点。靳玉志指出，“智能化下半场”正发生三大变化。第一是产业加速从辅助驾驶迈向自动驾驶。根据工信部统计数据，截至今年9月，L2及以上辅助驾驶搭载率已达到70%。工信部正有序开展L3级自动驾驶准入测试，强标也已正式发布，并将于202",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "具身记忆赛道持续升温，长记忆迎来新 SOTA",
+        "link": "https://www.leiphone.com/category/ai/jvyFCFgqJxJtOvjo.html",
+        "description": "IROS 2026 最佳论文启示录：没有长记忆的机器人，终将被淘汰。&nbsp; &nbsp; 作者丨邓哲敏&nbsp; &nbsp; 编辑丨齐铖湧&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "detail": "IROS 2026 最佳论文启示录：没有长记忆的机器人，终将被淘汰。&nbsp; &nbsp; 作者丨邓哲敏&nbsp; &nbsp; 编辑丨齐铖湧&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "全球算力价格指数启动 九章云极核心共建算力定价基准",
+        "link": "https://www.leiphone.com/category/industrynews/NV7ccFeqrbG1oHSS.html",
+        "description": "10月21日，全球算力价格指数及综合信息服务平台在金融街论坛正式启动。该指数由中国经济信息社发起建设，旨在填补算力定价基准空白、完善算力价格形成体系，推动建立具有自主知识产权的中国算力价格基准。北京九章云极科技股份有限公司（下称“九章云极”）作为核心共建单位参与建设。当前，人工智能产业快速发展，算力需求持续攀升，算力产业进入加速发展阶段。与此同时，算力市场仍缺乏统一的定价基准与公认的价格标尺，制约",
+        "detail": "10月21日，全球算力价格指数及综合信息服务平台在金融街论坛正式启动。该指数由中国经济信息社发起建设，旨在填补算力定价基准空白、完善算力价格形成体系，推动建立具有自主知识产权的中国算力价格基准。北京九章云极科技股份有限公司（下称“九章云极”）作为核心共建单位参与建设。当前，人工智能产业快速发展，算力需求持续攀升，算力产业进入加速发展阶段。与此同时，算力市场仍缺乏统一的定价基准与公认的价格标尺，制约",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "10-50万级全覆盖，千里智驾量产进入放量期",
+        "link": "https://www.leiphone.com/category/transportation/yM0HZ6Vj1HWAptLb.html",
+        "description": "高端验证、主流复用、规模放量，千里智驾的市场路径走通了。从50万元级大型SUV，到30万至50万元混动SUV，再到20万元级旅行车、15万元级城市小车以及10万至20万元主流家用车型，千里智驾正在走完一条“高端起步、主流复用、规模放量”的路径，不断挑战行业的增速记录。得以形成量产奇迹，千里这条路径的节奏，比车型名单本身更值得看。今年上半年，千里智驾的方案覆盖极氪、领克、smart等车型。9月和10",
+        "detail": "高端验证、主流复用、规模放量，千里智驾的市场路径走通了。从50万元级大型SUV，到30万至50万元混动SUV，再到20万元级旅行车、15万元级城市小车以及10万至20万元主流家用车型，千里智驾正在走完一条“高端起步、主流复用、规模放量”的路径，不断挑战行业的增速记录。得以形成量产奇迹，千里这条路径的节奏，比车型名单本身更值得看。今年上半年，千里智驾的方案覆盖极氪、领克、smart等车型。9月和10",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "好逛又好买！抖音商城双11热卖商品榜发布",
+        "link": "https://www.leiphone.com/category/industrynews/9TqjQQrteJeqc2IN.html",
+        "description": "10月15日，2026抖音商城双11好物节正式开启，横跨秋冬换季、囤货等消费节点，平台以消费券、立减折扣等多重优惠叠加发力，为用户带来好逛又好买的双11好物节。截止10月18日，消费券带动成交额破亿商家数同比增长200%，店播成交额破千万新商数量同比增长133%。亮眼数据背后，手机、护肤、运动户外、家具等类目爆款涌现，哪些商品成为用户的心选好物？抖音商城双11开门红热卖商品榜出炉，为你揭晓答案！这",
+        "detail": "10月15日，2026抖音商城双11好物节正式开启，横跨秋冬换季、囤货等消费节点，平台以消费券、立减折扣等多重优惠叠加发力，为用户带来好逛又好买的双11好物节。截止10月18日，消费券带动成交额破亿商家数同比增长200%，店播成交额破千万新商数量同比增长133%。亮眼数据背后，手机、护肤、运动户外、家具等类目爆款涌现，哪些商品成为用户的心选好物？抖音商城双11开门红热卖商品榜出炉，为你揭晓答案！这",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "LLM agents play Pokemon showdown",
+        "link": "https://olivergrabner.com/research/pokemon/",
+        "description": "[HN] +23 points · 11 comments · by grabnero",
+        "detail": "[HN] +23 points · 11 comments · by grabnero",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+        "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+        "description": "[HN] +7 points · 0 comments · by gmays",
+        "detail": "[HN] +7 points · 0 comments · by gmays",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-21",
     "weekday": "星期三",
     "summary": "今日共收录 41 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
