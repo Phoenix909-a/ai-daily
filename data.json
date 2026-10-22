@@ -2,8 +2,116 @@
   {
     "date": "2026-10-22",
     "weekday": "星期四",
-    "summary": "今日共收录 20 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 40 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+        "link": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+        "description": "\n        Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail,",
+        "detail": "\n        Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail,",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Record for agents",
+        "link": "https://www.producthunt.com/products/loom",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Claude Duet",
+        "link": "https://www.producthunt.com/products/claude",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Mistral Voxtral 3",
+        "link": "https://www.producthunt.com/products/mistral-7b",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Agentic CleanSlop",
+        "link": "https://www.producthunt.com/products/cleanslop",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Concierge by Juniors AI",
+        "link": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Intelli for ChatGPT & Claude",
+        "link": "https://www.producthunt.com/products/intelli",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Agent Pets",
+        "link": "https://www.producthunt.com/products/agent-pets",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+        "link": "https://www.qbitai.com/2026/10/504841.html",
+        "description": "FSD一年增长70万付费用户",
+        "detail": "FSD一年增长70万付费用户",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+        "link": "https://www.qbitai.com/2026/10/504832.html",
+        "description": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+        "detail": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "谁在给OpenAI供应具身数据？",
+        "link": "https://www.qbitai.com/2026/10/504800.html",
+        "description": "挤进全球Physical AI核心供应链",
+        "detail": "挤进全球Physical AI核心供应链",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "北汽新品牌“星钽”发布，首款车型星钽5X预售价13.99万元起",
+        "link": "https://aiera.com.cn/2026/10/22/other/admin/120030/%e5%8c%97%e6%b1%bd%e6%96%b0%e5%93%81%e7%89%8c%e6%98%9f%e9%92%bd%e5%8f%91%e5%b8%83%ef%bc%8c%e9%a6%96%e6%ac%be%e8%bd%a6%e5%9e%8b%e6%98%9f%e9%92%bd5x%e9%a2%84%e5%94%ae%e4%bb%b713-99/",
+        "description": "10月21日，“大大方方，自有高光”北汽星钽5X预售发布会在海南海口天空之山举行。北汽旗下全新品牌“星钽”正式发布，品牌首款产品星钽5X开启预售。星钽5X定位为超大空间智慧越级…",
+        "detail": "10月21日，“大大方方，自有高光”北汽星钽5X预售发布会在海南海口天空之山举行。北汽旗下全新品牌“星钽”正式发布，品牌首款产品星钽5X开启预售。星钽5X定位为超大空间智慧越级…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
       {
         "title": "奥特曼曝出SI三大终局！最强AI只剩一家，否则熔掉全世界GPU",
         "link": "https://aiera.com.cn/2026/10/22/other/admin/120014/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%9b%9d%e5%87%basi%e4%b8%89%e5%a4%a7%e7%bb%88%e5%b1%80%ef%bc%81%e6%9c%80%e5%bc%baai%e5%8f%aa%e5%89%a9%e4%b8%80%e5%ae%b6%ef%bc%8c%e5%90%a6%e5%88%99%e7%86%94%e6%8e%89/",
@@ -86,6 +194,15 @@
         "source": "新智元"
       },
       {
+        "title": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+        "link": "https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust",
         "link": "https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -95,6 +212,15 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网",
+        "link": "https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "网站被攻破后，数据、密码和令牌都可能受到影响#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "网站被攻破后，数据、密码和令牌都可能受到影响#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
         "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
         "link": "https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=",
         "description": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码\n· 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND\n· Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -102,6 +228,42 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "爱范儿"
+      },
+      {
+        "title": "AI 漫剧越做越快，赚钱却没那么容易了",
+        "link": "http://www.geekpark.net/news/372746",
+        "description": "\n        &nbsp;\n「一个创作者加上 IP 和 AI 工具，就能完成漫剧创作全流程。」\n在上周举行的阅文创作大会上，阅文集团 CEO 侯晓楠这样描述正在兴起的「一人公司」。当日，阅文发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台，并推出「IP 委员会」模式，试图把故事从文字到影像，再到后续开发的过程连接起来。\n看起来，AI 带来的机会似乎还在",
+        "detail": "\n        &nbsp;\n「一个创作者加上 IP 和 AI 工具，就能完成漫剧创作全流程。」\n在上周举行的阅文创作大会上，阅文集团 CEO 侯晓楠这样描述正在兴起的「一人公司」。当日，阅文发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台，并推出「IP 委员会」模式，试图把故事从文字到影像，再到后续开发的过程连接起来。\n看起来，AI 带来的机会似乎还在",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "大模型内卷之后，AI 竞争进入搜索基础设施时代",
+        "link": "http://www.geekpark.net/news/372743",
+        "description": "\n        &nbsp;\n头图来源：元宝搜索\n过去一年，AI 行业的战场正在悄悄发生位移。\n当 Agent 从概念快速渗透进办公、内容、金融等真实业务场景，行业共识也在悄然改变：决定 AI 体验上限的，是它连接真实世界的能力。\n政策迭代、市场波动、行业动态、垂类数据&hellip;&hellip;现实世界的信息每秒都在更新，大模型自带的知识储备永远有边界，想要输出可靠结论、完成复杂任务，就必",
+        "detail": "\n        &nbsp;\n头图来源：元宝搜索\n过去一年，AI 行业的战场正在悄悄发生位移。\n当 Agent 从概念快速渗透进办公、内容、金融等真实业务场景，行业共识也在悄然改变：决定 AI 体验上限的，是它连接真实世界的能力。\n政策迭代、市场波动、行业动态、垂类数据&hellip;&hellip;现实世界的信息每秒都在更新，大模型自带的知识储备永远有边界，想要输出可靠结论、完成复杂任务，就必",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
+        "link": "http://www.geekpark.net/news/372740",
+        "description": "\n        作者｜桦林舞王\n编辑｜靖宇\n用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。\n过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千万用户，紧接着 OpenAI 在开发者大会上发布 Dots。行",
+        "detail": "\n        作者｜桦林舞王\n编辑｜靖宇\n用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。\n过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千万用户，紧接着 OpenAI 在开发者大会上发布 Dots。行",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "AI 到处挖漏洞一整年，终于给人类爆了个大的",
+        "link": "http://www.geekpark.net/news/372731",
+        "description": "\n        头图图片来源：Wiz10 月 21 日晚，如果你有在社交媒体冲浪的习惯，可能会发现一个奇怪的网站关闭潮：几乎是在同一时间，全球多个国家和地区的各种重要基础设施网站纷纷宣布临时关闭。周三。芬兰政府把所有对外的网络服务关掉了；荷兰国家网络安全中心连自己的官网也撤了下来，鹿特丹港、荷兰足协、五大政党的网站和多家医院紧随其后；法国内政部让各省政府网站暂时下线，德国联邦 IT 服务商关掉了",
+        "detail": "\n        头图图片来源：Wiz10 月 21 日晚，如果你有在社交媒体冲浪的习惯，可能会发现一个奇怪的网站关闭潮：几乎是在同一时间，全球多个国家和地区的各种重要基础设施网站纷纷宣布临时关闭。周三。芬兰政府把所有对外的网络服务关掉了；荷兰国家网络安全中心连自己的官网也撤了下来，鹿特丹港、荷兰足协、五大政党的网站和多家医院紧随其后；法国内政部让各省政府网站暂时下线，德国联邦 IT 服务商关掉了",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
       },
       {
         "title": "微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨",
@@ -120,6 +282,15 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "极客公园"
+      },
+      {
+        "title": "火山引擎启动Seedance 2.5 4K模型首批企业试用，定向供应全球20家工作室和导演",
+        "link": "https://www.leiphone.com/category/industrynews/mqvYMpYMxjNyoBAJ.html",
+        "description": "近日，火山引擎启动了Seedance 2.5 4K模型的第一批企业用户试用，与作品绑定、定向供应给全球20家工作室和导演Seedance 2.5 4K 模型，探索搬上大荧幕的高端影视需求。除了画面细节更清晰，Seedance 2.5 4K 主打人物表演更细腻自然、参考生成和编辑的一致性更精细，是Seedance 2.5这一代中的最强模型。一家已试用模型的电影工作室向雷峰网表示，Seedance 2",
+        "detail": "近日，火山引擎启动了Seedance 2.5 4K模型的第一批企业用户试用，与作品绑定、定向供应给全球20家工作室和导演Seedance 2.5 4K 模型，探索搬上大荧幕的高端影视需求。除了画面细节更清晰，Seedance 2.5 4K 主打人物表演更细腻自然、参考生成和编辑的一致性更精细，是Seedance 2.5这一代中的最强模型。一家已试用模型的电影工作室向雷峰网表示，Seedance 2",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
       },
       {
         "title": "靳玉志：自动驾驶将重构新的出行方式",
@@ -147,42 +318,6 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
-      },
-      {
-        "title": "10-50万级全覆盖，千里智驾量产进入放量期",
-        "link": "https://www.leiphone.com/category/transportation/yM0HZ6Vj1HWAptLb.html",
-        "description": "高端验证、主流复用、规模放量，千里智驾的市场路径走通了。从50万元级大型SUV，到30万至50万元混动SUV，再到20万元级旅行车、15万元级城市小车以及10万至20万元主流家用车型，千里智驾正在走完一条“高端起步、主流复用、规模放量”的路径，不断挑战行业的增速记录。得以形成量产奇迹，千里这条路径的节奏，比车型名单本身更值得看。今年上半年，千里智驾的方案覆盖极氪、领克、smart等车型。9月和10",
-        "detail": "高端验证、主流复用、规模放量，千里智驾的市场路径走通了。从50万元级大型SUV，到30万至50万元混动SUV，再到20万元级旅行车、15万元级城市小车以及10万至20万元主流家用车型，千里智驾正在走完一条“高端起步、主流复用、规模放量”的路径，不断挑战行业的增速记录。得以形成量产奇迹，千里这条路径的节奏，比车型名单本身更值得看。今年上半年，千里智驾的方案覆盖极氪、领克、smart等车型。9月和10",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "好逛又好买！抖音商城双11热卖商品榜发布",
-        "link": "https://www.leiphone.com/category/industrynews/9TqjQQrteJeqc2IN.html",
-        "description": "10月15日，2026抖音商城双11好物节正式开启，横跨秋冬换季、囤货等消费节点，平台以消费券、立减折扣等多重优惠叠加发力，为用户带来好逛又好买的双11好物节。截止10月18日，消费券带动成交额破亿商家数同比增长200%，店播成交额破千万新商数量同比增长133%。亮眼数据背后，手机、护肤、运动户外、家具等类目爆款涌现，哪些商品成为用户的心选好物？抖音商城双11开门红热卖商品榜出炉，为你揭晓答案！这",
-        "detail": "10月15日，2026抖音商城双11好物节正式开启，横跨秋冬换季、囤货等消费节点，平台以消费券、立减折扣等多重优惠叠加发力，为用户带来好逛又好买的双11好物节。截止10月18日，消费券带动成交额破亿商家数同比增长200%，店播成交额破千万新商数量同比增长133%。亮眼数据背后，手机、护肤、运动户外、家具等类目爆款涌现，哪些商品成为用户的心选好物？抖音商城双11开门红热卖商品榜出炉，为你揭晓答案！这",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "LLM agents play Pokemon showdown",
-        "link": "https://olivergrabner.com/research/pokemon/",
-        "description": "[HN] +23 points · 11 comments · by grabnero",
-        "detail": "[HN] +23 points · 11 comments · by grabnero",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
-      },
-      {
-        "title": "Claude Now Works with Google Docs, Sheets, and Slides",
-        "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
-        "description": "[HN] +7 points · 0 comments · by gmays",
-        "detail": "[HN] +7 points · 0 comments · by gmays",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "hackernews"
       }
     ]
   },
