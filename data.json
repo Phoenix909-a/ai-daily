@@ -1,5 +1,264 @@
 [
   {
+    "date": "2026-10-23",
+    "weekday": "星期五",
+    "summary": "今日共收录 28 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+        "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+        "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+        "detail": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+        "detail": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "世界模型在游戏社交中找到商业化场景？赤子城 x Viggle合作落地3D小游戏",
+        "link": "https://aiera.com.cn/2026/10/23/other/admin/120198/%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e5%9c%a8%e6%b8%b8%e6%88%8f%e7%a4%be%e4%ba%a4%e4%b8%ad%e6%89%be%e5%88%b0%e5%95%86%e4%b8%9a%e5%8c%96%e5%9c%ba%e6%99%af%ef%bc%9f%e8%b5%a4%e5%ad%90%e5%9f%8e-x-viggle/",
+        "description": "近日，赤子城科技旗下游戏社交平台TopTop与物理原生世界模型公司Viggle合作的AI 3D互动小游戏「Slap Showdown」上线，将世界模型引入游戏社交场景，为用户带…",
+        "detail": "近日，赤子城科技旗下游戏社交平台TopTop与物理原生世界模型公司Viggle合作的AI 3D互动小游戏「Slap Showdown」上线，将世界模型引入游戏社交场景，为用户带…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI揪出PHP致命漏洞！全球70%网站深夜爆雷",
+        "link": "https://aiera.com.cn/2026/10/23/other/admin/120195/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e6%8f%aa%e5%87%baphp%e8%87%b4%e5%91%bd%e6%bc%8f%e6%b4%9e%ef%bc%81%e5%85%a8%e7%90%8370%e7%bd%91%e7%ab%99%e6%b7%b1%e5%a4%9c%e7%88%86%e9%9b%b7/",
+        "description": "连账号密码都不用，黑客就可能让网站服务器听命于自己！ 就在刚刚，OpenAI公开了一起惊心动魄的幕后行动：GPT-5.6 Sol从全球70%网站都在用的PHP语言里，挖出了两个…",
+        "detail": "连账号密码都不用，黑客就可能让网站服务器听命于自己！ 就在刚刚，OpenAI公开了一起惊心动魄的幕后行动：GPT-5.6 Sol从全球70%网站都在用的PHP语言里，挖出了两个…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic CEO长文硬刚！自曝雪藏Mythos 4个月，为AI安全自断财路",
+        "link": "https://aiera.com.cn/2026/10/23/other/admin/120176/anthropic-ceo%e9%95%bf%e6%96%87%e7%a1%ac%e5%88%9a%ef%bc%81%e8%87%aa%e6%9b%9d%e9%9b%aa%e8%97%8fmythos-4%e4%b8%aa%e6%9c%88%ef%bc%8c%e4%b8%baai%e5%ae%89%e5%85%a8%e8%87%aa%e6%96%ad%e8%b4%a2%e8%b7%af/",
+        "description": "凌晨的硅谷，空气里满是火药味。 就在刚刚，Anthropic掌门人达里奥罕见地在X上破防。",
+        "detail": "凌晨的硅谷，空气里满是火药味。 就在刚刚，Anthropic掌门人达里奥罕见地在X上破防。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "绝杀OpenAI！首个Claude Duet上岗，Opus 5.5 24 小时替你打工",
+        "link": "https://aiera.com.cn/2026/10/23/other/admin/120164/%e7%bb%9d%e6%9d%80openai%ef%bc%81%e9%a6%96%e4%b8%aaclaude-duet%e4%b8%8a%e5%b2%97%ef%bc%8copus-5-5-24-%e5%b0%8f%e6%97%b6%e6%9b%bf%e4%bd%a0%e6%89%93%e5%b7%a5/",
+        "description": "Claude版「dot」，终于来了！ 今夜，Anthropic正式宣布上线Claude Duet，一个「主动式Agent」背后由Opus 5.5加持。",
+        "detail": "Claude版「dot」，终于来了！ 今夜，Anthropic正式宣布上线Claude Duet，一个「主动式Agent」背后由Opus 5.5加持。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复",
+        "link": "https://aiera.com.cn/2026/10/23/other/admin/120138/%e5%8d%8a%e5%b9%b4%e6%89%ab%e5%87%ba%e8%b6%852-9%e4%b8%87%e7%96%91%e4%bc%bc%e6%bc%8f%e6%b4%9e%ef%bc%81claude%e6%8f%aa%e5%87%bacurl%e9%ab%98%e5%8d%b1%e9%9a%90%e6%82%a3%ef%bc%8c29%e5%a4%a9%e4%bf%ae/",
+        "description": "AI参与发现的高危漏洞，已经修好了。 10月14日，网络传输工具curl发布了8.23.0。",
+        "detail": "AI参与发现的高危漏洞，已经修好了。 10月14日，网络传输工具curl发布了8.23.0。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌Gemini 4 Carbon首批实测曝光！手感直逼Opus 5.5",
+        "link": "https://aiera.com.cn/2026/10/23/other/admin/120124/%e8%b0%b7%e6%ad%8cgemini-4-carbon%e9%a6%96%e6%89%b9%e5%ae%9e%e6%b5%8b%e6%9b%9d%e5%85%89%ef%bc%81%e6%89%8b%e6%84%9f%e7%9b%b4%e9%80%bcopus-5-5/",
+        "description": "Argon全面开放才8天，谷歌的下一张王牌，就杀进竞技场了！ 就在刚刚，谷歌最强的Carbon被曝开测。合作伙伴已经抢先拿到，LMArena上也开了盲测，发布就在眼前。",
+        "detail": "Argon全面开放才8天，谷歌的下一张王牌，就杀进竞技场了！ 就在刚刚，谷歌最强的Carbon被曝开测。合作伙伴已经抢先拿到，LMArena上也开了盲测，发布就在眼前。",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "新智元"
+      },
+      {
+        "title": "爆肝实测四大国产AI神器！7大变态考题，逼出最野导演",
+        "link": "https://aiera.com.cn/2026/10/23/other/admin/120096/%e7%88%86%e8%82%9d%e5%ae%9e%e6%b5%8b%e5%9b%9b%e5%a4%a7%e5%9b%bd%e4%ba%a7ai%e7%a5%9e%e5%99%a8%ef%bc%817%e5%a4%a7%e5%8f%98%e6%80%81%e8%80%83%e9%a2%98%ef%bc%8c%e9%80%bc%e5%87%ba%e6%9c%80%e9%87%8e/",
+        "description": "这一周的AI视频圈，简直是神仙打架。 10月15日晚，可灵4.0全量上线，重点补强了大幅度动作和复杂运镜，单次原生生成最长拉到30秒。",
+        "detail": "这一周的AI视频圈，简直是神仙打架。 10月15日晚，可灵4.0全量上线，重点补强了大幅度动作和复杂运镜，单次原生生成最长拉到30秒。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "双榜第一、三大首发！纯血国产算力炼出全球顶级Agent",
+        "link": "https://aiera.com.cn/2026/10/23/other/admin/120079/%e5%8f%8c%e6%a6%9c%e7%ac%ac%e4%b8%80%e3%80%81%e4%b8%89%e5%a4%a7%e9%a6%96%e5%8f%91%ef%bc%81%e7%ba%af%e8%a1%80%e5%9b%bd%e4%ba%a7%e7%ae%97%e5%8a%9b%e7%82%bc%e5%87%ba%e5%85%a8%e7%90%83%e9%a1%b6%e7%ba%a7ag/",
+        "description": "妈妈还有10分钟到家，女孩却找不到另一只高跟鞋了。 「我另一只高跟鞋呢？」 墙上的屏幕开始回放客厅画面。AI提示：鞋可能被踢到了沙发底下。她随即俯身去找。",
+        "detail": "妈妈还有10分钟到家，女孩却找不到另一只高跟鞋了。 「我另一只高跟鞋呢？」 墙上的屏幕开始回放客厅画面。AI提示：鞋可能被踢到了沙发底下。她随即俯身去找。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "前沿模型AI攻击防御，终于有了全新思路！",
+        "link": "https://aiera.com.cn/2026/10/23/other/admin/120061/%e5%89%8d%e6%b2%bf%e6%a8%a1%e5%9e%8bai%e6%94%bb%e5%87%bb%e9%98%b2%e5%be%a1%ef%bc%8c%e7%bb%88%e4%ba%8e%e6%9c%89%e4%ba%86%e5%85%a8%e6%96%b0%e6%80%9d%e8%b7%af%ef%bc%81/",
+        "description": "AI 安全，正迅速从 AI 议题的相对边缘走向舞台中央。 Mythos 早在 2 月就已完成开发，却因安全问题悬而未决，迟迟只向少数机构开放，直到 6 月才全面上线。",
+        "detail": "AI 安全，正迅速从 AI 议题的相对边缘走向舞台中央。 Mythos 早在 2 月就已完成开发，却因安全问题悬而未决，迟迟只向少数机构开放，直到 6 月才全面上线。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "诺奖得主Hassabis改口：AGI最快2年内降临！",
+        "link": "https://aiera.com.cn/2026/10/23/other/admin/120048/%e8%af%ba%e5%a5%96%e5%be%97%e4%b8%bbhassabis%e6%94%b9%e5%8f%a3%ef%bc%9aagi%e6%9c%80%e5%bf%ab2%e5%b9%b4%e5%86%85%e9%99%8d%e4%b8%b4%ef%bc%81/",
+        "description": "刚刚，哈萨比斯重磅预判： AGI很快就会到来。就在未来2到3年内。 在人才辈出的AI圈，哈萨比斯向来是公认的「谨慎的保守派」。",
+        "detail": "刚刚，哈萨比斯重磅预判： AGI很快就会到来。就在未来2到3年内。 在人才辈出的AI圈，哈萨比斯向来是公认的「谨慎的保守派」。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式",
+        "link": "https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
+        "link": "https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
+        "link": "https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程",
+        "link": "https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+        "link": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+        "link": "https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+        "link": "https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁\n· 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先\n· 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁\n· 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先\n· 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+        "link": "https://sspai.com/post/117104",
+        "description": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...查看全文",
+        "detail": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...查看全文",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "少数派"
+      },
+      {
+        "title": "DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道",
+        "link": "http://www.geekpark.net/news/372767",
+        "description": "\n        \nDeepSeek 新一轮融资筹得约 1000 亿\n10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。\n截至目前，DeepSeek 及腾讯等相关投资方均未公开回应。记者从接近公司和投资方的多个信源交叉求证，确认上述消息属",
+        "detail": "\n        \nDeepSeek 新一轮融资筹得约 1000 亿\n10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。\n截至目前，DeepSeek 及腾讯等相关投资方均未公开回应。记者从接近公司和投资方的多个信源交叉求证，确认上述消息属",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "欧洲 AI，等来了黄仁勋",
+        "link": "http://www.geekpark.net/news/372763",
+        "description": "\n        GTC 柏林开幕前的两周，半导体板块走得并不顺，费城半导体指数出现了 2008 年以来最长的一轮连跌。市场在反复算同一笔账，巨额的 GPU 投入，什么时候能变成实打实的回报。\n10 月 21 日，在柏林 Tempodrom 的舞台上，黄仁勋没有发布新芯片。早已发布的 Vera Rubin 平台，这次只是确认「已全面量产」。他把更多时间留给了三个更落地的问题：算力中心怎么建得更快，",
+        "detail": "\n        GTC 柏林开幕前的两周，半导体板块走得并不顺，费城半导体指数出现了 2008 年以来最长的一轮连跌。市场在反复算同一笔账，巨额的 GPU 投入，什么时候能变成实打实的回报。\n10 月 21 日，在柏林 Tempodrom 的舞台上，黄仁勋没有发布新芯片。早已发布的 Vera Rubin 平台，这次只是确认「已全面量产」。他把更多时间留给了三个更落地的问题：算力中心怎么建得更快，",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "“PHP2Shell”敲响企业漏洞警钟，奇安信天戟提供一键速查方案",
+        "link": "https://www.leiphone.com/category/industrynews/9DeJmHEbinuBUT49.html",
+        "description": "10月21日，全球广泛使用的服务器端编程语言PHP被曝存在两项严重安全漏洞（CVE-2026-109618、CVE-2026-109619），统称为“PHP2Shell”。经奇安信技术专家验证，该漏洞可实现无认证远程任意命令执行，属于互联网基础设施级严重安全风险，对我国的潜在影响超百万级资产。由于利用门槛极低，极易演化出大规模蠕虫式传播攻击，直接威胁我国关键信息基础设施安全，政企机构官网、公共服务",
+        "detail": "10月21日，全球广泛使用的服务器端编程语言PHP被曝存在两项严重安全漏洞（CVE-2026-109618、CVE-2026-109619），统称为“PHP2Shell”。经奇安信技术专家验证，该漏洞可实现无认证远程任意命令执行，属于互联网基础设施级严重安全风险，对我国的潜在影响超百万级资产。由于利用门槛极低，极易演化出大规模蠕虫式传播攻击，直接威胁我国关键信息基础设施安全，政企机构官网、公共服务",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "擦窗机器人有了首个行业标准，你敢把窗户交给它吗？",
+        "link": "https://www.leiphone.com/category/smarthome/iDkOEQuhDC14QfOE.html",
+        "description": "“会不会掉下来？”这是每个第一次把擦窗机器人放上玻璃的人，心里都会闪过的念头。没有一家厂商敢在宣传里写“绝不掉落”，涉及高空作业，这四个字背后的责任谁都担不起。一台擦窗机器人卖的不只是清洁力，还有风险已被技术接管的承诺。擦窗机器人正在成为家用机器人行业里一个越来越明显的变量。IDC数据显示，2026年第二季度全球擦窗机器人出货量约84.7万台，同比增长59.8%，增速明显高于同期整体家用清洁机器人",
+        "detail": "“会不会掉下来？”这是每个第一次把擦窗机器人放上玻璃的人，心里都会闪过的念头。没有一家厂商敢在宣传里写“绝不掉落”，涉及高空作业，这四个字背后的责任谁都担不起。一台擦窗机器人卖的不只是清洁力，还有风险已被技术接管的承诺。擦窗机器人正在成为家用机器人行业里一个越来越明显的变量。IDC数据显示，2026年第二季度全球擦窗机器人出货量约84.7万台，同比增长59.8%，增速明显高于同期整体家用清洁机器人",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "「千问Go!」上线“我的应用”，支持搭建长期、可分享的专属应用",
+        "link": "https://www.leiphone.com/category/industrynews/rTNQlAtTr6ROkXI1.html",
+        "description": "10月23日消息，「千问Go!」上线新功能“我的应用”。用户无需编程，只要说出需求，就能搭建用于生活、工作和学习等场景的应用。生成的应用支持对外分享、持续更新数据。用户可用于搭建互动课件、活动报名页、亲子导览、健身约课助手等专属应用，并且长期可用。据悉，“我的应用”接入阿里云AI应用生产平台Meoo（秒悟），可自动完成应用搭建、数据库配置和部署上线。结合千问Go的云端Pro能力，还能在授权后，调用",
+        "detail": "10月23日消息，「千问Go!」上线新功能“我的应用”。用户无需编程，只要说出需求，就能搭建用于生活、工作和学习等场景的应用。生成的应用支持对外分享、持续更新数据。用户可用于搭建互动课件、活动报名页、亲子导览、健身约课助手等专属应用，并且长期可用。据悉，“我的应用”接入阿里云AI应用生产平台Meoo（秒悟），可自动完成应用搭建、数据库配置和部署上线。结合千问Go的云端Pro能力，还能在授权后，调用",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "雷锋网"
+      },
+      {
+        "title": "iPhone Duo开售，美团闪购：最早一单20分钟送达",
+        "link": "https://www.leiphone.com/category/industrynews/JaLr33yTu2JXaEb7.html",
+        "description": "北京时间今日早晨八点，iPhone Duo正式发售。作为Apple推出的首款折叠屏产品，消费者的热情使眼下的iPhone Duo可谓“一机难求”：早在一周前开启预售时，多个渠道就迅速售罄，苹果官网也因为流量过大一度卡顿。当前官网显示，iPhone Duo的预计交付时间已排至明年1月，二手市场溢价更令人望而却步。在这一情况下，不少消费者开始尝试通过各类新渠道“打新”。记者在社交平台注意到，随着各大平",
+        "detail": "北京时间今日早晨八点，iPhone Duo正式发售。作为Apple推出的首款折叠屏产品，消费者的热情使眼下的iPhone Duo可谓“一机难求”：早在一周前开启预售时，多个渠道就迅速售罄，苹果官网也因为流量过大一度卡顿。当前官网显示，iPhone Duo的预计交付时间已排至明年1月，二手市场溢价更令人望而却步。在这一情况下，不少消费者开始尝试通过各类新渠道“打新”。记者在社交平台注意到，随着各大平",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家",
+        "link": "https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html",
+        "description": "10月22日，在2026年美团外卖产业大会上，美团正式发布“妙手外卖版·袋鼠管家”。美团外卖总经理薛冰宣布，将向全国餐饮商家免费提供一个懂外卖经营的“AI店长”。大会披露的数据显示，2026年上半年餐饮商家的外卖营收增速超过全国餐饮平均营收，薛冰表示，“外卖行业进入积极向好，美团将帮助商家做好店型、运营、产品创新，实现更有含金量的增长”。据悉，“妙手外卖版”是美团外卖近期为商家研发的AI经营产品，",
+        "detail": "10月22日，在2026年美团外卖产业大会上，美团正式发布“妙手外卖版·袋鼠管家”。美团外卖总经理薛冰宣布，将向全国餐饮商家免费提供一个懂外卖经营的“AI店长”。大会披露的数据显示，2026年上半年餐饮商家的外卖营收增速超过全国餐饮平均营收，薛冰表示，“外卖行业进入积极向好，美团将帮助商家做好店型、运营、产品创新，实现更有含金量的增长”。据悉，“妙手外卖版”是美团外卖近期为商家研发的AI经营产品，",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "72岁董明珠：被学生喊奶奶很不开心，人的价值不用年龄来衡量；雷军：汽车产业没有安全，其他都是零；iPhone Duo全球限购，每人限购2台",
+        "link": "https://www.leiphone.com/category/zaobao/3jq4Bj4E3zJhjVBp.html",
+        "description": "要闻提示1.iPhone Duo开启全球限购，每位顾客仅可购买2台2.72岁董明珠：被学生喊奶奶很不开心，人的价值不用年龄来衡量3.雷军：汽车产业没有安全，其他都是零4.星巴克回应消费入座争议：10月22日起全国施行并摆放提示牌5.宇树发新人形机器人！能徒手抬汽车，还会勇斗歹徒6.离职Kimi后，17岁天才少年陈广宇被曝加入美国AI初创公司7.高通拟11月启动全球裁员！8.马斯克证实：SpaceX",
+        "detail": "要闻提示1.iPhone Duo开启全球限购，每位顾客仅可购买2台2.72岁董明珠：被学生喊奶奶很不开心，人的价值不用年龄来衡量3.雷军：汽车产业没有安全，其他都是零4.星巴克回应消费入座争议：10月22日起全国施行并摆放提示牌5.宇树发新人形机器人！能徒手抬汽车，还会勇斗歹徒6.离职Kimi后，17岁天才少年陈广宇被曝加入美国AI初创公司7.高通拟11月启动全球裁员！8.马斯克证实：SpaceX",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "weekday": "星期四",
     "summary": "今日共收录 40 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
