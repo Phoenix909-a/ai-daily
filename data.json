@@ -2,7 +2,7 @@
   {
     "date": "2026-10-23",
     "weekday": "星期五",
-    "summary": "今日共收录 28 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 44 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
       {
         "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
@@ -21,6 +21,78 @@
         "tag": "行业动态",
         "sort_score": 35,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+        "description": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+        "detail": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "OpenAI News"
+      },
+      {
+        "title": "MOVO AI",
+        "link": "https://www.producthunt.com/products/movo-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Agent Hunt",
+        "link": "https://www.producthunt.com/products/monid",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Concierge by Juniors AI",
+        "link": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Mistral Voxtral 3",
+        "link": "https://www.producthunt.com/products/mistral-7b",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Claude Duet",
+        "link": "https://www.producthunt.com/products/claude",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Loom Record for agents",
+        "link": "https://www.producthunt.com/products/loom",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+        "link": "https://www.qbitai.com/2026/10/504901.html",
+        "description": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+        "detail": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
       },
       {
         "title": "世界模型在游戏社交中找到商业化场景？赤子城 x Viggle合作落地3D小游戏",
@@ -113,6 +185,33 @@
         "source": "新智元"
       },
       {
+        "title": "AI 赋能开发，Spotify 月代码变更量翻倍",
+        "link": "https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+        "link": "https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制",
+        "link": "https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式",
         "link": "https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -185,76 +284,40 @@
         "source": "少数派"
       },
       {
-        "title": "DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道",
-        "link": "http://www.geekpark.net/news/372767",
-        "description": "\n        \nDeepSeek 新一轮融资筹得约 1000 亿\n10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。\n截至目前，DeepSeek 及腾讯等相关投资方均未公开回应。记者从接近公司和投资方的多个信源交叉求证，确认上述消息属",
-        "detail": "\n        \nDeepSeek 新一轮融资筹得约 1000 亿\n10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。\n截至目前，DeepSeek 及腾讯等相关投资方均未公开回应。记者从接近公司和投资方的多个信源交叉求证，确认上述消息属",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "极客公园"
-      },
-      {
-        "title": "欧洲 AI，等来了黄仁勋",
-        "link": "http://www.geekpark.net/news/372763",
-        "description": "\n        GTC 柏林开幕前的两周，半导体板块走得并不顺，费城半导体指数出现了 2008 年以来最长的一轮连跌。市场在反复算同一笔账，巨额的 GPU 投入，什么时候能变成实打实的回报。\n10 月 21 日，在柏林 Tempodrom 的舞台上，黄仁勋没有发布新芯片。早已发布的 Vera Rubin 平台，这次只是确认「已全面量产」。他把更多时间留给了三个更落地的问题：算力中心怎么建得更快，",
-        "detail": "\n        GTC 柏林开幕前的两周，半导体板块走得并不顺，费城半导体指数出现了 2008 年以来最长的一轮连跌。市场在反复算同一笔账，巨额的 GPU 投入，什么时候能变成实打实的回报。\n10 月 21 日，在柏林 Tempodrom 的舞台上，黄仁勋没有发布新芯片。早已发布的 Vera Rubin 平台，这次只是确认「已全面量产」。他把更多时间留给了三个更落地的问题：算力中心怎么建得更快，",
+        "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
+        "link": "http://www.geekpark.net/news/372807",
+        "description": "\n        头图来源：Hirdwire2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarter 上筹得百万美元级资金。庞伯特以 26255% 的超募率卷走 265 万美元；智能家居大厂 SwitchBot 推出的 ",
+        "detail": "\n        头图来源：Hirdwire2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarter 上筹得百万美元级资金。庞伯特以 26255% 的超募率卷走 265 万美元；智能家居大厂 SwitchBot 推出的 ",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "极客公园"
       },
       {
-        "title": "“PHP2Shell”敲响企业漏洞警钟，奇安信天戟提供一键速查方案",
-        "link": "https://www.leiphone.com/category/industrynews/9DeJmHEbinuBUT49.html",
-        "description": "10月21日，全球广泛使用的服务器端编程语言PHP被曝存在两项严重安全漏洞（CVE-2026-109618、CVE-2026-109619），统称为“PHP2Shell”。经奇安信技术专家验证，该漏洞可实现无认证远程任意命令执行，属于互联网基础设施级严重安全风险，对我国的潜在影响超百万级资产。由于利用门槛极低，极易演化出大规模蠕虫式传播攻击，直接威胁我国关键信息基础设施安全，政企机构官网、公共服务",
-        "detail": "10月21日，全球广泛使用的服务器端编程语言PHP被曝存在两项严重安全漏洞（CVE-2026-109618、CVE-2026-109619），统称为“PHP2Shell”。经奇安信技术专家验证，该漏洞可实现无认证远程任意命令执行，属于互联网基础设施级严重安全风险，对我国的潜在影响超百万级资产。由于利用门槛极低，极易演化出大规模蠕虫式传播攻击，直接威胁我国关键信息基础设施安全，政企机构官网、公共服务",
+        "title": "硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天",
+        "link": "http://www.geekpark.net/news/372805",
+        "description": "\n        两万元，一个床套。\n这可能是极客公园史上体验过单价最高的消费级产品之一。\n我终于也睡上了马斯克、扎克伯格同款的床。Eight Sleep，这个曾被一众硅谷大佬点赞过的品牌，在今年 4 月正式进入中国市场。短短半年时间里，Pod 5 在国内 INNO 100 平台上卖出了 600 万元，随后它又迅速推出新一代产品 Pod 6，参数升级，还补上了单人尺寸。\n很多中国家庭的卧室里，床垫",
+        "detail": "\n        两万元，一个床套。\n这可能是极客公园史上体验过单价最高的消费级产品之一。\n我终于也睡上了马斯克、扎克伯格同款的床。Eight Sleep，这个曾被一众硅谷大佬点赞过的品牌，在今年 4 月正式进入中国市场。短短半年时间里，Pod 5 在国内 INNO 100 平台上卖出了 600 万元，随后它又迅速推出新一代产品 Pod 6，参数升级，还补上了单人尺寸。\n很多中国家庭的卧室里，床垫",
         "tag": "行业动态",
         "sort_score": 58,
-        "source": "雷锋网"
+        "source": "极客公园"
       },
       {
-        "title": "擦窗机器人有了首个行业标准，你敢把窗户交给它吗？",
-        "link": "https://www.leiphone.com/category/smarthome/iDkOEQuhDC14QfOE.html",
-        "description": "“会不会掉下来？”这是每个第一次把擦窗机器人放上玻璃的人，心里都会闪过的念头。没有一家厂商敢在宣传里写“绝不掉落”，涉及高空作业，这四个字背后的责任谁都担不起。一台擦窗机器人卖的不只是清洁力，还有风险已被技术接管的承诺。擦窗机器人正在成为家用机器人行业里一个越来越明显的变量。IDC数据显示，2026年第二季度全球擦窗机器人出货量约84.7万台，同比增长59.8%，增速明显高于同期整体家用清洁机器人",
-        "detail": "“会不会掉下来？”这是每个第一次把擦窗机器人放上玻璃的人，心里都会闪过的念头。没有一家厂商敢在宣传里写“绝不掉落”，涉及高空作业，这四个字背后的责任谁都担不起。一台擦窗机器人卖的不只是清洁力，还有风险已被技术接管的承诺。擦窗机器人正在成为家用机器人行业里一个越来越明显的变量。IDC数据显示，2026年第二季度全球擦窗机器人出货量约84.7万台，同比增长59.8%，增速明显高于同期整体家用清洁机器人",
+        "title": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具",
+        "link": "http://www.geekpark.net/news/372803",
+        "description": "\n        这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。\n大公司的打法很统一，先造一个入口，再把 AI 慢慢塞进去。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支",
+        "detail": "\n        这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。\n大公司的打法很统一，先造一个入口，再把 AI 慢慢塞进去。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支",
         "tag": "行业动态",
         "sort_score": 58,
-        "source": "雷锋网"
+        "source": "极客公园"
       },
       {
-        "title": "「千问Go!」上线“我的应用”，支持搭建长期、可分享的专属应用",
-        "link": "https://www.leiphone.com/category/industrynews/rTNQlAtTr6ROkXI1.html",
-        "description": "10月23日消息，「千问Go!」上线新功能“我的应用”。用户无需编程，只要说出需求，就能搭建用于生活、工作和学习等场景的应用。生成的应用支持对外分享、持续更新数据。用户可用于搭建互动课件、活动报名页、亲子导览、健身约课助手等专属应用，并且长期可用。据悉，“我的应用”接入阿里云AI应用生产平台Meoo（秒悟），可自动完成应用搭建、数据库配置和部署上线。结合千问Go的云端Pro能力，还能在授权后，调用",
-        "detail": "10月23日消息，「千问Go!」上线新功能“我的应用”。用户无需编程，只要说出需求，就能搭建用于生活、工作和学习等场景的应用。生成的应用支持对外分享、持续更新数据。用户可用于搭建互动课件、活动报名页、亲子导览、健身约课助手等专属应用，并且长期可用。据悉，“我的应用”接入阿里云AI应用生产平台Meoo（秒悟），可自动完成应用搭建、数据库配置和部署上线。结合千问Go的云端Pro能力，还能在授权后，调用",
-        "tag": "新功能",
-        "sort_score": 82,
-        "source": "雷锋网"
-      },
-      {
-        "title": "iPhone Duo开售，美团闪购：最早一单20分钟送达",
-        "link": "https://www.leiphone.com/category/industrynews/JaLr33yTu2JXaEb7.html",
-        "description": "北京时间今日早晨八点，iPhone Duo正式发售。作为Apple推出的首款折叠屏产品，消费者的热情使眼下的iPhone Duo可谓“一机难求”：早在一周前开启预售时，多个渠道就迅速售罄，苹果官网也因为流量过大一度卡顿。当前官网显示，iPhone Duo的预计交付时间已排至明年1月，二手市场溢价更令人望而却步。在这一情况下，不少消费者开始尝试通过各类新渠道“打新”。记者在社交平台注意到，随着各大平",
-        "detail": "北京时间今日早晨八点，iPhone Duo正式发售。作为Apple推出的首款折叠屏产品，消费者的热情使眼下的iPhone Duo可谓“一机难求”：早在一周前开启预售时，多个渠道就迅速售罄，苹果官网也因为流量过大一度卡顿。当前官网显示，iPhone Duo的预计交付时间已排至明年1月，二手市场溢价更令人望而却步。在这一情况下，不少消费者开始尝试通过各类新渠道“打新”。记者在社交平台注意到，随着各大平",
+        "title": "今年双 11，天猫想卖的不只是货，还有 Token",
+        "link": "http://www.geekpark.net/news/372801",
+        "description": "\n        「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。\n消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。过去的搜索解决不了这个问题。用户主动搜关键词、平台做精准匹配，在他看来，「更像一个统计学的概念」，搜的人越多、描述越准，匹配就越高效，「但",
+        "detail": "\n        「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。\n消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。过去的搜索解决不了这个问题。用户主动搜关键词、平台做精准匹配，在他看来，「更像一个统计学的概念」，搜的人越多、描述越准，匹配就越高效，「但",
         "tag": "行业动态",
         "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家",
-        "link": "https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html",
-        "description": "10月22日，在2026年美团外卖产业大会上，美团正式发布“妙手外卖版·袋鼠管家”。美团外卖总经理薛冰宣布，将向全国餐饮商家免费提供一个懂外卖经营的“AI店长”。大会披露的数据显示，2026年上半年餐饮商家的外卖营收增速超过全国餐饮平均营收，薛冰表示，“外卖行业进入积极向好，美团将帮助商家做好店型、运营、产品创新，实现更有含金量的增长”。据悉，“妙手外卖版”是美团外卖近期为商家研发的AI经营产品，",
-        "detail": "10月22日，在2026年美团外卖产业大会上，美团正式发布“妙手外卖版·袋鼠管家”。美团外卖总经理薛冰宣布，将向全国餐饮商家免费提供一个懂外卖经营的“AI店长”。大会披露的数据显示，2026年上半年餐饮商家的外卖营收增速超过全国餐饮平均营收，薛冰表示，“外卖行业进入积极向好，美团将帮助商家做好店型、运营、产品创新，实现更有含金量的增长”。据悉，“妙手外卖版”是美团外卖近期为商家研发的AI经营产品，",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "72岁董明珠：被学生喊奶奶很不开心，人的价值不用年龄来衡量；雷军：汽车产业没有安全，其他都是零；iPhone Duo全球限购，每人限购2台",
-        "link": "https://www.leiphone.com/category/zaobao/3jq4Bj4E3zJhjVBp.html",
-        "description": "要闻提示1.iPhone Duo开启全球限购，每位顾客仅可购买2台2.72岁董明珠：被学生喊奶奶很不开心，人的价值不用年龄来衡量3.雷军：汽车产业没有安全，其他都是零4.星巴克回应消费入座争议：10月22日起全国施行并摆放提示牌5.宇树发新人形机器人！能徒手抬汽车，还会勇斗歹徒6.离职Kimi后，17岁天才少年陈广宇被曝加入美国AI初创公司7.高通拟11月启动全球裁员！8.马斯克证实：SpaceX",
-        "detail": "要闻提示1.iPhone Duo开启全球限购，每位顾客仅可购买2台2.72岁董明珠：被学生喊奶奶很不开心，人的价值不用年龄来衡量3.雷军：汽车产业没有安全，其他都是零4.星巴克回应消费入座争议：10月22日起全国施行并摆放提示牌5.宇树发新人形机器人！能徒手抬汽车，还会勇斗歹徒6.离职Kimi后，17岁天才少年陈广宇被曝加入美国AI初创公司7.高通拟11月启动全球裁员！8.马斯克证实：SpaceX",
-        "tag": "行业动态",
-        "sort_score": 35,
-        "source": "雷锋网"
+        "source": "极客公园"
       }
     ]
   },
