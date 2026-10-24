@@ -1,5 +1,129 @@
 [
   {
+    "date": "2026-10-24",
+    "weekday": "星期六",
+    "summary": "今日共收录 13 条 AI 动态。 来源包括：新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "Anthropic首发公益报告，自曝「人类拯救计划」！",
+        "link": "https://aiera.com.cn/2026/10/24/other/admin/120360/anthropic%e9%a6%96%e5%8f%91%e5%85%ac%e7%9b%8a%e6%8a%a5%e5%91%8a%ef%bc%8c%e8%87%aa%e6%9b%9d%e3%80%8c%e4%ba%ba%e7%b1%bb%e6%8b%af%e6%95%91%e8%ae%a1%e5%88%92%e3%80%8d%ef%bc%81/",
+        "description": "就在昨天，Anthropic发布了公司历史上首份年度《公益报告》（Public Benefit Report） 。",
+        "detail": "就在昨天，Anthropic发布了公司历史上首份年度《公益报告》（Public Benefit Report） 。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "全球互联网已被AI攻陷！史上最黑暗48小时来了",
+        "link": "https://aiera.com.cn/2026/10/24/other/admin/120346/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e4%ba%92%e8%81%94%e7%bd%91%e5%b7%b2%e8%a2%abai%e6%94%bb%e9%99%b7%ef%bc%81%e5%8f%b2%e4%b8%8a%e6%9c%80%e9%bb%91%e6%9a%9748%e5%b0%8f%e6%97%b6%e6%9d%a5/",
+        "description": "48小时，全球大乱套了！ 就在昨天，全世界一半的互联网已瘫痪。AI已经入侵整个人类世界！ 这48小时，堪称人类网络安全史上的「黑色十月」。",
+        "detail": "48小时，全球大乱套了！ 就在昨天，全世界一半的互联网已瘫痪。AI已经入侵整个人类世界！ 这48小时，堪称人类网络安全史上的「黑色十月」。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "NeurIPS’26 | 注意力也能弃权！改善长上下文、低比特鲁棒性",
+        "link": "https://aiera.com.cn/2026/10/24/other/admin/120322/neurips26-%e6%b3%a8%e6%84%8f%e5%8a%9b%e4%b9%9f%e8%83%bd%e5%bc%83%e6%9d%83%ef%bc%81%e6%94%b9%e5%96%84%e9%95%bf%e4%b8%8a%e4%b8%8b%e6%96%87%e3%80%81%e4%bd%8e%e6%af%94%e7%89%b9%e9%b2%81%e6%a3%92/",
+        "description": "增强模型的表达能力，可以让Transformer更灵活地读取和整合信息。Attention Residuals（AttnResidual）沿着这个方向，将注意力从token之间…",
+        "detail": "增强模型的表达能力，可以让Transformer更灵活地读取和整合信息。Attention Residuals（AttnResidual）沿着这个方向，将注意力从token之间…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude自动模式将全球上线！OpenAI曝出最恐怖一幕",
+        "link": "https://aiera.com.cn/2026/10/24/other/admin/120308/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e8%87%aa%e5%8a%a8%e6%a8%a1%e5%bc%8f%e5%b0%86%e5%85%a8%e7%90%83%e4%b8%8a%e7%ba%bf%ef%bc%81openai%e6%9b%9d%e5%87%ba%e6%9c%80%e6%81%90%e6%80%96%e4%b8%80%e5%b9%95/",
+        "description": "刚刚，Anthropic把人类手里的「允许」键，收走了！ 以前用Claude干活，它每走一步，都要弹窗问你一句「允许吗」。",
+        "detail": "刚刚，Anthropic把人类手里的「允许」键，收走了！ 以前用Claude干活，它每走一步，都要弹窗问你一句「允许吗」。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude狂写1.8亿行证明！万亿次测试漏掉的Bug，被AI一锅端",
+        "link": "https://aiera.com.cn/2026/10/24/other/admin/120295/claude%e7%8b%82%e5%86%991-8%e4%ba%bf%e8%a1%8c%e8%af%81%e6%98%8e%ef%bc%81%e4%b8%87%e4%ba%bf%e6%ac%a1%e6%b5%8b%e8%af%95%e6%bc%8f%e6%8e%89%e7%9a%84bug%ef%bc%8c%e8%a2%abai%e4%b8%80%e9%94%85%e7%ab%af/",
+        "description": "全球软件的bug，要被Claude端掉了？ 短短48小时，全球就爆了27起重大网络攻击，现在人们都在疯传，「最暗十月」来了。",
+        "detail": "全球软件的bug，要被Claude端掉了？ 短短48小时，全球就爆了27起重大网络攻击，现在人们都在疯传，「最暗十月」来了。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "16年王者归来！手机键盘长脑子，打字进入「许愿时代」",
+        "link": "https://aiera.com.cn/2026/10/24/other/admin/120270/16%e5%b9%b4%e7%8e%8b%e8%80%85%e5%bd%92%e6%9d%a5%ef%bc%81%e6%89%8b%e6%9c%ba%e9%94%ae%e7%9b%98%e9%95%bf%e8%84%91%e5%ad%90%ef%bc%8c%e6%89%93%e5%ad%97%e8%bf%9b%e5%85%a5%e3%80%8c%e8%ae%b8%e6%84%bf%e6%97%b6/",
+        "description": "聊天里最有悬念的，可能就是「对方正在输入……」。闪了半天，最后只等来一句「好的」。 轮到自己回消息，就懂了。「周五做不完」太硬，「我尽量」又像把活接下了。删了写、写了删，消息愣…",
+        "detail": "聊天里最有悬念的，可能就是「对方正在输入……」。闪了半天，最后只等来一句「好的」。 轮到自己回消息，就懂了。「周五做不完」太硬，「我尽量」又像把活接下了。删了写、写了删，消息愣…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "100万道实战题，还得防AI作弊！320B国产基模技术细节揭秘",
+        "link": "https://aiera.com.cn/2026/10/24/other/admin/120247/100%e4%b8%87%e9%81%93%e5%ae%9e%e6%88%98%e9%a2%98%ef%bc%8c%e8%bf%98%e5%be%97%e9%98%b2ai%e4%bd%9c%e5%bc%8a%ef%bc%81320b%e5%9b%bd%e4%ba%a7%e5%9f%ba%e6%a8%a1%e6%8a%80%e6%9c%af%e7%bb%86%e8%8a%82%e6%8f%ad/",
+        "description": "还记得9月底，我们拉着IQuest-Q1做的那几场实测吗？ 6个路口的早高峰，给它管；双11仓库里8台搬运机器人的调度，交给它；24层写字楼的电梯调度，也让它试了一遍。",
+        "detail": "还记得9月底，我们拉着IQuest-Q1做的那几场实测吗？ 6个路口的早高峰，给它管；双11仓库里8台搬运机器人的调度，交给它；24层写字楼的电梯调度，也让它试了一遍。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "RSI两大里程碑发布！单人手搓千亿模型，英伟达大佬教「保命」法则",
+        "link": "https://aiera.com.cn/2026/10/24/other/admin/120232/rsi%e4%b8%a4%e5%a4%a7%e9%87%8c%e7%a8%8b%e7%a2%91%e5%8f%91%e5%b8%83%ef%bc%81%e5%8d%95%e4%ba%ba%e6%89%8b%e6%90%93%e5%8d%83%e4%ba%bf%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%8b%b1%e4%bc%9f%e8%be%be%e5%a4%a7/",
+        "description": "我们刚刚见证了历史！ 最近，「递归自我改进」领域有两项重磅发布！ 在过去十年里，预训练一个基座大模型，是科技巨头的「战备竞赛」。",
+        "detail": "我们刚刚见证了历史！ 最近，「递归自我改进」领域有两项重磅发布！ 在过去十年里，预训练一个基座大模型，是科技巨头的「战备竞赛」。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Transformer宗师空降中国！行业首个Pro Agent来了，中国队率先出手",
+        "link": "https://aiera.com.cn/2026/10/24/other/admin/120212/transformer%e5%ae%97%e5%b8%88%e7%a9%ba%e9%99%8d%e4%b8%ad%e5%9b%bd%ef%bc%81%e8%a1%8c%e4%b8%9a%e9%a6%96%e4%b8%aapro-agent%e6%9d%a5%e4%ba%86%ef%bc%8c%e4%b8%ad%e5%9b%bd%e9%98%9f%e7%8e%87%e5%85%88%e5%87%ba/",
+        "description": "带出Transformer一作的「AI祖师爷」，来中国了！ 他的名字，叫Kevin Knight。",
+        "detail": "带出Transformer一作的「AI祖师爷」，来中国了！ 他的名字，叫Kevin Knight。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
+        "link": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "大而美的 Kimi 回来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "大而美的 Kimi 回来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
+        "link": "http://www.geekpark.net/news/372858",
+        "description": "\n        \n苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达\n苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。\n苹果",
+        "detail": "\n        \n苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达\n苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。\n苹果",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "开门红强势爆发！抖音商城双11热卖品牌榜发布",
+        "link": "https://www.leiphone.com/category/industrynews/DsP3dhxSpXEHRNVD.html",
+        "description": "双11开门红阶段，大促消费热情全面释放，消费券带动成交额破亿的商家数量同比增长200%，宠物、母婴行业成交额过千万商家数同比增长分别为200%、83%，快消行业成交额破亿品牌数量同比增长167%。服饰、快消、耐消等赛道标杆品牌集中爆发，在开门红阶段迎来生意高峰。10月23日，开门红阶段“热卖品牌榜”正式出炉，立即揭晓双11开门红哪些品牌迎来强势爆发。服饰赛道热卖品牌榜秋冬换季叠加户外热潮，服饰赛道",
+        "detail": "双11开门红阶段，大促消费热情全面释放，消费券带动成交额破亿的商家数量同比增长200%，宠物、母婴行业成交额过千万商家数同比增长分别为200%、83%，快消行业成交额破亿品牌数量同比增长167%。服饰、快消、耐消等赛道标杆品牌集中爆发，在开门红阶段迎来生意高峰。10月23日，开门红阶段“热卖品牌榜”正式出炉，立即揭晓双11开门红哪些品牌迎来强势爆发。服饰赛道热卖品牌榜秋冬换季叠加户外热潮，服饰赛道",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "iRTE2026：对话 AI 如何迈向 AGI？声网CEO赵斌给出五级对话能力框架",
+        "link": "https://www.leiphone.com/category/industrynews/nwy00TZXQdwJcSka.html",
+        "description": "10月23日，iRTE2026实时智能大会在北京举行。声网创始人兼 CEO 赵斌在主论坛发表题为《对话 AGI：实时互动的下一章》的演讲，回顾了过去一年实时互动、对话式 AI 与底层基础设施的关键变化，并提出“五级对话能力”框架，勾勒对话式 AI 从基础应答走向深度理解与关系沟通的演进路径。赵斌认为，随着&nbsp;AI 从回答问题走向持续交流、理解上下文并执行任务，实时互动的对象正在从人与人扩展",
+        "detail": "10月23日，iRTE2026实时智能大会在北京举行。声网创始人兼 CEO 赵斌在主论坛发表题为《对话 AGI：实时互动的下一章》的演讲，回顾了过去一年实时互动、对话式 AI 与底层基础设施的关键变化，并提出“五级对话能力”框架，勾勒对话式 AI 从基础应答走向深度理解与关系沟通的演进路径。赵斌认为，随着&nbsp;AI 从回答问题走向持续交流、理解上下文并执行任务，实时互动的对象正在从人与人扩展",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-10-23",
     "weekday": "星期五",
     "summary": "今日共收录 44 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
