@@ -2,8 +2,107 @@
   {
     "date": "2026-10-25",
     "weekday": "星期日",
-    "summary": "今日共收录 12 条 AI 动态。 来源包括：新智元, 极客公园。",
+    "summary": "今日共收录 23 条 AI 动态。 来源包括：Product Hunt, The Decoder, 新智元, 极客公园。",
     "news": [
+      {
+        "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+        "link": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/",
+        "description": "\n        In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The rac",
+        "detail": "\n        In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The rac",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+        "link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+        "description": "\n        OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching. Anthropic's growth h",
+        "detail": "\n        OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching. Anthropic's growth h",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
+        "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+        "description": "\n        Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environm",
+        "detail": "\n        Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environm",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Llama Windows",
+        "link": "https://www.producthunt.com/products/llama-windows",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentGrid.io",
+        "link": "https://www.producthunt.com/products/agentgrid-io",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "zCAD AI",
+        "link": "https://www.producthunt.com/products/zcad-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "sideOS.ai",
+        "link": "https://www.producthunt.com/products/sideos-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentValley",
+        "link": "https://www.producthunt.com/products/agentvalley",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "1Password for Agents",
+        "link": "https://www.producthunt.com/products/1password",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "MOVO AI",
+        "link": "https://www.producthunt.com/products/movo-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Agent Hunt",
+        "link": "https://www.producthunt.com/products/monid",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
       {
         "title": "我们完了！奥特曼曝数学家5天心路反转，陶哲轩：英雄时代退场",
         "link": "https://aiera.com.cn/2026/10/25/other/admin/120526/%e6%88%91%e4%bb%ac%e5%ae%8c%e4%ba%86%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%9b%9d%e6%95%b0%e5%ad%a6%e5%ae%b65%e5%a4%a9%e5%bf%83%e8%b7%af%e5%8f%8d%e8%bd%ac%ef%bc%8c%e9%99%b6%e5%93%b2%e8%bd%a9%ef%bc%9a/",
@@ -97,8 +196,8 @@
       {
         "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
         "link": "https://github.com/slee-persis/GVS5H",
-        "description": "[HN] +77 points · 18 comments · by rzk",
-        "detail": "[HN] +77 points · 18 comments · by rzk",
+        "description": "[HN] +157 points · 55 comments · by rzk",
+        "detail": "[HN] +157 points · 55 comments · by rzk",
         "tag": "工具与生态",
         "sort_score": 76,
         "source": "hackernews"
@@ -106,8 +205,8 @@
       {
         "title": "Cerebras Deploys Trillion-Parameter AI Models",
         "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "description": "[HN] +64 points · 21 comments · by gmays",
-        "detail": "[HN] +64 points · 21 comments · by gmays",
+        "description": "[HN] +143 points · 50 comments · by gmays",
+        "detail": "[HN] +143 points · 50 comments · by gmays",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "hackernews"
