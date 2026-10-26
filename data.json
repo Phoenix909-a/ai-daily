@@ -1,5 +1,174 @@
 [
   {
+    "date": "2026-10-26",
+    "weekday": "星期一",
+    "summary": "今日共收录 18 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "AI硬件卷向办公桌，实丰文化AI硬件品牌Rootix正式发布",
+        "link": "https://aiera.com.cn/2026/10/26/other/admin/120697/ai%e7%a1%ac%e4%bb%b6%e5%8d%b7%e5%90%91%e5%8a%9e%e5%85%ac%e6%a1%8c%ef%bc%8c%e5%ae%9e%e4%b8%b0%e6%96%87%e5%8c%96ai%e7%a1%ac%e4%bb%b6%e5%93%81%e7%89%8crootix%e6%ad%a3%e5%bc%8f%e5%8f%91%e5%b8%83/",
+        "description": "一款能接入全球主流办公智能体、读取任务进度并主动提醒的桌面AI硬件，成为玩具行业上市公司实丰文化（002862.SZ）的新动作。10月21日，实丰文化在上海举行主题为\"玩具之外…",
+        "detail": "一款能接入全球主流办公智能体、读取任务进度并主动提醒的桌面AI硬件，成为玩具行业上市公司实丰文化（002862.SZ）的新动作。10月21日，实丰文化在上海举行主题为\"玩具之外…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "人类审稿被AI一波团灭！哈佛派出最强专家，错误率高达3倍",
+        "link": "https://aiera.com.cn/2026/10/26/other/admin/120696/%e4%ba%ba%e7%b1%bb%e5%ae%a1%e7%a8%bf%e8%a2%abai%e4%b8%80%e6%b3%a2%e5%9b%a2%e7%81%ad%ef%bc%81%e5%93%88%e4%bd%9b%e6%b4%be%e5%87%ba%e6%9c%80%e5%bc%ba%e4%b8%93%e5%ae%b6%ef%bc%8c%e9%94%99%e8%af%af%e7%8e%87/",
+        "description": "哈佛拿出了能找到的最强人类审稿团，结果被Claude全线碾压！ 同一批124篇论文，两边各写一份审稿意见。七个审稿维度比下来，人类一项都没赢。",
+        "detail": "哈佛拿出了能找到的最强人类审稿团，结果被Claude全线碾压！ 同一批124篇论文，两边各写一份审稿意见。七个审稿维度比下来，人类一项都没赢。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "突发！Claude Code桌面之父官宣离职，从高中辍学逆袭AI之巅",
+        "link": "https://aiera.com.cn/2026/10/26/other/admin/120676/%e7%aa%81%e5%8f%91%ef%bc%81claude-code%e6%a1%8c%e9%9d%a2%e4%b9%8b%e7%88%b6%e5%ae%98%e5%ae%a3%e7%a6%bb%e8%81%8c%ef%bc%8c%e4%bb%8e%e9%ab%98%e4%b8%ad%e8%be%8d%e5%ad%a6%e9%80%86%e8%a2%adai%e4%b9%8b/",
+        "description": "一天之内，Claude Code连走两员大将！ 继Thariq Shihipar离职后，Claude Code桌面版主创Anthony Morris也发出告别信，官宣离开Ant…",
+        "detail": "一天之内，Claude Code连走两员大将！ 继Thariq Shihipar离职后，Claude Code桌面版主创Anthony Morris也发出告别信，官宣离开Ant…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "外国小哥「虐待」自家电视，42 小时后惨遭OpenAI封号！Claude也下狠手",
+        "link": "https://aiera.com.cn/2026/10/26/other/admin/120656/%e5%a4%96%e5%9b%bd%e5%b0%8f%e5%93%a5%e3%80%8c%e8%99%90%e5%be%85%e3%80%8d%e8%87%aa%e5%ae%b6%e7%94%b5%e8%a7%86%ef%bc%8c42-%e5%b0%8f%e6%97%b6%e5%90%8e%e6%83%a8%e9%81%adopenai%e5%b0%81%e5%8f%b7%ef%bc%81cl/",
+        "description": "男子只因破解自己买的电视，竟被OpenAI直接封号！ 他不过是在自己的电脑上，研究、破解自己的智能电视。",
+        "detail": "男子只因破解自己买的电视，竟被OpenAI直接封号！ 他不过是在自己的电脑上，研究、破解自己的智能电视。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "NeurIPS’26｜大模型有思考惯性：答案越开放，越停不下思考",
+        "link": "https://aiera.com.cn/2026/10/26/other/admin/120630/neurips26%ef%bd%9c%e5%a4%a7%e6%a8%a1%e5%9e%8b%e6%9c%89%e6%80%9d%e8%80%83%e6%83%af%e6%80%a7%ef%bc%9a%e7%ad%94%e6%a1%88%e8%b6%8a%e5%bc%80%e6%94%be%ef%bc%8c%e8%b6%8a%e5%81%9c%e4%b8%8d%e4%b8%8b%e6%80%9d/",
+        "description": "通过接口关掉大模型的「思考模式」（如将Qwen3的enable_thinking设为False），再告诉它「不要推理，直接给出答案」，它就会直接回答吗？实际输出并不符合我们日常…",
+        "detail": "通过接口关掉大模型的「思考模式」（如将Qwen3的enable_thinking设为False），再告诉它「不要推理，直接给出答案」，它就会直接回答吗？实际输出并不符合我们日常…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "物理学家破防！500页博士论文手算1年，Opus 5.5只用10小时",
+        "link": "https://aiera.com.cn/2026/10/26/other/admin/120619/%e7%89%a9%e7%90%86%e5%ad%a6%e5%ae%b6%e7%a0%b4%e9%98%b2%ef%bc%81500%e9%a1%b5%e5%8d%9a%e5%a3%ab%e8%ae%ba%e6%96%87%e6%89%8b%e7%ae%971%e5%b9%b4%ef%bc%8copus-5-5%e5%8f%aa%e7%94%a810%e5%b0%8f%e6%97%b6/",
+        "description": "数学之后，物理学也开始崩溃了。 物理学教授Emre Onur Kahya，把自己博士期间耗时整整1年、手写了近500页的量子引力推导过程，喂给了Claude Opus 5.5。",
+        "detail": "数学之后，物理学也开始崩溃了。 物理学教授Emre Onur Kahya，把自己博士期间耗时整整1年、手写了近500页的量子引力推导过程，喂给了Claude Opus 5.5。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "人类最后只剩签字权？清华沈阳教授谈AI终局",
+        "link": "https://aiera.com.cn/2026/10/26/other/admin/120594/%e4%ba%ba%e7%b1%bb%e6%9c%80%e5%90%8e%e5%8f%aa%e5%89%a9%e7%ad%be%e5%ad%97%e6%9d%83%ef%bc%9f%e6%b8%85%e5%8d%8e%e6%b2%88%e9%98%b3%e6%95%99%e6%8e%88%e8%b0%88ai%e7%bb%88%e5%b1%80/",
+        "description": "118511个。 这是清华大学沈阳教授团队用AI，从网上能公开收集到的资料里，整理出的数学猜想总数。",
+        "detail": "118511个。 这是清华大学沈阳教授团队用AI，从网上能公开收集到的资料里，整理出的数学猜想总数。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "张益唐未竟难题被OpenAI攻破！人类联手GPT-6接力两周，证明只剩5页",
+        "link": "https://aiera.com.cn/2026/10/26/other/admin/120584/%e5%bc%a0%e7%9b%8a%e5%94%90%e6%9c%aa%e7%ab%9f%e9%9a%be%e9%a2%98%e8%a2%abopenai%e6%94%bb%e7%a0%b4%ef%bc%81%e4%ba%ba%e7%b1%bb%e8%81%94%e6%89%8bgpt-6%e6%8e%a5%e5%8a%9b%e4%b8%a4%e5%91%a8%ef%bc%8c%e8%af%81/",
+        "description": "张益唐苦攻数十年的Siegel零点难题，竟被攻破了！ 一道困扰数论界近百年的难题，如今被浓缩成了一份仅有5页的证明。",
+        "detail": "张益唐苦攻数十年的Siegel零点难题，竟被攻破了！ 一道困扰数论界近百年的难题，如今被浓缩成了一份仅有5页的证明。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "停训11天后重启！OpenAI最强模型断网开练",
+        "link": "https://aiera.com.cn/2026/10/26/other/admin/120560/%e5%81%9c%e8%ae%ad11%e5%a4%a9%e5%90%8e%e9%87%8d%e5%90%af%ef%bc%81openai%e6%9c%80%e5%bc%ba%e6%a8%a1%e5%9e%8b%e6%96%ad%e7%bd%91%e5%bc%80%e7%bb%83/",
+        "description": "停训11天后，OpenAI于10月1日恢复前沿强化学习训练及内部推理。但这一次，AI得在断网的环境里学会上网。",
+        "detail": "停训11天后，OpenAI于10月1日恢复前沿强化学习训练及内部推理。但这一次，AI得在断网的环境里学会上网。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "重磅！谷歌开源双层RSI框架Harness²，Gemini 3.5性能原地暴涨",
+        "link": "https://aiera.com.cn/2026/10/26/other/admin/120548/%e9%87%8d%e7%a3%85%ef%bc%81%e8%b0%b7%e6%ad%8c%e5%bc%80%e6%ba%90%e5%8f%8c%e5%b1%82rsi%e6%a1%86%e6%9e%b6harness%c2%b2%ef%bc%8cgemini-3-5%e6%80%a7%e8%83%bd%e5%8e%9f%e5%9c%b0%e6%9a%b4%e6%b6%a8/",
+        "description": "刚刚，谷歌等开源了一项名为Harness²的重磅框架。 在专业基准测试中，即使是Gemini 3.5 Flash这样的顶尖模型，也能在单步优化后实现性能的狂飙。",
+        "detail": "刚刚，谷歌等开源了一项名为Harness²的重磅框架。 在专业基准测试中，即使是Gemini 3.5 Flash这样的顶尖模型，也能在单步优化后实现性能的狂飙。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+        "link": "https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+        "link": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话\n· Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话\n· Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+        "link": "https://sspai.com/post/117460",
+        "description": "iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患Spotify 将要求家庭组成员定期扫码验证Arc 浏览器宣布下线央广总台澄清「国补停止」说法谷歌建设虚拟电厂，付费激励电网用户省电留给 AIiTunes Store 重受歌手青睐看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "detail": "iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患Spotify 将要求家庭组成员定期扫码验证Arc 浏览器宣布下线央广总台澄清「国补停止」说法谷歌建设虚拟电厂，付费激励电网用户省电留给 AIiTunes Store 重受歌手青睐看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "少数派"
+      },
+      {
+        "title": "苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道",
+        "link": "http://www.geekpark.net/news/372863",
+        "description": "\n        \n张雪时隔 17 年圆梦「水上漂」，在家乡麻阳刷新吉尼斯纪录\n10 月 25 日，「张雪机车」创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村，成功挑战「改装摩托车在开阔水域行驶最远距离」吉尼斯世界纪录。\n这场挑战要追溯到 2009 年。当时 22 岁的张雪在央视节目中骑着一辆车轮上焊着铁皮的摩托车冲向水面，四次尝试全部落水，最远只滑出 20 米，",
+        "detail": "\n        \n张雪时隔 17 年圆梦「水上漂」，在家乡麻阳刷新吉尼斯纪录\n10 月 25 日，「张雪机车」创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村，成功挑战「改装摩托车在开阔水域行驶最远距离」吉尼斯世界纪录。\n这场挑战要追溯到 2009 年。当时 22 岁的张雪在央视节目中骑着一辆车轮上焊着铁皮的摩托车冲向水面，四次尝试全部落水，最远只滑出 20 米，",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+        "link": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
+        "description": "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、",
+        "detail": "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+        "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+        "description": "[HN] +19 points · 4 comments · by gmays",
+        "detail": "[HN] +19 points · 4 comments · by gmays",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      },
+      {
+        "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+        "link": "https://proc-cli.com/",
+        "description": "[HN] +3 points · 0 comments · by yazeedaloyoun",
+        "detail": "[HN] +3 points · 0 comments · by yazeedaloyoun",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      },
+      {
+        "title": "Cve.now: A Free Feed of Security Vulnerabilities for Agents",
+        "link": "https://www.sazabi.com/blog/introducing-cve-now",
+        "description": "[HN] +3 points · 0 comments · by shcallaway",
+        "detail": "[HN] +3 points · 0 comments · by shcallaway",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-25",
     "weekday": "星期日",
     "summary": "今日共收录 23 条 AI 动态。 来源包括：Product Hunt, The Decoder, 新智元, 极客公园。",
