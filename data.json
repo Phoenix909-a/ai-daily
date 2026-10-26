@@ -2,8 +2,197 @@
   {
     "date": "2026-10-26",
     "weekday": "星期一",
-    "summary": "今日共收录 18 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 43 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
+        "link": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
+        "description": "\n        Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there.\nThe article Toyota is betting $6.4 billion a year on human",
+        "detail": "\n        Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there.\nThe article Toyota is betting $6.4 billion a year on human",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "AI Bridge",
+        "link": "https://www.producthunt.com/products/ai-bridge",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "ManyAgents",
+        "link": "https://www.producthunt.com/products/manyagents",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Jobmate AI",
+        "link": "https://www.producthunt.com/products/jobmate-ai-3",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Llama Windows",
+        "link": "https://www.producthunt.com/products/llama-windows",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentGrid.io",
+        "link": "https://www.producthunt.com/products/agentgrid-io",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "sideOS.ai",
+        "link": "https://www.producthunt.com/products/sideos-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "zCAD AI",
+        "link": "https://www.producthunt.com/products/zcad-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "1Password for Agents",
+        "link": "https://www.producthunt.com/products/1password",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentValley",
+        "link": "https://www.producthunt.com/products/agentvalley",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "中国近50%的新云生意，竟被这家公司包揽！",
+        "link": "https://www.qbitai.com/2026/10/505454.html",
+        "description": "有点意外，但也不意外",
+        "detail": "有点意外，但也不意外",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+        "link": "https://www.qbitai.com/2026/10/505443.html",
+        "description": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+        "detail": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+        "link": "https://www.qbitai.com/2026/10/505436.html",
+        "description": "10月21日，2026世界智能网联汽车大会在北京召开",
+        "detail": "10月21日，2026世界智能网联汽车大会在北京召开",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+        "link": "https://www.qbitai.com/2026/10/505429.html",
+        "description": "高品质 AI Token 成为行业新风向",
+        "detail": "高品质 AI Token 成为行业新风向",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "量子位"
+      },
+      {
+        "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
+        "link": "https://www.qbitai.com/2026/10/505407.html",
+        "description": "一张卡，512路长推理同时跑",
+        "detail": "一张卡，512路长推理同时跑",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
+        "link": "https://www.qbitai.com/2026/10/505365.html",
+        "description": "AI同事自带工作记忆上岗",
+        "detail": "AI同事自带工作记忆上岗",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "被OpenAIGemini共同选择的实时语音交互，凭什么是这家中国公司？",
+        "link": "https://www.qbitai.com/2026/10/505341.html",
+        "description": "一场对话式AI的风向标大会",
+        "detail": "一场对话式AI的风向标大会",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
+        "link": "https://www.qbitai.com/2026/10/505309.html",
+        "description": "打造以多智能体协同为核心的角色Agent",
+        "detail": "打造以多智能体协同为核心的角色Agent",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "马斯克给机器人建了个学校！腾出百万车型产线来量产",
+        "link": "https://www.qbitai.com/2026/10/505271.html",
+        "description": "擎天柱将复制FSD训练思路",
+        "detail": "擎天柱将复制FSD训练思路",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "10亿Tokens免费送！实测全国产算力模型Spark-X2.6，纯代码搓出3D故宫",
+        "link": "https://www.qbitai.com/2026/10/505225.html",
+        "description": "从训练、推理到端侧部署，讯飞坚持全栈自主可控",
+        "detail": "从训练、推理到端侧部署，讯飞坚持全栈自主可控",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+        "link": "https://aiera.com.cn/2026/10/26/other/admin/120702/%e4%bb%8e%e8%a8%80%e4%bc%a0%e8%ba%ab%e6%95%99%e5%88%b0%e8%a7%a6%e7%b1%bb%e6%97%81%e9%80%9a%ef%bc%9aai%e6%97%a2%e9%9c%80%e8%a6%81%e5%90%8d%e5%b8%88%e6%8c%87/",
+        "description": "今年秋天，大模型世界出现了一幅耐人寻味的图景：一边，Vibe Coding正越来越多地参与开发下一代AI；另一边，最有能力的模型，却开始因为“不讲规矩”而被按下暂停键。",
+        "detail": "今年秋天，大模型世界出现了一幅耐人寻味的图景：一边，Vibe Coding正越来越多地参与开发下一代AI；另一边，最有能力的模型，却开始因为“不讲规矩”而被按下暂停键。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
       {
         "title": "AI硬件卷向办公桌，实丰文化AI硬件品牌Rootix正式发布",
         "link": "https://aiera.com.cn/2026/10/26/other/admin/120697/ai%e7%a1%ac%e4%bb%b6%e5%8d%b7%e5%90%91%e5%8a%9e%e5%85%ac%e6%a1%8c%ef%bc%8c%e5%ae%9e%e4%b8%b0%e6%96%87%e5%8c%96ai%e7%a1%ac%e4%bb%b6%e5%93%81%e7%89%8crootix%e6%ad%a3%e5%bc%8f%e5%8f%91%e5%b8%83/",
@@ -95,6 +284,24 @@
         "source": "新智元"
       },
       {
+        "title": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+        "link": "https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+        "link": "https://www.infoq.cn/article/NrUkJExfuuFOICsjVYbb?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
         "link": "https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -104,67 +311,13 @@
         "source": "InfoQ 中文"
       },
       {
-        "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
-        "link": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话\n· Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "detail": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话\n· Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "title": "地铁里的 AI 伪人广告，正在集体霸凌人类",
+        "link": "https://www.ifanr.com/1685809?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "唯有诚意与创意不可辜负#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "唯有诚意与创意不可辜负#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "爱范儿"
-      },
-      {
-        "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-        "link": "https://sspai.com/post/117460",
-        "description": "iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患Spotify 将要求家庭组成员定期扫码验证Arc 浏览器宣布下线央广总台澄清「国补停止」说法谷歌建设虚拟电厂，付费激励电网用户省电留给 AIiTunes Store 重受歌手青睐看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-        "detail": "iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患Spotify 将要求家庭组成员定期扫码验证Arc 浏览器宣布下线央广总台澄清「国补停止」说法谷歌建设虚拟电厂，付费激励电网用户省电留给 AIiTunes Store 重受歌手青睐看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "少数派"
-      },
-      {
-        "title": "苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道",
-        "link": "http://www.geekpark.net/news/372863",
-        "description": "\n        \n张雪时隔 17 年圆梦「水上漂」，在家乡麻阳刷新吉尼斯纪录\n10 月 25 日，「张雪机车」创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村，成功挑战「改装摩托车在开阔水域行驶最远距离」吉尼斯世界纪录。\n这场挑战要追溯到 2009 年。当时 22 岁的张雪在央视节目中骑着一辆车轮上焊着铁皮的摩托车冲向水面，四次尝试全部落水，最远只滑出 20 米，",
-        "detail": "\n        \n张雪时隔 17 年圆梦「水上漂」，在家乡麻阳刷新吉尼斯纪录\n10 月 25 日，「张雪机车」创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村，成功挑战「改装摩托车在开阔水域行驶最远距离」吉尼斯世界纪录。\n这场挑战要追溯到 2009 年。当时 22 岁的张雪在央视节目中骑着一辆车轮上焊着铁皮的摩托车冲向水面，四次尝试全部落水，最远只滑出 20 米，",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "极客公园"
-      },
-      {
-        "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
-        "link": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
-        "description": "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、",
-        "detail": "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、",
-        "tag": "公司动态",
-        "sort_score": 68,
-        "source": "雷锋网"
-      },
-      {
-        "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-        "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-        "description": "[HN] +19 points · 4 comments · by gmays",
-        "detail": "[HN] +19 points · 4 comments · by gmays",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "hackernews"
-      },
-      {
-        "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-        "link": "https://proc-cli.com/",
-        "description": "[HN] +3 points · 0 comments · by yazeedaloyoun",
-        "detail": "[HN] +3 points · 0 comments · by yazeedaloyoun",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "hackernews"
-      },
-      {
-        "title": "Cve.now: A Free Feed of Security Vulnerabilities for Agents",
-        "link": "https://www.sazabi.com/blog/introducing-cve-now",
-        "description": "[HN] +3 points · 0 comments · by shcallaway",
-        "detail": "[HN] +3 points · 0 comments · by shcallaway",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
       }
     ]
   },
