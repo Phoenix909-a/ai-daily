@@ -2,7 +2,7 @@
   {
     "date": "2026-10-27",
     "weekday": "星期二",
-    "summary": "今日共收录 17 条 AI 动态。 来源包括：TechCrunch AI, 新智元, 爱范儿。",
+    "summary": "今日共收录 43 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
       {
         "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -21,6 +21,78 @@
         "tag": "模型发布",
         "sort_score": 90,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "Off Grid AI",
+        "link": "https://www.producthunt.com/products/off-grid-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Revix AI",
+        "link": "https://www.producthunt.com/products/revix-ai-2",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AI Bridge",
+        "link": "https://www.producthunt.com/products/ai-bridge",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "ManyAgents",
+        "link": "https://www.producthunt.com/products/manyagents",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Jobmate AI",
+        "link": "https://www.producthunt.com/products/jobmate-ai-3",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Llama Windows",
+        "link": "https://www.producthunt.com/products/llama-windows",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+        "link": "https://www.qbitai.com/2026/10/505580.html",
+        "description": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+        "detail": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕",
+        "link": "https://aiera.com.cn/2026/10/27/other/admin/120909/2026%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%85%e5%85%88%e9%94%8b%e5%a4%a7%e4%bc%9a%e6%9a%a8%e5%9b%bd%e9%99%85%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e6%8a%80%e8%83%bd%e5%a4%a7%e8%b5%9b%e5%9c%86/",
+        "description": "10月25日，2026全球开发者先锋大会暨国际具身智能技能大赛在上海张江科学会堂圆满落幕。大会汇聚300余家具身智能本体企业、200余家上下游供应链企业，聚集国内外近百个开源组…",
+        "detail": "10月25日，2026全球开发者先锋大会暨国际具身智能技能大赛在上海张江科学会堂圆满落幕。大会汇聚300余家具身智能本体企业、200余家上下游供应链企业，聚集国内外近百个开源组…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
       },
       {
         "title": "蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了",
@@ -113,6 +185,15 @@
         "source": "新智元"
       },
       {
+        "title": "TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
+        "link": "https://www.infoq.cn/article/3o7gwgKJt2SbH8AhdpkU?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0",
         "link": "https://www.ifanr.com/1686050?utm_source=rss&utm_medium=rss&utm_campaign=",
         "description": "我想要的 Personal Agent，是让生活闪现「灵光」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -149,13 +230,94 @@
         "source": "爱范儿"
       },
       {
-        "title": "There are now 5 inference providers for abliterated DeepSeek",
-        "link": "https://allmodels.io/llm/abliterated",
-        "description": "[HN] +11 points · 2 comments · by moeadham",
-        "detail": "[HN] +11 points · 2 comments · by moeadham",
+        "title": "iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」",
+        "link": "http://www.geekpark.net/news/373008",
+        "description": "\n        头图图片来源：iFixit2011 年 9 月 30 日，苹果递交了一份名为「Flexible electronic devices」的专利申请。它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开着还是合着。这份专利 2015 年 1 月获得授权，发明人一共六位，其中一位叫特努斯（John Ternus）。苹果 2011 年递交的折叠设备专利附图｜图片来源：",
+        "detail": "\n        头图图片来源：iFixit2011 年 9 月 30 日，苹果递交了一份名为「Flexible electronic devices」的专利申请。它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开着还是合着。这份专利 2015 年 1 月获得授权，发明人一共六位，其中一位叫特努斯（John Ternus）。苹果 2011 年递交的折叠设备专利附图｜图片来源：",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "看了招股书，我终于知道为什么 Anthropic 不在乎用户了",
+        "link": "http://www.geekpark.net/news/373006",
+        "description": "\n        大的，终于来了。\n10 月 26 日，Anthropic 向美国证监会公开递交了 S-1 招股书，准备在纳斯达克全球精选市场挂牌上市，股票代码定为 ANT。媒体报道中，这家公司的估值讨论区间已经来到了 1.5 万亿至 2 万亿美元，发行价区间尚未披露。\n24 小时内，这本 300 多页的招股书已经被科技圈和金融圈翻了个底朝天，最抓眼球的几个数字大家都看过了：2026 年上半年营收",
+        "detail": "\n        大的，终于来了。\n10 月 26 日，Anthropic 向美国证监会公开递交了 S-1 招股书，准备在纳斯达克全球精选市场挂牌上市，股票代码定为 ANT。媒体报道中，这家公司的估值讨论区间已经来到了 1.5 万亿至 2 万亿美元，发行价区间尚未披露。\n24 小时内，这本 300 多页的招股书已经被科技圈和金融圈翻了个底朝天，最抓眼球的几个数字大家都看过了：2026 年上半年营收",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "Manus，刚刚悄悄发布了自己的 2.0 宣言",
+        "link": "http://www.geekpark.net/news/373004",
+        "description": "\n        10 月 26 日，Manus 联合创始人、产品合伙人张涛（网名 HideCloud）最近在自己的公众号「潜云思绪」写了一篇长文，标题叫《用 Manus 改造 Manus》。\n文章开头是一个让他印象很深的画面。他给工程师提了几条需求和 Bug，过一会儿去看进展，发现对方电脑上开着一排 Codex 和 Manus 的 Session。随便点开一个，输入就是他刚在 Slack 上发的",
+        "detail": "\n        10 月 26 日，Manus 联合创始人、产品合伙人张涛（网名 HideCloud）最近在自己的公众号「潜云思绪」写了一篇长文，标题叫《用 Manus 改造 Manus》。\n文章开头是一个让他印象很深的画面。他给工程师提了几条需求和 Bug，过一会儿去看进展，发现对方电脑上开着一排 Codex 和 Manus 的 Session。随便点开一个，输入就是他刚在 Slack 上发的",
         "tag": "模型发布",
         "sort_score": 90,
-        "source": "hackernews"
+        "source": "极客公园"
+      },
+      {
+        "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
+        "link": "http://www.geekpark.net/news/373003",
+        "description": "\n        10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。\n对仍处产业化早期的个人机器人行业而言，5000 台的意义不止于产量增长，更在于企业将研发阶段的技术能力转化为可复制的制造能力，并进一步连接产品交付、用户使用与软件迭代&",
+        "detail": "\n        10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。\n对仍处产业化早期的个人机器人行业而言，5000 台的意义不止于产量增长，更在于企业将研发阶段的技术能力转化为可复制的制造能力，并进一步连接产品交付、用户使用与软件迭代&",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状",
+        "link": "http://www.geekpark.net/news/373002",
+        "description": "\n        \nShopify AI 交易订单增长了 13 倍。\n10 月 16 日清晨，苹果第一款折叠屏手机 iPhone Duo 开启预购。1999 美元起售，首批产能紧张，没过多久交付日期就排到了明年 1 月。\n这一次抢首发的，不只是守在屏幕前的人。\n\n今年 Agent 成为 iPhone Duo 黄牛最严厉的父亲｜图片来源：Apple\n在 MacRumors 论坛上，一位没抢到的用户愤",
+        "detail": "\n        \nShopify AI 交易订单增长了 13 倍。\n10 月 16 日清晨，苹果第一款折叠屏手机 iPhone Duo 开启预购。1999 美元起售，首批产能紧张，没过多久交付日期就排到了明年 1 月。\n这一次抢首发的，不只是守在屏幕前的人。\n\n今年 Agent 成为 iPhone Duo 黄牛最严厉的父亲｜图片来源：Apple\n在 MacRumors 论坛上，一位没抢到的用户愤",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
+        "title": "左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场",
+        "link": "http://www.geekpark.net/news/372939",
+        "description": "\n        作者｜Cynthia\n编辑｜郑玄\n2026 年的 AI 3D 赛道，正站在一个微妙的分水岭上。\n一级市场的热度仍在攀升，新模型、新创业公司层出不穷，单图生 3D 的正面渲染效果几乎已经做到了以假乱真。\n但剥开炫目的 Demo 外壳：绝大多数生成结果依然停留在「转台展示」阶段：一个精致的角色或机械模型，在灯光下缓缓旋转，鳞片、衣褶和金属刻纹栩栩如生；可这些细节一旦进入游戏引擎装配、",
+        "detail": "\n        作者｜Cynthia\n编辑｜郑玄\n2026 年的 AI 3D 赛道，正站在一个微妙的分水岭上。\n一级市场的热度仍在攀升，新模型、新创业公司层出不穷，单图生 3D 的正面渲染效果几乎已经做到了以假乱真。\n但剥开炫目的 Demo 外壳：绝大多数生成结果依然停留在「转台展示」阶段：一个精致的角色或机械模型，在灯光下缓缓旋转，鳞片、衣褶和金属刻纹栩栩如生；可这些细节一旦进入游戏引擎装配、",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
+        "title": "苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道",
+        "link": "http://www.geekpark.net/news/372952",
+        "description": "\n        \n\nAnthropic 公开递交纳斯达克 IPO 申请：目标 11 月 16 日当周上市\nAnthropic 正式踏上上市之路。这家成立仅五年、身处生成式 AI 浪潮核心的企业，本次 IPO 有望创下历史纪录。\nAnthropic 在提交给美国证券交易委员会（SEC）的文件中披露，计划登陆纳斯达克交易所，股票代码定为「ANT」，目标在 11 月 16 日当周进行 IPO。该公司将",
+        "detail": "\n        \n\nAnthropic 公开递交纳斯达克 IPO 申请：目标 11 月 16 日当周上市\nAnthropic 正式踏上上市之路。这家成立仅五年、身处生成式 AI 浪潮核心的企业，本次 IPO 有望创下历史纪录。\nAnthropic 在提交给美国证券交易委员会（SEC）的文件中披露，计划登陆纳斯达克交易所，股票代码定为「ANT」，目标在 11 月 16 日当周进行 IPO。该公司将",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "10月28日见！华为畅享 100 系列三款新品蓄势待发：满分配置抢先看",
+        "link": "https://www.leiphone.com/category/industrynews/GABZR4IV17tSEHlt.html",
+        "description": "距离10月28日华为双十一焕新季·全场景新品发布会越来越近，华为畅享系列的新一代产品也逐渐揭开面纱。10月27日，随着华为畅享 100 系列三款单品海报陆续释出，这一系列在外观设计、核心配置与日常体验方面的看点进一步明朗。据了解，华为畅享 100 系列已于10月23日开启预订，此次新品包括华为畅享 100、华为畅享 100 Pro及华为畅享 100 Pro Max三款机型，围绕麒麟8系芯片、华为巨",
+        "detail": "距离10月28日华为双十一焕新季·全场景新品发布会越来越近，华为畅享系列的新一代产品也逐渐揭开面纱。10月27日，随着华为畅享 100 系列三款单品海报陆续释出，这一系列在外观设计、核心配置与日常体验方面的看点进一步明朗。据了解，华为畅享 100 系列已于10月23日开启预订，此次新品包括华为畅享 100、华为畅享 100 Pro及华为畅享 100 Pro Max三款机型，围绕麒麟8系芯片、华为巨",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”",
+        "link": "https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html",
+        "description": "10月27日，百度发布并开源文心 Unlimited OCR 2，全球首次实现任意页数文档解析，将 OCR 的处理上限从数十页推向“无限”，并达到最先进水平（SOTA）。实测显示，该模型能够一次性解析《哈利·波特》全系列 7 部作品，累计超过 3600 页，在文档长度大幅增加的情况下，依然保持较高的精度和处理效率，推动文档解析技术迈向OCR 3.0时代。﻿公开基准测试显示，在面向多页文档解析的 M",
+        "detail": "10月27日，百度发布并开源文心 Unlimited OCR 2，全球首次实现任意页数文档解析，将 OCR 的处理上限从数十页推向“无限”，并达到最先进水平（SOTA）。实测显示，该模型能够一次性解析《哈利·波特》全系列 7 部作品，累计超过 3600 页，在文档长度大幅增加的情况下，依然保持较高的精度和处理效率，推动文档解析技术迈向OCR 3.0时代。﻿公开基准测试显示，在面向多页文档解析的 M",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线",
+        "link": "https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html",
+        "description": "从底层芯片、神经形态计算，到机器人自主部署、极端环境物理智能和地表物理环境建模，人工智能前沿技术正沿着多条不同路径推进产业应用落地。如何让实验室里的原创成果跨越工程验证与商业化之间的距离，成为科研创新走向产业实践的重要课题。10月26日，北京智源人工智能研究院发布的“源创计划”首期路演在中关村国际技术交易中心举办。临界核科技、灵枢启智、张量场科技、苍穹极智、潜向量科技五个项目集中亮相，分别聚焦3D",
+        "detail": "从底层芯片、神经形态计算，到机器人自主部署、极端环境物理智能和地表物理环境建模，人工智能前沿技术正沿着多条不同路径推进产业应用落地。如何让实验室里的原创成果跨越工程验证与商业化之间的距离，成为科研创新走向产业实践的重要课题。10月26日，北京智源人工智能研究院发布的“源创计划”首期路演在中关村国际技术交易中心举办。临界核科技、灵枢启智、张量场科技、苍穹极智、潜向量科技五个项目集中亮相，分别聚焦3D",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
       }
     ]
   },
