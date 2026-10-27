@@ -1,5 +1,165 @@
 [
   {
+    "date": "2026-10-27",
+    "weekday": "星期二",
+    "summary": "今日共收录 17 条 AI 动态。 来源包括：TechCrunch AI, 新智元, 爱范儿。",
+    "news": [
+      {
+        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+        "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "description": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent. ",
+        "detail": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent. ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
+        "detail": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了",
+        "link": "https://aiera.com.cn/2026/10/27/other/admin/120902/%e8%9a%82%e8%9a%81%e7%81%b5%e5%85%892-0%e5%8f%91%e5%b8%83%ef%bc%9a%e4%bb%8e%e8%83%bd%e8%81%8a%e4%bc%9a%e5%81%9a%ef%bc%8c%e5%88%b0%e8%ae%b0%e5%be%97%e4%bd%8f%e3%80%81%e7%9b%af%e5%be%97%e7%89%a2/",
+        "description": "机票订完后，AI 24小时盯价，发现降价及时提醒；翻看日常账单，AI识别可能闲置的续费订阅，帮你省钱；家长顾不上查看班级群，AI也能梳理老师通知、提取待办事项……这些过去需要用…",
+        "detail": "机票订完后，AI 24小时盯价，发现降价及时提醒；翻看日常账单，AI识别可能闲置的续费订阅，帮你省钱；家长顾不上查看班级群，AI也能梳理老师通知、提取待办事项……这些过去需要用…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI新模型曝光！GPT-6.1 Terra把旗舰反超了？",
+        "link": "https://aiera.com.cn/2026/10/27/other/admin/120899/openai%e6%96%b0%e6%a8%a1%e5%9e%8b%e6%9b%9d%e5%85%89%ef%bc%81gpt-6-1-terra%e6%8a%8a%e6%97%97%e8%88%b0%e5%8f%8d%e8%b6%85%e4%ba%86%ef%bc%9f/",
+        "description": "就在刚刚，OpenAI下一代模型又曝光了。 GPT-6.1 Terra，居然因为微软和GitHub的内部代码库更新，被眼尖的开发者们给扒出来了。",
+        "detail": "就在刚刚，OpenAI下一代模型又曝光了。 GPT-6.1 Terra，居然因为微软和GitHub的内部代码库更新，被眼尖的开发者们给扒出来了。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude破纪录！日烧3万亿Token，神秘Fable 5.5压轴登场",
+        "link": "https://aiera.com.cn/2026/10/27/other/admin/120869/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e7%a0%b4%e7%ba%aa%e5%bd%95%ef%bc%81%e6%97%a5%e7%83%a73%e4%b8%87%e4%ba%bftoken%ef%bc%8c%e7%a5%9e%e7%a7%98fable-5-5%e5%8e%8b%e8%bd%b4%e7%99%bb%e5%9c%ba/",
+        "description": "就在今天，全球最大的模型聚合路由平台OpenRoute一张图刷屏了。 自Opus 5.5诞生以来，短短一个月，7日平均Token使用量，直接暴涨了3.6倍！",
+        "detail": "就在今天，全球最大的模型聚合路由平台OpenRoute一张图刷屏了。 自Opus 5.5诞生以来，短短一个月，7日平均Token使用量，直接暴涨了3.6倍！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Reddit最大开源社区全面封杀AI！Linux和Python被除名",
+        "link": "https://aiera.com.cn/2026/10/27/other/admin/120841/%e5%88%9a%e5%88%9a%ef%bc%8creddit%e6%9c%80%e5%a4%a7%e5%bc%80%e6%ba%90%e7%a4%be%e5%8c%ba%e5%85%a8%e9%9d%a2%e5%b0%81%e6%9d%80ai%ef%bc%81linux%e5%92%8cpython%e8%a2%ab%e9%99%a4%e5%90%8d/",
+        "description": "开源界刚刚发生了一件魔幻到离谱的大事。 Reddit最大开源社区r/opensource，一纸禁令甩了出来——",
+        "detail": "开源界刚刚发生了一件魔幻到离谱的大事。 Reddit最大开源社区r/opensource，一纸禁令甩了出来——",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "马斯克：人类在ASI面前是黑猩猩，未来所有钱和工作都将清零！",
+        "link": "https://aiera.com.cn/2026/10/27/other/admin/120815/%e9%a9%ac%e6%96%af%e5%85%8b%ef%bc%9a%e4%ba%ba%e7%b1%bb%e5%9c%a8asi%e9%9d%a2%e5%89%8d%e6%98%af%e9%bb%91%e7%8c%a9%e7%8c%a9%ef%bc%8c%e6%9c%aa%e6%9d%a5%e6%89%80%e6%9c%89%e9%92%b1%e5%92%8c%e5%b7%a5/",
+        "description": "就在最近，马斯克在一场深度访谈里，直接给出这个结论—— 超级AI根本不屑于统治我们！人类根本不配被AI统治。",
+        "detail": "就在最近，马斯克在一场深度访谈里，直接给出这个结论—— 超级AI根本不屑于统治我们！人类根本不配被AI统治。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "让决策成为模型设计的起点！NUS推出原生System One架构",
+        "link": "https://aiera.com.cn/2026/10/27/other/admin/120796/%e8%ae%a9%e5%86%b3%e7%ad%96%e6%88%90%e4%b8%ba%e6%a8%a1%e5%9e%8b%e8%ae%be%e8%ae%a1%e7%9a%84%e8%b5%b7%e7%82%b9%ef%bc%81nus%e6%8e%a8%e5%87%ba%e5%8e%9f%e7%94%9fsystem-one%e6%9e%b6%e6%9e%84/",
+        "description": "当任务的终点是决策，模型是否应该从决策本身出发？ 从一组文档中找到相关证据，判断一项条件是否成立，或按照标准给出评分——许多语言模型请求最终需要的，不是一篇长答案，而是一个明确…",
+        "detail": "当任务的终点是决策，模型是否应该从决策本身出发？ 从一组文档中找到相关证据，判断一项条件是否成立，或按照标准给出评分——许多语言模型请求最终需要的，不是一篇长答案，而是一个明确…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic悄悄改Claude额度！薅羊毛最狠的人，被精准薅了回去",
+        "link": "https://aiera.com.cn/2026/10/27/other/admin/120779/anthropic%e6%82%84%e6%82%84%e6%94%b9claude%e9%a2%9d%e5%ba%a6%ef%bc%81%e8%96%85%e7%be%8a%e6%af%9b%e6%9c%80%e7%8b%a0%e7%9a%84%e4%ba%ba%ef%bc%8c%e8%a2%ab%e7%b2%be%e5%87%86%e8%96%85%e4%ba%86%e5%9b%9e/",
+        "description": "太好笑了，薅羊毛最狠的那批人，这回被精准薅了回去！ 本来么，200 美元一个月的 Claude，有人能用出 1.17 万美元。",
+        "detail": "太好笑了，薅羊毛最狠的那批人，这回被精准薅了回去！ 本来么，200 美元一个月的 Claude，有人能用出 1.17 万美元。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "别学编程了！Anthropic CEO直言：代码工作快速消失，人类应该学弹钢琴",
+        "link": "https://aiera.com.cn/2026/10/27/other/admin/120767/%e5%88%ab%e5%ad%a6%e7%bc%96%e7%a8%8b%e4%ba%86%ef%bc%81anthropic-ceo%e7%9b%b4%e8%a8%80%ef%bc%9a%e4%bb%a3%e7%a0%81%e5%b7%a5%e4%bd%9c%e5%bf%ab%e9%80%9f%e6%b6%88%e5%a4%b1%ef%bc%8c%e4%ba%ba%e7%b1%bb/",
+        "description": "如果说，当今世界有人能看清人类未来十年的走向，Dario Amodei绝对是其中之一。 他曾接受了一场非常深入的访谈。在这场对话中，他坦诚分享了自己对未来的预测——",
+        "detail": "如果说，当今世界有人能看清人类未来十年的走向，Dario Amodei绝对是其中之一。 他曾接受了一场非常深入的访谈。在这场对话中，他坦诚分享了自己对未来的预测——",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI教科书全错！底层公式惊天Bug曝光，Gemini率先自我修复",
+        "link": "https://aiera.com.cn/2026/10/27/other/admin/120748/ai%e6%95%99%e7%a7%91%e4%b9%a6%e5%85%a8%e9%94%99%ef%bc%81%e5%ba%95%e5%b1%82%e5%85%ac%e5%bc%8f%e6%83%8a%e5%a4%a9bug%e6%9b%9d%e5%85%89%ef%bc%8cgemini%e7%8e%87%e5%85%88%e8%87%aa%e6%88%91%e4%bf%ae%e5%a4%8d/",
+        "description": "各大AI框架都错了！ PyTorch错了，JAX错了。连教科书里的标准公式，也错了。 谷歌DeepMind的主任研究科学家 Jon Barron披露了这一重磅炸弹！",
+        "detail": "各大AI框架都错了！ PyTorch错了，JAX错了。连教科书里的标准公式，也错了。 谷歌DeepMind的主任研究科学家 Jon Barron披露了这一重磅炸弹！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "ChatGPT攻克26年猜想，千位数学家宣战AI！数学界彻底撕裂了",
+        "link": "https://aiera.com.cn/2026/10/27/other/admin/120724/chatgpt%e6%94%bb%e5%85%8b26%e5%b9%b4%e7%8c%9c%e6%83%b3%ef%bc%8c%e5%8d%83%e4%bd%8d%e6%95%b0%e5%ad%a6%e5%ae%b6%e5%ae%a3%e6%88%98ai%ef%bc%81%e6%95%b0%e5%ad%a6%e7%95%8c%e5%bd%bb%e5%ba%95%e6%92%95%e8%a3%82/",
+        "description": "数学界的天，彻底塌了！ 统治人类逻辑高地几千年的数学家门，第一次感受到了「灭顶之灾」的寒意。",
+        "detail": "数学界的天，彻底塌了！ 统治人类逻辑高地几千年的数学家门，第一次感受到了「灭顶之灾」的寒意。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0",
+        "link": "https://www.ifanr.com/1686050?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "我想要的 Personal Agent，是让生活闪现「灵光」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "我想要的 Personal Agent，是让生活闪现「灵光」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+        "link": "https://www.ifanr.com/1686080?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "OpenAI 又卷起了大模型的性价比。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "OpenAI 又卷起了大模型的性价比。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "爱范儿"
+      },
+      {
+        "title": "王的猜想，被 AI 一夜通关",
+        "link": "https://www.ifanr.com/1686064?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "AI 已经开始陆续交卷了，但人类可能连阅卷都快来不及了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "AI 已经开始陆续交卷了，但人类可能连阅卷都快来不及了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+        "link": "https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速\n· 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil\n· 华为畅享系列累计发货突破 1.6 亿台#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速\n· 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil\n· 华为畅享系列累计发货突破 1.6 亿台#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "There are now 5 inference providers for abliterated DeepSeek",
+        "link": "https://allmodels.io/llm/abliterated",
+        "description": "[HN] +11 points · 2 comments · by moeadham",
+        "detail": "[HN] +11 points · 2 comments · by moeadham",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-26",
     "weekday": "星期一",
     "summary": "今日共收录 43 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
