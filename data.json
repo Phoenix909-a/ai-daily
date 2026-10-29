@@ -2,8 +2,71 @@
   {
     "date": "2026-10-29",
     "weekday": "星期四",
-    "summary": "今日共收录 27 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 44 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, The Decoder, The Verge AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+        "link": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/",
+        "description": "\n        Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected. Go",
+        "detail": "\n        Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected. Go",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "AI has come for Arizona’s water",
+        "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+        "description": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded app",
+        "detail": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded app",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "Touchscreen MacBook Pro 💻, Gemini 4 Carbon 🤖, Slack Code API 👨‍💻",
+        "link": "https://tldr.tech/tech/2026-10-29",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 35,
+        "source": "TLDR AI"
+      },
+      {
+        "title": "IFTTT.ai",
+        "link": "https://www.producthunt.com/products/ifttt",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Gemini 4 Carbon",
+        "link": "https://www.producthunt.com/products/gemini-4-carbon",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 35,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Trigger.dev: Webhooks for your AI agents",
+        "link": "https://www.producthunt.com/products/trigger-dev",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Agent Handshake by Fini",
+        "link": "https://www.producthunt.com/products/fini-2",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
       {
         "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
         "link": "https://www.qbitai.com/2026/10/506281.html",
@@ -131,6 +194,33 @@
         "source": "新智元"
       },
       {
+        "title": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+        "link": "https://www.infoq.cn/article/aK6ADSkIvwf265yc8PuT?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Anthropic 取消编程面试：新人第一次有机会直接和资深工程师竞争",
+        "link": "https://www.infoq.cn/article/EQTckj5GQQymiQES22Bo?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "生产级 AI：隐性故障、工程落地与智能体治理",
+        "link": "https://www.infoq.cn/article/tsyyFmCmzphHw4gWy7Fo?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "AI 用起来了，业务价值谁来打分？",
         "link": "https://www.infoq.cn/article/LLbRSSwTyvqTpFsaJs3v?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -156,6 +246,24 @@
         "tag": "Agent 进展",
         "sort_score": 88,
         "source": "InfoQ 中文"
+      },
+      {
+        "title": "为什么新模型发布，都要先做一个游戏？",
+        "link": "https://www.ifanr.com/1686650?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "模型力内卷的下半场，任何新版本推出时都需要考虑，怎么给出一种大众能够看懂的表现方式#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "模型力内卷的下半场，任何新版本推出时都需要考虑，怎么给出一种大众能够看懂的表现方式#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "不认字的 AI，却很会说话",
+        "link": "https://www.ifanr.com/1686124?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "机器为什么不能先说话，再认字？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "机器为什么不能先说话，再认字？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
       },
       {
         "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
@@ -185,6 +293,15 @@
         "source": "少数派"
       },
       {
+        "title": "大众把三年在中国攒的家底，打包成了一颗「星」",
+        "link": "http://www.geekpark.net/news/373086",
+        "description": "\n        &nbsp;\n\n头图来源：极客公园\n10 月 28 日，合肥，大众汽车集团（中国）办了自己的第一次技术日。\n这场发布会的主角叫「VEGA」，名字取自织女星，是大众在中国本土自研的一体化技术矩阵。它把整车平台、电子电气架构和高级驾驶辅助系统三大核心技术打包成了一套体系。\n按大众的说法，它由此成为中国市场唯一一家拥有本土开发自研技术矩阵的外资车企。\n\n大众汽车集团（中国）董事长兼 C",
+        "detail": "\n        &nbsp;\n\n头图来源：极客公园\n10 月 28 日，合肥，大众汽车集团（中国）办了自己的第一次技术日。\n这场发布会的主角叫「VEGA」，名字取自织女星，是大众在中国本土自研的一体化技术矩阵。它把整车平台、电子电气架构和高级驾驶辅助系统三大核心技术打包成了一套体系。\n按大众的说法，它由此成为中国市场唯一一家拥有本土开发自研技术矩阵的外资车企。\n\n大众汽车集团（中国）董事长兼 C",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
         "title": "苹果发触屏笔记本，最高 11 万元；DeepSeek V5 模型代码现身；宇树首发财报，净利增 270%",
         "link": "http://www.geekpark.net/news/373085",
         "description": "\n        \n苹果发布首款触屏 MacBook Pro，顶配超 11 万元\n\n北京时间 10 月 29 日，苹果发布全新 MacBook Pro，首次为 Mac 引入屏幕触控和灵动岛，并采用双层串联 OLED 技术的 PROLED XDR 显示屏。\n新机提供 14 英寸和 16 英寸两种版本，搭载 M5 Pro 或 M5 Max 芯片。根据苹果中国区发布信息，新机将于 10 月 30 日开启",
@@ -201,51 +318,6 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "极客公园"
-      },
-      {
-        "title": "商场的黄金铺位，为什么换成了3D打印机？",
-        "link": "https://www.leiphone.com/category/industrynews/QUCX94lmPkS6scqb.html",
-        "description": "在过去的十一假期，拓竹科技一口气开了两家商场品牌店，位于上海和北京，现在其线下渠道已覆盖国内100多座城市，销售触点突破400个。在一二线城市顶级商圈的显眼位置，可能会看见一台台3D打印机和围着看的好奇消费者。如果假期到访，往往在开门前就已聚集起不少家长和小朋友，等着进店参观或报名体验课。这些门店给商场带来了新业态。许多小朋友在店里看一卷卷耗材被抽出细线，层层堆出微缩的建筑、玩具、书桌上的小物件，",
-        "detail": "在过去的十一假期，拓竹科技一口气开了两家商场品牌店，位于上海和北京，现在其线下渠道已覆盖国内100多座城市，销售触点突破400个。在一二线城市顶级商圈的显眼位置，可能会看见一台台3D打印机和围着看的好奇消费者。如果假期到访，往往在开门前就已聚集起不少家长和小朋友，等着进店参观或报名体验课。这些门店给商场带来了新业态。许多小朋友在店里看一卷卷耗材被抽出细线，层层堆出微缩的建筑、玩具、书桌上的小物件，",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "瞄准高性能硬件需求，3C卖家如何切入东南亚细分市场？",
-        "link": "https://www.leiphone.com/category/industrynews/EErFYCDINUus7sOF.html",
-        "description": "一场游戏能否流畅运行，往往取决于电脑里那些不太起眼的硬件。从运行速度、画面表现到设备稳定性，对于热衷电竞的消费者而言，一块性能更好的硬件，带来的可能是截然不同的游戏体验。而在东南亚，随着电竞、移动办公等数字生活场景不断丰富，消费者对3C产品的需求也变得更加多元。这种变化正为中国3C卖家带来新的市场机会。Shopee平台数据显示，2025年12月，电脑及配件类目销售额同比增长超50%，其中电脑硬件及",
-        "detail": "一场游戏能否流畅运行，往往取决于电脑里那些不太起眼的硬件。从运行速度、画面表现到设备稳定性，对于热衷电竞的消费者而言，一块性能更好的硬件，带来的可能是截然不同的游戏体验。而在东南亚，随着电竞、移动办公等数字生活场景不断丰富，消费者对3C产品的需求也变得更加多元。这种变化正为中国3C卖家带来新的市场机会。Shopee平台数据显示，2025年12月，电脑及配件类目销售额同比增长超50%，其中电脑硬件及",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "抢跑双11开门红，这些品牌如何凭“好货与好策略”率先突围？",
-        "link": "https://www.leiphone.com/category/industrynews/7vvYw1kiPRTCA8w0.html",
-        "description": "2026年抖音商城双11好物节开门红阶段已经打响，各行业品牌稳扎稳打、实现生意增长。在流量与销量的双重角逐中，打动消费者的不再局限于价格。将优质的商品供给、丰富的内容生态、有竞争力的价格与稳定的履约服务相结合，同时善用智能工具提效，是品牌在双11 实现增长的重要路径。本文将拆解7大品牌在开门红阶段的高光表现，详细分析他们如何通过精细化运营抢占生意先机，为更多商家沉淀可复用的实战经验。百雀羚：“厂区",
-        "detail": "2026年抖音商城双11好物节开门红阶段已经打响，各行业品牌稳扎稳打、实现生意增长。在流量与销量的双重角逐中，打动消费者的不再局限于价格。将优质的商品供给、丰富的内容生态、有竞争力的价格与稳定的履约服务相结合，同时善用智能工具提效，是品牌在双11 实现增长的重要路径。本文将拆解7大品牌在开门红阶段的高光表现，详细分析他们如何通过精细化运营抢占生意先机，为更多商家沉淀可复用的实战经验。百雀羚：“厂区",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-        "link": "https://divagr.com/blog/qwenputer",
-        "description": "[HN] +294 points · 69 comments · by csmantle",
-        "detail": "[HN] +294 points · 69 comments · by csmantle",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
-      },
-      {
-        "title": "Claude Code regularly sends each background agent’s transcript to its model",
-        "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-        "description": "[HN] +225 points · 65 comments · by NikZaal",
-        "detail": "[HN] +225 points · 65 comments · by NikZaal",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "hackernews"
       }
     ]
   },
