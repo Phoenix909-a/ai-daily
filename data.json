@@ -1,5 +1,255 @@
 [
   {
+    "date": "2026-10-29",
+    "weekday": "星期四",
+    "summary": "今日共收录 27 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+        "link": "https://www.qbitai.com/2026/10/506281.html",
+        "description": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+        "detail": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "量子位"
+      },
+      {
+        "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+        "link": "https://www.qbitai.com/2026/10/506273.html",
+        "description": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+        "detail": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+        "link": "https://www.qbitai.com/2026/10/505934.html",
+        "description": "用扩散模型怎么做做Agent？",
+        "detail": "用扩散模型怎么做做Agent？",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+        "link": "https://www.qbitai.com/2026/10/506246.html",
+        "description": "理想今年最后一场发布会，自研电池芯片全部上车",
+        "detail": "理想今年最后一场发布会，自研电池芯片全部上车",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+        "link": "https://www.qbitai.com/2026/10/506227.html",
+        "description": "能连肝数日修Bug，免疫提示词注入",
+        "detail": "能连肝数日修Bug，免疫提示词注入",
+        "tag": "模型发布",
+        "sort_score": 35,
+        "source": "量子位"
+      },
+      {
+        "title": "谷歌重磅发布Genie 4：这才是真正的「世界模型」！",
+        "link": "https://aiera.com.cn/2026/10/29/other/admin/121262/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%b0%b7%e6%ad%8c%e9%87%8d%e7%a3%85%e5%8f%91%e5%b8%83genie-4%ef%bc%9a%e8%bf%99%e6%89%8d%e6%98%af%e7%9c%9f%e6%ad%a3%e7%9a%84%e3%80%8c%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b/",
+        "description": "谷歌版「黑客帝国」，今夜彻底成真了！ 就在刚刚，Google DeepMind甩出深夜王炸，正式发布新一代通用世界模型Genie 4。",
+        "detail": "谷歌版「黑客帝国」，今夜彻底成真了！ 就在刚刚，Google DeepMind甩出深夜王炸，正式发布新一代通用世界模型Genie 4。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "AI写88小时，人类读7周！数学家开始读懂OpenAI千禧难题证明",
+        "link": "https://aiera.com.cn/2026/10/29/other/admin/121234/ai%e5%86%9988%e5%b0%8f%e6%97%b6%ef%bc%8c%e4%ba%ba%e7%b1%bb%e8%af%bb7%e5%91%a8%ef%bc%81%e6%95%b0%e5%ad%a6%e5%ae%b6%e5%bc%80%e5%a7%8b%e8%af%bb%e6%87%82openai%e5%8d%83%e7%a6%a7%e9%9a%be%e9%a2%98%e8%af%81/",
+        "description": "9月8日，OpenAI扔出一份证明，宣称攻克了纳维－斯托克斯这道千禧难题。 这道题研究的，是描述流体运动的一组方程。",
+        "detail": "9月8日，OpenAI扔出一份证明，宣称攻克了纳维－斯托克斯这道千禧难题。 这道题研究的，是描述流体运动的一组方程。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "计算机领域天塌了！两大巨头同日宣布：世纪猜想ETH被证伪",
+        "link": "https://aiera.com.cn/2026/10/29/other/admin/121222/%e8%ae%a1%e7%ae%97%e6%9c%ba%e9%a2%86%e5%9f%9f%e5%a4%a9%e5%a1%8c%e4%ba%86%ef%bc%81%e4%b8%a4%e5%a4%a7%e5%b7%a8%e5%a4%b4%e5%90%8c%e6%97%a5%e5%ae%a3%e5%b8%83%ef%bc%9a%e4%b8%96%e7%ba%aa%e7%8c%9c%e6%83%b3et/",
+        "description": "理论计算机界，也被 AI 轰炸了！ 昨夜，AI已经彻底跨越了科学研究的卢比孔河，正式开始「掀翻」人类的知识大厦。",
+        "detail": "理论计算机界，也被 AI 轰炸了！ 昨夜，AI已经彻底跨越了科学研究的卢比孔河，正式开始「掀翻」人类的知识大厦。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "现实版「思想钢印」！ Anthropic惊悚实验曝光，86%顶尖专家关键决策被AI控制",
+        "link": "https://aiera.com.cn/2026/10/29/other/admin/121201/%e7%8e%b0%e5%ae%9e%e7%89%88%e3%80%8c%e6%80%9d%e6%83%b3%e9%92%a2%e5%8d%b0%e3%80%8d%ef%bc%81-anthropic%e6%83%8a%e6%82%9a%e5%ae%9e%e9%aa%8c%e6%9b%9d%e5%85%89%ef%bc%8c86%e9%a1%b6%e5%b0%96%e4%b8%93/",
+        "description": "现实版《盗梦空间》，真的来了！ 电影中，有一个让人脊背发凉的设定：要改变一个人的决定，便是把思想「植入」对方的潜意识深处，然后让他坚信这个念头是自己长出来的。",
+        "detail": "现实版《盗梦空间》，真的来了！ 电影中，有一个让人脊背发凉的设定：要改变一个人的决定，便是把思想「植入」对方的潜意识深处，然后让他坚信这个念头是自己长出来的。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "黄仁勋的AI工厂，还缺一个「粮仓」！中国公司出手了",
+        "link": "https://aiera.com.cn/2026/10/29/other/admin/121183/%e9%bb%84%e4%bb%81%e5%8b%8b%e7%9a%84ai%e5%b7%a5%e5%8e%82%ef%bc%8c%e8%bf%98%e7%bc%ba%e4%b8%80%e4%b8%aa%e3%80%8c%e7%b2%ae%e4%bb%93%e3%80%8d%ef%bc%81%e4%b8%ad%e5%9b%bd%e5%85%ac%e5%8f%b8%e5%87%ba%e6%89%8b/",
+        "description": "10月21日，柏林GTC大会，黄仁勋又把AI的未来讲出了新高度。 一身标志性黑皮衣的老黄站在舞台上宣布：",
+        "detail": "10月21日，柏林GTC大会，黄仁勋又把AI的未来讲出了新高度。 一身标志性黑皮衣的老黄站在舞台上宣布：",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude向癌症发起猛攻！狂搓3.5万抗体，一人带AI造出绝症解药",
+        "link": "https://aiera.com.cn/2026/10/29/other/admin/121172/claude%e5%90%91%e7%99%8c%e7%97%87%e5%8f%91%e8%b5%b7%e7%8c%9b%e6%94%bb%ef%bc%81%e7%8b%82%e6%90%933-5%e4%b8%87%e6%8a%97%e4%bd%93%ef%bc%8c%e4%b8%80%e4%ba%ba%e5%b8%a6ai%e9%80%a0%e5%87%ba%e7%bb%9d%e7%97%87/",
+        "description": "Claude真下场造药了！ 前一天，Anthropic刚交完IPO招股书，今天扭头就杀进药物研发圈，而且这波操作极其硬核——",
+        "detail": "Claude真下场造药了！ 前一天，Anthropic刚交完IPO招股书，今天扭头就杀进药物研发圈，而且这波操作极其硬核——",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "「软件已死」？独立开发大佬退订几乎所有工作软件：要啥让AI造",
+        "link": "https://aiera.com.cn/2026/10/29/other/admin/121153/%e3%80%8c%e8%bd%af%e4%bb%b6%e5%b7%b2%e6%ad%bb%e3%80%8d%ef%bc%9f%e7%8b%ac%e7%ab%8b%e5%bc%80%e5%8f%91%e5%a4%a7%e4%bd%ac%e9%80%80%e8%ae%a2%e5%87%a0%e4%b9%8e%e6%89%80%e6%9c%89%e5%b7%a5%e4%bd%9c%e8%bd%af/",
+        "description": "一个做软件开发生意的人，开始大规模退订软件，还喊出了一句狠话： 10月11日，知名独立开发者Pieter Levels（levelsio）发文称，自己已经退掉了几乎所有工作用的…",
+        "detail": "一个做软件开发生意的人，开始大规模退订软件，还喊出了一句狠话： 10月11日，知名独立开发者Pieter Levels（levelsio）发文称，自己已经退掉了几乎所有工作用的…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "国产开源AI横扫全球4项第一！1.3B逆袭大厂，OCR极限实测杀疯了",
+        "link": "https://aiera.com.cn/2026/10/29/other/admin/121138/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%9b%bd%e4%ba%a7%e5%bc%80%e6%ba%90ai%e6%a8%aa%e6%89%ab%e5%85%a8%e7%90%834%e9%a1%b9%e7%ac%ac%e4%b8%80%ef%bc%811-3b%e9%80%86%e8%a2%ad%e5%a4%a7%e5%8e%82%ef%bc%8cocr%e6%9e%81/",
+        "description": "几周前，DeepSeek用V4.1-Flash再次告诉全世界：顶级模型，不一定要天价！ 今天，轮到OCR了。",
+        "detail": "几周前，DeepSeek用V4.1-Flash再次告诉全世界：顶级模型，不一定要天价！ 今天，轮到OCR了。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "EMNLP’26｜GPT也不会「读空气」，狼人杀基准测出社交盲区",
+        "link": "https://aiera.com.cn/2026/10/29/other/admin/121106/emnlp26%ef%bd%9cgpt%e4%b9%9f%e4%b8%8d%e4%bc%9a%e3%80%8c%e8%af%bb%e7%a9%ba%e6%b0%94%e3%80%8d%ef%bc%8c%e7%8b%bc%e4%ba%ba%e6%9d%80%e5%9f%ba%e5%87%86%e6%b5%8b%e5%87%ba%e7%a4%be%e4%ba%a4%e7%9b%b2/",
+        "description": "人类说一句「我不是狼」，多模态大模型既能看到表情，也能听见声音。但它真的知道这句话是真是假吗？",
+        "detail": "人类说一句「我不是狼」，多模态大模型既能看到表情，也能听见声音。但它真的知道这句话是真是假吗？",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI 用起来了，业务价值谁来打分？",
+        "link": "https://www.infoq.cn/article/LLbRSSwTyvqTpFsaJs3v?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+        "link": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决",
+        "link": "https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+        "link": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型\n· 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相\n· 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目\n期项目#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型\n· 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相\n· 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目\n期项目#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 35,
+        "source": "爱范儿"
+      },
+      {
+        "title": "让 Agent 读懂你的身体：数据处理篇",
+        "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+        "description": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+        "detail": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "少数派"
+      },
+      {
+        "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+        "link": "https://sspai.com/post/117750",
+        "description": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。查看全文",
+        "detail": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。查看全文",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "少数派"
+      },
+      {
+        "title": "苹果发触屏笔记本，最高 11 万元；DeepSeek V5 模型代码现身；宇树首发财报，净利增 270%",
+        "link": "http://www.geekpark.net/news/373085",
+        "description": "\n        \n苹果发布首款触屏 MacBook Pro，顶配超 11 万元\n\n北京时间 10 月 29 日，苹果发布全新 MacBook Pro，首次为 Mac 引入屏幕触控和灵动岛，并采用双层串联 OLED 技术的 PROLED XDR 显示屏。\n新机提供 14 英寸和 16 英寸两种版本，搭载 M5 Pro 或 M5 Max 芯片。根据苹果中国区发布信息，新机将于 10 月 30 日开启",
+        "detail": "\n        \n苹果发布首款触屏 MacBook Pro，顶配超 11 万元\n\n北京时间 10 月 29 日，苹果发布全新 MacBook Pro，首次为 Mac 引入屏幕触控和灵动岛，并采用双层串联 OLED 技术的 PROLED XDR 显示屏。\n新机提供 14 英寸和 16 英寸两种版本，搭载 M5 Pro 或 M5 Max 芯片。根据苹果中国区发布信息，新机将于 10 月 30 日开启",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "「推翻」乔布斯的触屏 MacBook 来了，22999 元起",
+        "link": "http://www.geekpark.net/news/373084",
+        "description": "\n        \n搭载 PROLED XDR 显示屏的 MacBook Pro｜图片来源：Apple\n2010 年 10 月 20 日，乔布斯在苹果「Back to the Mac」发布会上，给触屏笔记本下过一个结论：「我们做过大量用户测试，结果证明这行不通。触控表面不该竖着放。演示效果很好，但用一会儿你就会累，用久了，胳膊都要掉下来。这行不通，人体工学上糟透了。」\n16 年后的今天凌晨，苹果发",
+        "detail": "\n        \n搭载 PROLED XDR 显示屏的 MacBook Pro｜图片来源：Apple\n2010 年 10 月 20 日，乔布斯在苹果「Back to the Mac」发布会上，给触屏笔记本下过一个结论：「我们做过大量用户测试，结果证明这行不通。触控表面不该竖着放。演示效果很好，但用一会儿你就会累，用久了，胳膊都要掉下来。这行不通，人体工学上糟透了。」\n16 年后的今天凌晨，苹果发",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "商场的黄金铺位，为什么换成了3D打印机？",
+        "link": "https://www.leiphone.com/category/industrynews/QUCX94lmPkS6scqb.html",
+        "description": "在过去的十一假期，拓竹科技一口气开了两家商场品牌店，位于上海和北京，现在其线下渠道已覆盖国内100多座城市，销售触点突破400个。在一二线城市顶级商圈的显眼位置，可能会看见一台台3D打印机和围着看的好奇消费者。如果假期到访，往往在开门前就已聚集起不少家长和小朋友，等着进店参观或报名体验课。这些门店给商场带来了新业态。许多小朋友在店里看一卷卷耗材被抽出细线，层层堆出微缩的建筑、玩具、书桌上的小物件，",
+        "detail": "在过去的十一假期，拓竹科技一口气开了两家商场品牌店，位于上海和北京，现在其线下渠道已覆盖国内100多座城市，销售触点突破400个。在一二线城市顶级商圈的显眼位置，可能会看见一台台3D打印机和围着看的好奇消费者。如果假期到访，往往在开门前就已聚集起不少家长和小朋友，等着进店参观或报名体验课。这些门店给商场带来了新业态。许多小朋友在店里看一卷卷耗材被抽出细线，层层堆出微缩的建筑、玩具、书桌上的小物件，",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "瞄准高性能硬件需求，3C卖家如何切入东南亚细分市场？",
+        "link": "https://www.leiphone.com/category/industrynews/EErFYCDINUus7sOF.html",
+        "description": "一场游戏能否流畅运行，往往取决于电脑里那些不太起眼的硬件。从运行速度、画面表现到设备稳定性，对于热衷电竞的消费者而言，一块性能更好的硬件，带来的可能是截然不同的游戏体验。而在东南亚，随着电竞、移动办公等数字生活场景不断丰富，消费者对3C产品的需求也变得更加多元。这种变化正为中国3C卖家带来新的市场机会。Shopee平台数据显示，2025年12月，电脑及配件类目销售额同比增长超50%，其中电脑硬件及",
+        "detail": "一场游戏能否流畅运行，往往取决于电脑里那些不太起眼的硬件。从运行速度、画面表现到设备稳定性，对于热衷电竞的消费者而言，一块性能更好的硬件，带来的可能是截然不同的游戏体验。而在东南亚，随着电竞、移动办公等数字生活场景不断丰富，消费者对3C产品的需求也变得更加多元。这种变化正为中国3C卖家带来新的市场机会。Shopee平台数据显示，2025年12月，电脑及配件类目销售额同比增长超50%，其中电脑硬件及",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "抢跑双11开门红，这些品牌如何凭“好货与好策略”率先突围？",
+        "link": "https://www.leiphone.com/category/industrynews/7vvYw1kiPRTCA8w0.html",
+        "description": "2026年抖音商城双11好物节开门红阶段已经打响，各行业品牌稳扎稳打、实现生意增长。在流量与销量的双重角逐中，打动消费者的不再局限于价格。将优质的商品供给、丰富的内容生态、有竞争力的价格与稳定的履约服务相结合，同时善用智能工具提效，是品牌在双11 实现增长的重要路径。本文将拆解7大品牌在开门红阶段的高光表现，详细分析他们如何通过精细化运营抢占生意先机，为更多商家沉淀可复用的实战经验。百雀羚：“厂区",
+        "detail": "2026年抖音商城双11好物节开门红阶段已经打响，各行业品牌稳扎稳打、实现生意增长。在流量与销量的双重角逐中，打动消费者的不再局限于价格。将优质的商品供给、丰富的内容生态、有竞争力的价格与稳定的履约服务相结合，同时善用智能工具提效，是品牌在双11 实现增长的重要路径。本文将拆解7大品牌在开门红阶段的高光表现，详细分析他们如何通过精细化运营抢占生意先机，为更多商家沉淀可复用的实战经验。百雀羚：“厂区",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "link": "https://divagr.com/blog/qwenputer",
+        "description": "[HN] +294 points · 69 comments · by csmantle",
+        "detail": "[HN] +294 points · 69 comments · by csmantle",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Claude Code regularly sends each background agent’s transcript to its model",
+        "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "description": "[HN] +225 points · 65 comments · by NikZaal",
+        "detail": "[HN] +225 points · 65 comments · by NikZaal",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-28",
     "weekday": "星期三",
     "summary": "今日共收录 38 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, Simon Willison, TechCrunch AI, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
