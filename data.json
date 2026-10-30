@@ -1,5 +1,237 @@
 [
   {
+    "date": "2026-10-30",
+    "weekday": "星期五",
+    "summary": "今日共收录 25 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+        "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+        "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+        "detail": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+        "link": "https://www.qbitai.com/2026/10/506686.html",
+        "description": "解析一切",
+        "detail": "解析一切",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "Claude新模型曝光：新Fable，新Opus…",
+        "link": "https://www.qbitai.com/2026/10/506674.html",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+        "link": "https://www.qbitai.com/2026/10/506662.html",
+        "description": "让机器人成为彼此的“老师”",
+        "detail": "让机器人成为彼此的“老师”",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
+        "link": "https://www.qbitai.com/2026/10/506609.html",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+        "link": "https://www.qbitai.com/2026/10/506569.html",
+        "description": "Momenta世界模型上车",
+        "detail": "Momenta世界模型上车",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "《AnySearch Pro 正式上线，面向复杂 Agent 任务升级专业搜索能力》",
+        "link": "https://aiera.com.cn/2026/10/30/other/admin/121435/%e3%80%8aanysearch-pro-%e6%ad%a3%e5%bc%8f%e4%b8%8a%e7%ba%bf%ef%bc%8c%e9%9d%a2%e5%90%91%e5%a4%8d%e6%9d%82-agent-%e4%bb%bb%e5%8a%a1%e5%8d%87%e7%ba%a7%e4%b8%93%e4%b8%9a%e6%90%9c%e7%b4%a2%e8%83%bd/",
+        "description": "近日，AI 搜索基础设施产品 AnySearch 宣布推出 Pro 付费版，面向 AI 开发者及团队，提供更全面的专业数据检索能力与更高性能的搜索服务，满足 AI Agent …",
+        "detail": "近日，AI 搜索基础设施产品 AnySearch 宣布推出 Pro 付费版，面向 AI 开发者及团队，提供更全面的专业数据检索能力与更高性能的搜索服务，满足 AI Agent …",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "Gemini 4 Carbon发布，谷歌重回世界第一！",
+        "link": "https://aiera.com.cn/2026/10/30/other/admin/121433/%e5%88%9a%e5%88%9a%ef%bc%8cgemini-4-carbon%e5%8f%91%e5%b8%83%ef%bc%8c%e8%b0%b7%e6%ad%8c%e9%87%8d%e5%9b%9e%e4%b8%96%e7%95%8c%e7%ac%ac%e4%b8%80%ef%bc%81/",
+        "description": "刚刚，谷歌甩出全新前沿王炸模型Gemini 4 Carbon，一口气把全球第一抢了回来！ 在谷歌官方公布的14项核心基准大表中，Carbon一口气拿下了12项第一。",
+        "detail": "刚刚，谷歌甩出全新前沿王炸模型Gemini 4 Carbon，一口气把全球第一抢了回来！ 在谷歌官方公布的14项核心基准大表中，Carbon一口气拿下了12项第一。",
+        "tag": "模型发布",
+        "sort_score": 35,
+        "source": "新智元"
+      },
+      {
+        "title": "一块面包，就让全球机器人集体破防？幕后真相终于被这家黑马破解",
+        "link": "https://aiera.com.cn/2026/10/30/other/admin/121398/%e4%b8%80%e5%9d%97%e9%9d%a2%e5%8c%85%ef%bc%8c%e5%b0%b1%e8%ae%a9%e5%85%a8%e7%90%83%e6%9c%ba%e5%99%a8%e4%ba%ba%e9%9b%86%e4%bd%93%e7%a0%b4%e9%98%b2%ef%bc%9f%e5%b9%95%e5%90%8e%e7%9c%9f%e7%9b%b8%e7%bb%88/",
+        "description": "一块普普通通的面包，变换了摆放姿态，常常就能难倒「已经学会了」的机器人！ 训练时，面包通常是竖放的；",
+        "detail": "一块普普通通的面包，变换了摆放姿态，常常就能难倒「已经学会了」的机器人！ 训练时，面包通常是竖放的；",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI不光得会说，还不能乱插嘴！Omni AI变革实时交互",
+        "link": "https://aiera.com.cn/2026/10/30/other/admin/121377/ai%e4%b8%8d%e5%85%89%e5%be%97%e4%bc%9a%e8%af%b4%ef%bc%8c%e8%bf%98%e4%b8%8d%e8%83%bd%e4%b9%b1%e6%8f%92%e5%98%b4%ef%bc%81omni-ai%e5%8f%98%e9%9d%a9%e5%ae%9e%e6%97%b6%e4%ba%a4%e4%ba%92/",
+        "description": "AI已经能听、能看、能回答。 但面对持续变化的对话，它如何一边回应，一边保持理解与推理？ 当你让AI分析屏幕上的图表，又突然补充「等一下，看右边那条曲线」，系统需要停止旧回答…",
+        "detail": "AI已经能听、能看、能回答。 但面对持续变化的对话，它如何一边回应，一边保持理解与推理？ 当你让AI分析屏幕上的图表，又突然补充「等一下，看右边那条曲线」，系统需要停止旧回答…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "最后一天赶紧蹬！Codex 200刀额度砍半，ChatGPT入口大更新",
+        "link": "https://aiera.com.cn/2026/10/30/other/admin/121366/%e6%9c%80%e5%90%8e%e4%b8%80%e5%a4%a9%e8%b5%b6%e7%b4%a7%e8%b9%ac%ef%bc%81codex-200%e5%88%80%e9%a2%9d%e5%ba%a6%e7%a0%8d%e5%8d%8a%ef%bc%8cchatgpt%e5%85%a5%e5%8f%a3%e5%a4%a7%e6%9b%b4%e6%96%b0/",
+        "description": "距离10月30日，只剩最后一天！ OpenAI的200美元Pro订阅用户坐不住了，这两天，已经开始集体倒计时。",
+        "detail": "距离10月30日，只剩最后一天！ OpenAI的200美元Pro订阅用户坐不住了，这两天，已经开始集体倒计时。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "国产模型拿下三大榜单第一！年底全面开源",
+        "link": "https://aiera.com.cn/2026/10/30/other/admin/121345/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%9b%bd%e4%ba%a7%e6%a8%a1%e5%9e%8b%e6%8b%bf%e4%b8%8b%e4%b8%89%e5%a4%a7%e6%a6%9c%e5%8d%95%e7%ac%ac%e4%b8%80%ef%bc%81%e5%b9%b4%e5%ba%95%e5%85%a8%e9%9d%a2%e5%bc%80%e6%ba%90/",
+        "description": "这两天，马斯克又开炮了。 起因是市场研究机构 Counterpoint 的一份预测：五年内，人形机器人对内存的需求将暴涨约 20 倍，到 2030 年，每台机器人要装 39GB…",
+        "detail": "这两天，马斯克又开炮了。 起因是市场研究机构 Counterpoint 的一份预测：五年内，人形机器人对内存的需求将暴涨约 20 倍，到 2030 年，每台机器人要装 39GB…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "AI王座，一夜两度易主！神秘模型Obsidian 3泄露",
+        "link": "https://aiera.com.cn/2026/10/30/other/admin/121317/ai%e7%8e%8b%e5%ba%a7%ef%bc%8c%e4%b8%80%e5%a4%9c%e4%b8%a4%e5%ba%a6%e6%98%93%e4%b8%bb%ef%bc%81%e7%a5%9e%e7%a7%98%e6%a8%a1%e5%9e%8bobsidian-3%e6%b3%84%e9%9c%b2/",
+        "description": "AI圈再次变天了！ Artificial Analysis刚更新了Intelligence Index，正式推出v5版，Claude Opus 5.5一举登顶，将OpenAI的…",
+        "detail": "AI圈再次变天了！ Artificial Analysis刚更新了Intelligence Index，正式推出v5版，Claude Opus 5.5一举登顶，将OpenAI的…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-8来了，AI公司要被一口吃掉？这家黑马给出另一种答案",
+        "link": "https://aiera.com.cn/2026/10/30/other/admin/121295/gpt-8%e6%9d%a5%e4%ba%86%ef%bc%8cai%e5%85%ac%e5%8f%b8%e8%a6%81%e8%a2%ab%e4%b8%80%e5%8f%a3%e5%90%83%e6%8e%89%ef%bc%9f%e8%bf%99%e5%ae%b6%e9%bb%91%e9%a9%ac%e7%bb%99%e5%87%ba%e5%8f%a6%e4%b8%80%e7%a7%8d/",
+        "description": "启元机器人刚刚下线5000台！ 启元机器人具身研究中心承接底层算法研发，对外锚定一个清晰目标：做出第一个卖给个人的物理 AI机器人。",
+        "detail": "启元机器人刚刚下线5000台！ 启元机器人具身研究中心承接底层算法研发，对外锚定一个清晰目标：做出第一个卖给个人的物理 AI机器人。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "一台MacBook卖11.26万！苹果首款触屏本登场，发光Logo回来了",
+        "link": "https://aiera.com.cn/2026/10/30/other/admin/121283/%e4%b8%80%e5%8f%b0macbook%e5%8d%9611-26%e4%b8%87%ef%bc%81%e8%8b%b9%e6%9e%9c%e9%a6%96%e6%ac%be%e8%a7%a6%e5%b1%8f%e6%9c%ac%e7%99%bb%e5%9c%ba%ef%bc%8c%e5%8f%91%e5%85%89logo%e5%9b%9e%e6%9d%a5%e4%ba%86/",
+        "description": "刚刚，史上第一台触屏MacBook Pro，正式发布！ 这是Mac诞生以来，苹果第一次允许手指越过键盘、上手触摸整块屏幕。",
+        "detail": "刚刚，史上第一台触屏MacBook Pro，正式发布！ 这是Mac诞生以来，苹果第一次允许手指越过键盘、上手触摸整块屏幕。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+        "link": "https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "link": "https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "link": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+        "link": "https://www.ifanr.com/1686790?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万\n· 美国计算机专业入学人数再降，本科两年减少 18.4%\n· 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万\n· 美国计算机专业入学人数再降，本科两年减少 18.4%\n· 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "TRAE 开发者个人助理，打响 AI Coding 的下半场",
+        "link": "http://www.geekpark.net/news/373190",
+        "description": "\n        \n作者｜Cynthia\n编辑｜郑玄\n\n过去两年，AI Coding 最令人兴奋的时刻，大基本止步于代码生成的那一秒。\n一句话生成页面，几分钟搭出原型，一个开发者用半天时间做完了过去需要一周才能完成的开发任务&hellip;&hellip;\n但在这之后，即使某项单点开发任务获得五倍、十倍的提速，一个项目从需求提出到产品交付的速度，有时候未必能有两倍效率提升。\n时间去了哪里？\n写提示",
+        "detail": "\n        \n作者｜Cynthia\n编辑｜郑玄\n\n过去两年，AI Coding 最令人兴奋的时刻，大基本止步于代码生成的那一秒。\n一句话生成页面，几分钟搭出原型，一个开发者用半天时间做完了过去需要一周才能完成的开发任务&hellip;&hellip;\n但在这之后，即使某项单点开发任务获得五倍、十倍的提速，一个项目从需求提出到产品交付的速度，有时候未必能有两倍效率提升。\n时间去了哪里？\n写提示",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道",
+        "link": "http://www.geekpark.net/news/373154",
+        "description": "\n        \n谷歌市值创纪录蒸发 5000 亿美元 AI 侵蚀营收\nAlphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。\n\n这家谷歌母公司公布，第三季度不含合作伙伴分成的营收为 1112 亿美元，低于分析师预测。搜索及其他渠道的广告营收也不及预",
+        "detail": "\n        \n谷歌市值创纪录蒸发 5000 亿美元 AI 侵蚀营收\nAlphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。\n\n这家谷歌母公司公布，第三季度不含合作伙伴分成的营收为 1112 亿美元，低于分析师预测。搜索及其他渠道的广告营收也不及预",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "阿里用速卖通把双11带到韩国，还豪送4辆特斯拉！",
+        "link": "https://www.leiphone.com/category/industrynews/pTCNnUnvfLfUtt27.html",
+        "description": "被韩国人实名羡慕的中国购物节，其实已经抵达韩国！&nbsp;据韩媒报道，阿里旗下跨境平台速卖通AliExpress宣布11月1日至18日开启海外双11，所有类别商品最高可享80%的折扣，还拿出4辆特斯拉Model Y做抽奖。&nbsp;&nbsp;（韩媒报道速卖通双11送特斯拉）&nbsp;韩国双11期间，速卖通将在首尔圣水洞开设快闪店，展出真实的电动汽车和产品体验区，以及“11 秒挑战”等现场活",
+        "detail": "被韩国人实名羡慕的中国购物节，其实已经抵达韩国！&nbsp;据韩媒报道，阿里旗下跨境平台速卖通AliExpress宣布11月1日至18日开启海外双11，所有类别商品最高可享80%的折扣，还拿出4辆特斯拉Model Y做抽奖。&nbsp;&nbsp;（韩媒报道速卖通双11送特斯拉）&nbsp;韩国双11期间，速卖通将在首尔圣水洞开设快闪店，展出真实的电动汽车和产品体验区，以及“11 秒挑战”等现场活",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "阿里云发布新版飞天企业版，支持海外客户升级企业级AI能力",
+        "link": "https://www.leiphone.com/category/industrynews/52mMRkhA2aqlY1FL.html",
+        "description": "10月29日消息，阿里云在国际云栖大会上发布面向国际市场的新版飞天企业版（Apsara Stack International v3.18），提供可信AI云解决方案，支持全球政府、运营商及大型企业升级AI基础设施。目前，飞天企业版已在全球20余个国家和地区实现本地化部署。&nbsp;随着AI加速应用于政务、金融、医疗等关键领域，海外机构及大型企业对AI需求增长的同时，也对数据、模型和云平台的自主可",
+        "detail": "10月29日消息，阿里云在国际云栖大会上发布面向国际市场的新版飞天企业版（Apsara Stack International v3.18），提供可信AI云解决方案，支持全球政府、运营商及大型企业升级AI基础设施。目前，飞天企业版已在全球20余个国家和地区实现本地化部署。&nbsp;随着AI加速应用于政务、金融、医疗等关键领域，海外机构及大型企业对AI需求增长的同时，也对数据、模型和云平台的自主可",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "卓驭发布“磐行”智驾解决方案：切入商用车市场，一年可回本",
+        "link": "https://www.leiphone.com/category/transportation/rwe6sLir6r3aYzeu.html",
+        "description": "10月29日晚，智能驾驶方案商卓驭科技正式发布商用车智能辅助驾驶解决方案“卓驭磐行”，并公布了商用重卡、客车、轻卡、ROBOVAN等业务进展。此次卓驭磐行分为PDS 4和PDS 5两个版本。PDS 4对应高悟性大模型4.0及以上版本，主要支持高速NOA，面向重卡干线物流。目前这一版本已经实现量产。PDS 5则对应卓驭下一代原生多模态基础模型，在高速NOA之外，还将支持城区NOA，主要面向客车、轻卡",
+        "detail": "10月29日晚，智能驾驶方案商卓驭科技正式发布商用车智能辅助驾驶解决方案“卓驭磐行”，并公布了商用重卡、客车、轻卡、ROBOVAN等业务进展。此次卓驭磐行分为PDS 4和PDS 5两个版本。PDS 4对应高悟性大模型4.0及以上版本，主要支持高速NOA，面向重卡干线物流。目前这一版本已经实现量产。PDS 5则对应卓驭下一代原生多模态基础模型，在高速NOA之外，还将支持城区NOA，主要面向客车、轻卡",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "瞬恒智能自研灵巧操作人形机器人SynDexy C1首次实现小批量交付",
+        "link": "https://www.leiphone.com/category/industrynews/CLO1sIKJzw59DmrI.html",
+        "description": "今日，瞬恒智能（SynDexy）宣布，自研灵巧操作人形机器人SynDexy C1完成首次小批量交付，产品正式从研发验证迈向工程化交付与场景应用新阶段，进一步推动具身智能在工业制造领域的商业化落地。本次交付的机器人将应用于消费电子、电子元器件领域客户工厂的精密装配工序。此类工序对精度与稳定性要求极高，在此前测试中，SynDexy C1关键任务成功率超过 98%，展现出面向工业精细操作场景的应用潜力。",
+        "detail": "今日，瞬恒智能（SynDexy）宣布，自研灵巧操作人形机器人SynDexy C1完成首次小批量交付，产品正式从研发验证迈向工程化交付与场景应用新阶段，进一步推动具身智能在工业制造领域的商业化落地。本次交付的机器人将应用于消费电子、电子元器件领域客户工厂的精密装配工序。此类工序对精度与稳定性要求极高，在此前测试中，SynDexy C1关键任务成功率超过 98%，展现出面向工业精细操作场景的应用潜力。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-10-29",
     "weekday": "星期四",
     "summary": "今日共收录 44 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, The Decoder, The Verge AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
