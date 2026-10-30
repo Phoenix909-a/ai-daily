@@ -2,7 +2,7 @@
   {
     "date": "2026-10-30",
     "weekday": "星期五",
-    "summary": "今日共收录 25 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 47 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, TechCrunch AI, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
       {
         "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -12,6 +12,78 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "DoorDash buys Instacart 🛒, Reddit requires login 👽, making agents faster ⚡",
+        "link": "https://tldr.tech/tech/2026-10-30",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TLDR AI"
+      },
+      {
+        "title": "Knocket AI",
+        "link": "https://www.producthunt.com/products/knocket-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "SpeakON Agent",
+        "link": "https://www.producthunt.com/products/speakon",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "SparkBots AI (Powered by Jev)",
+        "link": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "IFTTT.ai",
+        "link": "https://www.producthunt.com/products/ifttt",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "TopAgent",
+        "link": "https://www.producthunt.com/products/topmessage",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Gemini 4 Carbon",
+        "link": "https://www.producthunt.com/products/gemini-4-carbon",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 35,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+        "link": "https://www.qbitai.com/2026/10/506743.html",
+        "description": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+        "detail": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
       },
       {
         "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
@@ -57,6 +129,15 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "量子位"
+      },
+      {
+        "title": "智盾SSAI人工智能时代的新型安全基础设施亮相",
+        "link": "https://aiera.com.cn/2026/10/30/other/admin/121441/%e6%99%ba%e7%9b%bessai%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e6%97%b6%e4%bb%a3%e7%9a%84%e6%96%b0%e5%9e%8b%e5%ae%89%e5%85%a8%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e4%ba%ae%e7%9b%b8/",
+        "description": "2026年10月29日，国科智安（北京）科技有限公司（以下称国科智安）联合北京前瞻人工智能安全与治理研究院（以下称前瞻院），正式推出SSAI智盾V1.5产品矩阵。该产品矩阵覆盖…",
+        "detail": "2026年10月29日，国科智安（北京）科技有限公司（以下称国科智安）联合北京前瞻人工智能安全与治理研究院（以下称前瞻院），正式推出SSAI智盾V1.5产品矩阵。该产品矩阵覆盖…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
       },
       {
         "title": "《AnySearch Pro 正式上线，面向复杂 Agent 任务升级专业搜索能力》",
@@ -167,6 +248,15 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令",
+        "link": "https://www.ifanr.com/1686874?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "据说是 Anthropic 的 AGI#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "据说是 Anthropic 的 AGI#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
         "title": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
         "link": "https://www.ifanr.com/1686790?utm_source=rss&utm_medium=rss&utm_campaign=",
         "description": "· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万\n· 美国计算机专业入学人数再降，本科两年减少 18.4%\n· 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -194,39 +284,39 @@
         "source": "极客公园"
       },
       {
-        "title": "阿里用速卖通把双11带到韩国，还豪送4辆特斯拉！",
-        "link": "https://www.leiphone.com/category/industrynews/pTCNnUnvfLfUtt27.html",
-        "description": "被韩国人实名羡慕的中国购物节，其实已经抵达韩国！&nbsp;据韩媒报道，阿里旗下跨境平台速卖通AliExpress宣布11月1日至18日开启海外双11，所有类别商品最高可享80%的折扣，还拿出4辆特斯拉Model Y做抽奖。&nbsp;&nbsp;（韩媒报道速卖通双11送特斯拉）&nbsp;韩国双11期间，速卖通将在首尔圣水洞开设快闪店，展出真实的电动汽车和产品体验区，以及“11 秒挑战”等现场活",
-        "detail": "被韩国人实名羡慕的中国购物节，其实已经抵达韩国！&nbsp;据韩媒报道，阿里旗下跨境平台速卖通AliExpress宣布11月1日至18日开启海外双11，所有类别商品最高可享80%的折扣，还拿出4辆特斯拉Model Y做抽奖。&nbsp;&nbsp;（韩媒报道速卖通双11送特斯拉）&nbsp;韩国双11期间，速卖通将在首尔圣水洞开设快闪店，展出真实的电动汽车和产品体验区，以及“11 秒挑战”等现场活",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "阿里云发布新版飞天企业版，支持海外客户升级企业级AI能力",
-        "link": "https://www.leiphone.com/category/industrynews/52mMRkhA2aqlY1FL.html",
-        "description": "10月29日消息，阿里云在国际云栖大会上发布面向国际市场的新版飞天企业版（Apsara Stack International v3.18），提供可信AI云解决方案，支持全球政府、运营商及大型企业升级AI基础设施。目前，飞天企业版已在全球20余个国家和地区实现本地化部署。&nbsp;随着AI加速应用于政务、金融、医疗等关键领域，海外机构及大型企业对AI需求增长的同时，也对数据、模型和云平台的自主可",
-        "detail": "10月29日消息，阿里云在国际云栖大会上发布面向国际市场的新版飞天企业版（Apsara Stack International v3.18），提供可信AI云解决方案，支持全球政府、运营商及大型企业升级AI基础设施。目前，飞天企业版已在全球20余个国家和地区实现本地化部署。&nbsp;随着AI加速应用于政务、金融、医疗等关键领域，海外机构及大型企业对AI需求增长的同时，也对数据、模型和云平台的自主可",
+        "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026",
+        "link": "https://www.leiphone.com/category/robot/sRmmVes4DwBoIeRm.html",
+        "description": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。&nbsp; &nbsp; 作者丨向欣&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+        "detail": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。&nbsp; &nbsp; 作者丨向欣&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "雷锋网"
       },
       {
-        "title": "卓驭发布“磐行”智驾解决方案：切入商用车市场，一年可回本",
-        "link": "https://www.leiphone.com/category/transportation/rwe6sLir6r3aYzeu.html",
-        "description": "10月29日晚，智能驾驶方案商卓驭科技正式发布商用车智能辅助驾驶解决方案“卓驭磐行”，并公布了商用重卡、客车、轻卡、ROBOVAN等业务进展。此次卓驭磐行分为PDS 4和PDS 5两个版本。PDS 4对应高悟性大模型4.0及以上版本，主要支持高速NOA，面向重卡干线物流。目前这一版本已经实现量产。PDS 5则对应卓驭下一代原生多模态基础模型，在高速NOA之外，还将支持城区NOA，主要面向客车、轻卡",
-        "detail": "10月29日晚，智能驾驶方案商卓驭科技正式发布商用车智能辅助驾驶解决方案“卓驭磐行”，并公布了商用重卡、客车、轻卡、ROBOVAN等业务进展。此次卓驭磐行分为PDS 4和PDS 5两个版本。PDS 4对应高悟性大模型4.0及以上版本，主要支持高速NOA，面向重卡干线物流。目前这一版本已经实现量产。PDS 5则对应卓驭下一代原生多模态基础模型，在高速NOA之外，还将支持城区NOA，主要面向客车、轻卡",
+        "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+        "link": "https://www.leiphone.com/category/industrynews/7pQrGMmdsjx5dOSR.html",
+        "description": "10 月 30 日，百度 APP 在北京举办产品升级沟通会。百度搜索实现递归自我进化，并全新升级搜索 AI API，活动期间最低价仅需 4.9 元/千次，低于 DeepSeek 搜索 API。同时围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用等方向推出重大升级，给用户带来更智能、更聪明、更好玩的体验，在助力用户“搞定一切”上更进一步。升级后的百度 APP，文心助手让搜索从「一次问答」走向「",
+        "detail": "10 月 30 日，百度 APP 在北京举办产品升级沟通会。百度搜索实现递归自我进化，并全新升级搜索 AI API，活动期间最低价仅需 4.9 元/千次，低于 DeepSeek 搜索 API。同时围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用等方向推出重大升级，给用户带来更智能、更聪明、更好玩的体验，在助力用户“搞定一切”上更进一步。升级后的百度 APP，文心助手让搜索从「一次问答」走向「",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "雷锋网"
       },
       {
-        "title": "瞬恒智能自研灵巧操作人形机器人SynDexy C1首次实现小批量交付",
-        "link": "https://www.leiphone.com/category/industrynews/CLO1sIKJzw59DmrI.html",
-        "description": "今日，瞬恒智能（SynDexy）宣布，自研灵巧操作人形机器人SynDexy C1完成首次小批量交付，产品正式从研发验证迈向工程化交付与场景应用新阶段，进一步推动具身智能在工业制造领域的商业化落地。本次交付的机器人将应用于消费电子、电子元器件领域客户工厂的精密装配工序。此类工序对精度与稳定性要求极高，在此前测试中，SynDexy C1关键任务成功率超过 98%，展现出面向工业精细操作场景的应用潜力。",
-        "detail": "今日，瞬恒智能（SynDexy）宣布，自研灵巧操作人形机器人SynDexy C1完成首次小批量交付，产品正式从研发验证迈向工程化交付与场景应用新阶段，进一步推动具身智能在工业制造领域的商业化落地。本次交付的机器人将应用于消费电子、电子元器件领域客户工厂的精密装配工序。此类工序对精度与稳定性要求极高，在此前测试中，SynDexy C1关键任务成功率超过 98%，展现出面向工业精细操作场景的应用潜力。",
-        "tag": "行业动态",
-        "sort_score": 58,
+        "title": "IROS 2026 观察：从 Demo 到生产力工具，灵巧手还要跨过几道坎？",
+        "link": "https://www.leiphone.com/category/robot/jv4zJUmQr2wkoN0i.html",
+        "description": "灵巧手的设计逻辑，要由落地需求反推。&nbsp; &nbsp; 作者丨向 &nbsp;欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+        "detail": "灵巧手的设计逻辑，要由落地需求反推。&nbsp; &nbsp; 作者丨向 &nbsp;欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "雷锋网"
+      },
+      {
+        "title": "伯牙智能刘欣：GPT-6 之后，轮到硬件拖机器人后腿了 | 物理AI 50人",
+        "link": "https://www.leiphone.com/category/robot/EnKFLg1RRmN9SaHJ.html",
+        "description": "灵巧手去年出货近 2 万只，大部分在「吃灰」&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+        "detail": "灵巧手去年出货近 2 万只，大部分在「吃灰」&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+        "tag": "模型发布",
+        "sort_score": 90,
         "source": "雷锋网"
       }
     ]
