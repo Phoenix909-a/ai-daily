@@ -2,8 +2,17 @@
   {
     "date": "2026-10-31",
     "weekday": "星期六",
-    "summary": "今日共收录 17 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 27 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+        "link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+        "description": "\n        OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major i",
+        "detail": "\n        OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major i",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
       {
         "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
         "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
@@ -12,6 +21,78 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "BaseTab AI",
+        "link": "https://www.producthunt.com/products/basetab-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "GitHub Copilot Fusion",
+        "link": "https://www.producthunt.com/products/github-copilot-fusion",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "SpeakON Agent",
+        "link": "https://www.producthunt.com/products/speakon",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "SparkBots AI (Powered by Jev)",
+        "link": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Knocket AI",
+        "link": "https://www.producthunt.com/products/knocket-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+        "link": "https://www.qbitai.com/2026/10/506884.html",
+        "description": "苹果“牛奶倒河里”式操作翻红",
+        "detail": "苹果“牛奶倒河里”式操作翻红",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+        "link": "https://www.qbitai.com/2026/10/506866.html",
+        "description": "AI算力利用“九九成”",
+        "detail": "AI算力利用“九九成”",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+        "link": "https://www.qbitai.com/2026/10/506855.html",
+        "description": "200美元Ultra用户先用",
+        "detail": "200美元Ultra用户先用",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
       },
       {
         "title": "突发！ChatGPT Pro所有档位额度，官宣翻倍",
@@ -95,6 +176,24 @@
         "source": "新智元"
       },
       {
+        "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+        "link": "https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "当AI从“会想”走向“会干”——腾讯云与英特尔共筑Agentic AI执行新底座",
+        "link": "https://www.infoq.cn/article/acC46slIVKJg1O0ac8w4?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
         "link": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -147,15 +246,6 @@
         "tag": "新功能",
         "sort_score": 82,
         "source": "雷锋网"
-      },
-      {
-        "title": "OpenAI raises less than half of $30B target",
-        "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-        "description": "[HN] +126 points · 92 comments · by timr",
-        "detail": "[HN] +126 points · 92 comments · by timr",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
       }
     ]
   },
