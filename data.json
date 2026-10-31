@@ -1,5 +1,165 @@
 [
   {
+    "date": "2026-10-31",
+    "weekday": "星期六",
+    "summary": "今日共收录 17 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "detail": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "突发！ChatGPT Pro所有档位额度，官宣翻倍",
+        "link": "https://aiera.com.cn/2026/10/31/other/admin/121613/%e7%aa%81%e5%8f%91%ef%bc%81chatgpt-pro%e6%89%80%e6%9c%89%e6%a1%a3%e4%bd%8d%e9%a2%9d%e5%ba%a6%ef%bc%8c%e5%ae%98%e5%ae%a3%e7%bf%bb%e5%80%8d/",
+        "description": "前一天，还有一堆 Codex 用户在喊，最后一天了赶紧蹬，降额之前能薅多少是多少。 结果就在刚刚，今天凌晨一点，Codex 负责人 Tibo 发了条帖子，降额不降了，所有 Pr…",
+        "detail": "前一天，还有一堆 Codex 用户在喊，最后一天了赶紧蹬，降额之前能薅多少是多少。 结果就在刚刚，今天凌晨一点，Codex 负责人 Tibo 发了条帖子，降额不降了，所有 Pr…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "奥特曼自曝OpenAI新模型：让我兴奋到两晚没睡！",
+        "link": "https://aiera.com.cn/2026/10/31/other/admin/121600/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e8%87%aa%e6%9b%9dopenai%e6%96%b0%e6%a8%a1%e5%9e%8b%ef%bc%9a%e8%ae%a9%e6%88%91%e5%85%b4%e5%a5%8b%e5%88%b0%e4%b8%a4%e6%99%9a%e6%b2%a1%e7%9d%a1/",
+        "description": "就在刚刚，奥特曼又爆猛料了。 一档博客节目中，他自曝—— OpenAI内部一款最新神秘模型，在一个代号为「Hold-my-beer」的内部测试周末里，把人类科学家耗尽毕生心血都…",
+        "detail": "就在刚刚，奥特曼又爆猛料了。 一档博客节目中，他自曝—— OpenAI内部一款最新神秘模型，在一个代号为「Hold-my-beer」的内部测试周末里，把人类科学家耗尽毕生心血都…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "中国首个AI定义芯片诞生！",
+        "link": "https://aiera.com.cn/2026/10/31/other/admin/121582/%e5%88%9a%e5%88%9a%ef%bc%8c%e4%b8%ad%e5%9b%bd%e9%a6%96%e4%b8%aaai%e5%ae%9a%e4%b9%89%e8%8a%af%e7%89%87%e8%af%9e%e7%94%9f%ef%bc%81/",
+        "description": "这两天，韩国SK海力士甩出了一份能把同行看哭的财报。 一个季度，营业利润约620亿美元，同比暴涨632%，营业利润率80%。相当于每卖一块钱的内存，就有八毛是纯赚的。",
+        "detail": "这两天，韩国SK海力士甩出了一份能把同行看哭的财报。 一个季度，营业利润约620亿美元，同比暴涨632%，营业利润率80%。相当于每卖一块钱的内存，就有八毛是纯赚的。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "马斯克脑机接口最狠升级！Grok接入大脑，意念可操控AI了",
+        "link": "https://aiera.com.cn/2026/10/31/other/admin/121561/%e9%a9%ac%e6%96%af%e5%85%8b%e8%84%91%e6%9c%ba%e6%8e%a5%e5%8f%a3%e6%9c%80%e7%8b%a0%e5%8d%87%e7%ba%a7%ef%bc%81grok%e6%8e%a5%e5%85%a5%e5%a4%a7%e8%84%91%ef%bc%8c%e6%84%8f%e5%bf%b5%e5%8f%af%e6%93%8d/",
+        "description": "科幻片黑客帝国、超验骇客里的桥段，正被马斯克一点点搬进现实。 今天，Neuralink甩出了一项最新进展，属实有点震撼——",
+        "detail": "科幻片黑客帝国、超验骇客里的桥段，正被马斯克一点点搬进现实。 今天，Neuralink甩出了一项最新进展，属实有点震撼——",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "连拿四个第一，力压Genie 4和Atlas！中国团队造出真物理世界模型",
+        "link": "https://aiera.com.cn/2026/10/31/other/admin/121544/%e8%bf%9e%e6%8b%bf%e5%9b%9b%e4%b8%aa%e7%ac%ac%e4%b8%80%ef%bc%8c%e5%8a%9b%e5%8e%8bgenie-4%e5%92%8catlas%ef%bc%81%e4%b8%ad%e5%9b%bd%e5%9b%a2%e9%98%9f%e9%80%a0%e5%87%ba%e7%9c%9f%e7%89%a9%e7%90%86/",
+        "description": "世界模型赛道，这两天彻底迎来了大爆发！ 就在昨天，谷歌DeepMind发布了全新一代实时世界模型Genie 4，做到了每秒24帧实时生成、单帧延迟低至40毫秒，还能保持长达2分…",
+        "detail": "世界模型赛道，这两天彻底迎来了大爆发！ 就在昨天，谷歌DeepMind发布了全新一代实时世界模型Genie 4，做到了每秒24帧实时生成、单帧延迟低至40毫秒，还能保持长达2分…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "人类要关停，AI不能躲！OpenAI更新模型家法",
+        "link": "https://aiera.com.cn/2026/10/31/other/admin/121519/%e4%ba%ba%e7%b1%bb%e8%a6%81%e5%85%b3%e5%81%9c%ef%bc%8cai%e4%b8%8d%e8%83%bd%e8%ba%b2%ef%bc%81openai%e6%9b%b4%e6%96%b0%e6%a8%a1%e5%9e%8b%e5%ae%b6%e6%b3%95/",
+        "description": "10月29日，OpenAI 为它的模型更新了「家法」： 新版Model Spec。 这份文件为OpenAI的模型定下了行为规范。",
+        "detail": "10月29日，OpenAI 为它的模型更新了「家法」： 新版Model Spec。 这份文件为OpenAI的模型定下了行为规范。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6「看不懂 3D」实锤！250道题只拿0.53分，Claude没及格",
+        "link": "https://aiera.com.cn/2026/10/31/other/admin/121507/gpt-6%e3%80%8c%e7%9c%8b%e4%b8%8d%e6%87%82-3d%e3%80%8d%e5%ae%9e%e9%94%a4%ef%bc%81250%e9%81%93%e9%a2%98%e5%8f%aa%e6%8b%bf0-53%e5%88%86%ef%bc%8cclaude%e6%b2%a1%e5%8f%8a%e6%a0%bc/",
+        "description": "前一阵，GPT-6 Astra 画 CAD 的视频在 X 上实火。 比如这个涡轮增压器，每个零件都单独建模，不仅能正常转动，还能一键原地拆解展开，视觉效果相当炸裂。",
+        "detail": "前一阵，GPT-6 Astra 画 CAD 的视频在 X 上实火。 比如这个涡轮增压器，每个零件都单独建模，不仅能正常转动，还能一键原地拆解展开，视觉效果相当炸裂。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "离开人类，AI能独自活下去么？从图灵测试到「鲁滨逊测试」",
+        "link": "https://aiera.com.cn/2026/10/31/other/admin/121490/%e7%a6%bb%e5%bc%80%e4%ba%ba%e7%b1%bb%ef%bc%8cai%e8%83%bd%e7%8b%ac%e8%87%aa%e6%b4%bb%e4%b8%8b%e5%8e%bb%e4%b9%88%ef%bc%9f%e4%bb%8e%e5%9b%be%e7%81%b5%e6%b5%8b%e8%af%95%e5%88%b0%e3%80%8c%e9%b2%81%e6%bb%a8/",
+        "description": "离开人类，AI能独自活下去吗？从图灵测试到AI的「鲁滨逊测试」 过去几个月，AI巨头接连发布新一代模型，在编程、科研和复杂任务上屡破纪录。",
+        "detail": "离开人类，AI能独自活下去吗？从图灵测试到AI的「鲁滨逊测试」 过去几个月，AI巨头接连发布新一代模型，在编程、科研和复杂任务上屡破纪录。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "重磅！AI补全人类史上最大数学证明，数学家当场泪崩",
+        "link": "https://aiera.com.cn/2026/10/31/other/admin/121467/%e9%87%8d%e7%a3%85%ef%bc%81ai%e8%a1%a5%e5%85%a8%e4%ba%ba%e7%b1%bb%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%a4%a7%e6%95%b0%e5%ad%a6%e8%af%81%e6%98%8e%ef%bc%8c%e6%95%b0%e5%ad%a6%e5%ae%b6%e5%bd%93%e5%9c%ba%e6%b3%aa/",
+        "description": "人类历史上规模最大的数学证明，现已通过计算机形式化验证。 有限单群分类定理（CFSG，Classification of Finite Simple Groups），刚刚被AI…",
+        "detail": "人类历史上规模最大的数学证明，现已通过计算机形式化验证。 有限单群分类定理（CFSG，Classification of Finite Simple Groups），刚刚被AI…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "link": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
+        "link": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起\n· 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本\n· 米哈游《星布谷地》定档 12 月 4 日公测#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起\n· 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本\n· 米哈游《星布谷地》定档 12 月 4 日公测#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "爱范儿"
+      },
+      {
+        "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
+        "link": "http://www.geekpark.net/news/373220",
+        "description": "\n        \n国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri\n10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照片消除、智绘表情和通知摘要等，支持 iPhone 15 Pro 系列、iPhone 16 及后续机型",
+        "detail": "\n        \n国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri\n10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照片消除、智绘表情和通知摘要等，支持 iPhone 15 Pro 系列、iPhone 16 及后续机型",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "国行 Apple 智能官网正式上线：千问接入，11 月推送",
+        "link": "http://www.geekpark.net/news/373238",
+        "description": "\n        头图图片来源：Apple10 月 31 日，苹果中国官网的 Newsroom 发布新闻稿《Apple 智能即将登陆中国》，给了一张具体的时间表：11 月 4 日起，首批 Apple 智能功能随最新的 iOS 开发者 Beta 版开放测试；12 月 iOS 27.3 正式发布时，面向中国用户推出。苹果中国官网的 Apple 智能页面也改了口。9 月 iPhone 18 和 iPho",
+        "detail": "\n        头图图片来源：Apple10 月 31 日，苹果中国官网的 Newsroom 发布新闻稿《Apple 智能即将登陆中国》，给了一张具体的时间表：11 月 4 日起，首批 Apple 智能功能随最新的 iOS 开发者 Beta 版开放测试；12 月 iOS 27.3 正式发布时，面向中国用户推出。苹果中国官网的 Apple 智能页面也改了口。9 月 iPhone 18 和 iPho",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "极客公园"
+      },
+      {
+        "title": "智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断",
+        "link": "https://www.leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html",
+        "description": "10月26日，第八届智能驾驶大会暨2026环秀湖物理AI产业发展推介会在苏州相城举行。上一届，车路云一体化、智能驾驶出海和无人驾驶商业化是讨论重点，而到了今年，大会的讨论边界进一步从智能驾驶向物理AI延伸。世界模型、强化学习、端侧智能、虚拟仿真、Robotaxi之外，机器人、低空飞行器等不同形态的物理智能开始出现在同一场大会上。这背后，是智能驾驶行业正在面对的一组新问题。一方面，高阶辅助驾驶已经进",
+        "detail": "10月26日，第八届智能驾驶大会暨2026环秀湖物理AI产业发展推介会在苏州相城举行。上一届，车路云一体化、智能驾驶出海和无人驾驶商业化是讨论重点，而到了今年，大会的讨论边界进一步从智能驾驶向物理AI延伸。世界模型、强化学习、端侧智能、虚拟仿真、Robotaxi之外，机器人、低空飞行器等不同形态的物理智能开始出现在同一场大会上。这背后，是智能驾驶行业正在面对的一组新问题。一方面，高阶辅助驾驶已经进",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能",
+        "link": "https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html",
+        "description": "10月31日，阿里巴巴与Apple达成合作，将千问集成至 Apple 智能，中国用户可以在Siri、写作工具及视觉智能中，直接调用千问的文本与图像理解、内容生成等能力。这些功能将于11月4日起随最新的iOS 开发者 Beta 版开放测试，并将于12月iOS 27.3正式发布时面向中国用户推出。&nbsp;Siri可以直接调用千问的广博知识，并在 Siri 中直接回复用户问答。通过 Siri，用户还",
+        "detail": "10月31日，阿里巴巴与Apple达成合作，将千问集成至 Apple 智能，中国用户可以在Siri、写作工具及视觉智能中，直接调用千问的文本与图像理解、内容生成等能力。这些功能将于11月4日起随最新的iOS 开发者 Beta 版开放测试，并将于12月iOS 27.3正式发布时面向中国用户推出。&nbsp;Siri可以直接调用千问的广博知识，并在 Siri 中直接回复用户问答。通过 Siri，用户还",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "雷锋网"
+      },
+      {
+        "title": "OpenAI raises less than half of $30B target",
+        "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+        "description": "[HN] +126 points · 92 comments · by timr",
+        "detail": "[HN] +126 points · 92 comments · by timr",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-10-30",
     "weekday": "星期五",
     "summary": "今日共收录 47 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, TechCrunch AI, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
