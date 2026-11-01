@@ -2,8 +2,98 @@
   {
     "date": "2026-11-01",
     "weekday": "星期日",
-    "summary": "今日共收录 14 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 量子位。",
+    "summary": "今日共收录 26 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+        "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+        "description": "\n        OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex",
+        "detail": "\n        OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "The Decoder"
+      },
+      {
+        "title": "agentmash",
+        "link": "https://www.producthunt.com/products/agentmash",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Riverside Agents",
+        "link": "https://www.producthunt.com/products/riverside-fm",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Usage for Claude + ChatGPT 4.0",
+        "link": "https://www.producthunt.com/products/usage-for-claude",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "BaseTab AI",
+        "link": "https://www.producthunt.com/products/basetab-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "GitHub Copilot Fusion",
+        "link": "https://www.producthunt.com/products/github-copilot-fusion",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Knocket AI",
+        "link": "https://www.producthunt.com/products/knocket-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "SpeakON Agent",
+        "link": "https://www.producthunt.com/products/speakon",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+        "link": "https://www.qbitai.com/2026/11/507031.html",
+        "description": "让AI像牛顿一样思考",
+        "detail": "让AI像牛顿一样思考",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+        "link": "https://www.qbitai.com/2026/11/506990.html",
+        "description": "这事还是想得太简单了",
+        "detail": "这事还是想得太简单了",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
       {
         "title": "Jev新成果，再次引爆开源",
         "link": "https://www.qbitai.com/2026/11/506922.html",
@@ -95,6 +185,15 @@
         "source": "新智元"
       },
       {
+        "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
+        "link": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "如果 AI 幻觉也有预算，超支之后该怎么办？",
         "link": "https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -104,31 +203,40 @@
         "source": "InfoQ 中文"
       },
       {
-        "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
-        "link": "http://www.geekpark.net/news/373245",
-        "description": "\n        最近，B 站评论区闹起了「鱼灾」。\n先是有人开了个「Claude 大小姐在运营」的账号，让 AI 负责选题、制作和运营。第二天，「DeepSeek 鲸鱼娘在运营」跟着上线，第一条视频播放量就超过了 200 万。\n\n由于目前 DeepSeek 暂无生图功能，该账号形象还是由 GPT 绘制的。｜图源：Bilibili\n网友纷纷效仿，给自己的 Agent 装上刷 B 站的工具，很快，科",
-        "detail": "\n        最近，B 站评论区闹起了「鱼灾」。\n先是有人开了个「Claude 大小姐在运营」的账号，让 AI 负责选题、制作和运营。第二天，「DeepSeek 鲸鱼娘在运营」跟着上线，第一条视频播放量就超过了 200 万。\n\n由于目前 DeepSeek 暂无生图功能，该账号形象还是由 GPT 绘制的。｜图源：Bilibili\n网友纷纷效仿，给自己的 Agent 装上刷 B 站的工具，很快，科",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "极客公园"
+        "title": "极氪10月交付同比增长51.6%，“海外最贵中国车”9X首销售罄",
+        "link": "https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html",
+        "description": "11月1日，极氪公布销量数据：10月交付新车32483辆，同比增长51.6%，1-10月交付超32万辆，同比增94.4%，平均客单价近37万元，已完成年度30万辆销售目标，是主流车企中量价齐升且唯一提前超额完成全年目标的品牌。其中，极氪7X连续4个月月销过万。同时，旗舰车型极氪9X在国内的热销也为海外开拓打下坚实基础，其欧洲售价折合人民币超100万元，被外媒称为“最贵中国车”，是首款在当地站稳百万",
+        "detail": "11月1日，极氪公布销量数据：10月交付新车32483辆，同比增长51.6%，1-10月交付超32万辆，同比增94.4%，平均客单价近37万元，已完成年度30万辆销售目标，是主流车企中量价齐升且唯一提前超额完成全年目标的品牌。其中，极氪7X连续4个月月销过万。同时，旗舰车型极氪9X在国内的热销也为海外开拓打下坚实基础，其欧洲售价折合人民币超100万元，被外媒称为“最贵中国车”，是首款在当地站稳百万",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
       },
       {
-        "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
-        "link": "http://www.geekpark.net/news/373244",
-        "description": "\n        \n豆包手机的问题，也是蚂蚁灵光的问题。\n10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse，购物是 Muse 最常见的用途，超过四分之一的用户在用它买东西，平均客单价超过200 美元；上线第一周，Muse 交易量便超出了预期，Meta 不得不与支付合作伙伴 Stripe 一起临时上调了信用额度。\n",
-        "detail": "\n        \n豆包手机的问题，也是蚂蚁灵光的问题。\n10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse，购物是 Muse 最常见的用途，超过四分之一的用户在用它买东西，平均客单价超过200 美元；上线第一周，Muse 交易量便超出了预期，Meta 不得不与支付合作伙伴 Stripe 一起临时上调了信用额度。\n",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "极客公园"
+        "title": "吉利Q3营收近千亿，在英国跨过新手期",
+        "link": "https://www.leiphone.com/category/transportation/rLaJDB8ySePtzPT2.html",
+        "description": "2025年11月，从中国出发的1000辆EX5停靠在布里斯托港口，等待PDI检测。这是英国进口车的法定动作：检查运输损伤、激活车机软件、补齐随车配件以及充电测试。然后装上板车，分拨发往英国的各大经销商。EX5还要多一道程序——英国路特斯工程（莲花工程）对EX5的底盘，悬架，动力系统进行了动态评估，以及港口的交车前检测服务，以适配英国市场的驾驶需求。跑车品牌为家用车调校底盘，是吉利切入英国市场时辨识",
+        "detail": "2025年11月，从中国出发的1000辆EX5停靠在布里斯托港口，等待PDI检测。这是英国进口车的法定动作：检查运输损伤、激活车机软件、补齐随车配件以及充电测试。然后装上板车，分拨发往英国的各大经销商。EX5还要多一道程序——英国路特斯工程（莲花工程）对EX5的底盘，悬架，动力系统进行了动态评估，以及港口的交车前检测服务，以适配英国市场的驾驶需求。跑车品牌为家用车调校底盘，是吉利切入英国市场时辨识",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "雷锋网"
       },
       {
-        "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
-        "link": "http://www.geekpark.net/news/373243",
-        "description": "\n        \n​DeepSeek 发布全新 Agent 架构\n10 月 31 日晚间，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。\nDeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上",
-        "detail": "\n        \n​DeepSeek 发布全新 Agent 架构\n10 月 31 日晚间，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。\nDeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "极客公园"
+        "title": "小米汽车10月交付超5万辆，澎程首个完整交付月持续上量",
+        "link": "https://www.leiphone.com/category/industrynews/aRPnyq1gaAiV8dcQ.html",
+        "description": "11月1日，小米汽车公布10月交付数据，单月交付量首次突破5万辆大关。其中，新系列小米澎程迎来上市后首个完整交付月，交付持续爬坡，助力小米汽车整体销量再上新台阶。这标志着小米汽车“纯电加增程”的产品矩阵正式全面铺开，双系列稳步推进。小米澎程作为小米汽车旗下智能可变大空间SUV系列，自9月7日上市以来，凭借智能可变大空间与大电池增程的组合，精准切入用户核心痛点——10月首个完整交付月交付稳步爬坡，上",
+        "detail": "11月1日，小米汽车公布10月交付数据，单月交付量首次突破5万辆大关。其中，新系列小米澎程迎来上市后首个完整交付月，交付持续爬坡，助力小米汽车整体销量再上新台阶。这标志着小米汽车“纯电加增程”的产品矩阵正式全面铺开，双系列稳步推进。小米澎程作为小米汽车旗下智能可变大空间SUV系列，自9月7日上市以来，凭借智能可变大空间与大电池增程的组合，精准切入用户核心痛点——10月首个完整交付月交付稳步爬坡，上",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "The AI cost of JavaScript frameworks",
+        "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "description": "[HN] +81 points · 49 comments · by luu",
+        "detail": "[HN] +81 points · 49 comments · by luu",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
       }
     ]
   },
