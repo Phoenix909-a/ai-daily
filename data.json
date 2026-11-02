@@ -2,8 +2,125 @@
   {
     "date": "2026-11-02",
     "weekday": "星期一",
-    "summary": "今日共收录 17 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 53 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
+        "link": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/",
+        "description": "\n        Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub.\nThe article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appea",
+        "detail": "\n        Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub.\nThe article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appea",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
+        "link": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
+        "description": "\n        OpenAI is gearing up for a political lobbying and PR push after the US midterms.\nThe article OpenAI prepares lobbying blitz for a post-midterm Washington appeared first on The Decoder.\n",
+        "detail": "\n        OpenAI is gearing up for a political lobbying and PR push after the US midterms.\nThe article OpenAI prepares lobbying blitz for a post-midterm Washington appeared first on The Decoder.\n",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "OpenAI funding issues 💰, Cisco rewrites code 👨‍💻, hiring junior devs 💼",
+        "link": "https://tldr.tech/tech/2026-11-02",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "TLDR AI"
+      },
+      {
+        "title": "Agent Inbox",
+        "link": "https://www.producthunt.com/products/agent-inbox",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Linkly AI Clipper",
+        "link": "https://www.producthunt.com/products/linkly-ai-clipper",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Cedric AI for Meetings",
+        "link": "https://www.producthunt.com/products/cedric",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Riverside Agents",
+        "link": "https://www.producthunt.com/products/riverside-fm",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "agentmash",
+        "link": "https://www.producthunt.com/products/agentmash",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Usage for Claude + ChatGPT 4.0",
+        "link": "https://www.producthunt.com/products/usage-for-claude",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
+        "link": "https://www.qbitai.com/2026/11/507260.html",
+        "description": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
+        "detail": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+        "link": "https://www.qbitai.com/2026/11/507225.html",
+        "description": "新版“机器人三定律”。",
+        "detail": "新版“机器人三定律”。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+        "link": "https://www.qbitai.com/2026/11/507150.html",
+        "description": "模型管线双驱动",
+        "detail": "模型管线双驱动",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+        "link": "https://www.qbitai.com/2026/11/507107.html",
+        "description": "能指挥Agent干活，还能控制智能家居",
+        "detail": "能指挥Agent干活，还能控制智能家居",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
       {
         "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
         "link": "https://www.qbitai.com/2026/11/507082.html",
@@ -12,6 +129,24 @@
         "tag": "模型发布",
         "sort_score": 90,
         "source": "量子位"
+      },
+      {
+        "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+        "link": "https://aiera.com.cn/2026/11/02/other/admin/121894/%e7%88%b1%e8%af%97%e7%a7%91%e6%8a%80pixverse-%e4%b8%8e-openai-%e5%85%b1%e5%90%8c%e6%8e%a8%e5%87%ba%e4%ba%a7%e5%93%81%e9%9b%86%e6%88%90%e5%92%8c%e5%88%9b%e4%bd%9c%e8%80%85%e6%95%99%e8%82%b2%e8%ae%a1/",
+        "description": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作，双方完成了一系列产品集成并首次共同推出“从提示词到成片”（Prompt…",
+        "detail": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作，双方完成了一系列产品集成并首次共同推出“从提示词到成片”（Prompt…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "蚂蚁数科发布Agentar医疗版 入选2026互联网之光博览会“十大精品首发成果”",
+        "link": "https://aiera.com.cn/2026/11/02/other/admin/121890/%e8%9a%82%e8%9a%81%e6%95%b0%e7%a7%91%e5%8f%91%e5%b8%83agentar%e5%8c%bb%e7%96%97%e7%89%88-%e5%85%a5%e9%80%892026%e4%ba%92%e8%81%94%e7%bd%91%e4%b9%8b%e5%85%89%e5%8d%9a%e8%a7%88%e4%bc%9a/",
+        "description": "11月2日，在2026世界互联网大会乌镇峰会期间，蚂蚁数科正式发布Agentar医疗版，聚焦医生核心工作场景，打造集病历质控、辅助诊断、患者360视图等能力于一体的智能医疗工作…",
+        "detail": "11月2日，在2026世界互联网大会乌镇峰会期间，蚂蚁数科正式发布Agentar医疗版，聚焦医生核心工作场景，打造集病历质控、辅助诊断、患者360视图等能力于一体的智能医疗工作…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
       },
       {
         "title": "ChatGPT要和Codex抢额度了！奥特曼一声令下，12月Token全部合池",
@@ -86,6 +221,69 @@
         "source": "新智元"
       },
       {
+        "title": "谷歌 SynthID Detector 简化了水印检测流程，并将支持范围扩展至其他 AI 提供商",
+        "link": "https://www.infoq.cn/article/JoVxAdq1OjtIDkRBjWOW?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI+科研：Agent加速科研，论文写得快了，成果更难评了 ｜ 西湖大学工学院博导 王欢分享",
+        "link": "https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI+办公：Agent都有“工位”了，云电脑既让它接手业务、也管住权限 ｜ 阿里云智能集团研发副总裁 张献涛分享",
+        "link": "https://www.infoq.cn/article/Vryq1f3C0f5uZHOlmIp4?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "InfoQ AI 侦察团现场手记：工具之外，企业 AI 落地还要跨过哪些关？",
+        "link": "https://www.infoq.cn/article/ORJZPCwM2XXNcdRYf8de?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI+FDE：合格的FDE，要亲手跟老师傅做业务，再把经验解法做成Skill ｜深空之序联合创始人兼COO 芦宇峰分享",
+        "link": "https://www.infoq.cn/article/FckEhkVfCLoXg0jvaKBa?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "别再迷信 Agent 的自主性了",
+        "link": "https://www.infoq.cn/article/UMvAAwoFByxvWLLVVJYY?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "66 岁 Yann LeCun 发新论文挑战 Scaling Law：1.09 亿参数胜过 720 亿，模型越大不一定越懂世界",
+        "link": "https://www.infoq.cn/article/pWwkDpoFHIsfw9aCRkij?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
         "link": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -104,58 +302,22 @@
         "source": "InfoQ 中文"
       },
       {
-        "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
-        "link": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "全球基模大战，疯狂 11 月正式开场#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "detail": "全球基模大战，疯狂 11 月正式开场#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "爱范儿"
-      },
-      {
-        "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
-        "link": "https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "· 多家车企公布 10 月成绩单\n· 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用\n· 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "detail": "· 多家车企公布 10 月成绩单\n· 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用\n· 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "title": "卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网",
+        "link": "https://www.ifanr.com/1687094?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "AI 正在逆向一切：从软件、游戏到信息入口#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "AI 正在逆向一切：从软件、游戏到信息入口#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "爱范儿"
       },
       {
-        "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
-        "link": "https://sspai.com/post/118191",
-        "description": "Apple 智能将随 iOS 27.3 登陆中国苹果对闪存的议价权受到压制Claude Code 官方扩展被植入后门美国 FCC 禁止中国实验室认证输美电子产品百度网盘通过磁力计数据规避「摇一摇」广告权限币安 63 亿美元资产被盗看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-        "detail": "Apple 智能将随 iOS 27.3 登陆中国苹果对闪存的议价权受到压制Claude Code 官方扩展被植入后门美国 FCC 禁止中国实验室认证输美电子产品百度网盘通过磁力计数据规避「摇一摇」广告权限币安 63 亿美元资产被盗看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "title": "500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？",
+        "link": "https://www.ifanr.com/1687130?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "抽签看演唱会，可能是当下最「不坏」的选择#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "抽签看演唱会，可能是当下最「不坏」的选择#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
         "tag": "行业动态",
         "sort_score": 58,
-        "source": "少数派"
-      },
-      {
-        "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
-        "link": "http://www.geekpark.net/news/373252",
-        "description": "\n        &nbsp;\n\n苹果 CEO：不会为了做 AI 而做产品\n苹果 CEO 约翰&middot;特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。\n特努斯是苹果资深高管，9 月初正式出任 CEO。他承认「每个人都有自己的看法」，但坚称：「我对我们现在所处的阶段",
-        "detail": "\n        &nbsp;\n\n苹果 CEO：不会为了做 AI 而做产品\n苹果 CEO 约翰&middot;特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。\n特努斯是苹果资深高管，9 月初正式出任 CEO。他承认「每个人都有自己的看法」，但坚称：「我对我们现在所处的阶段",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "极客公园"
-      },
-      {
-        "title": "2026 全球 AI 新云 NeoCloud：考验基本功的时候到了",
-        "link": "https://www.leiphone.com/category/industrynews/uZRzXBZy6pdl88Uf.html",
-        "description": "10月19日，一张全球AI新云（NeoCloud）产业图谱引发行业关注。CoreWeave、Nebius以GPU云服务为核心；Lambda、Together AI与九章云极 DataCanvas则在算力供给之上，跨入“训练・推理・Token工厂”交叉赛道；AI 工程与AIDC运营，则作为底层底座贯穿整条产业链。在这场全球竞争中，九章云极是为数不多跻身第一梯队的中国厂商。2026全球顶级AI新云Ne",
-        "detail": "10月19日，一张全球AI新云（NeoCloud）产业图谱引发行业关注。CoreWeave、Nebius以GPU云服务为核心；Lambda、Together AI与九章云极 DataCanvas则在算力供给之上，跨入“训练・推理・Token工厂”交叉赛道；AI 工程与AIDC运营，则作为底层底座贯穿整条产业链。在这场全球竞争中，九章云极是为数不多跻身第一梯队的中国厂商。2026全球顶级AI新云Ne",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-        "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-        "description": "[HN] +68 points · 45 comments · by rdmuser",
-        "detail": "[HN] +68 points · 45 comments · by rdmuser",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
+        "source": "爱范儿"
       }
     ]
   },
