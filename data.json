@@ -1,5 +1,165 @@
 [
   {
+    "date": "2026-11-02",
+    "weekday": "星期一",
+    "summary": "今日共收录 17 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+        "link": "https://www.qbitai.com/2026/11/507082.html",
+        "description": "HuggingFace疑似泄露权重已被下5000次",
+        "detail": "HuggingFace疑似泄露权重已被下5000次",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "ChatGPT要和Codex抢额度了！奥特曼一声令下，12月Token全部合池",
+        "link": "https://aiera.com.cn/2026/11/02/other/admin/121888/chatgpt%e8%a6%81%e5%92%8ccodex%e6%8a%a2%e9%a2%9d%e5%ba%a6%e4%ba%86%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e4%b8%80%e5%a3%b0%e4%bb%a4%e4%b8%8b%ef%bc%8c12%e6%9c%88token%e5%85%a8%e9%83%a8%e5%90%88%e6%b1%a0/",
+        "description": "还是OpenAI会玩！ 前脚刚把Pro额度翻倍，大家还没高兴两天，转头就宣布—— 从今年12月开始，ChatGPT和Codex的「使用额度」将正式合并！",
+        "detail": "还是OpenAI会玩！ 前脚刚把Pro额度翻倍，大家还没高兴两天，转头就宣布—— 从今年12月开始，ChatGPT和Codex的「使用额度」将正式合并！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI推导出「外星数学」！38年无解混沌难题，被GPT-6联手Claude终结",
+        "link": "https://aiera.com.cn/2026/11/02/other/admin/121871/ai%e6%8e%a8%e5%af%bc%e5%87%ba%e3%80%8c%e5%a4%96%e6%98%9f%e6%95%b0%e5%ad%a6%e3%80%8d%ef%bc%8138%e5%b9%b4%e6%97%a0%e8%a7%a3%e6%b7%b7%e6%b2%8c%e9%9a%be%e9%a2%98%ef%bc%8c%e8%a2%abgpt-6%e8%81%94%e6%89%8bcl/",
+        "description": "最近，理论神经科学家David Clark宣告成功解析了Sompolinsky 1988模型的完整李雅普诺夫谱。",
+        "detail": "最近，理论神经科学家David Clark宣告成功解析了Sompolinsky 1988模型的完整李雅普诺夫谱。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "今天，纪念那些死去的模型",
+        "link": "https://aiera.com.cn/2026/11/02/other/admin/121853/%e4%bb%8a%e5%a4%a9%ef%bc%8c%e7%ba%aa%e5%bf%b5%e9%82%a3%e4%ba%9b%e6%ad%bb%e5%8e%bb%e7%9a%84%e6%a8%a1%e5%9e%8b/",
+        "description": "最近，我把两家大厂的模型下线表翻了一遍，答案是越来越短。赶上万圣节，就当给这些下了线的 AI 点根蜡烛。",
+        "detail": "最近，我把两家大厂的模型下线表翻了一遍，答案是越来越短。赶上万圣节，就当给这些下了线的 AI 点根蜡烛。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "奥特曼暴论被骂翻！普通人电脑装内存太浪费，不如统一交给AI",
+        "link": "https://aiera.com.cn/2026/11/02/other/admin/121846/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%9a%b4%e8%ae%ba%e8%a2%ab%e9%aa%82%e7%bf%bb%ef%bc%81%e6%99%ae%e9%80%9a%e4%ba%ba%e7%94%b5%e8%84%91%e8%a3%85%e5%86%85%e5%ad%98%e5%a4%aa%e6%b5%aa%e8%b4%b9%ef%bc%8c%e4%b8%8d/",
+        "description": "最近，奥特曼被骂翻了！ 只因他采访中的一句话—— 普通人个人电脑里装那么大的内存，非常糟糕！",
+        "detail": "最近，奥特曼被骂翻了！ 只因他采访中的一句话—— 普通人个人电脑里装那么大的内存，非常糟糕！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "驳AI泡沫破灭论！Anthropic成「垃圾股」，OpenAI融资爆降都是胡扯",
+        "link": "https://aiera.com.cn/2026/11/02/other/admin/121821/%e9%a9%b3ai%e6%b3%a1%e6%b2%ab%e7%a0%b4%e7%81%ad%e8%ae%ba%ef%bc%81anthropic%e6%88%90%e3%80%8c%e5%9e%83%e5%9c%be%e8%82%a1%e3%80%8d%ef%bc%8copenai%e8%9e%8d%e8%b5%84%e7%88%86%e9%99%8d%e9%83%bd%e6%98%af/",
+        "description": "上周五，有三件事集中发生。 据 FT 报道，OpenAI 把这一轮融资的目标从 300 亿美元下调到 200 亿美元左右，估值从原先开价的 1.4 万亿美元降到 1.25 万亿…",
+        "detail": "上周五，有三件事集中发生。 据 FT 报道，OpenAI 把这一轮融资的目标从 300 亿美元下调到 200 亿美元左右，估值从原先开价的 1.4 万亿美元降到 1.25 万亿…",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "新智元"
+      },
+      {
+        "title": "数亿美元做数学！奥特曼：OpenAI还有发现没公开",
+        "link": "https://aiera.com.cn/2026/11/02/other/admin/121804/%e6%95%b0%e4%ba%bf%e7%be%8e%e5%85%83%e5%81%9a%e6%95%b0%e5%ad%a6%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%ef%bc%9aopenai%e8%bf%98%e6%9c%89%e5%8f%91%e7%8e%b0%e6%b2%a1%e5%85%ac%e5%bc%80/",
+        "description": "OpenAI还有数学发现没公开？ 10月29日发布的《Cheeky Pint》访谈里，奥特曼透露：OpenAI在数学研究上的投入，还涵盖了许多尚未公开的发现。",
+        "detail": "OpenAI还有数学发现没公开？ 10月29日发布的《Cheeky Pint》访谈里，奥特曼透露：OpenAI在数学研究上的投入，还涵盖了许多尚未公开的发现。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI进屋后，下一眼该看哪？观察智能体如何建立三维空间认知",
+        "link": "https://aiera.com.cn/2026/11/02/other/admin/121791/ai%e8%bf%9b%e5%b1%8b%e5%90%8e%ef%bc%8c%e4%b8%8b%e4%b8%80%e7%9c%bc%e8%af%a5%e7%9c%8b%e5%93%aa%ef%bc%9f%e8%a7%82%e5%af%9f%e6%99%ba%e8%83%bd%e4%bd%93%e5%a6%82%e4%bd%95%e5%bb%ba%e7%ab%8b%e4%b8%89%e7%bb%b4/",
+        "description": "想象一项任务：把相机交给AI，让它进入一间从未见过的虚拟房间。没有预先给定的物体坐标，也没有替它安排好的参观路线。它需要决定朝哪里转、向哪里移动、何时再拍一张图，并最终说清楚各…",
+        "detail": "想象一项任务：把相机交给AI，让它进入一间从未见过的虚拟房间。没有预先给定的物体坐标，也没有替它安排好的参观路线。它需要决定朝哪里转、向哪里移动、何时再拍一张图，并最终说清楚各…",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "DeepSeek刚发的下一代Agent，竟被这家硅谷团队提前半年实现了？",
+        "link": "https://aiera.com.cn/2026/11/02/other/admin/121778/deepseek%e5%88%9a%e5%8f%91%e7%9a%84%e4%b8%8b%e4%b8%80%e4%bb%a3agent%ef%bc%8c%e7%ab%9f%e8%a2%ab%e8%bf%99%e5%ae%b6%e7%a1%85%e8%b0%b7%e5%9b%a2%e9%98%9f%e6%8f%90%e5%89%8d%e5%8d%8a%e5%b9%b4%e5%ae%9e/",
+        "description": "最近，DeepSeek又来炸场了。 昨天，DeepSeek公布了下一代Agent Harness的理念——Super-agent。",
+        "detail": "最近，DeepSeek又来炸场了。 昨天，DeepSeek公布了下一代Agent Harness的理念——Super-agent。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+        "link": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek",
+        "link": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
+        "link": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "全球基模大战，疯狂 11 月正式开场#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "全球基模大战，疯狂 11 月正式开场#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
+        "link": "https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 多家车企公布 10 月成绩单\n· 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用\n· 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 多家车企公布 10 月成绩单\n· 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用\n· 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+        "link": "https://sspai.com/post/118191",
+        "description": "Apple 智能将随 iOS 27.3 登陆中国苹果对闪存的议价权受到压制Claude Code 官方扩展被植入后门美国 FCC 禁止中国实验室认证输美电子产品百度网盘通过磁力计数据规避「摇一摇」广告权限币安 63 亿美元资产被盗看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "detail": "Apple 智能将随 iOS 27.3 登陆中国苹果对闪存的议价权受到压制Claude Code 官方扩展被植入后门美国 FCC 禁止中国实验室认证输美电子产品百度网盘通过磁力计数据规避「摇一摇」广告权限币安 63 亿美元资产被盗看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "少数派"
+      },
+      {
+        "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
+        "link": "http://www.geekpark.net/news/373252",
+        "description": "\n        &nbsp;\n\n苹果 CEO：不会为了做 AI 而做产品\n苹果 CEO 约翰&middot;特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。\n特努斯是苹果资深高管，9 月初正式出任 CEO。他承认「每个人都有自己的看法」，但坚称：「我对我们现在所处的阶段",
+        "detail": "\n        &nbsp;\n\n苹果 CEO：不会为了做 AI 而做产品\n苹果 CEO 约翰&middot;特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。\n特努斯是苹果资深高管，9 月初正式出任 CEO。他承认「每个人都有自己的看法」，但坚称：「我对我们现在所处的阶段",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "2026 全球 AI 新云 NeoCloud：考验基本功的时候到了",
+        "link": "https://www.leiphone.com/category/industrynews/uZRzXBZy6pdl88Uf.html",
+        "description": "10月19日，一张全球AI新云（NeoCloud）产业图谱引发行业关注。CoreWeave、Nebius以GPU云服务为核心；Lambda、Together AI与九章云极 DataCanvas则在算力供给之上，跨入“训练・推理・Token工厂”交叉赛道；AI 工程与AIDC运营，则作为底层底座贯穿整条产业链。在这场全球竞争中，九章云极是为数不多跻身第一梯队的中国厂商。2026全球顶级AI新云Ne",
+        "detail": "10月19日，一张全球AI新云（NeoCloud）产业图谱引发行业关注。CoreWeave、Nebius以GPU云服务为核心；Lambda、Together AI与九章云极 DataCanvas则在算力供给之上，跨入“训练・推理・Token工厂”交叉赛道；AI 工程与AIDC运营，则作为底层底座贯穿整条产业链。在这场全球竞争中，九章云极是为数不多跻身第一梯队的中国厂商。2026全球顶级AI新云Ne",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+        "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+        "description": "[HN] +68 points · 45 comments · by rdmuser",
+        "detail": "[HN] +68 points · 45 comments · by rdmuser",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-11-01",
     "weekday": "星期日",
     "summary": "今日共收录 26 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 量子位, 雷锋网。",
