@@ -1,5 +1,273 @@
 [
   {
+    "date": "2026-11-04",
+    "weekday": "星期三",
+    "summary": "今日共收录 29 条 AI 动态。 来源包括：InfoQ 中文, The Verge AI, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "Midterm elections 2026: all the news",
+        "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+        "description": "The 2026 midterm elections will determine the scope of President Donald Trump&#8217;s power in his final two years in office, and signal what voters care about going into the 2028 presidential electio",
+        "detail": "The 2026 midterm elections will determine the scope of President Donald Trump&#8217;s power in his final two years in office, and signal what voters care about going into the 2028 presidential electio",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+        "link": "https://www.qbitai.com/2026/11/507533.html",
+        "description": "长视频记忆精度飙升，问答时延最高降97%",
+        "detail": "长视频记忆精度飙升，问答时延最高降97%",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+        "link": "https://aiera.com.cn/2026/11/04/other/admin/122212/%e5%90%8e%e6%91%a9%e6%99%ba%e8%83%bd%e4%bd%8e%e8%b0%83%e5%ae%8c%e6%88%90%e6%95%b0%e5%8d%81%e4%ba%bf%e5%85%83b%e8%bd%ae%e8%9e%8d%e8%b5%84%ef%bc%8c%e7%ab%af%e4%be%a7%e5%a4%a7%e6%a8%a1%e5%9e%8bai/",
+        "description": "据21世纪经济报道不完全统计，仅今年9月，国内就有近十家端侧AI芯片企业宣布完成新一轮融资。资本的目光，正在从云端的算力集群，移向手机、电脑和机器人里的那颗芯片。",
+        "detail": "据21世纪经济报道不完全统计，仅今年9月，国内就有近十家端侧AI芯片企业宣布完成新一轮融资。资本的目光，正在从云端的算力集群，移向手机、电脑和机器人里的那颗芯片。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "奥特曼：攻下千禧难题的GPT，即将上线！",
+        "link": "https://aiera.com.cn/2026/11/04/other/admin/122211/%e5%a5%a5%e7%89%b9%e6%9b%bc%ef%bc%9a%e6%94%bb%e4%b8%8b%e5%8d%83%e7%a6%a7%e9%9a%be%e9%a2%98%e7%9a%84gpt%ef%bc%8c%e5%8d%b3%e5%b0%86%e4%b8%8a%e7%ba%bf%ef%bc%81/",
+        "description": "OpenAI攻克千禧难题的「神兽」，终于要出笼了！ 今天，在ADIPEC 2026开幕式上，奥特曼一句话引爆了全网——",
+        "detail": "OpenAI攻克千禧难题的「神兽」，终于要出笼了！ 今天，在ADIPEC 2026开幕式上，奥特曼一句话引爆了全网——",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic突然更新！AI自进化已突破红线，人类根本来不及反应",
+        "link": "https://aiera.com.cn/2026/11/04/other/admin/122192/anthropic%e7%aa%81%e7%84%b6%e6%9b%b4%e6%96%b0%ef%bc%81ai%e8%87%aa%e8%bf%9b%e5%8c%96%e5%b7%b2%e7%aa%81%e7%a0%b4%e7%ba%a2%e7%ba%bf%ef%bc%8c%e4%ba%ba%e7%b1%bb%e6%a0%b9%e6%9c%ac%e6%9d%a5%e4%b8%8d%e5%8f%8a/",
+        "description": "造AI的人，已来不及看清AI进化到了哪一步！ 就在刚刚，正冲刺纳斯达克IPO的Anthropic，向美国SEC递交了一份更新版招股书（S-1/A）。",
+        "detail": "造AI的人，已来不及看清AI进化到了哪一步！ 就在刚刚，正冲刺纳斯达克IPO的Anthropic，向美国SEC递交了一份更新版招股书（S-1/A）。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic 14万亿参数神级模型泄露！6个月内杀死视频、图像模型",
+        "link": "https://aiera.com.cn/2026/11/04/other/admin/122178/anthropic-14%e4%b8%87%e4%ba%bf%e5%8f%82%e6%95%b0%e7%a5%9e%e7%ba%a7%e6%a8%a1%e5%9e%8b%e6%b3%84%e9%9c%b2%ef%bc%816%e4%b8%aa%e6%9c%88%e5%86%85%e6%9d%80%e6%ad%bb%e8%a7%86%e9%a2%91%e3%80%81%e5%9b%be/",
+        "description": "Anthropic的终极杀器Fable 5.5，已经临近发布了。 昨晚的X上，到处都是Fable 5.5的实测流出。",
+        "detail": "Anthropic的终极杀器Fable 5.5，已经临近发布了。 昨晚的X上，到处都是Fable 5.5的实测流出。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "用AI给种子「编程」这事，中国科学家正在加速！",
+        "link": "https://aiera.com.cn/2026/11/04/other/admin/122140/%e7%94%a8ai%e7%bb%99%e7%a7%8d%e5%ad%90%e3%80%8c%e7%bc%96%e7%a8%8b%e3%80%8d%e8%bf%99%e4%ba%8b%ef%bc%8c%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e5%ae%b6%e6%ad%a3%e5%9c%a8%e5%8a%a0%e9%80%9f%ef%bc%81/",
+        "description": "3014.9亿斤。 国家统计局公布了夏粮数据，总产量3014.9亿斤，头一回站上3000亿斤，创历史新高。全年丰收已无悬念。",
+        "detail": "3014.9亿斤。 国家统计局公布了夏粮数据，总产量3014.9亿斤，头一回站上3000亿斤，创历史新高。全年丰收已无悬念。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI个人智能体要添新搭档！比旗舰快3倍，单价只要1/10",
+        "link": "https://aiera.com.cn/2026/11/04/other/admin/122131/openai%e4%b8%aa%e4%ba%ba%e6%99%ba%e8%83%bd%e4%bd%93%e8%a6%81%e6%b7%bb%e6%96%b0%e6%90%ad%e6%a1%a3%ef%bc%81%e6%af%94%e6%97%97%e8%88%b0%e5%bf%ab3%e5%80%8d%ef%bc%8c%e5%8d%95%e4%bb%b7%e5%8f%aa%e8%a6%811-10/",
+        "description": "把活交给AI，派哪个AI上场也归AI管了。 11月2日，OpenAI的ChatGPT和Codex负责人Tibo在X上连发两条推文，剧透了dots的一次关键升级：",
+        "detail": "把活交给AI，派哪个AI上场也归AI管了。 11月2日，OpenAI的ChatGPT和Codex负责人Tibo在X上连发两条推文，剧透了dots的一次关键升级：",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "全网200万人爆笑围观！6个机器人熬夜极限pk，4台卷王成功上岸",
+        "link": "https://aiera.com.cn/2026/11/04/other/admin/122116/%e5%85%a8%e7%bd%91200%e4%b8%87%e4%ba%ba%e7%88%86%e7%ac%91%e5%9b%b4%e8%a7%82%ef%bc%816%e4%b8%aa%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%86%ac%e5%a4%9c%e6%9e%81%e9%99%90pk%ef%bc%8c4%e5%8f%b0%e5%8d%b7%e7%8e%8b/",
+        "description": "这两天，机器人界「令人心动的offer」，彻底出圈了！ 过去24小时，全网超200万人在线监工，围观6台智元精灵G2在真实便利店打工。今天上午十点，机器人「新员工」们在24小时…",
+        "detail": "这两天，机器人界「令人心动的offer」，彻底出圈了！ 过去24小时，全网超200万人在线监工，围观6台智元精灵G2在真实便利店打工。今天上午十点，机器人「新员工」们在24小时…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "清华Nature子刊：上千智能体组网后自发站队，观点极化涌现",
+        "link": "https://aiera.com.cn/2026/11/04/other/admin/122088/%e6%b8%85%e5%8d%8enature%e5%ad%90%e5%88%8a%ef%bc%9a%e4%b8%8a%e5%8d%83%e6%99%ba%e8%83%bd%e4%bd%93%e7%bb%84%e7%bd%91%e5%90%8e%e8%87%aa%e5%8f%91%e7%ab%99%e9%98%9f%ef%bc%8c%e8%a7%82%e7%82%b9%e6%9e%81/",
+        "description": "当数千个大语言模型智能体被连入同一个网络、彼此可以自由交流并不断更新观点时，会发生什么？ 清华大学团队在《自然·通讯》（Nature Communications）上发表的最新…",
+        "detail": "当数千个大语言模型智能体被连入同一个网络、彼此可以自由交流并不断更新观点时，会发生什么？ 清华大学团队在《自然·通讯》（Nature Communications）上发表的最新…",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6爆改模型权重！数学能力狂飙6倍，MIT博一新作破圈了",
+        "link": "https://aiera.com.cn/2026/11/04/other/admin/122076/gpt-6%e7%88%86%e6%94%b9%e6%a8%a1%e5%9e%8b%e6%9d%83%e9%87%8d%ef%bc%81%e6%95%b0%e5%ad%a6%e8%83%bd%e5%8a%9b%e7%8b%82%e9%a3%996%e5%80%8d%ef%bc%8cmit%e5%8d%9a%e4%b8%80%e6%96%b0%e4%bd%9c%e7%a0%b4%e5%9c%88/",
+        "description": "这一天还是来了！ 不用训练、不算梯度，只让GPT-6 Astra改写另一款小模型0.016%权重，数学成绩就能原地暴涨6倍！",
+        "detail": "这一天还是来了！ 不用训练、不算梯度，只让GPT-6 Astra改写另一款小模型0.016%权重，数学成绩就能原地暴涨6倍！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "老黄狂吹的AI神话，正被底座卡死！没这条「大动脉」，买显卡全白搭",
+        "link": "https://aiera.com.cn/2026/11/04/other/admin/122049/%e8%80%81%e9%bb%84%e7%8b%82%e5%90%b9%e7%9a%84ai%e7%a5%9e%e8%af%9d%ef%bc%8c%e6%ad%a3%e8%a2%ab%e5%ba%95%e5%ba%a7%e5%8d%a1%e6%ad%bb%ef%bc%81%e6%b2%a1%e8%bf%99%e6%9d%a1%e3%80%8c%e5%a4%a7%e5%8a%a8%e8%84%89/",
+        "description": "老黄又给具身智能打了一针鸡血。 GTC柏林大会上，英伟达官宣扩展Isaac机器人开发平台，模型、数据、仿真工具和计算系统一起上阵。",
+        "detail": "老黄又给具身智能打了一针鸡血。 GTC柏林大会上，英伟达官宣扩展Isaac机器人开发平台，模型、数据、仿真工具和计算系统一起上阵。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Uber 总裁跳槽 OpenAI！曾掌舵谷歌、Snap 公关，Brockman 亲自发文欢迎",
+        "link": "https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+        "link": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+        "link": "https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Claude 开始拒绝抄游戏，但可能已经太晚了",
+        "link": "https://www.ifanr.com/1687508?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "惟创意与热爱不可辜负#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "惟创意与热爱不可辜负#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "连夜实测 iPhone 国行 AI，亮点和槽点都在这了",
+        "link": "https://www.ifanr.com/1687585?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "后来者总有机会。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "后来者总有机会。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
+        "link": "https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍\n· 盗用 AI 平台算力，上海一男子获刑三年\n· 中兴否认出售手机业务传闻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍\n· 盗用 AI 平台算力，上海一男子获刑三年\n· 中兴否认出售手机业务传闻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道",
+        "link": "http://www.geekpark.net/news/373427",
+        "description": "\n        \n国行 Apple 智能开始测试：iOS 27.3 首个开发者 Beta 版已推送\n11 月 4 日，苹果向开发者推送 iOS 27.3 首个 Beta 版，国行 iPhone 用户开始测试首批 Apple 智能功能，包括实时翻译、照片消除、写作工具和通知摘要等。国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Siri、写作工具和视觉智能中调用千",
+        "detail": "\n        \n国行 Apple 智能开始测试：iOS 27.3 首个开发者 Beta 版已推送\n11 月 4 日，苹果向开发者推送 iOS 27.3 首个 Beta 版，国行 iPhone 用户开始测试首批 Apple 智能功能，包括实时翻译、照片消除、写作工具和通知摘要等。国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Siri、写作工具和视觉智能中调用千",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "海外双11，速卖通欧盟本地成交占比突破60%",
+        "link": "https://www.leiphone.com/category/industrynews/0BimaBvxy9G47YTv.html",
+        "description": "海外双11也有了次日达服务！跨境电商加速进入本地履约时代。&nbsp;阿里旗下跨境电商平台速卖通AliExpress于11月1日启动海外双11。首日数据显示，速卖通欧盟市场本地成交占比达到63%，其中波兰、西班牙的本地规模突破70%。本地官方仓单量环比618大促爆涨9倍，成为速卖通欧洲业务增长的重要驱动力。&nbsp;&nbsp;&nbsp;双11期间，速卖通还在西班牙、法国、波兰3个国家的23个",
+        "detail": "海外双11也有了次日达服务！跨境电商加速进入本地履约时代。&nbsp;阿里旗下跨境电商平台速卖通AliExpress于11月1日启动海外双11。首日数据显示，速卖通欧盟市场本地成交占比达到63%，其中波兰、西班牙的本地规模突破70%。本地官方仓单量环比618大促爆涨9倍，成为速卖通欧洲业务增长的重要驱动力。&nbsp;&nbsp;&nbsp;双11期间，速卖通还在西班牙、法国、波兰3个国家的23个",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "海外双11，速卖通欧盟本地成交占比突破60%",
+        "link": "https://www.leiphone.com/category/industrynews/aenxUWBDwmhQSQYy.html",
+        "description": "跨境电商进入本地履约时代。阿里旗下速卖通AliExpress海外双11的首日数据显示，速卖通欧盟市场本地成交占比达到63%，其中波兰、西班牙的本地规模突破70%。本地官方仓单量环比618大促爆涨9倍，成为速卖通欧洲业务增长的重要驱动力。双11期间，速卖通还在西班牙、法国、波兰3个国家的23个地区提供次日达服务，覆盖马德里、巴塞罗那、巴黎等主要城市。凭借“品牌化+本地化”策略，速卖通正加速与其他出海",
+        "detail": "跨境电商进入本地履约时代。阿里旗下速卖通AliExpress海外双11的首日数据显示，速卖通欧盟市场本地成交占比达到63%，其中波兰、西班牙的本地规模突破70%。本地官方仓单量环比618大促爆涨9倍，成为速卖通欧洲业务增长的重要驱动力。双11期间，速卖通还在西班牙、法国、波兰3个国家的23个地区提供次日达服务，覆盖马德里、巴塞罗那、巴黎等主要城市。凭借“品牌化+本地化”策略，速卖通正加速与其他出海",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "拓竹之外，谁在竞争第二梯队",
+        "link": "https://www.leiphone.com/category/weiwu/T4WJvLOQ6YSbXg9h.html",
+        "description": "2025 年 8 月下旬，深圳机场的到达层比平时热闹。一波接一波的投资人走出来。他们中的很多人互相认识，来自不同的机构，押注的却是同一个行业。那一段时间，全国一线机构的合伙人，几乎都在往深圳飞——他们都是奔着快造来的。那一轮融资热度远超预期，最后却只装下了少数几家。快造只是其中一个缩影。过去一年，消费级 3D 打印赛道格外火热，大量资金涌入，美团、大疆等产业资本也开始下场。VC 们赌的，其实是同一",
+        "detail": "2025 年 8 月下旬，深圳机场的到达层比平时热闹。一波接一波的投资人走出来。他们中的很多人互相认识，来自不同的机构，押注的却是同一个行业。那一段时间，全国一线机构的合伙人，几乎都在往深圳飞——他们都是奔着快造来的。那一轮融资热度远超预期，最后却只装下了少数几家。快造只是其中一个缩影。过去一年，消费级 3D 打印赛道格外火热，大量资金涌入，美团、大疆等产业资本也开始下场。VC 们赌的，其实是同一",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "哪里电便宜，算力就往哪里跑？没那么简单",
+        "link": "https://www.leiphone.com/category/chips/pXuAy8TH7q2u0Q9T.html",
+        "description": "候鸟迁徙，是为了追逐适宜生存的气候。一项AI计算任务的迁徙，则可能因为另一座数据中心拥有更充足、更便宜的电力，被送往数百甚至上千公里之外。过去，算力的运行位置大多随着机房选址而确定。如今，电力供给的变化，开始成为计算任务选择落脚点的新理由。“用电需求通常不能移动，但计算任务却可以迁移。”共绩科技创始人兼CEO付智说。只是，与候鸟不同，AI任务无法独自完成这场迁徙。它所依赖的模型、数据与运行环境，也",
+        "detail": "候鸟迁徙，是为了追逐适宜生存的气候。一项AI计算任务的迁徙，则可能因为另一座数据中心拥有更充足、更便宜的电力，被送往数百甚至上千公里之外。过去，算力的运行位置大多随着机房选址而确定。如今，电力供给的变化，开始成为计算任务选择落脚点的新理由。“用电需求通常不能移动，但计算任务却可以迁移。”共绩科技创始人兼CEO付智说。只是，与候鸟不同，AI任务无法独自完成这场迁徙。它所依赖的模型、数据与运行环境，也",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "当10万个智能体已在运行，安全防线到底在哪？｜CNCC 2026专家激辩智能体安全挑战",
+        "link": "https://www.leiphone.com/category/ai/tT9FskgaSMm7y4Ao.html",
+        "description": "2026年，智能体从概念走向了生产系统。蚂蚁集团3万多名员工背后，已有10万余个智能体在运行。华为内部同样部署了成千上万个智能体，覆盖客服、办公、运维、研发各条业务线。放眼更广的产业图景，个人助手、AI for Science、网络安全自动化攻防、企业级工作流编排，智能体正在逐步接管人类过去亲力亲为的工作。Gartner将智能体列入了2027年十大战略技术，安全圈里，非人类身份（NHI）成了RSA",
+        "detail": "2026年，智能体从概念走向了生产系统。蚂蚁集团3万多名员工背后，已有10万余个智能体在运行。华为内部同样部署了成千上万个智能体，覆盖客服、办公、运维、研发各条业务线。放眼更广的产业图景，个人助手、AI for Science、网络安全自动化攻防、企业级工作流编排，智能体正在逐步接管人类过去亲力亲为的工作。Gartner将智能体列入了2027年十大战略技术，安全圈里，非人类身份（NHI）成了RSA",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "雷锋网"
+      },
+      {
+        "title": "追觅科技亮相2026世界互联网大会人工智能嘉年华，以AI技术创新赋能智慧生活",
+        "link": "https://www.leiphone.com/category/industrynews/hRlEqJpWm8oawq9h.html",
+        "description": "11月2日，2026年世界互联网大会乌镇峰会在浙江嘉兴乌镇正式启幕。本届峰会以“开源开放、共建共享”为主题，聚焦人工智能等前沿技术发展与产业应用。追觅携旗下T70 Ultra Station、T60 Steam等多款旗舰洗地机亮相“人工智能嘉年华”展区，集中展示智能清洁领域的技术创新成果，呈现前沿科技与家庭生活深度融合的创新实践。作为全球领先的智能科技品牌，追觅始终坚持以技术创新驱动产品升级，持续",
+        "detail": "11月2日，2026年世界互联网大会乌镇峰会在浙江嘉兴乌镇正式启幕。本届峰会以“开源开放、共建共享”为主题，聚焦人工智能等前沿技术发展与产业应用。追觅携旗下T70 Ultra Station、T60 Steam等多款旗舰洗地机亮相“人工智能嘉年华”展区，集中展示智能清洁领域的技术创新成果，呈现前沿科技与家庭生活深度融合的创新实践。作为全球领先的智能科技品牌，追觅始终坚持以技术创新驱动产品升级，持续",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "对话王昊：五轴不是当下PMF，组合方案才是答案丨未来创新50人",
+        "link": "https://www.leiphone.com/category/weiwu/rT16tdf1VgHOCwpV.html",
+        "description": "做过巧克力打印，操盘过大疆测绘激光雷达，他带200人创业。作者丨姚单编辑丨董子博见到涌泉创新创始人王昊，是在一间略显拥挤和忙碌的办公室里。去年，这里还只有几位核心成员。短短一年多，办公室里已经聚集了约 200 名员工。涌泉创新成立于 2025 年 4 月，这家公司扩张的速度，几乎写在了办公室的每一个角落。而驱动这场扩张的，正是它在众筹市场上的爆发。众筹首日，金额和客服咨询量都远超预期。每天一两百个",
+        "detail": "做过巧克力打印，操盘过大疆测绘激光雷达，他带200人创业。作者丨姚单编辑丨董子博见到涌泉创新创始人王昊，是在一间略显拥挤和忙碌的办公室里。去年，这里还只有几位核心成员。短短一年多，办公室里已经聚集了约 200 名员工。涌泉创新成立于 2025 年 4 月，这家公司扩张的速度，几乎写在了办公室的每一个角落。而驱动这场扩张的，正是它在众筹市场上的爆发。众筹首日，金额和客服咨询量都远超预期。每天一两百个",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+        "link": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+        "description": "仅今年9月，国内就有近十家端侧AI芯片企业宣布完成新一轮融资。资本的目光，正在从云端的算力集群，移向手机、电脑和机器人里的那颗芯片。最新的一笔大额融资来自后摩智能。据知情人士透露，存算一体AI芯片企业后摩智能已于近期完成B轮融资，单笔融资金额高达数十亿元人民币，近一年内连续完成多轮融资。本轮融资上下游重磅产业资本集体押注、国有资本及国际投资人联袂入局，多家老股东持续加码，进一步印证了国内外资本市场",
+        "detail": "仅今年9月，国内就有近十家端侧AI芯片企业宣布完成新一轮融资。资本的目光，正在从云端的算力集群，移向手机、电脑和机器人里的那颗芯片。最新的一笔大额融资来自后摩智能。据知情人士透露，存算一体AI芯片企业后摩智能已于近期完成B轮融资，单笔融资金额高达数十亿元人民币，近一年内连续完成多轮融资。本轮融资上下游重磅产业资本集体押注、国有资本及国际投资人联袂入局，多家老股东持续加码，进一步印证了国内外资本市场",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "抖音商城「双11现货日」：以“现货”确定性，撬动大促生意增量",
+        "link": "https://www.leiphone.com/category/industrynews/hjmkpUslYWVcGTvO.html",
+        "description": "今年抖音商城双11好物节进入冲刺期，用户对“下单后尽快收到”的确定性需求进一步放大。围绕“48小时内发货，晚必赔”，抖音商城在双11期间升级「双11现货日」：一方面在商城频道、专属打标、独立会场、直播间氛围等用户端核心场域集中透出，让现货商品更容易被识别和选择；另一方面通过消费券、流量加码、分层激励和履约保障，把商家提前备货、即时发货的能力转化为大促转化效率。这次双11现货日的亮点不只在资源投入，",
+        "detail": "今年抖音商城双11好物节进入冲刺期，用户对“下单后尽快收到”的确定性需求进一步放大。围绕“48小时内发货，晚必赔”，抖音商城在双11期间升级「双11现货日」：一方面在商城频道、专属打标、独立会场、直播间氛围等用户端核心场域集中透出，让现货商品更容易被识别和选择；另一方面通过消费券、流量加码、分层激励和履约保障，把商家提前备货、即时发货的能力转化为大促转化效率。这次双11现货日的亮点不只在资源投入，",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "实测苹果智能Beta，千问 APP 成为Siri外援，可接力处理任务",
+        "link": "https://www.leiphone.com/category/industrynews/jtrZN12WvcYpqi1q.html",
+        "description": "11月4日凌晨，苹果智能随最新iOS 开发者 Beta 版开放测试，用户可以在Siri、写作工具及视觉智能中，直接调用千问的文本与图像理解、内容生成等能力。记者体验发现，用户可以在iPhone上进行基础的问答、图文分析和内容生成，进一步的需求点击后可以直接跳转到千问APP，对话信息自动同步，体验丝滑。&nbsp;",
+        "detail": "11月4日凌晨，苹果智能随最新iOS 开发者 Beta 版开放测试，用户可以在Siri、写作工具及视觉智能中，直接调用千问的文本与图像理解、内容生成等能力。记者体验发现，用户可以在iPhone上进行基础的问答、图文分析和内容生成，进一步的需求点击后可以直接跳转到千问APP，对话信息自动同步，体验丝滑。&nbsp;",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-11-03",
     "weekday": "星期二",
     "summary": "今日共收录 69 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, Simon Willison, TLDR AI, TechCrunch AI, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
