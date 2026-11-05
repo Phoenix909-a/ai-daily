@@ -1,5 +1,327 @@
 [
   {
+    "date": "2026-11-05",
+    "weekday": "星期四",
+    "summary": "今日共收录 36 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams. ",
+        "detail": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams. ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "After the midterms, a bigger clash over data centers could be coming",
+        "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+        "description": "Data center opposition crossed party lines in Tuesday’s midterms.",
+        "detail": "Data center opposition crossed party lines in Tuesday’s midterms.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+        "link": "https://www.qbitai.com/2026/11/507767.html",
+        "description": "像雇人一样雇机器人",
+        "detail": "像雇人一样雇机器人",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "",
+        "link": "https://www.qbitai.com/2026/11/507757.html",
+        "description": "尹希官宣离开OpenAI",
+        "detail": "尹希官宣离开OpenAI",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+        "link": "https://www.qbitai.com/2026/11/507696.html",
+        "description": "Data + AI 技术实践巡展 · 上海站",
+        "detail": "Data + AI 技术实践巡展 · 上海站",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+        "link": "https://www.qbitai.com/2026/11/507707.html",
+        "description": "最快6秒出图",
+        "detail": "最快6秒出图",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+        "link": "https://www.qbitai.com/2026/11/507697.html",
+        "description": "被轰成筛子了…",
+        "detail": "被轰成筛子了…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+        "link": "https://www.qbitai.com/2026/11/507688.html",
+        "description": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+        "detail": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+        "link": "https://www.qbitai.com/2026/11/507675.html",
+        "description": "薪资+期权不限！实习生也能训核心模型",
+        "detail": "薪资+期权不限！实习生也能训核心模型",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "2000万人用灵光，灵光2.0上线一周托管超116万项事务",
+        "link": "https://aiera.com.cn/2026/11/05/other/admin/122394/2000%e4%b8%87%e4%ba%ba%e7%94%a8%e7%81%b5%e5%85%89%ef%bc%8c%e7%81%b5%e5%85%892-0%e4%b8%8a%e7%ba%bf%e4%b8%80%e5%91%a8%e6%89%98%e7%ae%a1%e8%b6%85116%e4%b8%87%e9%a1%b9%e4%ba%8b%e5%8a%a1/",
+        "description": "11月5日消息，蚂蚁集团旗下AI助手灵光公布最新数据：自今年10月27日灵光2.0上线，一周内已帮助用户管理超116万项事务，执行超360万次任务。随着AI从“回答问题”走向“…",
+        "detail": "11月5日消息，蚂蚁集团旗下AI助手灵光公布最新数据：自今年10月27日灵光2.0上线，一周内已帮助用户管理超116万项事务，执行超360万次任务。随着AI从“回答问题”走向“…",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic未发布模型，挖出Linux系统级致命漏洞！",
+        "link": "https://aiera.com.cn/2026/11/05/other/admin/122392/anthropic%e6%9c%aa%e5%8f%91%e5%b8%83%e6%a8%a1%e5%9e%8b%ef%bc%8c%e6%8c%96%e5%87%balinux%e7%b3%bb%e7%bb%9f%e7%ba%a7%e8%87%b4%e5%91%bd%e6%bc%8f%e6%b4%9e%ef%bc%81/",
+        "description": "AI 再次引发网络安全大地震！ 据报道，在Ubuntu和Red Hat系统中，一个近乎满分的Linux内核漏洞至今仍未修复。",
+        "detail": "AI 再次引发网络安全大地震！ 据报道，在Ubuntu和Red Hat系统中，一个近乎满分的Linux内核漏洞至今仍未修复。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic亲手终结「套壳AI」！17秒扒下假模型头套，验身速度快5000倍",
+        "link": "https://aiera.com.cn/2026/11/05/other/admin/122378/anthropic%e4%ba%b2%e6%89%8b%e7%bb%88%e7%bb%93%e3%80%8c%e5%a5%97%e5%a3%b3ai%e3%80%8d%ef%bc%8117%e7%a7%92%e6%89%92%e4%b8%8b%e5%81%87%e6%a8%a1%e5%9e%8b%e5%a4%b4%e5%a5%97%ef%bc%8c%e9%aa%8c%e8%ba%ab/",
+        "description": "掏的是顶配旗舰的钱，调的是转售路由的API，后台真正干活的，却可能是个缩水的小模型。 这种「挂羊头卖狗肉」的暗箱操作，曾是整个大模型API供应链最隐秘的灰色地带。",
+        "detail": "掏的是顶配旗舰的钱，调的是转售路由的API，后台真正干活的，却可能是个缩水的小模型。 这种「挂羊头卖狗肉」的暗箱操作，曾是整个大模型API供应链最隐秘的灰色地带。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude前设计负责人转投马斯克！从设计Cowork到操刀Grok Bot",
+        "link": "https://aiera.com.cn/2026/11/05/other/admin/122357/claude%e5%89%8d%e8%ae%be%e8%ae%a1%e8%b4%9f%e8%b4%a3%e4%ba%ba%e8%bd%ac%e6%8a%95%e9%a9%ac%e6%96%af%e5%85%8b%ef%bc%81%e4%bb%8e%e8%ae%be%e8%ae%a1cowork%e5%88%b0%e6%93%8d%e5%88%80grok-bot/",
+        "description": "Claude的前设计负责人，转身加入了马斯克阵营。 她是Jenny Wen。 今年年初，她还在Anthropic负责Claude和Cowork的设计。",
+        "detail": "Claude的前设计负责人，转身加入了马斯克阵营。 她是Jenny Wen。 今年年初，她还在Anthropic负责Claude和Cowork的设计。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6.2 Astra要来了！神秘「双模型」闪现API，OpenAI火速撤回",
+        "link": "https://aiera.com.cn/2026/11/05/other/admin/122343/gpt-6-2-astra%e8%a6%81%e6%9d%a5%e4%ba%86%ef%bc%81%e7%a5%9e%e7%a7%98%e3%80%8c%e5%8f%8c%e6%a8%a1%e5%9e%8b%e3%80%8d%e9%97%aa%e7%8e%b0api%ef%bc%8copenai%e7%81%ab%e9%80%9f%e6%92%a4%e5%9b%9e/",
+        "description": "OpenAI的下一张王牌，已经备好。 昨天Codex负责人Tibo甩出一句暗号「Le GPT Fat」，全网都在狂猜GPT-6.2 Astra马上要来。",
+        "detail": "OpenAI的下一张王牌，已经备好。 昨天Codex负责人Tibo甩出一句暗号「Le GPT Fat」，全网都在狂猜GPT-6.2 Astra马上要来。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "禁令解封！拆自家电视被封号，11 天后OpenAI低头道歉，Anthropic不听",
+        "link": "https://aiera.com.cn/2026/11/05/other/admin/122320/%e7%a6%81%e4%bb%a4%e8%a7%a3%e5%b0%81%ef%bc%81%e6%8b%86%e8%87%aa%e5%ae%b6%e7%94%b5%e8%a7%86%e8%a2%ab%e5%b0%81%e5%8f%b7%ef%bc%8c11-%e5%a4%a9%e5%90%8eopenai%e4%bd%8e%e5%a4%b4%e9%81%93%e6%ad%89%ef%bc%8can/",
+        "description": "你花钱买了一台最新款的智能电视，为了保护隐私，你决定研究一下里面的代码。为了提高效率，你打开了 ChatGPT 辅助分析。",
+        "detail": "你花钱买了一台最新款的智能电视，为了保护隐私，你决定研究一下里面的代码。为了提高效率，你打开了 ChatGPT 辅助分析。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "今天，OpenAI发布AGI新标准！价值1.7万亿美元，接管全球80亿人类",
+        "link": "https://aiera.com.cn/2026/11/05/other/admin/122302/%e4%bb%8a%e5%a4%a9%ef%bc%8copenai%e5%8f%91%e5%b8%83agi%e6%96%b0%e6%a0%87%e5%87%86%ef%bc%81%e4%bb%b7%e5%80%bc1-7%e4%b8%87%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%8c%e6%8e%a5%e7%ae%a1%e5%85%a8%e7%90%8380/",
+        "description": "就在今天，OpenAI推出了AGI新标准。 就在关于GPT-6.2 Astra的猛料在X上疯传的时候，他们推出了酝酿已久的跑分测试——LifeVal。",
+        "detail": "就在今天，OpenAI推出了AGI新标准。 就在关于GPT-6.2 Astra的猛料在X上疯传的时候，他们推出了酝酿已久的跑分测试——LifeVal。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "普林斯顿CS女学霸，突然告别Anthropic！一手带火Claude Code",
+        "link": "https://aiera.com.cn/2026/11/05/other/admin/122279/%e6%99%ae%e6%9e%97%e6%96%af%e9%a1%bfcs%e5%a5%b3%e5%ad%a6%e9%9c%b8%ef%bc%8c%e7%aa%81%e7%84%b6%e5%91%8a%e5%88%abanthropic%ef%bc%81%e4%b8%80%e6%89%8b%e5%b8%a6%e7%81%abclaude-code/",
+        "description": "Claude Code的「二号人物」，也走了！ 4日凌晨，Claude Code与Cowork产品总负责人、创始产品经理Cat Wu（Catherine Wu）发出告别信，宣布…",
+        "detail": "Claude Code的「二号人物」，也走了！ 4日凌晨，Claude Code与Cowork产品总负责人、创始产品经理Cat Wu（Catherine Wu）发出告别信，宣布…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "5000词需求文档，Claude也只能交付14%！实测28种Agent组合",
+        "link": "https://aiera.com.cn/2026/11/05/other/admin/122264/5000%e8%af%8d%e9%9c%80%e6%b1%82%e6%96%87%e6%a1%a3%ef%bc%8cclaude%e4%b9%9f%e5%8f%aa%e8%83%bd%e4%ba%a4%e4%bb%9814%ef%bc%81%e5%ae%9e%e6%b5%8b28%e7%a7%8dagent%e7%bb%84%e5%90%88/",
+        "description": "如今Agent已经能熟练调用工具、修改文件、运行测试，但面对一个长期演进的大型软件系统，它能否从一份新需求出发，交付完整功能？",
+        "detail": "如今Agent已经能熟练调用工具、修改文件、运行测试，但面对一个长期演进的大型软件系统，它能否从一份新需求出发，交付完整功能？",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "全球唯二，百度抢先交卷！首个物理AI世界模型来了",
+        "link": "https://aiera.com.cn/2026/11/05/other/admin/122251/%e5%85%a8%e7%90%83%e5%94%af%e4%ba%8c%ef%bc%8c%e7%99%be%e5%ba%a6%e6%8a%a2%e5%85%88%e4%ba%a4%e5%8d%b7%ef%bc%81%e9%a6%96%e4%b8%aa%e7%89%a9%e7%90%86ai%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e6%9d%a5%e4%ba%86/",
+        "description": "憋了整整两年多，百度终于亮出了自己的重磅杀手锏！ 今天，百度Apollo正式发布了「ApolloWorld」——首个面向物理AI的Agent驱动全模态世界模型。",
+        "detail": "憋了整整两年多，百度终于亮出了自己的重磅杀手锏！ 今天，百度Apollo正式发布了「ApolloWorld」——首个面向物理AI的Agent驱动全模态世界模型。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "视频生成只是开始，AI 如何把内容做对？",
+        "link": "https://www.infoq.cn/article/GGILIuzW0RTGhoeuz9TD?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理",
+        "link": "https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
+        "link": "https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
+        "link": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？",
+        "link": "https://www.infoq.cn/article/C61Q16LQIDq45l0iCCzV?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
+        "link": "https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "以后表情包斗图，全靠 AI 了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "以后表情包斗图，全靠 AI 了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
+        "link": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 彭博调查：69% 中国受访者至少等到明年才换手机\n· ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改\n· 近七成汽车经销商试用 AI，部分已设智能体专员#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 彭博调查：69% 中国受访者至少等到明年才换手机\n· ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改\n· 近七成汽车经销商试用 AI，部分已设智能体专员#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+        "link": "https://sspai.com/post/118498",
+        "description": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...查看全文",
+        "detail": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...查看全文",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "少数派"
+      },
+      {
+        "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
+        "link": "http://www.geekpark.net/news/373494",
+        "description": "\n        \nApple 智能国行上线，苹果大涨超 6% 重返美股市值第一\n11 月 4 日，Apple 智能伴随 iOS 27.3 的 Developer Beta 向中国大陆用户开放测试，并计划于 12 月随 iOS 27.3 正式版推出。与此同时，苹果也确认与阿里巴巴达成合作，将千问接入 Siri、写作工具及视觉智能，让中国用户能够通过系统直接调用国内大模型的能力。\n不过，这一次上线的",
+        "detail": "\n        \nApple 智能国行上线，苹果大涨超 6% 重返美股市值第一\n11 月 4 日，Apple 智能伴随 iOS 27.3 的 Developer Beta 向中国大陆用户开放测试，并计划于 12 月随 iOS 27.3 正式版推出。与此同时，苹果也确认与阿里巴巴达成合作，将千问接入 Siri、写作工具及视觉智能，让中国用户能够通过系统直接调用国内大模型的能力。\n不过，这一次上线的",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "极客公园"
+      },
+      {
+        "title": "清洁机器人出海患上「三高」：高库存、高税率、高门槛",
+        "link": "https://www.leiphone.com/category/weiwu/DGcLJU9RgJPPzGhP.html",
+        "description": "01 墙“北美市场不搞了。老品接着卖，新品没有了。”一位传感器企业负责人周铭最近拜访一家头部智能硬件公司时，对方如此表态。据他观察，几家清洁电器头部企业的新品规划，也都在往欧洲、澳洲挪。让厂商按下暂停键的，是7月28日的一纸清单。美国联邦通信委员会（FCC）把“外国生产的先进机器人设备”列入受控清单。清单虽然没有点名具体产品，但对照定义——能自主移动、带传感器、能联网、使用导航软件——扫地机器人、",
+        "detail": "01 墙“北美市场不搞了。老品接着卖，新品没有了。”一位传感器企业负责人周铭最近拜访一家头部智能硬件公司时，对方如此表态。据他观察，几家清洁电器头部企业的新品规划，也都在往欧洲、澳洲挪。让厂商按下暂停键的，是7月28日的一纸清单。美国联邦通信委员会（FCC）把“外国生产的先进机器人设备”列入受控清单。清单虽然没有点名具体产品，但对照定义——能自主移动、带传感器、能联网、使用导航软件——扫地机器人、",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "2000万人用灵光，灵光2.0上线一周托管超116万项事务",
+        "link": "https://www.leiphone.com/category/industrynews/rJ5oXEPsUlwSPneA.html",
+        "description": "11月5日消息，蚂蚁集团旗下AI助手灵光公布最新数据：自今年10月27日灵光2.0上线，一周内已帮助用户管理超116万项事务，执行超360万次任务。随着AI从“回答问题”走向“持续管事”，能主动帮用户管理日常事务的个人AI助理，正加速进入实际生活场景。目前，灵光用户已突破2000万。10月27日，蚂蚁集团发布灵光2.0，推出“帮我管”功能，推动AI助理从“任务执行者”走向“事务管理者”。与传统AI",
+        "detail": "11月5日消息，蚂蚁集团旗下AI助手灵光公布最新数据：自今年10月27日灵光2.0上线，一周内已帮助用户管理超116万项事务，执行超360万次任务。随着AI从“回答问题”走向“持续管事”，能主动帮用户管理日常事务的个人AI助理，正加速进入实际生活场景。目前，灵光用户已突破2000万。10月27日，蚂蚁集团发布灵光2.0，推出“帮我管”功能，推动AI助理从“任务执行者”走向“事务管理者”。与传统AI",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "雷锋网"
+      },
+      {
+        "title": "世界模型热潮里，百度重新亮出无人驾驶底牌",
+        "link": "https://www.leiphone.com/category/transportation/d85n0vUzY4Df9bd2.html",
+        "description": "10月17日，上海徐浦大桥上发生了一起令人揪心的事故，一辆平板货车先撞上了一辆白色小客车，然后车子驶入对向车道，又接连撞了4辆车，事故造成了1死2伤。事故过后，网络上涌现了很多对于事故全过程的还原和讨论。如果白色小客车没有违规变道，或者货车早点刹车，结果会不会不同？现实世界中，人们从亲历的险情、看过的事故中记住一些教训，提升驾驶和决策水平。而对于需要通过训练规避风险的无人车来说，研究这些问题，需要",
+        "detail": "10月17日，上海徐浦大桥上发生了一起令人揪心的事故，一辆平板货车先撞上了一辆白色小客车，然后车子驶入对向车道，又接连撞了4辆车，事故造成了1死2伤。事故过后，网络上涌现了很多对于事故全过程的还原和讨论。如果白色小客车没有违规变道，或者货车早点刹车，结果会不会不同？现实世界中，人们从亲历的险情、看过的事故中记住一些教训，提升驾驶和决策水平。而对于需要通过训练规避风险的无人车来说，研究这些问题，需要",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "子公司把母公司告了！安世半导体起诉闻泰科技，索赔134亿元；中兴手机账号主体变更，将调整为上海申启纪元；腾讯混元正式发布Hy4",
+        "link": "https://www.leiphone.com/category/zaobao/uojoiQ2Owilfvr8B.html",
+        "description": "要闻提示1.子公司把母公司告了！安世半导体索赔134亿元，闻泰科技强硬回击2.中兴手机账号主体变更，将调整为上海申启纪元3.腾讯混元发布最新一代大语言模型Hy4，跻身最强开源模型队列4.iPhone系统天气Bug显示下周五-32℃，苹果客服致歉：系统端口问题5.京东本地生活业务负责人郭庆离职6.蔚来李斌：自动驾驶不应让出租车和网约车司机失去工作7.特斯拉为进欧盟妥协！放弃FSD名称，还把超速上线限",
+        "detail": "要闻提示1.子公司把母公司告了！安世半导体索赔134亿元，闻泰科技强硬回击2.中兴手机账号主体变更，将调整为上海申启纪元3.腾讯混元发布最新一代大语言模型Hy4，跻身最强开源模型队列4.iPhone系统天气Bug显示下周五-32℃，苹果客服致歉：系统端口问题5.京东本地生活业务负责人郭庆离职6.蔚来李斌：自动驾驶不应让出租车和网约车司机失去工作7.特斯拉为进欧盟妥协！放弃FSD名称，还把超速上线限",
+        "tag": "模型发布",
+        "sort_score": 35,
+        "source": "雷锋网"
+      },
+      {
+        "title": "360亮相北大AI+X青年人才实践发展论坛，联合发布“AI原生人才标准”",
+        "link": "https://www.leiphone.com/category/industrynews/litxyBn8AmWERGUM.html",
+        "description": "近日，青年人才能力数字服务平台与北大青年AI+创新劳动实践平台发布暨AI+X青年人才实践发展论坛隆重举办。本次会议由中国技术交易所、北京大学信息科学技术学院联合主办，锚定AI时代青年人才培育、产教深度协同等创新方向，汇聚职上青云等共建伙伴、高校科研力量与产业生态资源，共寻智能浪潮下青年人才发展的创新范式。其中，360集团作为承办企业受邀参会，360集团副总裁卜思南以《智能体时代，培养AI原生人才》",
+        "detail": "近日，青年人才能力数字服务平台与北大青年AI+创新劳动实践平台发布暨AI+X青年人才实践发展论坛隆重举办。本次会议由中国技术交易所、北京大学信息科学技术学院联合主办，锚定AI时代青年人才培育、产教深度协同等创新方向，汇聚职上青云等共建伙伴、高校科研力量与产业生态资源，共寻智能浪潮下青年人才发展的创新范式。其中，360集团作为承办企业受邀参会，360集团副总裁卜思南以《智能体时代，培养AI原生人才》",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "| 腾讯前高级研究员获数千万投资，锚定物理AI接触智能",
+        "link": "https://www.leiphone.com/category/industrynews/30nTa8g0yzQmZGys.html",
+        "description": "力合资本、合肥创新投等机构投资，Lux 系列视触觉传感器已实现规模化交付。作者丨董子博编辑丨张贤雷峰网·鲸犀独家获悉，触觉智能企业“灵感机器人”新近完成数千万元天使轮融资，投资方包括力合资本、合肥创新投等机构，治臻咨询担任财务顾问。雷峰网·鲸犀了解到，公司创始人、CEO 张雅展博士毕业于港科大机器人专业，曾是腾讯资深 AI 研究员，主导过大规模数据管线及 AI 模型研发，后于国家实验室担任研究员、",
+        "detail": "力合资本、合肥创新投等机构投资，Lux 系列视触觉传感器已实现规模化交付。作者丨董子博编辑丨张贤雷峰网·鲸犀独家获悉，触觉智能企业“灵感机器人”新近完成数千万元天使轮融资，投资方包括力合资本、合肥创新投等机构，治臻咨询担任财务顾问。雷峰网·鲸犀了解到，公司创始人、CEO 张雅展博士毕业于港科大机器人专业，曾是腾讯资深 AI 研究员，主导过大规模数据管线及 AI 模型研发，后于国家实验室担任研究员、",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "预测引擎 Prophetlab 获数千万种子轮，常春藤资本等机构联合投资",
+        "link": "https://www.leiphone.com/category/industrynews/5gyZIVYyxDzi67wu.html",
+        "description": "用 AI 通用地预测世界，或正成为资本关注的下一个大模型创业方向。作者丨董子博编辑丨张贤雷峰网·鲸犀独家获悉，AI 预测引擎公司 Prophetlab 已获数千万元天使轮融资，由常春藤资本等投资机构投资。成立不到四个月，Prophetlab 的早期项目，是利用 AI 大模型预测世界杯的赛果。产品成功预测了决赛结果和四强队伍，不少模型下的预测结果准确率已经达到了 75% 左右。此外，公司研发的预测引",
+        "detail": "用 AI 通用地预测世界，或正成为资本关注的下一个大模型创业方向。作者丨董子博编辑丨张贤雷峰网·鲸犀独家获悉，AI 预测引擎公司 Prophetlab 已获数千万元天使轮融资，由常春藤资本等投资机构投资。成立不到四个月，Prophetlab 的早期项目，是利用 AI 大模型预测世界杯的赛果。产品成功预测了决赛结果和四强队伍，不少模型下的预测结果准确率已经达到了 75% 左右。此外，公司研发的预测引",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "weekday": "星期三",
     "summary": "今日共收录 53 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, The Decoder, The Verge AI, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
