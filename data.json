@@ -2,8 +2,26 @@
   {
     "date": "2026-11-06",
     "weekday": "星期五",
-    "summary": "今日共收录 39 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 55 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, TechCrunch AI, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
+        "link": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
+        "description": "\n        Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off.\nThe article Anthropic&#039;s $1.5 trillion IPO hits resistance as investors ",
+        "detail": "\n        Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off.\nThe article Anthropic&#039;s $1.5 trillion IPO hits resistance as investors ",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Anthropic adds bank account access to Claude so users can track their spending",
+        "link": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
+        "description": "\n        Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances.\nThe article Anthro",
+        "detail": "\n        Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances.\nThe article Anthro",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Decoder"
+      },
       {
         "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
         "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
@@ -12,6 +30,51 @@
         "tag": "Agent 进展",
         "sort_score": 88,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "Anthropic IPO doubts 📉, datacenter bans 🛑, GitHub's new storage 👨‍💻",
+        "link": "https://tldr.tech/tech/2026-11-06",
+        "description": "",
+        "detail": "",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "TLDR AI"
+      },
+      {
+        "title": "Translucent AI",
+        "link": "https://www.producthunt.com/products/translucent-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentTM",
+        "link": "https://www.producthunt.com/products/agenttm",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "DALI AI by SupplyzPro",
+        "link": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Tobira Site Agent",
+        "link": "https://www.producthunt.com/products/tobira-ai",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
       },
       {
         "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
@@ -158,6 +221,15 @@
         "source": "新智元"
       },
       {
+        "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+        "link": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
         "link": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -246,78 +318,6 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "少数派"
-      },
-      {
-        "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
-        "link": "https://sspai.com/post/118587",
-        "description": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文",
-        "detail": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "少数派"
-      },
-      {
-        "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
-        "link": "http://www.geekpark.net/news/373554",
-        "description": "\n        \n芯片股惨遭重挫，华尔街迎来 1896 年以来中期选举后表现最差的第二个交易日\n据路透社报道，美国民主党在国会中期选举中大胜，引发投资者对 AI 监管加强、数据中心建设放缓的担忧。\n当地时间周四，美国科技股遭遇大规模抛售，华尔街股票市值单日蒸发约 3.2 万亿美元（约合人民币 22.7 万亿元）。纳斯达克综合指数暴跌 5.52%，创下自 2025 年 4 月以来最大单日跌幅，较 ",
-        "detail": "\n        \n芯片股惨遭重挫，华尔街迎来 1896 年以来中期选举后表现最差的第二个交易日\n据路透社报道，美国民主党在国会中期选举中大胜，引发投资者对 AI 监管加强、数据中心建设放缓的担忧。\n当地时间周四，美国科技股遭遇大规模抛售，华尔街股票市值单日蒸发约 3.2 万亿美元（约合人民币 22.7 万亿元）。纳斯达克综合指数暴跌 5.52%，创下自 2025 年 4 月以来最大单日跌幅，较 ",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "极客公园"
-      },
-      {
-        "title": "解读丨王腾创业一年，正把小米模式搬进卧室",
-        "link": "https://www.leiphone.com/category/weiwu/93Xb1SiXL97SxUkH.html",
-        "description": "手机行业过去的最强“话题制造机”，这次没聊手机。作者丨陈玘凡编辑丨吴优2026年10月29日，北京嘉瑞文化中心二楼。王腾站在台上，手里拿着一枚戒指。这一天，距离他正式离开小米，刚过去一年零五十天。手机行业曾经最会制造话题的市场操盘手之一，这次没有讲手机，而是以今日宜休之名发布了两个最&quot;安静&quot;的产品：一枚智能戒指，一张以床笠形态加装在床上的温控系统。但问题是：在智能戒指已经杀成红",
-        "detail": "手机行业过去的最强“话题制造机”，这次没聊手机。作者丨陈玘凡编辑丨吴优2026年10月29日，北京嘉瑞文化中心二楼。王腾站在台上，手里拿着一枚戒指。这一天，距离他正式离开小米，刚过去一年零五十天。手机行业曾经最会制造话题的市场操盘手之一，这次没有讲手机，而是以今日宜休之名发布了两个最&quot;安静&quot;的产品：一枚智能戒指，一张以床笠形态加装在床上的温控系统。但问题是：在智能戒指已经杀成红",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "解读丨融资 2 亿，这家 E-bike 公司凭什么押注户外新品类",
-        "link": "https://www.leiphone.com/category/weiwu/ozMqvnoWJ6l3FAhl.html",
-        "description": "VELOTRIC&nbsp;正在研发外骨骼和高尔夫球车。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀获悉，E-bike 品牌 VELOTRIC 已完成 C 轮融资，规模约 2 亿元人民币，投资方为国寿股权，琥珀资本跟投，老股东追投。VELOTRIC 于 2021年成立，目前在北美有超1600家线下经销商，品牌累计出货量已超过25万台。2026 年前三季度，以销售额为基准，VELOTRIC 已成为北美 E-b",
-        "detail": "VELOTRIC&nbsp;正在研发外骨骼和高尔夫球车。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀获悉，E-bike 品牌 VELOTRIC 已完成 C 轮融资，规模约 2 亿元人民币，投资方为国寿股权，琥珀资本跟投，老股东追投。VELOTRIC 于 2021年成立，目前在北美有超1600家线下经销商，品牌累计出货量已超过25万台。2026 年前三季度，以销售额为基准，VELOTRIC 已成为北美 E-b",
-        "tag": "公司动态",
-        "sort_score": 68,
-        "source": "雷锋网"
-      },
-      {
-        "title": "腾讯20年老兵创业 AI 体感主机，融资超六千万",
-        "link": "https://www.leiphone.com/category/weiwu/8xihmnpkWWIHsn9G.html",
-        "description": "创始人刘丹曾任光子工作室群副总经理、《斗战神》制作人。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，AI 体感成长主机公司创想悦动已完成种子轮融资，投资方为创维战投、创维数字，总金额约六千万元。创想悦动目前已经开启新一轮融资，意在进行更多后续内容开发、东南亚海外市场拓展、线下渠道铺设及下一代产品预研。创想悦动创始人刘丹曾任光子工作室群副总经理、天行工作室总经理，于 2003 年加入腾讯互娱，参与见证",
-        "detail": "创始人刘丹曾任光子工作室群副总经理、《斗战神》制作人。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，AI 体感成长主机公司创想悦动已完成种子轮融资，投资方为创维战投、创维数字，总金额约六千万元。创想悦动目前已经开启新一轮融资，意在进行更多后续内容开发、东南亚海外市场拓展、线下渠道铺设及下一代产品预研。创想悦动创始人刘丹曾任光子工作室群副总经理、天行工作室总经理，于 2003 年加入腾讯互娱，参与见证",
-        "tag": "公司动态",
-        "sort_score": 68,
-        "source": "雷锋网"
-      },
-      {
-        "title": "创维孵化外骨骼，争夺银发硬件入口",
-        "link": "https://www.leiphone.com/category/weiwu/MUNn2Q3G5UpPfzl0.html",
-        "description": "VR、眼镜之后，创维一年前就已布局外骨骼。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，创维正在孵化一款外骨骼产品，主打老年助行场景。外骨骼团队来自创维集团内部孵化，隶属于深圳创维数字技术有限公司创新研究院，但该产品不会使用创维品牌。该项目目前仍处测试阶段，尚未正式量产发布，在内部已经迭代多版。知情人士告诉雷峰网·鲸犀，创维在一年前就有研发外骨骼的打算。产品定位上，该外骨骼面向银发群体，帮助其在行走",
-        "detail": "VR、眼镜之后，创维一年前就已布局外骨骼。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，创维正在孵化一款外骨骼产品，主打老年助行场景。外骨骼团队来自创维集团内部孵化，隶属于深圳创维数字技术有限公司创新研究院，但该产品不会使用创维品牌。该项目目前仍处测试阶段，尚未正式量产发布，在内部已经迭代多版。知情人士告诉雷峰网·鲸犀，创维在一年前就有研发外骨骼的打算。产品定位上，该外骨骼面向银发群体，帮助其在行走",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "解读 | 大疆老兵研发运动硬件，如何一年做出两款产品？",
-        "link": "https://www.leiphone.com/category/weiwu/NsNahCY0EA1kICK3.html",
-        "description": "成立两年发布两款产品，累计融资千万美元。作者丨陈玘凡&nbsp;编辑丨吴优侯昊翔、曹曦、张津剑，三位 85 后顶流投资人的名字，出现在同一份股东名单上，本身就是一件值得琢磨的事。侯昊翔，厚雪资本创始合伙人兼总裁，福布斯 2024 创投人 100 榜上榜者，主导过壁仞科技等明星项目；曹曦创办砺思资本（Monolith），投出了月之暗面、DeepSeek；张津剑与绿洲资本投出过MiniMax、逐际动力",
-        "detail": "成立两年发布两款产品，累计融资千万美元。作者丨陈玘凡&nbsp;编辑丨吴优侯昊翔、曹曦、张津剑，三位 85 后顶流投资人的名字，出现在同一份股东名单上，本身就是一件值得琢磨的事。侯昊翔，厚雪资本创始合伙人兼总裁，福布斯 2024 创投人 100 榜上榜者，主导过壁仞科技等明星项目；曹曦创办砺思资本（Monolith），投出了月之暗面、DeepSeek；张津剑与绿洲资本投出过MiniMax、逐际动力",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "解读丨前飞书 CMO 创业，为何用「水晶球」赌一个AI入口？",
-        "link": "https://www.leiphone.com/category/weiwu/MiJKpPLqwFGB14X7.html",
-        "description": "这是梅花创投吴世春10分钟敲定的一笔投资。作者丨陈玘凡编辑丨吴优雷峰网・鲸犀独家获悉，前字节飞书 CMO 孙峰创办的 AI 情绪科技品牌 Ora-Orb，已完成累计数千万元融资。由梅花创投领投，知名产业资本跟投。向阳资本担任长期独家财务顾问。新一轮融资同步启动，目标投后估值 2 亿元人民币。孙峰对雷峰网·鲸犀分享：去年与梅花创投的吴世春见面，不到 10 分钟，吴世春就敲定了对这家新公司的融资。Or",
-        "detail": "这是梅花创投吴世春10分钟敲定的一笔投资。作者丨陈玘凡编辑丨吴优雷峰网・鲸犀独家获悉，前字节飞书 CMO 孙峰创办的 AI 情绪科技品牌 Ora-Orb，已完成累计数千万元融资。由梅花创投领投，知名产业资本跟投。向阳资本担任长期独家财务顾问。新一轮融资同步启动，目标投后估值 2 亿元人民币。孙峰对雷峰网·鲸犀分享：去年与梅花创投的吴世春见面，不到 10 分钟，吴世春就敲定了对这家新公司的融资。Or",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
       }
     ]
   },
