@@ -1,5 +1,327 @@
 [
   {
+    "date": "2026-11-06",
+    "weekday": "星期五",
+    "summary": "今日共收录 39 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "description": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+        "detail": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+        "link": "https://www.qbitai.com/2026/11/508155.html",
+        "description": "Q3营收实现数倍增长",
+        "detail": "Q3营收实现数倍增长",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+        "link": "https://www.qbitai.com/2026/11/508118.html",
+        "description": "挑战商业视频的高难度场景",
+        "detail": "挑战商业视频的高难度场景",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+        "link": "https://www.qbitai.com/2026/11/508143.html",
+        "description": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
+        "detail": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+        "link": "https://www.qbitai.com/2026/11/508107.html",
+        "description": "一举刷新「AI安全世界杯」CyberGym世界纪录",
+        "detail": "一举刷新「AI安全世界杯」CyberGym世界纪录",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+        "link": "https://www.qbitai.com/2026/11/507988.html",
+        "description": "香港金融科技周 x StartmeupHK 2026踏入第11届",
+        "detail": "香港金融科技周 x StartmeupHK 2026踏入第11届",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+        "link": "https://www.qbitai.com/2026/11/507972.html",
+        "description": "Seedance 2.5 单秒低至0.15元",
+        "detail": "Seedance 2.5 单秒低至0.15元",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+        "link": "https://www.qbitai.com/2026/11/507967.html",
+        "description": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
+        "detail": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "奥特曼：谁来决定AI该比人类聪明多少？",
+        "link": "https://aiera.com.cn/2026/11/06/other/admin/122566/%e5%a5%a5%e7%89%b9%e6%9b%bc%ef%bc%9a%e8%b0%81%e6%9d%a5%e5%86%b3%e5%ae%9aai%e8%af%a5%e6%af%94%e4%ba%ba%e7%b1%bb%e8%81%aa%e6%98%8e%e5%a4%9a%e5%b0%91%ef%bc%9f/",
+        "description": "AI究竟该被允许比人类聪明多少？ 在11月3日发布的Raj Shamani访谈里，OpenAI CEO奥特曼主动抛出了这个问题。",
+        "detail": "AI究竟该被允许比人类聪明多少？ 在11月3日发布的Raj Shamani访谈里，OpenAI CEO奥特曼主动抛出了这个问题。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "辟谣！Anthropic IPO没撤回，但万亿AI泡沫缩水让华尔街怕了",
+        "link": "https://aiera.com.cn/2026/11/06/other/admin/122552/%e8%be%9f%e8%b0%a3%ef%bc%81anthropic-ipo%e6%b2%a1%e6%92%a4%e5%9b%9e%ef%bc%8c%e4%bd%86%e4%b8%87%e4%ba%bfai%e6%b3%a1%e6%b2%ab%e7%bc%a9%e6%b0%b4%e8%ae%a9%e5%8d%8e%e5%b0%94%e8%a1%97%e6%80%95%e4%ba%86/",
+        "description": "科技史上最大IPO，泡沫这就要戳破了？ 就在昨天，X上一条帖子，一石激起千层浪。 一位大V发了一句：",
+        "detail": "科技史上最大IPO，泡沫这就要戳破了？ 就在昨天，X上一条帖子，一石激起千层浪。 一位大V发了一句：",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "新智元"
+      },
+      {
+        "title": "推理提速近3倍！Agent下场调引擎，两周反超人工精调",
+        "link": "https://aiera.com.cn/2026/11/06/other/admin/122527/%e6%8e%a8%e7%90%86%e6%8f%90%e9%80%9f%e8%bf%913%e5%80%8d%ef%bc%81agent%e4%b8%8b%e5%9c%ba%e8%b0%83%e5%bc%95%e6%93%8e%ef%bc%8c%e4%b8%a4%e5%91%a8%e5%8f%8d%e8%b6%85%e4%ba%ba%e5%b7%a5%e7%b2%be%e8%b0%83/",
+        "description": "Coding Agent正在让大模型推理面临新的性能挑战。 在软件工程任务中，模型需要不断读取代码、生成修改、调用工具，并根据执行结果决定下一步操作。",
+        "detail": "Coding Agent正在让大模型推理面临新的性能挑战。 在软件工程任务中，模型需要不断读取代码、生成修改、调用工具，并根据执行结果决定下一步操作。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "今天，ChatGPT终于可以生GIF了！Images 2.6突袭上线",
+        "link": "https://aiera.com.cn/2026/11/06/other/admin/122517/%e4%bb%8a%e5%a4%a9%ef%bc%8cchatgpt%e7%bb%88%e4%ba%8e%e5%8f%af%e4%bb%a5%e7%94%9fgif%e4%ba%86%ef%bc%81images-2-6%e7%aa%81%e8%a2%ad%e4%b8%8a%e7%ba%bf/",
+        "description": "准备好，OpenAI要放大招了！ 就在刚刚，先来了个热身，ChatGPT Images 2.6迎来重磅升级，生图速度狂飙50%。",
+        "detail": "准备好，OpenAI要放大招了！ 就在刚刚，先来了个热身，ChatGPT Images 2.6迎来重磅升级，生图速度狂飙50%。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "模型能感知调整3D物体位姿吗？首个交互式投影对齐空间推理基准",
+        "link": "https://aiera.com.cn/2026/11/06/other/admin/122471/%e6%a8%a1%e5%9e%8b%e8%83%bd%e6%84%9f%e7%9f%a5%e8%b0%83%e6%95%b43d%e7%89%a9%e4%bd%93%e4%bd%8d%e5%a7%bf%e5%90%97%ef%bc%9f%e9%a6%96%e4%b8%aa%e4%ba%a4%e4%ba%92%e5%bc%8f%e6%8a%95%e5%bd%b1%e5%af%b9%e9%bd%90/",
+        "description": "认出一个物体之后，换个角度还能认出来，进一步想象它转动后的样子，这些都涉及空间感知。人类需要在头脑中表示物体的形状与方向，理解不同视角之间的关系，并从二维投影中推断三维几何。",
+        "detail": "认出一个物体之后，换个角度还能认出来，进一步想象它转动后的样子，这些都涉及空间感知。人类需要在头脑中表示物体的形状与方向，理解不同视角之间的关系，并从二维投影中推断三维几何。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "半年106亿、狂涨近9倍！卖Token的这个新方向，爆了",
+        "link": "https://aiera.com.cn/2026/11/06/other/admin/122456/%e5%8d%8a%e5%b9%b4106%e4%ba%bf%e3%80%81%e7%8b%82%e6%b6%a8%e8%bf%919%e5%80%8d%ef%bc%81%e5%8d%96token%e7%9a%84%e8%bf%99%e4%b8%aa%e6%96%b0%e6%96%b9%e5%90%91%ef%bc%8c%e7%88%86%e4%ba%86/",
+        "description": "2026年，大模型卖Token这门生意，已经卷到让人看不懂了。 谷歌在今年I/O大会上甩出一个数字：每个月处理3200万亿个Token，一年翻了7倍。",
+        "detail": "2026年，大模型卖Token这门生意，已经卷到让人看不懂了。 谷歌在今年I/O大会上甩出一个数字：每个月处理3200万亿个Token，一年翻了7倍。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "高考出分才找AI？这家黑马把升学规划提前到了小学",
+        "link": "https://aiera.com.cn/2026/11/06/other/admin/122435/%e9%ab%98%e8%80%83%e5%87%ba%e5%88%86%e6%89%8d%e6%89%beai%ef%bc%9f%e8%bf%99%e5%ae%b6%e9%bb%91%e9%a9%ac%e6%8a%8a%e5%8d%87%e5%ad%a6%e8%a7%84%e5%88%92%e6%8f%90%e5%89%8d%e5%88%b0%e4%ba%86%e5%b0%8f%e5%ad%a6/",
+        "description": "2026年夏天，AI填志愿彻底火出圈了。 千问、豆包、Kimi轮番上阵，各家通用大模型恨不得在高考出分那三天把全中国家长的焦虑一口气吞下。",
+        "detail": "2026年夏天，AI填志愿彻底火出圈了。 千问、豆包、Kimi轮番上阵，各家通用大模型恨不得在高考出分那三天把全中国家长的焦虑一口气吞下。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude Code女掌门人光速投OpenAI！昨天才告别Anthropic，今天就倒戈",
+        "link": "https://aiera.com.cn/2026/11/06/other/admin/122423/claude-code%e5%a5%b3%e6%8e%8c%e9%97%a8%e4%ba%ba%e5%85%89%e9%80%9f%e6%8a%95openai%ef%bc%81%e6%98%a8%e5%a4%a9%e6%89%8d%e5%91%8a%e5%88%abanthropic%ef%bc%8c%e4%bb%8a%e5%a4%a9%e5%b0%b1%e5%80%92%e6%88%88/",
+        "description": "昨天宣布离职的Claude Code产品一姐，居然去OpenAI了？ 昨天，她发完告别信，还跟网友开玩笑说「等实现AGI之后再休吧」，大家还以为她要去创业了。",
+        "detail": "昨天宣布离职的Claude Code产品一姐，居然去OpenAI了？ 昨天，她发完告别信，还跟网友开玩笑说「等实现AGI之后再休吧」，大家还以为她要去创业了。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI收购神秘团队！奥特曼要在Codex里再造一个GitHub",
+        "link": "https://aiera.com.cn/2026/11/06/other/admin/122409/openai%e6%94%b6%e8%b4%ad%e7%a5%9e%e7%a7%98%e5%9b%a2%e9%98%9f%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e8%a6%81%e5%9c%a8codex%e9%87%8c%e5%86%8d%e9%80%a0%e4%b8%80%e4%b8%aagithub/",
+        "description": "今天的硅谷，太热闹了！ 刚刚，OpenAI官宣收购了一家神秘初创团队——Pierre Computer。",
+        "detail": "今天的硅谷，太热闹了！ 刚刚，OpenAI官宣收购了一家神秘初创团队——Pierre Computer。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "新智元"
+      },
+      {
+        "title": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+        "link": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+        "link": "https://www.infoq.cn/article/azhgYaRTIjsSSVfA8AaU?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "智能体 Harness 的演进：从链、图到代码化",
+        "link": "https://www.infoq.cn/article/B7tsA5tjD08k2gd0OtXd?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "“超脑”统一指挥，“狼族”协同作战：京东物流打造供应链 AI 机器人军团",
+        "link": "https://www.infoq.cn/article/1YeowHagkg1Or6wwy23P?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从仓储到配送，全程由 AI“指挥”：京东物流“超脑”3.0 的工业级 AI 实践",
+        "link": "https://www.infoq.cn/article/jBdvoUXheWN0oe6NfklO?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI Native 企业研发工具链：架构重构与持续演进｜AICon北京",
+        "link": "https://www.infoq.cn/article/4IUSd2wP28ua4Jd5fHG2?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+        "link": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
+        "link": "https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+        "link": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人\n· 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因\n· 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人\n· 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因\n· 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+        "link": "https://sspai.com/post/118570",
+        "description": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。查看全文",
+        "detail": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。查看全文",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "少数派"
+      },
+      {
+        "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+        "link": "https://sspai.com/post/118587",
+        "description": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文",
+        "detail": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "少数派"
+      },
+      {
+        "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
+        "link": "http://www.geekpark.net/news/373554",
+        "description": "\n        \n芯片股惨遭重挫，华尔街迎来 1896 年以来中期选举后表现最差的第二个交易日\n据路透社报道，美国民主党在国会中期选举中大胜，引发投资者对 AI 监管加强、数据中心建设放缓的担忧。\n当地时间周四，美国科技股遭遇大规模抛售，华尔街股票市值单日蒸发约 3.2 万亿美元（约合人民币 22.7 万亿元）。纳斯达克综合指数暴跌 5.52%，创下自 2025 年 4 月以来最大单日跌幅，较 ",
+        "detail": "\n        \n芯片股惨遭重挫，华尔街迎来 1896 年以来中期选举后表现最差的第二个交易日\n据路透社报道，美国民主党在国会中期选举中大胜，引发投资者对 AI 监管加强、数据中心建设放缓的担忧。\n当地时间周四，美国科技股遭遇大规模抛售，华尔街股票市值单日蒸发约 3.2 万亿美元（约合人民币 22.7 万亿元）。纳斯达克综合指数暴跌 5.52%，创下自 2025 年 4 月以来最大单日跌幅，较 ",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "解读丨王腾创业一年，正把小米模式搬进卧室",
+        "link": "https://www.leiphone.com/category/weiwu/93Xb1SiXL97SxUkH.html",
+        "description": "手机行业过去的最强“话题制造机”，这次没聊手机。作者丨陈玘凡编辑丨吴优2026年10月29日，北京嘉瑞文化中心二楼。王腾站在台上，手里拿着一枚戒指。这一天，距离他正式离开小米，刚过去一年零五十天。手机行业曾经最会制造话题的市场操盘手之一，这次没有讲手机，而是以今日宜休之名发布了两个最&quot;安静&quot;的产品：一枚智能戒指，一张以床笠形态加装在床上的温控系统。但问题是：在智能戒指已经杀成红",
+        "detail": "手机行业过去的最强“话题制造机”，这次没聊手机。作者丨陈玘凡编辑丨吴优2026年10月29日，北京嘉瑞文化中心二楼。王腾站在台上，手里拿着一枚戒指。这一天，距离他正式离开小米，刚过去一年零五十天。手机行业曾经最会制造话题的市场操盘手之一，这次没有讲手机，而是以今日宜休之名发布了两个最&quot;安静&quot;的产品：一枚智能戒指，一张以床笠形态加装在床上的温控系统。但问题是：在智能戒指已经杀成红",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "解读丨融资 2 亿，这家 E-bike 公司凭什么押注户外新品类",
+        "link": "https://www.leiphone.com/category/weiwu/ozMqvnoWJ6l3FAhl.html",
+        "description": "VELOTRIC&nbsp;正在研发外骨骼和高尔夫球车。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀获悉，E-bike 品牌 VELOTRIC 已完成 C 轮融资，规模约 2 亿元人民币，投资方为国寿股权，琥珀资本跟投，老股东追投。VELOTRIC 于 2021年成立，目前在北美有超1600家线下经销商，品牌累计出货量已超过25万台。2026 年前三季度，以销售额为基准，VELOTRIC 已成为北美 E-b",
+        "detail": "VELOTRIC&nbsp;正在研发外骨骼和高尔夫球车。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀获悉，E-bike 品牌 VELOTRIC 已完成 C 轮融资，规模约 2 亿元人民币，投资方为国寿股权，琥珀资本跟投，老股东追投。VELOTRIC 于 2021年成立，目前在北美有超1600家线下经销商，品牌累计出货量已超过25万台。2026 年前三季度，以销售额为基准，VELOTRIC 已成为北美 E-b",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "雷锋网"
+      },
+      {
+        "title": "腾讯20年老兵创业 AI 体感主机，融资超六千万",
+        "link": "https://www.leiphone.com/category/weiwu/8xihmnpkWWIHsn9G.html",
+        "description": "创始人刘丹曾任光子工作室群副总经理、《斗战神》制作人。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，AI 体感成长主机公司创想悦动已完成种子轮融资，投资方为创维战投、创维数字，总金额约六千万元。创想悦动目前已经开启新一轮融资，意在进行更多后续内容开发、东南亚海外市场拓展、线下渠道铺设及下一代产品预研。创想悦动创始人刘丹曾任光子工作室群副总经理、天行工作室总经理，于 2003 年加入腾讯互娱，参与见证",
+        "detail": "创始人刘丹曾任光子工作室群副总经理、《斗战神》制作人。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，AI 体感成长主机公司创想悦动已完成种子轮融资，投资方为创维战投、创维数字，总金额约六千万元。创想悦动目前已经开启新一轮融资，意在进行更多后续内容开发、东南亚海外市场拓展、线下渠道铺设及下一代产品预研。创想悦动创始人刘丹曾任光子工作室群副总经理、天行工作室总经理，于 2003 年加入腾讯互娱，参与见证",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "雷锋网"
+      },
+      {
+        "title": "创维孵化外骨骼，争夺银发硬件入口",
+        "link": "https://www.leiphone.com/category/weiwu/MUNn2Q3G5UpPfzl0.html",
+        "description": "VR、眼镜之后，创维一年前就已布局外骨骼。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，创维正在孵化一款外骨骼产品，主打老年助行场景。外骨骼团队来自创维集团内部孵化，隶属于深圳创维数字技术有限公司创新研究院，但该产品不会使用创维品牌。该项目目前仍处测试阶段，尚未正式量产发布，在内部已经迭代多版。知情人士告诉雷峰网·鲸犀，创维在一年前就有研发外骨骼的打算。产品定位上，该外骨骼面向银发群体，帮助其在行走",
+        "detail": "VR、眼镜之后，创维一年前就已布局外骨骼。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，创维正在孵化一款外骨骼产品，主打老年助行场景。外骨骼团队来自创维集团内部孵化，隶属于深圳创维数字技术有限公司创新研究院，但该产品不会使用创维品牌。该项目目前仍处测试阶段，尚未正式量产发布，在内部已经迭代多版。知情人士告诉雷峰网·鲸犀，创维在一年前就有研发外骨骼的打算。产品定位上，该外骨骼面向银发群体，帮助其在行走",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "解读 | 大疆老兵研发运动硬件，如何一年做出两款产品？",
+        "link": "https://www.leiphone.com/category/weiwu/NsNahCY0EA1kICK3.html",
+        "description": "成立两年发布两款产品，累计融资千万美元。作者丨陈玘凡&nbsp;编辑丨吴优侯昊翔、曹曦、张津剑，三位 85 后顶流投资人的名字，出现在同一份股东名单上，本身就是一件值得琢磨的事。侯昊翔，厚雪资本创始合伙人兼总裁，福布斯 2024 创投人 100 榜上榜者，主导过壁仞科技等明星项目；曹曦创办砺思资本（Monolith），投出了月之暗面、DeepSeek；张津剑与绿洲资本投出过MiniMax、逐际动力",
+        "detail": "成立两年发布两款产品，累计融资千万美元。作者丨陈玘凡&nbsp;编辑丨吴优侯昊翔、曹曦、张津剑，三位 85 后顶流投资人的名字，出现在同一份股东名单上，本身就是一件值得琢磨的事。侯昊翔，厚雪资本创始合伙人兼总裁，福布斯 2024 创投人 100 榜上榜者，主导过壁仞科技等明星项目；曹曦创办砺思资本（Monolith），投出了月之暗面、DeepSeek；张津剑与绿洲资本投出过MiniMax、逐际动力",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "解读丨前飞书 CMO 创业，为何用「水晶球」赌一个AI入口？",
+        "link": "https://www.leiphone.com/category/weiwu/MiJKpPLqwFGB14X7.html",
+        "description": "这是梅花创投吴世春10分钟敲定的一笔投资。作者丨陈玘凡编辑丨吴优雷峰网・鲸犀独家获悉，前字节飞书 CMO 孙峰创办的 AI 情绪科技品牌 Ora-Orb，已完成累计数千万元融资。由梅花创投领投，知名产业资本跟投。向阳资本担任长期独家财务顾问。新一轮融资同步启动，目标投后估值 2 亿元人民币。孙峰对雷峰网·鲸犀分享：去年与梅花创投的吴世春见面，不到 10 分钟，吴世春就敲定了对这家新公司的融资。Or",
+        "detail": "这是梅花创投吴世春10分钟敲定的一笔投资。作者丨陈玘凡编辑丨吴优雷峰网・鲸犀独家获悉，前字节飞书 CMO 孙峰创办的 AI 情绪科技品牌 Ora-Orb，已完成累计数千万元融资。由梅花创投领投，知名产业资本跟投。向阳资本担任长期独家财务顾问。新一轮融资同步启动，目标投后估值 2 亿元人民币。孙峰对雷峰网·鲸犀分享：去年与梅花创投的吴世春见面，不到 10 分钟，吴世春就敲定了对这家新公司的融资。Or",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-11-05",
     "weekday": "星期四",
     "summary": "今日共收录 54 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, TLDR AI, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
