@@ -2,8 +2,26 @@
   {
     "date": "2026-11-07",
     "weekday": "星期六",
-    "summary": "今日共收录 16 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 雷锋网。",
+    "summary": "今日共收录 26 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+        "link": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+        "description": "\n        Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent d",
+        "detail": "\n        Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent d",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
+        "link": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+        "description": "\n        OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turn",
+        "detail": "\n        OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turn",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "The Decoder"
+      },
       {
         "title": "Crusoe sells troubled Wyoming data center project to Google",
         "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -12,6 +30,78 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "GPT‑6 Cyber",
+        "link": "https://www.producthunt.com/products/openai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Translucent AI",
+        "link": "https://www.producthunt.com/products/translucent-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentTM",
+        "link": "https://www.producthunt.com/products/agenttm",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Tobira Site Agent",
+        "link": "https://www.producthunt.com/products/tobira-ai",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+        "link": "https://www.qbitai.com/2026/11/508264.html",
+        "description": "苦单Session久矣，两大Agent玩家不谋而合。",
+        "detail": "苦单Session久矣，两大Agent玩家不谋而合。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "AGENTS.MD，危险危险危险！！！",
+        "link": "https://www.qbitai.com/2026/11/508244.html",
+        "description": "全新的电脑病毒",
+        "detail": "全新的电脑病毒",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "",
+        "link": "https://www.qbitai.com/2026/11/508236.html",
+        "description": "中国版cosmos再交卷",
+        "detail": "中国版cosmos再交卷",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+        "link": "https://www.qbitai.com/2026/11/508196.html",
+        "description": "RSI不可能无限快",
+        "detail": "RSI不可能无限快",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
       },
       {
         "title": "OpenAI全新GPT-6登场！强到不敢公开",
@@ -140,12 +230,12 @@
         "source": "雷锋网"
       },
       {
-        "title": "The AI sell-off compared to well-known stock market crashes",
-        "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-        "description": "[HN] +49 points · 39 comments · by hubraumhugo",
-        "detail": "[HN] +49 points · 39 comments · by hubraumhugo",
-        "tag": "行业动态",
-        "sort_score": 58,
+        "title": "The Components of Agent Memory",
+        "link": "https://www.anthropic.com/research/components-of-agent-memory",
+        "description": "[HN] +51 points · 27 comments · by geoffbp",
+        "detail": "[HN] +51 points · 27 comments · by geoffbp",
+        "tag": "Agent 进展",
+        "sort_score": 88,
         "source": "hackernews"
       }
     ]
