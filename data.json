@@ -1,5 +1,156 @@
 [
   {
+    "date": "2026-11-07",
+    "weekday": "星期六",
+    "summary": "今日共收录 16 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园, 雷锋网。",
+    "news": [
+      {
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "description": "The deal highlights the challenges of developing massive AI data centers.",
+        "detail": "The deal highlights the challenges of developing massive AI data centers.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "OpenAI全新GPT-6登场！强到不敢公开",
+        "link": "https://aiera.com.cn/2026/11/07/other/admin/122763/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e5%85%a8%e6%96%b0gpt-6%e7%99%bb%e5%9c%ba%ef%bc%81%e5%bc%ba%e5%88%b0%e4%b8%8d%e6%95%a2%e5%85%ac%e5%bc%80/",
+        "description": "就在刚刚，OpenAI亲手放出了一个「超级AI黑客」！ 全新模型GPT-6 Cyber，今天正式登场。",
+        "detail": "就在刚刚，OpenAI亲手放出了一个「超级AI黑客」！ 全新模型GPT-6 Cyber，今天正式登场。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6.2 Astra逼近！OpenAI内部模型爆了948个Linux漏洞",
+        "link": "https://aiera.com.cn/2026/11/07/other/admin/122735/gpt-6-2-astra%e9%80%bc%e8%bf%91%ef%bc%81openai%e5%86%85%e9%83%a8%e6%a8%a1%e5%9e%8b%e7%88%86%e4%ba%86948%e4%b8%aalinux%e6%bc%8f%e6%b4%9e/",
+        "description": "GPT-6.2 Astra 和 GPT-6.2 Sol ，疑似本周五重磅发布！ Google Cloud的控制台配额页面，已经出现这两个模型的选项了。",
+        "detail": "GPT-6.2 Astra 和 GPT-6.2 Sol ，疑似本周五重磅发布！ Google Cloud的控制台配额页面，已经出现这两个模型的选项了。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "DeepSeek砸出「真OS」！140万日活狂烧92万亿Token",
+        "link": "https://aiera.com.cn/2026/11/07/other/admin/122710/deepseek%e7%a0%b8%e5%87%ba%e3%80%8c%e7%9c%9fos%e3%80%8d%ef%bc%81140%e4%b8%87%e6%97%a5%e6%b4%bb%e7%8b%82%e7%83%a792%e4%b8%87%e4%ba%bftoken/",
+        "description": "仅仅一个月余，DeepSeek Harness 交出了一份恐怖的成绩单： 日均活跃用户已过140万，月活跃人数 548万。",
+        "detail": "仅仅一个月余，DeepSeek Harness 交出了一份恐怖的成绩单： 日均活跃用户已过140万，月活跃人数 548万。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "美股一夜崩盘，Anthropic估值暴跌至5000亿！搞ASI或被判20年",
+        "link": "https://aiera.com.cn/2026/11/07/other/admin/122695/%e7%be%8e%e8%82%a1%e4%b8%80%e5%a4%9c%e5%b4%a9%e7%9b%98%ef%bc%8canthropic%e4%bc%b0%e5%80%bc%e6%9a%b4%e8%b7%8c%e8%87%b35000%e4%ba%bf%ef%bc%81%e6%90%9easi%e6%88%96%e8%a2%ab%e5%88%a420%e5%b9%b4/",
+        "description": "今天早上醒来，无数人的朋友圈和群都被满屏的「暴跌」、「崩盘」刷屏了。 大家奔走相告：昨夜，美股遭遇了史诗级的血洗。",
+        "detail": "今天早上醒来，无数人的朋友圈和群都被满屏的「暴跌」、「崩盘」刷屏了。 大家奔走相告：昨夜，美股遭遇了史诗级的血洗。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "新智元"
+      },
+      {
+        "title": "美股一夜血洗2.8万亿！硅谷顶级VC曝光：开源模型支出九成流向中国",
+        "link": "https://aiera.com.cn/2026/11/07/other/admin/122668/%e7%be%8e%e8%82%a1%e4%b8%80%e5%a4%9c%e8%a1%80%e6%b4%972-8%e4%b8%87%e4%ba%bf%ef%bc%81%e7%a1%85%e8%b0%b7%e9%a1%b6%e7%ba%a7vc%e6%9b%9d%e5%85%89%ef%bc%9a%e5%bc%80%e6%ba%90%e6%a8%a1%e5%9e%8b%e6%94%af/",
+        "description": "今天凌晨，美股被血洗了。 纳斯达克指数暴跌5.52%，创下2025年4月以来最大单日跌幅，正式跌入技术性修正区间。费城半导体指数狂泻12.3%，这是2020年3月疫情崩盘以来…",
+        "detail": "今天凌晨，美股被血洗了。 纳斯达克指数暴跌5.52%，创下2025年4月以来最大单日跌幅，正式跌入技术性修正区间。费城半导体指数狂泻12.3%，这是2020年3月疫情崩盘以来…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Gemini Omini 1.2登顶了！360p视频每秒0.07美元，还能升4K",
+        "link": "https://aiera.com.cn/2026/11/07/other/admin/122654/%e5%88%9a%e5%88%9a%ef%bc%8cgemini-omini-1-2%e7%99%bb%e9%a1%b6%e4%ba%86%ef%bc%81360p%e8%a7%86%e9%a2%91%e6%af%8f%e7%a7%920-07%e7%be%8e%e5%85%83%ef%bc%8c%e8%bf%98%e8%83%bd%e5%8d%874k/",
+        "description": "刚刚，Google DeepMind发布了新一代视频生成模型：Gemini Omni 1.2 Flash。",
+        "detail": "刚刚，Google DeepMind发布了新一代视频生成模型：Gemini Omni 1.2 Flash。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "开源版Super-agent降临，狂揽8万星！已跑通24小时全自动运营公司",
+        "link": "https://aiera.com.cn/2026/11/07/other/admin/122634/%e5%bc%80%e6%ba%90%e7%89%88super-agent%e9%99%8d%e4%b8%b4%ef%bc%8c%e7%8b%82%e6%8f%bd8%e4%b8%87%e6%98%9f%ef%bc%81%e5%b7%b2%e8%b7%91%e9%80%9a24%e5%b0%8f%e6%97%b6%e5%85%a8%e8%87%aa%e5%8a%a8%e8%bf%90/",
+        "description": "10 月 31 日，DeepSeek Harness 团队发表长文《Super-agent 设计探索》，迅速在 AI 圈刷屏。",
+        "detail": "10 月 31 日，DeepSeek Harness 团队发表长文《Super-agent 设计探索》，迅速在 AI 圈刷屏。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "EMNLP’26|AI机器人协同设计智能体：每一次试错都留下经验",
+        "link": "https://aiera.com.cn/2026/11/07/other/admin/122602/emnlp26ai%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%8d%8f%e5%90%8c%e8%ae%be%e8%ae%a1%e6%99%ba%e8%83%bd%e4%bd%93%ef%bc%9a%e6%af%8f%e4%b8%80%e6%ac%a1%e8%af%95%e9%94%99%e9%83%bd%e7%95%99%e4%b8%8b%e7%bb%8f/",
+        "description": "AI能否像工程师一样，在反复设计机器人时积累经验？ 机器人的身体结构与运动控制紧密相连：驱动器放在哪里、身体怎样保持稳定，都需要通过控制训练与仿真反复验证。这些试错代价高昂，其…",
+        "detail": "AI能否像工程师一样，在反复设计机器人时积累经验？ 机器人的身体结构与运动控制紧密相连：驱动器放在哪里、身体怎样保持稳定，都需要通过控制训练与仿真反复验证。这些试错代价高昂，其…",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "重磅！Claude破解首个原核巨型蛋白，40年神秘结构现真身",
+        "link": "https://aiera.com.cn/2026/11/07/other/admin/122584/%e9%87%8d%e7%a3%85%ef%bc%81claude%e7%a0%b4%e8%a7%a3%e9%a6%96%e4%b8%aa%e5%8e%9f%e6%a0%b8%e5%b7%a8%e5%9e%8b%e8%9b%8b%e7%99%bd%ef%bc%8c40%e5%b9%b4%e7%a5%9e%e7%a7%98%e7%bb%93%e6%9e%84%e7%8e%b0%e7%9c%9f/",
+        "description": "Claude一夜之间，改写了生命编程。 今天，Anthropic又一次跨界生物学，带着Claude向困扰人类40年的神秘生命结构发起反攻！",
+        "detail": "Claude一夜之间，改写了生命编程。 今天，Anthropic又一次跨界生物学，带着Claude向困扰人类40年的神秘生命结构发起反攻！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "link": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "博世用豆包工作：让工程师少搬信息，多解问题",
+        "link": "http://www.geekpark.net/news/373643",
+        "description": "\n        &nbsp;\n头图来源：豆包工作\n客户在群里抛出一个问题，到工程师真正坐下来分析故障，中间隔着多少工作？\n在博世的某研发事业部，答案曾经是：找齐散落在各个群和私聊里的消息，按多个维度整理成完整描述，凭经验判断该找谁，接着再开会，再把结论写成报告。\n故障分析还没开始，大半天已经过去了。\n如今，这中间的一大段路，工程师交给了豆包工作和豆包工作伙伴。\n博世的尝试：让 AI 接手沟通之后",
+        "detail": "\n        &nbsp;\n头图来源：豆包工作\n客户在群里抛出一个问题，到工程师真正坐下来分析故障，中间隔着多少工作？\n在博世的某研发事业部，答案曾经是：找齐散落在各个群和私聊里的消息，按多个维度整理成完整描述，凭经验判断该找谁，接着再开会，再把结论写成报告。\n故障分析还没开始，大半天已经过去了。\n如今，这中间的一大段路，工程师交给了豆包工作和豆包工作伙伴。\n博世的尝试：让 AI 接手沟通之后",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "办公提效之后，企业级 Agent 开始对经营结果负责",
+        "link": "http://www.geekpark.net/news/373642",
+        "description": "\n        头图来源：腾讯云\n过去一年，智能体是 AI 行业最受关注的方向之一。\n从查资料、写文档到处理日常办公事务，桌面办公智能体完成了第一轮普及，办公提效的价值已经成为行业共识。但当 AI 进一步走向企业核心业务，搭出一个智能体不难，难的是让它真正跑进业务流程，适配复杂的系统、权限与规则，持续产出可量化的经营价值。\n在腾讯云副总裁吴永坚看来，未来企业级智能体的核心赛道，对话式的桌面办公 ",
+        "detail": "\n        头图来源：腾讯云\n过去一年，智能体是 AI 行业最受关注的方向之一。\n从查资料、写文档到处理日常办公事务，桌面办公智能体完成了第一轮普及，办公提效的价值已经成为行业共识。但当 AI 进一步走向企业核心业务，搭出一个智能体不难，难的是让它真正跑进业务流程，适配复杂的系统、权限与规则，持续产出可量化的经营价值。\n在腾讯云副总裁吴永坚看来，未来企业级智能体的核心赛道，对话式的桌面办公 ",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
+        "title": "马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道",
+        "link": "http://www.geekpark.net/news/373639",
+        "description": "\n        \n电动皮卡中道崩殂！马斯克宣布 Cybertruck 明年逐步停产：销量仅达预期一成\n11 月 6 日消息，特斯拉 CEO 马斯克在社交平台 X 发文表示，公司将于明年年中前后，逐步收尾得州超级工厂的 Cybertruck 电动皮卡生产，为 Cybercab 车型扩产腾出产能空间。\nCybertruck 首席工程师随后回应称，Cybertruck 是特斯拉研发新技术的重要载体，其",
+        "detail": "\n        \n电动皮卡中道崩殂！马斯克宣布 Cybertruck 明年逐步停产：销量仅达预期一成\n11 月 6 日消息，特斯拉 CEO 马斯克在社交平台 X 发文表示，公司将于明年年中前后，逐步收尾得州超级工厂的 Cybertruck 电动皮卡生产，为 Cybercab 车型扩产腾出产能空间。\nCybertruck 首席工程师随后回应称，Cybertruck 是特斯拉研发新技术的重要载体，其",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种",
+        "link": "https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html",
+        "description": "活动焦点：· 百图生科主办、港投公司支持的第三届峰会2026年11月6日开幕，汇聚约300名科研、产业及投资界代表，探讨人工智能与生命科学的融合发展· 百图生科InnoHub分别与大学、科企及投资机构合作，以AI生物计算聚焦乳癌及中医药研究、农业育种、研发与产业配套，包括与香港大学推进「乳腺癌虚拟细胞大模型」项目，以及与香港浸会大学筹建「AI中医药联合实验室」；合作网络延伸至日本、新加坡及「一带一",
+        "detail": "活动焦点：· 百图生科主办、港投公司支持的第三届峰会2026年11月6日开幕，汇聚约300名科研、产业及投资界代表，探讨人工智能与生命科学的融合发展· 百图生科InnoHub分别与大学、科企及投资机构合作，以AI生物计算聚焦乳癌及中医药研究、农业育种、研发与产业配套，包括与香港大学推进「乳腺癌虚拟细胞大模型」项目，以及与香港浸会大学筹建「AI中医药联合实验室」；合作网络延伸至日本、新加坡及「一带一",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "The AI sell-off compared to well-known stock market crashes",
+        "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+        "description": "[HN] +49 points · 39 comments · by hubraumhugo",
+        "detail": "[HN] +49 points · 39 comments · by hubraumhugo",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-11-06",
     "weekday": "星期五",
     "summary": "今日共收录 55 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, TechCrunch AI, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
