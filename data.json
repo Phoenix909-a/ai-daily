@@ -2,8 +2,44 @@
   {
     "date": "2026-11-08",
     "weekday": "星期日",
-    "summary": "今日共收录 13 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 爱范儿。",
+    "summary": "今日共收录 25 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+        "link": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+        "description": "\n        Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 2",
+        "detail": "\n        Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 2",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Agent Clan",
+        "link": "https://www.producthunt.com/products/agent-clan",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "GPT‑6 Cyber",
+        "link": "https://www.producthunt.com/products/openai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "资本正在撤离“世界模型”",
+        "link": "https://www.qbitai.com/2026/11/508466.html",
+        "description": "没有永远的夏天",
+        "detail": "没有永远的夏天",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
       {
         "title": "A\\最强Model 4首次曝光！RSI狂飙2倍速",
         "link": "https://aiera.com.cn/2026/11/08/other/admin/122943/a%e6%9c%80%e5%bc%bamodel-4%e9%a6%96%e6%ac%a1%e6%9b%9d%e5%85%89%ef%bc%81rsi%e7%8b%82%e9%a3%992%e5%80%8d%e9%80%9f/",
@@ -86,6 +122,24 @@
         "source": "新智元"
       },
       {
+        "title": "AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+        "link": "https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访",
+        "link": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
         "link": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -113,12 +167,66 @@
         "source": "爱范儿"
       },
       {
+        "title": "为什么「陪伴」，注定是 Personal AI 的核心",
+        "link": "http://www.geekpark.net/news/373653",
+        "description": "\n        \n作者｜宇航猿\n编辑｜靖宇\n\n最近这一波 Personal AI 实在太火了，我也注册了一个 Muse 体验了一下。\n整个体验下来，我感觉 Muse 的能力实在一般，远没到让人惊叹的地步。但奇怪的是，它确实带来了一种真切的陪伴感。这种陪伴感，甚至直接改变了我的使用习惯，让我总是忍不住想找它聊聊，哪怕只是把最琐碎的需求丢给它。\n就在本周，Muse 又往前迈了一步，正式上线了实时语音",
+        "detail": "\n        \n作者｜宇航猿\n编辑｜靖宇\n\n最近这一波 Personal AI 实在太火了，我也注册了一个 Muse 体验了一下。\n整个体验下来，我感觉 Muse 的能力实在一般，远没到让人惊叹的地步。但奇怪的是，它确实带来了一种真切的陪伴感。这种陪伴感，甚至直接改变了我的使用习惯，让我总是忍不住想找它聊聊，哪怕只是把最琐碎的需求丢给它。\n就在本周，Muse 又往前迈了一步，正式上线了实时语音",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "创业者做 Personal Agent，有没有一线生机？",
+        "link": "http://www.geekpark.net/news/373650",
+        "description": "\n        最近一阶段，Personal Agent 很热。有趣的是，这个概念迅速火爆又迅速有了一个共识，几波讨论下来大家的观点似乎是： Personal Agent 的机会是大厂的，创业者基本没戏。\n虽然一般情况下，「入口级机会归大厂」确实是大概率发生的事情，但 Personal Agent 真的是个「入口」的问题吗？真的意味着「这件事里没有创业者的位置」吗？\n这依旧值得认真聊一聊。\n&n",
+        "detail": "\n        最近一阶段，Personal Agent 很热。有趣的是，这个概念迅速火爆又迅速有了一个共识，几波讨论下来大家的观点似乎是： Personal Agent 的机会是大厂的，创业者基本没戏。\n虽然一般情况下，「入口级机会归大厂」确实是大概率发生的事情，但 Personal Agent 真的是个「入口」的问题吗？真的意味着「这件事里没有创业者的位置」吗？\n这依旧值得认真聊一聊。\n&n",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
+        "title": "收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案",
+        "link": "http://www.geekpark.net/news/373649",
+        "description": "\n        \n收购 EA 之后，银湖资本与沙特公共投资基金据报出价 250 亿美元收购 Unity\n据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金&mdash;&mdash;公共投资基金（PIF）组成的投资者财团，已向 Unity Software 提出收购要约，对这家公司的估值约为 250 亿美元。据悉，",
+        "detail": "\n        \n收购 EA 之后，银湖资本与沙特公共投资基金据报出价 250 亿美元收购 Unity\n据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金&mdash;&mdash;公共投资基金（PIF）组成的投资者财团，已向 Unity Software 提出收购要约，对这家公司的估值约为 250 亿美元。据悉，",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "极客公园"
+      },
+      {
+        "title": "终端侧AI：从单点应用走向智能体体验",
+        "link": "https://www.leiphone.com/category/chips/aOKsujJpdDvRKj5S.html",
+        "description": "发言人：高通公司AI产品技术中国区负责人&nbsp;万卫星2026年11月7日，上海&nbsp;终端侧AI发展到了什么阶段？终端侧AI经过过去3至4年的发展，正在迎来一个比较重要的变化节点。从应用来看，终端侧AI并不是从大模型开始的。影像其实是AI较早在终端落地的领域之一。近年来手机拍照效果不断提升，背后就有终端侧AI技术的推动。如今，终端侧AI已经进一步拓展到简单问答、聊天、图像生成与处理，以及",
+        "detail": "发言人：高通公司AI产品技术中国区负责人&nbsp;万卫星2026年11月7日，上海&nbsp;终端侧AI发展到了什么阶段？终端侧AI经过过去3至4年的发展，正在迎来一个比较重要的变化节点。从应用来看，终端侧AI并不是从大模型开始的。影像其实是AI较早在终端落地的领域之一。近年来手机拍照效果不断提升，背后就有终端侧AI技术的推动。如今，终端侧AI已经进一步拓展到简单问答、聊天、图像生成与处理，以及",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "雷锋网"
+      },
+      {
         "title": "Goodbye Claude, Hello Pi",
         "link": "https://caleb.software/posts/claude-to-pi.html",
-        "description": "[HN] +131 points · 75 comments · by karagenit",
-        "detail": "[HN] +131 points · 75 comments · by karagenit",
+        "description": "[HN] +339 points · 202 comments · by karagenit",
+        "detail": "[HN] +339 points · 202 comments · by karagenit",
         "tag": "模型发布",
         "sort_score": 90,
+        "source": "hackernews"
+      },
+      {
+        "title": "Agent memory needs its OpenTelemetry moment",
+        "link": "https://www.lorekit.io/blog/open-agent-memory-format",
+        "description": "[HN] +44 points · 31 comments · by mthines",
+        "detail": "[HN] +44 points · 31 comments · by mthines",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      },
+      {
+        "title": "Show HN: LLM weight editing tool made by a 15-year-old",
+        "link": "https://github.com/Miyamoto-Renya/LaplacesScissors",
+        "description": "[HN] +9 points · 0 comments · by 032renya",
+        "detail": "[HN] +9 points · 0 comments · by 032renya",
+        "tag": "工具与生态",
+        "sort_score": 76,
         "source": "hackernews"
       }
     ]
