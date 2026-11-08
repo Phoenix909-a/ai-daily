@@ -1,5 +1,129 @@
 [
   {
+    "date": "2026-11-08",
+    "weekday": "星期日",
+    "summary": "今日共收录 13 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 爱范儿。",
+    "news": [
+      {
+        "title": "A\\最强Model 4首次曝光！RSI狂飙2倍速",
+        "link": "https://aiera.com.cn/2026/11/08/other/admin/122943/a%e6%9c%80%e5%bc%bamodel-4%e9%a6%96%e6%ac%a1%e6%9b%9d%e5%85%89%ef%bc%81rsi%e7%8b%82%e9%a3%992%e5%80%8d%e9%80%9f/",
+        "description": "Anthropic藏得极深的神秘「Model 4」，曝光了！ 9到10月秘密练完，内部综合能力指数（AECI）直接飙上178.6的逆天高分，现有的考卷已经快要压不住它了。",
+        "detail": "Anthropic藏得极深的神秘「Model 4」，曝光了！ 9到10月秘密练完，内部综合能力指数（AECI）直接飙上178.6的逆天高分，现有的考卷已经快要压不住它了。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "奥特曼，改名「内存曼」！",
+        "link": "https://aiera.com.cn/2026/11/08/other/admin/122921/%e5%a5%a5%e7%89%b9%e6%9b%bc%ef%bc%8c%e6%94%b9%e5%90%8d%e3%80%8c%e5%86%85%e5%ad%98%e6%9b%bc%e3%80%8d%ef%bc%81/",
+        "description": "Sam Altman没了。 现在X上，只剩一位「Ram Altman」。 就在刚刚，OpenAI CEO奥特曼把自己名字从Sam Altman改成了Ram Altman。",
+        "detail": "Sam Altman没了。 现在X上，只剩一位「Ram Altman」。 就在刚刚，OpenAI CEO奥特曼把自己名字从Sam Altman改成了Ram Altman。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "主人睡了！凌晨4点Claude停下机械臂，嫌颜色不对自己兑了一个",
+        "link": "https://aiera.com.cn/2026/11/08/other/admin/122903/%e4%b8%bb%e4%ba%ba%e7%9d%a1%e4%ba%86%ef%bc%81%e5%87%8c%e6%99%a84%e7%82%b9claude%e5%81%9c%e4%b8%8b%e6%9c%ba%e6%a2%b0%e8%87%82%ef%bc%8c%e5%ab%8c%e9%a2%9c%e8%89%b2%e4%b8%8d%e5%af%b9%e8%87%aa%e5%b7%b1/",
+        "description": "主人睡了，Claude却在凌晨4点，给自己调起了颜料。 11月6日深夜，柏林。开发者nil（@dhvanil）睡前给家里的Claude留了一句话：「画一棵秋天的树。」",
+        "detail": "主人睡了，Claude却在凌晨4点，给自己调起了颜料。 11月6日深夜，柏林。开发者nil（@dhvanil）睡前给家里的Claude留了一句话：「画一棵秋天的树。」",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude终于学会做梦了！Dreaming机制让金鱼脑进化成最强大脑",
+        "link": "https://aiera.com.cn/2026/11/08/other/admin/122890/claude%e7%bb%88%e4%ba%8e%e5%ad%a6%e4%bc%9a%e5%81%9a%e6%a2%a6%e4%ba%86%ef%bc%81dreaming%e6%9c%ba%e5%88%b6%e8%ae%a9%e9%87%91%e9%b1%bc%e8%84%91%e8%bf%9b%e5%8c%96%e6%88%90%e6%9c%80%e5%bc%ba%e5%a4%a7/",
+        "description": "就在刚刚，Anthropic发布了一篇博客——Claude学会了做梦！ 利用下线后的闲置算力，Claude学会在虚拟的「梦境」中，疯狂回放白天的交互日志。",
+        "detail": "就在刚刚，Anthropic发布了一篇博客——Claude学会了做梦！ 利用下线后的闲置算力，Claude学会在虚拟的「梦境」中，疯狂回放白天的交互日志。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "全民RSI时代来了？第一批中国玩家，已经在家让AI造AI",
+        "link": "https://aiera.com.cn/2026/11/08/other/admin/122863/%e5%85%a8%e6%b0%91rsi%e6%97%b6%e4%bb%a3%e6%9d%a5%e4%ba%86%ef%bc%9f%e7%ac%ac%e4%b8%80%e6%89%b9%e4%b8%ad%e5%9b%bd%e7%8e%a9%e5%ae%b6%ef%bc%8c%e5%b7%b2%e7%bb%8f%e5%9c%a8%e5%ae%b6%e8%ae%a9ai%e9%80%a0ai/",
+        "description": "这两天，MIT的一篇「权重空间编程」博客在AI圈刷屏了。 实验里，GPT-6 Astra自己写Python脚本排查诊断，只改了一个0.8B小模型里0.016%的权重，就治好了它…",
+        "detail": "这两天，MIT的一篇「权重空间编程」博客在AI圈刷屏了。 实验里，GPT-6 Astra自己写Python脚本排查诊断，只改了一个0.8B小模型里0.016%的权重，就治好了它…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "破天荒！物理学「教皇」威滕33页独作致敬 AI，Claude提出关键构造",
+        "link": "https://aiera.com.cn/2026/11/08/other/admin/122829/%e7%a0%b4%e5%a4%a9%e8%8d%92%ef%bc%81%e7%89%a9%e7%90%86%e5%ad%a6%e3%80%8c%e6%95%99%e7%9a%87%e3%80%8d%e5%a8%81%e6%bb%9533%e9%a1%b5%e7%8b%ac%e4%bd%9c%e8%87%b4%e6%95%ac-ai%ef%bc%8cclaude%e6%8f%90%e5%87%ba/",
+        "description": "物理学「教皇」、唯一一位拿到数学界最高奖菲尔兹奖的物理学家威滕，公开致谢AI。 在最近的预印本论文致谢中，威滕写道：",
+        "detail": "物理学「教皇」、唯一一位拿到数学界最高奖菲尔兹奖的物理学家威滕，公开致谢AI。 在最近的预印本论文致谢中，威滕写道：",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "NeurIPS’26 | 如何减少共情推理中的错误传播？",
+        "link": "https://aiera.com.cn/2026/11/08/other/admin/122814/neurips26-%e5%a6%82%e4%bd%95%e5%87%8f%e5%b0%91%e5%85%b1%e6%83%85%e6%8e%a8%e7%90%86%e4%b8%ad%e7%9a%84%e9%94%99%e8%af%af%e4%bc%a0%e6%92%ad%ef%bc%9f/",
+        "description": "多阶段推理中，局部误判可能成为后续判断的前提，并持续影响后续步骤。 这一问题在共情语音对话中尤为突出：感知、心理状态推断与回应生成紧密关联，早期偏差可能最终导致对说话人需求的误…",
+        "detail": "多阶段推理中，局部误判可能成为后续判断的前提，并持续影响后续步骤。 这一问题在共情语音对话中尤为突出：感知、心理状态推断与回应生成紧密关联，早期偏差可能最终导致对说话人需求的误…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "无预警！OpenAI 突然大规模封号",
+        "link": "https://aiera.com.cn/2026/11/08/other/admin/122801/%e6%97%a0%e9%a2%84%e8%ad%a6%ef%bc%81openai-%e7%aa%81%e7%84%b6%e5%a4%a7%e8%a7%84%e6%a8%a1%e5%b0%81%e5%8f%b7/",
+        "description": "一觉醒来，多个GPT账号被封号了！ OpenAI突然开启大屠杀模式，没有任何邮件通知，直接把账号彻底删除注销。",
+        "detail": "一觉醒来，多个GPT账号被封号了！ OpenAI突然开启大屠杀模式，没有任何邮件通知，直接把账号彻底删除注销。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "A社超强模型曝光！三天攻破量子计算圣杯，Agent Harness立大功",
+        "link": "https://aiera.com.cn/2026/11/08/other/admin/122779/a%e7%a4%be%e8%b6%85%e5%bc%ba%e6%a8%a1%e5%9e%8b%e6%9b%9d%e5%85%89%ef%bc%81%e4%b8%89%e5%a4%a9%e6%94%bb%e7%a0%b4%e9%87%8f%e5%ad%90%e8%ae%a1%e7%ae%97%e5%9c%a3%e6%9d%af%ef%bc%8cagent-harness%e7%ab%8b/",
+        "description": "Anthropic还有大招！ 历史时刻再现：Claude 内部模型攻克了量子计算领域 18 年悬赏猜想。",
+        "detail": "Anthropic还有大招！ 历史时刻再现：Claude 内部模型攻克了量子计算领域 18 年悬赏猜想。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "link": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "link": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+        "link": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "磁带在 AI 时代迎来了第二春。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "磁带在 AI 时代迎来了第二春。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "Goodbye Claude, Hello Pi",
+        "link": "https://caleb.software/posts/claude-to-pi.html",
+        "description": "[HN] +131 points · 75 comments · by karagenit",
+        "detail": "[HN] +131 points · 75 comments · by karagenit",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-11-07",
     "weekday": "星期六",
     "summary": "今日共收录 26 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园, 量子位, 雷锋网。",
