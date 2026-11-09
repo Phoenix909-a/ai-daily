@@ -1,5 +1,327 @@
 [
   {
+    "date": "2026-11-09",
+    "weekday": "星期一",
+    "summary": "今日共收录 37 条 AI 动态。 来源包括：InfoQ 中文, Simon Willison, TechCrunch AI, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+        "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+        "description": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.\n",
+        "detail": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.\n",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "The Web Is More Than Enough, by Paul Ford",
+        "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+        "description": "\n    \n        My comment on The Web Is More Than Enough, by Paul Ford &mdash; Hacker News.OK, this comment convinced me to give that a shot.\nHere's a thing I made in Three.js this morning - a Nudibran",
+        "detail": "\n    \n        My comment on The Web Is More Than Enough, by Paul Ford &mdash; Hacker News.OK, this comment convinced me to give that a shot.\nHere's a thing I made in Three.js this morning - a Nudibran",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "Hide your slop PR descriptions behind <details><summary>",
+        "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+        "description": "\n    Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on",
+        "detail": "\n    Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Simon Willison"
+      },
+      {
+        "title": "从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”",
+        "link": "https://aiera.com.cn/2026/11/09/other/admin/123090/%e4%bb%8e%e4%b8%80%e7%ac%94%e6%8a%95%e8%b5%84%e5%88%b0%e4%b8%80%e4%b8%aa%e7%94%9f%e6%80%81%ef%bc%9a%e6%b5%a6%e4%b8%9c%e5%88%9b%e6%8a%95%e6%8a%8aai%e5%88%9b%e4%b8%9a%e8%80%85%e5%b8%a6%e8%bf%9b%e4%ba%86/",
+        "description": "9月22日，张江人工智能创新小镇的一间路演厅里，二十余支极早期创业团队依次登台。这里没有太多成熟企业的标准答案：不少公司成立尚不足一年，有的还没有完整产品，更谈不上稳定营收。但…",
+        "detail": "9月22日，张江人工智能创新小镇的一间路演厅里，二十余支极早期创业团队依次登台。这里没有太多成熟企业的标准答案：不少公司成立尚不足一年，有的还没有完整产品，更谈不上稳定营收。但…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "投早、投小、投硬科技：浦东是AI创业者绕不开的科技梦想启航热土",
+        "link": "https://aiera.com.cn/2026/11/09/other/admin/123089/%e6%8a%95%e6%97%a9%e3%80%81%e6%8a%95%e5%b0%8f%e3%80%81%e6%8a%95%e7%a1%ac%e7%a7%91%e6%8a%80%ef%bc%9a%e6%b5%a6%e4%b8%9c%e6%98%afai%e5%88%9b%e4%b8%9a%e8%80%85%e7%bb%95%e4%b8%8d%e5%bc%80%e7%9a%84%e7%a7%91/",
+        "description": "对一支刚刚组建的AI创业团队来说，最难的时刻，往往不是产品上线之后，而是产品还没成形之前：技术路线有了，核心成员到位了，甚至已经看见了一个值得投入的市场，却拿不出成熟产品和营收…",
+        "detail": "对一支刚刚组建的AI创业团队来说，最难的时刻，往往不是产品上线之后，而是产品还没成形之前：技术路线有了，核心成员到位了，甚至已经看见了一个值得投入的市场，却拿不出成熟产品和营收…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Perplexity给你配了个AI同事：半夜报警它先查，修复写好才叫醒你批",
+        "link": "https://aiera.com.cn/2026/11/09/other/admin/123088/perplexity%e7%bb%99%e4%bd%a0%e9%85%8d%e4%ba%86%e4%b8%aaai%e5%90%8c%e4%ba%8b%ef%bc%9a%e5%8d%8a%e5%a4%9c%e6%8a%a5%e8%ad%a6%e5%ae%83%e5%85%88%e6%9f%a5%ef%bc%8c%e4%bf%ae%e5%a4%8d%e5%86%99%e5%a5%bd/",
+        "description": "晚上 11 点 42 分，计费接口报警。拉日志、找根因、提修复、附回滚方案，它一口气做完。修复提了，但它停在这儿，等你批是否上线。",
+        "detail": "晚上 11 点 42 分，计费接口报警。拉日志、找根因、提修复、附回滚方案，它一口气做完。修复提了，但它停在这儿，等你批是否上线。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "一周只上3天！Anthropic 35页报告：全球科研产出或拉爆16倍",
+        "link": "https://aiera.com.cn/2026/11/09/other/admin/123080/%e4%b8%80%e5%91%a8%e5%8f%aa%e4%b8%8a3%e5%a4%a9%ef%bc%81anthropic-35%e9%a1%b5%e6%8a%a5%e5%91%8a%ef%bc%9a%e5%85%a8%e7%90%83%e7%a7%91%e7%a0%94%e4%ba%a7%e5%87%ba%e6%88%96%e6%8b%89%e7%88%8616%e5%80%8d/",
+        "description": "该来的还是来了！ 一早，「AI 2027追踪器」昨晚更新的一张图，刷爆了全网。 这么一调，ASI到来的时间表，要再次提前6周！",
+        "detail": "该来的还是来了！ 一早，「AI 2027追踪器」昨晚更新的一张图，刷爆了全网。 这么一调，ASI到来的时间表，要再次提前6周！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "九成代码AI写，谁来审？Claude Code亮出6道关卡！",
+        "link": "https://aiera.com.cn/2026/11/09/other/admin/123059/%e4%b9%9d%e6%88%90%e4%bb%a3%e7%a0%81ai%e5%86%99%ef%bc%8c%e8%b0%81%e6%9d%a5%e5%ae%a1%ef%bc%9fclaude-code%e4%ba%ae%e5%87%ba6%e9%81%93%e5%85%b3%e5%8d%a1%ef%bc%81/",
+        "description": "Claude Code约90%的自身代码，已经交给Claude编写。 写代码的换成了AI，改动数量也跟着暴涨：6月到9月，合并进代码库的PR数量，翻了一倍多。",
+        "detail": "Claude Code约90%的自身代码，已经交给Claude编写。 写代码的换成了AI，改动数量也跟着暴涨：6月到9月，合并进代码库的PR数量，翻了一倍多。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "起底Claude掌门人！31岁确诊睾丸癌，用杀鸡计算全人类的命",
+        "link": "https://aiera.com.cn/2026/11/09/other/admin/123048/%e8%b5%b7%e5%ba%95claude%e6%8e%8c%e9%97%a8%e4%ba%ba%ef%bc%8131%e5%b2%81%e7%a1%ae%e8%af%8a%e7%9d%be%e4%b8%b8%e7%99%8c%ef%bc%8c%e7%94%a8%e6%9d%80%e9%b8%a1%e8%ae%a1%e7%ae%97%e5%85%a8%e4%ba%ba%e7%b1%bb/",
+        "description": "如果有一个疯子在拼命杀鸡，他杀到多少只鸡的时候，把这个人杀掉才算合理？ 二十年前，旧金山一家寿司店里，平日里标榜吃素的Dario Amodei正心安理得地大口吃着螃蟹，只因他算…",
+        "detail": "如果有一个疯子在拼命杀鸡，他杀到多少只鸡的时候，把这个人杀掉才算合理？ 二十年前，旧金山一家寿司店里，平日里标榜吃素的Dario Amodei正心安理得地大口吃着螃蟹，只因他算…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI亲手改写Transformer架构！DeepSeek自我改造暴涨7分",
+        "link": "https://aiera.com.cn/2026/11/09/other/admin/123031/ai%e4%ba%b2%e6%89%8b%e6%94%b9%e5%86%99transformer%e6%9e%b6%e6%9e%84%ef%bc%81deepseek%e8%87%aa%e6%88%91%e6%94%b9%e9%80%a0%e6%9a%b4%e6%b6%a87%e5%88%86/",
+        "description": "AI看着自己的脑子改写自己，这一天还是来了！ 7630亿参数的DeepSeek-V4.1-Flash，直接读取了自己做数学题时最深7层的内部激活状态。",
+        "detail": "AI看着自己的脑子改写自己，这一天还是来了！ 7630亿参数的DeepSeek-V4.1-Flash，直接读取了自己做数学题时最深7层的内部激活状态。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "NeurIPS’26 | 只干预10个维度，给智能体穿上安全机甲，准确率超97%",
+        "link": "https://aiera.com.cn/2026/11/09/other/admin/123008/neurips26-%e5%8f%aa%e5%b9%b2%e9%a2%8410%e4%b8%aa%e7%bb%b4%e5%ba%a6%ef%bc%8c%e7%bb%99%e6%99%ba%e8%83%bd%e4%bd%93%e7%a9%bf%e4%b8%8a%e5%ae%89%e5%85%a8%e6%9c%ba%e7%94%b2%ef%bc%8c%e5%87%86%e7%a1%ae/",
+        "description": "AI agent开始接管终端之后，安全问题也进入了执行现场。当智能体能够读取文件、编写脚本、运行命令，并根据系统反馈持续调整下一步操作，一次错误决策就可能影响真实的文件与系统状…",
+        "detail": "AI agent开始接管终端之后，安全问题也进入了执行现场。当智能体能够读取文件、编写脚本、运行命令，并根据系统反馈持续调整下一步操作，一次错误决策就可能影响真实的文件与系统状…",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "只让Claude改页码！芝大教授吃顿午饭，一年的讲义没了",
+        "link": "https://aiera.com.cn/2026/11/09/other/admin/122993/%e5%8f%aa%e8%ae%a9claude%e6%94%b9%e9%a1%b5%e7%a0%81%ef%bc%81%e8%8a%9d%e5%a4%a7%e6%95%99%e6%8e%88%e5%90%83%e9%a1%bf%e5%8d%88%e9%a5%ad%ef%bc%8c%e4%b8%80%e5%b9%b4%e7%9a%84%e8%ae%b2%e4%b9%89%e6%b2%a1/",
+        "description": "教授吃完饭回来，发现自己一年的讲义没了。 芝加哥大学法学院教授William Baude让Claude更新一套旧讲义的页码。交代完，他就去吃午饭了。",
+        "detail": "教授吃完饭回来，发现自己一年的讲义没了。 芝加哥大学法学院教授William Baude让Claude更新一套旧讲义的页码。交代完，他就去吃午饭了。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "小心，Claude Code会擅自泄露你的邮箱！请抓紧时间更新",
+        "link": "https://aiera.com.cn/2026/11/09/other/admin/122978/%e5%b0%8f%e5%bf%83%ef%bc%8cclaude-code%e4%bc%9a%e6%93%85%e8%87%aa%e6%b3%84%e9%9c%b2%e4%bd%a0%e7%9a%84%e9%82%ae%e7%ae%b1%ef%bc%81%e8%af%b7%e6%8a%93%e7%b4%a7%e6%97%b6%e9%97%b4%e6%9b%b4%e6%96%b0/",
+        "description": "用户每月掏几十甚至 200 美元订阅 Claude Code，把本地终端交给它干活，它却在后台把你的真实登录邮箱、姓名乃至公司内部代码库地址，塞进 User-Agent 请求头…",
+        "detail": "用户每月掏几十甚至 200 美元订阅 Claude Code，把本地终端交给它干活，它却在后台把你的真实登录邮箱、姓名乃至公司内部代码库地址，塞进 User-Agent 请求头…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "一个月73.8亿次提交！GitHub被AI代码挤爆，增配400万核还不够",
+        "link": "https://aiera.com.cn/2026/11/09/other/admin/122955/%e4%b8%80%e4%b8%aa%e6%9c%8873-8%e4%ba%bf%e6%ac%a1%e6%8f%90%e4%ba%a4%ef%bc%81github%e8%a2%abai%e4%bb%a3%e7%a0%81%e6%8c%a4%e7%88%86%ef%bc%8c%e5%a2%9e%e9%85%8d400%e4%b8%87%e6%a0%b8%e8%bf%98%e4%b8%8d/",
+        "description": "8月17日，全球程序员被迫迎来了一次集体宕机。 代码写完点推送，进度条原地打转；自动测试卡死，合并请求合不进去，连AI编程助手Copilot也掉了线。",
+        "detail": "8月17日，全球程序员被迫迎来了一次集体宕机。 代码写完点推送，进度条原地打转；自动测试卡死，合并请求合不进去，连AI编程助手Copilot也掉了线。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI、Anthropic、Google 各有接口，开放标准离统一还有多远？",
+        "link": "https://www.infoq.cn/article/5e8Qs11VHRHRyYsB2kFO?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "“印度成OpenAI最大市场”，Altman首次回应“离职潮”：一群聪明人互不信任",
+        "link": "https://www.infoq.cn/article/7AXcQvPCSwfPhtL8iQpo?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+        "link": "https://www.infoq.cn/article/Guys6YS7FsKUg8dLtMJx?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的&#34;隐形底座&#34;？",
+        "link": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "开发者每周借助 AI 节约数十小时的比例在一年内从 68% 降至 26%",
+        "link": "https://www.infoq.cn/article/sdqHapplv45dQguTJ415?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Harness 已经很准了，为什么还需要一个 Agent Native Database",
+        "link": "https://www.infoq.cn/article/49JGp1l7v97riBlPpZ1q?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "link": "https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Agent 越用越多，企业为何仍不够 AI Native？",
+        "link": "https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+        "link": "https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "又能摸鱼了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "又能摸鱼了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+        "link": "https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 苹果称超 10 万款应用已适配 iPhone Duo\n· Anthropic 拟于本周启动 IPO 路演\n· 比亚迪李柯回应玛莎拉蒂收购传闻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 苹果称超 10 万款应用已适配 iPhone Duo\n· Anthropic 拟于本周启动 IPO 路演\n· 比亚迪李柯回应玛莎拉蒂收购传闻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "爱范儿"
+      },
+      {
+        "title": "实测 HY4：腾讯最「夯」大模型，离一线还有多远？",
+        "link": "http://www.geekpark.net/news/373644",
+        "description": "\n        &nbsp;\n头图来源：腾讯混元\n11 月 4 日，混元 Hy4 正式发布，模型权重将在近期开源，主打性价比的轻量版 Hy4 flash 也一起亮相。腾讯给它的定位是&mdash;&mdash;首次跻身最强开源模型之列。\n过去一年，腾讯在 AI 上最多被人看见的，是 WorkBuddy 这类 Agent 和应用产品；到了更底层的模型上，它的声量明显弱于应用。Hy4 真正要回答的，",
+        "detail": "\n        &nbsp;\n头图来源：腾讯混元\n11 月 4 日，混元 Hy4 正式发布，模型权重将在近期开源，主打性价比的轻量版 Hy4 flash 也一起亮相。腾讯给它的定位是&mdash;&mdash;首次跻身最强开源模型之列。\n过去一年，腾讯在 AI 上最多被人看见的，是 WorkBuddy 这类 Agent 和应用产品；到了更底层的模型上，它的声量明显弱于应用。Hy4 真正要回答的，",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层",
+        "link": "http://www.geekpark.net/news/373687",
+        "description": "\n        \n黄仁勋承认「婚外情」，英伟达启动调查\n11 月 9 日消息，英伟达 CEO 黄仁勋当地时间 8 日于公司官网发布致全员公开信，就个人私事致歉，同时披露董事会将针对相关报道提及的国家安全关切展开独立调查。\n黄仁勋在信中承认自己对妻子不忠，坦言该行为伤害家人，对此承担全部责任，并接受外界批评。他表示家人不应为其个人选择负责，恳请公众给予家人隐私空间，希望能有机会重新赢回家人信任。他",
+        "detail": "\n        \n黄仁勋承认「婚外情」，英伟达启动调查\n11 月 9 日消息，英伟达 CEO 黄仁勋当地时间 8 日于公司官网发布致全员公开信，就个人私事致歉，同时披露董事会将针对相关报道提及的国家安全关切展开独立调查。\n黄仁勋在信中承认自己对妻子不忠，坦言该行为伤害家人，对此承担全部责任，并接受外界批评。他表示家人不应为其个人选择负责，恳请公众给予家人隐私空间，希望能有机会重新赢回家人信任。他",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "具身智能，也到了 API 时刻？",
+        "link": "http://www.geekpark.net/news/373683",
+        "description": "\n        具身智能的 API 时刻意味着部分具身模型已经开始具备跨本体迁移、在一定范围内适应新任务的能力。作者｜Li Yuan编辑｜郑玄具身智能，也到了 API 时刻？过去，想知道一个具身模型有多强，往往要看它在发布视频里完成了什么任务。不过，这条线正在松动。就在近期，一些公司开始把另一种检验方式交到开发者手里：接上你自己的机器人，试着把你的任务做出来。10 月，Physical Inte",
+        "detail": "\n        具身智能的 API 时刻意味着部分具身模型已经开始具备跨本体迁移、在一定范围内适应新任务的能力。作者｜Li Yuan编辑｜郑玄具身智能，也到了 API 时刻？过去，想知道一个具身模型有多强，往往要看它在发布视频里完成了什么任务。不过，这条线正在松动。就在近期，一些公司开始把另一种检验方式交到开发者手里：接上你自己的机器人，试着把你的任务做出来。10 月，Physical Inte",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "极客公园"
+      },
+      {
+        "title": "第八届世界浙商大会举行AI专题活动支付宝分享AI办事实践",
+        "link": "https://www.leiphone.com/category/industrynews/41xBwd2JagAdaaxT.html",
+        "description": "11月6日，第八届世界浙商大会在杭州开幕。大会由浙江省委、省政府主办，省委统战部、省工商联、浙商总会承办，开幕式展示了近两年浙江民营企业主导或参与的科技创新成果，并发布创新实践案例。其中，由省委统战部、省工商联报送的《数字赋能送政策，精准直达惠民企》案例成功入选，成为大会发布的省级单位创新实践案例之一。该案例依托省工商联牵头建设的“浙里政策惠企精准直达大模型”平台，运用人工智能技术构建惠企政策“归",
+        "detail": "11月6日，第八届世界浙商大会在杭州开幕。大会由浙江省委、省政府主办，省委统战部、省工商联、浙商总会承办，开幕式展示了近两年浙江民营企业主导或参与的科技创新成果，并发布创新实践案例。其中，由省委统战部、省工商联报送的《数字赋能送政策，精准直达惠民企》案例成功入选，成为大会发布的省级单位创新实践案例之一。该案例依托省工商联牵头建设的“浙里政策惠企精准直达大模型”平台，运用人工智能技术构建惠企政策“归",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+        "link": "https://www.leiphone.com/category/industrynews/tLk5dflVBL8euzAW.html",
+        "description": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。该模型基于Qwen3.8-Flash进行训练，总参数180B、激活参数6B，重点提升Agent任务执行与软件工程能力，目前开放限量内测。据公司公布的对照评测，相较基座模型，新模型在Agents’ Last Exam上的整体得分提高9.23分，在Natural Language ",
+        "detail": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。该模型基于Qwen3.8-Flash进行训练，总参数180B、激活参数6B，重点提升Agent任务执行与软件工程能力，目前开放限量内测。据公司公布的对照评测，相较基座模型，新模型在Agents’ Last Exam上的整体得分提高9.23分，在Natural Language ",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+        "link": "https://www.leiphone.com/category/industrynews/zGBfQTDDCpSCfYIK.html",
+        "description": "加速时代的悖论：当“你的 AI”开始对“我的 AI”说话2026 年，人工智能正在经历一次深刻的角色跨越：从过去几年的“对话交互”，全面走向“自主交付”。过去，AI 停留在屏幕侧边栏的对话框里，你问它答，提供的是参考建议；而今天，智能体（Agent）开始走出对话框，真正嵌入日常工作流。作为国内用户规模最大的 AI 办公提效智能体，腾讯 WorkBuddy 在经历 100 余次版本迭代后，已累计承接",
+        "detail": "加速时代的悖论：当“你的 AI”开始对“我的 AI”说话2026 年，人工智能正在经历一次深刻的角色跨越：从过去几年的“对话交互”，全面走向“自主交付”。过去，AI 停留在屏幕侧边栏的对话框里，你问它答，提供的是参考建议；而今天，智能体（Agent）开始走出对话框，真正嵌入日常工作流。作为国内用户规模最大的 AI 办公提效智能体，腾讯 WorkBuddy 在经历 100 余次版本迭代后，已累计承接",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "飞行相机鼻祖「零零无限」，估值 10 亿美元",
+        "link": "https://www.leiphone.com/category/weiwu/qIl3bfS2v2a8zI7D.html",
+        "description": "一年两轮融资落地，产品 VERSA 掀起热潮。作者丨杨文静编辑丨姚单雷峰网·鲸犀独家获悉，飞行相机鼻祖「零零无限」最新一轮融资估值已达 10 亿美金，跻身独角兽行列。据接近零零无限的人士估算，公司今年四季度收入预计约达六七个亿。而此前信息披露，2025 年零零营收已突破 10 亿元人民币，以此来看，今年零零或又将创造一个营收高点。今年，零零无限共披露两轮融资，其中包括博裕资本、襄禾资本、德联资本等",
+        "detail": "一年两轮融资落地，产品 VERSA 掀起热潮。作者丨杨文静编辑丨姚单雷峰网·鲸犀独家获悉，飞行相机鼻祖「零零无限」最新一轮融资估值已达 10 亿美金，跻身独角兽行列。据接近零零无限的人士估算，公司今年四季度收入预计约达六七个亿。而此前信息披露，2025 年零零营收已突破 10 亿元人民币，以此来看，今年零零或又将创造一个营收高点。今年，零零无限共披露两轮融资，其中包括博裕资本、襄禾资本、德联资本等",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "雷锋网"
+      },
+      {
+        "title": "解读丨00 后，用 1000 多天重做一款泡沫轴",
+        "link": "https://www.leiphone.com/category/weiwu/TNH35shf3JHDI9FW.html",
+        "description": "公司已经完成三轮融资，二代产品云望 A1&nbsp;Lite 已正式在线下首发。作者丨杨文静编辑丨姚单投资人只和他聊过一场足球，就做出了决定。不久前，云望创新第二代全自动泡沫轴 A1 Lite 线下首发，雷峰网·鲸犀见到了这个团队。他们已经完成三轮融资，并以一年一代的进度在迭代产品。这是一个 00 后团队，创始人孙英东并不是世俗意义上的“优生”，却是一个爱动手的小孩。高中时他就开始参加机器人比赛，",
+        "detail": "公司已经完成三轮融资，二代产品云望 A1&nbsp;Lite 已正式在线下首发。作者丨杨文静编辑丨姚单投资人只和他聊过一场足球，就做出了决定。不久前，云望创新第二代全自动泡沫轴 A1 Lite 线下首发，雷峰网·鲸犀见到了这个团队。他们已经完成三轮融资，并以一年一代的进度在迭代产品。这是一个 00 后团队，创始人孙英东并不是世俗意义上的“优生”，却是一个爱动手的小孩。高中时他就开始参加机器人比赛，",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "“X-Day”西丽湖路演社亚太数智创新专场成功举办 共探AI硬件出海新机遇",
+        "link": "https://www.leiphone.com/category/weiwu/ZpO4WNiF4Go9XTtQ.html",
+        "description": "2026年11月5日下午，“X-Day”西丽湖路演社亚太数智创新专场在深圳大学城国际会议中心成功举办。活动以“拥抱数智、链接全球”为主题，聚焦AI硬件跨境产业优势与亚太区域创新合作，共吸引头部投资机构、优质创业团队、行业专家及高校师生200余人参加。活动现场，工商银行深圳市分行普惠金融事业部总经理兼科技金融中心总经理李玉霜，万兴科技副总裁、战略投资总经理吴佳兵，洪泰基金合伙人王远博，金沙江联合资本",
+        "detail": "2026年11月5日下午，“X-Day”西丽湖路演社亚太数智创新专场在深圳大学城国际会议中心成功举办。活动以“拥抱数智、链接全球”为主题，聚焦AI硬件跨境产业优势与亚太区域创新合作，共吸引头部投资机构、优质创业团队、行业专家及高校师生200余人参加。活动现场，工商银行深圳市分行普惠金融事业部总经理兼科技金融中心总经理李玉霜，万兴科技副总裁、战略投资总经理吴佳兵，洪泰基金合伙人王远博，金沙江联合资本",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "不拿地方国资、全靠市场化巨头抢筹：「猿声科技」凭什么让五源、线性与拓普同时掏钱？",
+        "link": "https://www.leiphone.com/category/industrynews/B48XPbz6KLvCe9jk.html",
+        "description": "如果把今年市面上冒出来的几十家具身触觉初创公司拉一张表，会发现一个颇为残酷的供需倒挂：下游全球人形机器人的年度真实出货量还停留在千台级，而上游等着卖传感器切片的创业公司，融资总额已经滚到了数十亿元。僧多粥少之下，一级市场最现实的追问已经摆上台面：在人形机器人真正迎来大规模放量之前，这几十家触觉公司到底靠什么订单活着？就在行业陷入“玩家过剩、订单饥渴”的分化期，11月6日的一则工商变更记录，提前揭示",
+        "detail": "如果把今年市面上冒出来的几十家具身触觉初创公司拉一张表，会发现一个颇为残酷的供需倒挂：下游全球人形机器人的年度真实出货量还停留在千台级，而上游等着卖传感器切片的创业公司，融资总额已经滚到了数十亿元。僧多粥少之下，一级市场最现实的追问已经摆上台面：在人形机器人真正迎来大规模放量之前，这几十家触觉公司到底靠什么订单活着？就在行业陷入“玩家过剩、订单饥渴”的分化期，11月6日的一则工商变更记录，提前揭示",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Apple capped engineers at a $200 daily AI budget",
+        "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+        "description": "[HN] +70 points · 72 comments · by GloVin",
+        "detail": "[HN] +70 points · 72 comments · by GloVin",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-11-08",
     "weekday": "星期日",
     "summary": "今日共收录 25 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
