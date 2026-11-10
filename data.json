@@ -2,7 +2,7 @@
   {
     "date": "2026-11-10",
     "weekday": "星期二",
-    "summary": "今日共收录 31 条 AI 动态。 来源包括：InfoQ 中文, Simon Willison, TechCrunch AI, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 57 条 AI 动态。 来源包括：DeepMind Blog, InfoQ 中文, OpenAI News, Product Hunt, Simon Willison, TLDR AI, TechCrunch AI, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
       {
         "title": "Otter AI can now follow conversations across 30+ languages",
@@ -21,6 +21,15 @@
         "tag": "公司动态",
         "sort_score": 68,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "Fable 5.2 🤖, Anthropic IPO next week 💰, Storybook 11 👨‍💻",
+        "link": "https://tldr.tech/tech/2026-11-10",
+        "description": "",
+        "detail": "",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "TLDR AI"
       },
       {
         "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
@@ -43,11 +52,155 @@
       {
         "title": "Yonkers Rises",
         "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
-        "description": "\n    \n        Tool: Yonkers Rises\n        I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed it's location and shape in my head (and to try out Claude",
-        "detail": "\n    \n        Tool: Yonkers Rises\n        I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed it's location and shape in my head (and to try out Claude",
+        "description": "\n    \n        Tool: Yonkers Rises\n        I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude ",
+        "detail": "\n    \n        Tool: Yonkers Rises\n        I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude ",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "Simon Willison"
+      },
+      {
+        "title": "Closing the AI guidance gap in education",
+        "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+        "description": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+        "detail": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "OpenAI News"
+      },
+      {
+        "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+        "description": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+        "detail": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "DeepMind Blog"
+      },
+      {
+        "title": "Lottie AI",
+        "link": "https://www.producthunt.com/products/lottiefiles",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Latch.ai",
+        "link": "https://www.producthunt.com/products/latch-ai-2",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "ForAgent",
+        "link": "https://www.producthunt.com/products/foragent",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "HitPay Agentic Discovery",
+        "link": "https://www.producthunt.com/products/hitpay-agentic-discovery",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+        "link": "https://www.qbitai.com/2026/11/509017.html",
+        "description": "近亿元融资刚刚落袋",
+        "detail": "近亿元融资刚刚落袋",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+        "link": "https://www.qbitai.com/2026/11/508996.html",
+        "description": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+        "detail": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+        "link": "https://www.qbitai.com/2026/11/508998.html",
+        "description": "让每一次任务，都成为下一次进步的起点",
+        "detail": "让每一次任务，都成为下一次进步的起点",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+        "link": "https://www.qbitai.com/2026/11/508991.html",
+        "description": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+        "detail": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "量子位"
+      },
+      {
+        "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+        "link": "https://www.qbitai.com/2026/11/508985.html",
+        "description": "加速东部城市型智算中心向E-AIDC演进",
+        "detail": "加速东部城市型智算中心向E-AIDC演进",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "Token卷到触觉了！机器人终于有了通用手感",
+        "link": "https://www.qbitai.com/2026/11/508919.html",
+        "description": "蚂蚁灵波开源LingBot-Touch",
+        "detail": "蚂蚁灵波开源LingBot-Touch",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+        "link": "https://www.qbitai.com/2026/11/508912.html",
+        "description": "作曲、拍片、3D建模一条龙全包圆",
+        "detail": "作曲、拍片、3D建模一条龙全包圆",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+        "link": "https://www.qbitai.com/2026/11/508828.html",
+        "description": "速度提了，API价格降了",
+        "detail": "速度提了，API价格降了",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+        "link": "https://www.qbitai.com/2026/11/508798.html",
+        "description": "办公AI结束单机模式",
+        "detail": "办公AI结束单机模式",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "影像纪录，消费级具身智能新场景？机器人与智能影像的跨界，妙动科技Beni全球现货开售",
+        "link": "https://aiera.com.cn/2026/11/10/other/admin/123262/%e5%bd%b1%e5%83%8f%e7%ba%aa%e5%bd%95%ef%bc%8c%e6%b6%88%e8%b4%b9%e7%ba%a7%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e6%96%b0%e5%9c%ba%e6%99%af/",
+        "description": "2026年11月10日，消费级机器人公司妙动科技宣布，旗下多地形跟拍机器人Beni正式开启全球现货发售，标准套装售价4999元，探索套装售价5799元，国内用户可通过京东商城购…",
+        "detail": "2026年11月10日，消费级机器人公司妙动科技宣布，旗下多地形跟拍机器人Beni正式开启全球现货发售，标准套装售价4999元，探索套装售价5799元，国内用户可通过京东商城购…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
       },
       {
         "title": "蚂蚁灵波开源触觉基础模型，让机器人“手感”跨硬件、跨模型、跨任务复用",
@@ -131,8 +284,8 @@
         "source": "新智元"
       },
       {
-        "title": "成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
-        "link": "https://www.infoq.cn/article/Ou4l4aD7zvUzXWXsWJfY?utm_source=rss&utm_medium=article",
+        "title": "接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
+        "link": "https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
         "detail": "点击查看原文>",
         "tag": "模型发布",
@@ -140,26 +293,17 @@
         "source": "InfoQ 中文"
       },
       {
-        "title": "DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了",
-        "link": "https://www.infoq.cn/article/Y7lTO7Q1M8oN5JhxhirK?utm_source=rss&utm_medium=article",
+        "title": "近 700 亿美元 IPO 定价突然撤回！Anthropic 最快今天路演，下周冲刺上市",
+        "link": "https://www.infoq.cn/article/8tquwes1yGbmTeyOjOId?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
         "detail": "点击查看原文>",
-        "tag": "Agent 进展",
-        "sort_score": 88,
+        "tag": "公司动态",
+        "sort_score": 68,
         "source": "InfoQ 中文"
       },
       {
-        "title": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
-        "link": "https://www.infoq.cn/article/dLF01VxLUZpLX40Wmlv7?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "detail": "点击查看原文>",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
-        "link": "https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo?utm_source=rss&utm_medium=article",
+        "title": "给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
+        "link": "https://www.infoq.cn/article/MQTTu6dgGxHBZm1wOLPI?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
         "detail": "点击查看原文>",
         "tag": "行业动态",
@@ -167,121 +311,13 @@
         "source": "InfoQ 中文"
       },
       {
-        "title": "Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
-        "link": "https://www.infoq.cn/article/sBjhhysFKZibZpXQZEGy?utm_source=rss&utm_medium=article",
+        "title": "面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk",
+        "link": "https://www.infoq.cn/video/W1VS3q3eMAosMwrHb1k4?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
         "detail": "点击查看原文>",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "InfoQ 中文"
-      },
-      {
-        "title": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
-        "link": "https://www.infoq.cn/article/W7VPoeNBPX4y2u72WAGM?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "detail": "点击查看原文>",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
-        "link": "https://www.infoq.cn/article/rsMuS4cuc2ir68ulGgEs?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "detail": "点击查看原文>",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2",
-        "link": "https://www.ifanr.com/1688678?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "人类的快乐却还是如此朴素。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "detail": "人类的快乐却还是如此朴素。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "爱范儿"
-      },
-      {
-        "title": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
-        "link": "https://www.ifanr.com/1688654?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能\n· 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理\n· 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "detail": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能\n· 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理\n· 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "爱范儿"
-      },
-      {
-        "title": "中国汽车市场，不止一种赢法 | 极客车间",
-        "link": "http://www.geekpark.net/news/373765",
-        "description": "\n        对消费者来说，当下的中国汽车消费市场，新品琳琅满目、供给充沛到足以挑花眼。\n锚定一个预算区间，从外观设计、内饰风格，到舒适配置、智能化能力，总能找到各有所长的产品。选择足够丰富，也让一个问题变得更值得讨论：参数和价格之外，我们究竟为什么选择一辆车？\n从产品定义的角度看，造车很像求解一道「方程式」：在一定的成本和技术条件下，通过一系列判断、决策与取舍，找到品牌个性与用户需求的交点。",
-        "detail": "\n        对消费者来说，当下的中国汽车消费市场，新品琳琅满目、供给充沛到足以挑花眼。\n锚定一个预算区间，从外观设计、内饰风格，到舒适配置、智能化能力，总能找到各有所长的产品。选择足够丰富，也让一个问题变得更值得讨论：参数和价格之外，我们究竟为什么选择一辆车？\n从产品定义的角度看，造车很像求解一道「方程式」：在一定的成本和技术条件下，通过一系列判断、决策与取舍，找到品牌个性与用户需求的交点。",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "极客公园"
-      },
-      {
-        "title": "千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了",
-        "link": "http://www.geekpark.net/news/373760",
-        "description": "\n        作者｜Cynthia\n编辑｜郑玄\n传说，光明之神巴德尔梦见自己将死，于是，巴德尔的母亲弗丽嘉遍走世间，令万物立下了绝不伤害他的誓言。众神也因此放下心来，甚至还发明了一种新的消遣：轮番向巴德尔投掷武器和石块，看着他毫发无损，来确定他们已经战胜了预言。直到一小枝被遗漏的槲寄生投向巴德尔。光明之神轰然倒下，诸神的黄昏由此拉开序章。\n这是北欧神话中巴德尔之死的故事。危险早已被预见，人们也",
-        "detail": "\n        作者｜Cynthia\n编辑｜郑玄\n传说，光明之神巴德尔梦见自己将死，于是，巴德尔的母亲弗丽嘉遍走世间，令万物立下了绝不伤害他的誓言。众神也因此放下心来，甚至还发明了一种新的消遣：轮番向巴德尔投掷武器和石块，看着他毫发无损，来确定他们已经战胜了预言。直到一小枝被遗漏的槲寄生投向巴德尔。光明之神轰然倒下，诸神的黄昏由此拉开序章。\n这是北欧神话中巴德尔之死的故事。危险早已被预见，人们也",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "极客公园"
-      },
-      {
-        "title": "ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道",
-        "link": "http://www.geekpark.net/news/373736",
-        "description": "\n        8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%11 月 10 日消息，Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 Claude Mythos 5.2，两款模型基于同一底层模型，前者面向普通用户并内置网络安全与生物安全防护，后者则面向通过",
-        "detail": "\n        8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%11 月 10 日消息，Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 Claude Mythos 5.2，两款模型基于同一底层模型，前者面向普通用户并内置网络安全与生物安全防护，后者则面向通过",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "极客公园"
-      },
-      {
-        "title": "从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角",
-        "link": "https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html",
-        "description": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货。一个月前，Beni 刚以筹资超 500 万美元、全球 7926 名支持者的成绩，创下Kickstarter 平台消费级机器人众筹金额历史第一的纪录。今天，它已从“众筹爆款”进入“现货",
-        "detail": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货。一个月前，Beni 刚以筹资超 500 万美元、全球 7926 名支持者的成绩，创下Kickstarter 平台消费级机器人众筹金额历史第一的纪录。今天，它已从“众筹爆款”进入“现货",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "23.98万元起，智己LS8 NEO开始反“配置表”",
-        "link": "https://www.leiphone.com/category/transportation/P7zNFoMQbmQynIE8.html",
-        "description": "&nbsp;过去两年，25万元级新能源SUV很容易陷入一种同质化。冰箱、彩电、大沙发越来越普遍，800V、高阶辅助驾驶也逐渐从少数车型的卖点，变成一张越来越标准化的配置表。于是一个有意思的问题出现了：当大家都有这些东西之后，一台车还能靠什么拉开差距？11月5日，智己LS8 NEO纯电正式上市，权益价23.98万元起。这款车给出的答案，多少有些“返璞归真”。智己这次没有只强调某一个新功能，而是把宣传",
-        "detail": "&nbsp;过去两年，25万元级新能源SUV很容易陷入一种同质化。冰箱、彩电、大沙发越来越普遍，800V、高阶辅助驾驶也逐渐从少数车型的卖点，变成一张越来越标准化的配置表。于是一个有意思的问题出现了：当大家都有这些东西之后，一台车还能靠什么拉开差距？11月5日，智己LS8 NEO纯电正式上市，权益价23.98万元起。这款车给出的答案，多少有些“返璞归真”。智己这次没有只强调某一个新功能，而是把宣传",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "41年爱妻人设崩塌！黄仁勋一夜损失3万亿，或被英伟达免职；曝一汽大众取消两年「年终奖」，有人称合计约20万；豆包新图像模型价格下降",
-        "link": "https://www.leiphone.com/category/zaobao/zcxkdPkvpprE36Zv.html",
-        "description": "要闻提示1.41年爱妻人设崩塌！黄仁勋一夜损失3万亿，或被英伟达免职2.曝一汽大众取消两年“年终奖”，有工程师称合计约20万元3.李佳琦被曝入手顶级超跑！落地价近2000万元，年带货1750亿元4.传阿里平头哥计划明年赴港IPO5.日本人又拆中国电车：直呼电机结构“几乎与特斯拉一样”6.豆包新图像模型价格下降7.中国AI大模型又赢了！连续28周领先美国，全球前五拿下四席8.苹果CEO催促团队加快S",
-        "detail": "要闻提示1.41年爱妻人设崩塌！黄仁勋一夜损失3万亿，或被英伟达免职2.曝一汽大众取消两年“年终奖”，有工程师称合计约20万元3.李佳琦被曝入手顶级超跑！落地价近2000万元，年带货1750亿元4.传阿里平头哥计划明年赴港IPO5.日本人又拆中国电车：直呼电机结构“几乎与特斯拉一样”6.豆包新图像模型价格下降7.中国AI大模型又赢了！连续28周领先美国，全球前五拿下四席8.苹果CEO催促团队加快S",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-        "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-        "description": "[HN] +118 points · 63 comments · by lxm",
-        "detail": "[HN] +118 points · 63 comments · by lxm",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
-      },
-      {
-        "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
-        "link": "https://news.ycombinator.com/item?id=50436636",
-        "description": "[HN] +10 points · 0 comments · by RamblingCTO",
-        "detail": "[HN] +10 points · 0 comments · by RamblingCTO",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
       }
     ]
   },
