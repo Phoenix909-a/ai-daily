@@ -2,8 +2,26 @@
   {
     "date": "2026-11-11",
     "weekday": "星期三",
-    "summary": "今日共收录 23 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 42 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, TLDR AI, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+        "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+        "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+        "detail": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Amazon security robots 🤖, Anthropic IPO price 💰, modern web guidance 👨‍💻",
+        "link": "https://tldr.tech/tech/2026-11-11",
+        "description": "",
+        "detail": "",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "TLDR AI"
+      },
       {
         "title": "ChatGPT Plus for veterans and servicemembers",
         "link": "https://openai.com/index/chatgpt-plus-for-veterans",
@@ -12,6 +30,69 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "OpenAI News"
+      },
+      {
+        "title": "ScroogeFrog AI",
+        "link": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Kippy AI",
+        "link": "https://www.producthunt.com/products/kippy-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "ForAgent",
+        "link": "https://www.producthunt.com/products/foragent",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+        "link": "https://www.qbitai.com/2026/11/509146.html",
+        "description": "价格、门槛全打穿",
+        "detail": "价格、门槛全打穿",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+        "link": "https://www.qbitai.com/2026/11/509088.html",
+        "description": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+        "detail": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+        "link": "https://www.qbitai.com/2026/11/509085.html",
+        "description": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+        "detail": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+        "link": "https://www.qbitai.com/2026/11/509052.html",
+        "description": "L4无人化作业走向规模交付",
+        "detail": "L4无人化作业走向规模交付",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
       },
       {
         "title": "最强Fable 5.2震撼发布！费马大定理30小时形式化，全面碾压Opus 5.5",
@@ -86,6 +167,51 @@
         "source": "新智元"
       },
       {
+        "title": "上下文也是成本：Agent 效率优化的新思路 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/iaCUbU8Fwz6G6bDlQ9BV?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+        "link": "https://www.infoq.cn/article/P2UWjVdAmPzOBaxd0v4f?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "如何提升 AI 的环境可持续性",
+        "link": "https://www.infoq.cn/article/GUXzTTTFvwWY7yx6WMyS?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Agent 正在终结 Pull Request？连 GitHub 也开始重新审视传统开发流程",
+        "link": "https://www.infoq.cn/article/x0B056QFxzYEewT1Et34?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Datadog 推出面向 SRE 故障排查的专用 AI 模型",
+        "link": "https://www.infoq.cn/article/py4PRbBWJSPm5aV10gHq?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
         "link": "https://www.infoq.cn/article/gzNdPqAMp1Wh1JQ9d2JA?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -158,58 +284,40 @@
         "source": "极客公园"
       },
       {
-        "title": "11月11日，全年最便宜的一天！iPhone18 Pro天猫降价2247元",
-        "link": "https://www.leiphone.com/category/industrynews/mDFlNg5u779ud9rz.html",
-        "description": "11月11日，全年最便宜的一天，iPhone 18 Pro 迎来降价。&nbsp;记者在“天猫校园教育官方旗舰店”看到，iPhone 18 Pro 最高降价2247元，到手价仅需7752元！相当于打了7.8折，还支持12期分期免息，刷新上市以来的全网历史最低价。&nbsp;经实测，上述优惠均可轻松领用，具体包含：300元苹果加补券、至高199元的淘金币抵扣，至高1400元换新补贴，和约347.9元",
-        "detail": "11月11日，全年最便宜的一天，iPhone 18 Pro 迎来降价。&nbsp;记者在“天猫校园教育官方旗舰店”看到，iPhone 18 Pro 最高降价2247元，到手价仅需7752元！相当于打了7.8折，还支持12期分期免息，刷新上市以来的全网历史最低价。&nbsp;经实测，上述优惠均可轻松领用，具体包含：300元苹果加补券、至高199元的淘金币抵扣，至高1400元换新补贴，和约347.9元",
+        "title": "双十一换机正当时：华为Mate X7购机好礼，降低折叠旗舰换新门槛",
+        "link": "https://www.leiphone.com/category/industrynews/C6UjjlUlmA70WLVq.html",
+        "description": "双十一临近尾声，手机市场换新热潮持续走高。不少华为老用户面临换新抉择：手中的华为直板机虽可正常使用，但电池已需一天两充，夜景拍摄时常模糊，多应用同开切换偶尔卡顿……如果换新直板旗舰，仅能收获影像、性能的小幅提升，日常用起来几乎没有区别，新鲜感三天就没了。想要获得显著的体验跃升，折叠屏是不错的选择，其独有的大屏交互形态拥有直板机型无法比拟的优势；只是万元价位门槛、后续养护成本等顾虑，仍让不少用户举棋",
+        "detail": "双十一临近尾声，手机市场换新热潮持续走高。不少华为老用户面临换新抉择：手中的华为直板机虽可正常使用，但电池已需一天两充，夜景拍摄时常模糊，多应用同开切换偶尔卡顿……如果换新直板旗舰，仅能收获影像、性能的小幅提升，日常用起来几乎没有区别，新鲜感三天就没了。想要获得显著的体验跃升，折叠屏是不错的选择，其独有的大屏交互形态拥有直板机型无法比拟的优势；只是万元价位门槛、后续养护成本等顾虑，仍让不少用户举棋",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
       },
       {
-        "title": "三个月估值涨十倍的芯片热潮里，5000万也没让他创业",
-        "link": "https://www.leiphone.com/category/chipdesign/6mjibhXfWFoLrabg.html",
-        "description": "作者｜包永刚编辑｜刘伟5000万元摆到桌上，张博士最后还是决定不创业。他刚从一家被收购的公司离开，就赶上新一轮芯片创业热潮。一家知名VC愿意拿出5000万元，让他组团队、做CEO。张博士频繁见投资人、物色核心成员，项目已经走到启动阶段。没过多久，他停了下来。和投资人以及市场上的人聊过一圈后，张博士觉得，自己的能力和创业真正需要的东西并不完全匹配。放在2026年春天，这是一个反常的决定。那时候，热门",
-        "detail": "作者｜包永刚编辑｜刘伟5000万元摆到桌上，张博士最后还是决定不创业。他刚从一家被收购的公司离开，就赶上新一轮芯片创业热潮。一家知名VC愿意拿出5000万元，让他组团队、做CEO。张博士频繁见投资人、物色核心成员，项目已经走到启动阶段。没过多久，他停了下来。和投资人以及市场上的人聊过一圈后，张博士觉得，自己的能力和创业真正需要的东西并不完全匹配。放在2026年春天，这是一个反常的决定。那时候，热门",
-        "tag": "公司动态",
-        "sort_score": 68,
-        "source": "雷锋网"
-      },
-      {
-        "title": "AI接手运营后，速卖通潜力市场双11成交大涨超50%",
-        "link": "https://www.leiphone.com/category/industrynews/zRG1ZBXyPvQHcb5o.html",
-        "description": "今年海外双11，中国跨境商家的订单出现在不少意想不到的“冷门”市场。&nbsp;记者从阿里旗下跨境电商平台速卖通AliExpress获悉，双11大促前7日，速卖通主力市场之外的潜力国家市场日均成交同比大涨超50%。借助AI智能托管，商家们把生意做到了更多平时顾不上经营的市场。&nbsp;聚光灯之外的消费者“剁手”有多积极？速卖通数据显示，“企鹅比人多”的福克兰群岛，参与大促的买家平均每人下了5.5",
-        "detail": "今年海外双11，中国跨境商家的订单出现在不少意想不到的“冷门”市场。&nbsp;记者从阿里旗下跨境电商平台速卖通AliExpress获悉，双11大促前7日，速卖通主力市场之外的潜力国家市场日均成交同比大涨超50%。借助AI智能托管，商家们把生意做到了更多平时顾不上经营的市场。&nbsp;聚光灯之外的消费者“剁手”有多积极？速卖通数据显示，“企鹅比人多”的福克兰群岛，参与大促的买家平均每人下了5.5",
+        "title": "阿里云获中国游戏云市场整体和六项细分第一",
+        "link": "https://www.leiphone.com/category/industrynews/JfRMJsIb0HJvjdrl.html",
+        "description": "近日，国际数据公司（IDC）最新发布的《中国游戏云市场跟踪研究，2026H1》报告显示，2026年上半年阿里云以37%的市场份额位居整体市场第一，并在基础设施IaaS+CDN、基础设施IaaS+解决方案、基础设施IaaS、解决方案、通用云平台、云游戏平台六大细分市场获得第一。其中，在游戏云基础设施市场，阿里云占比达40%；在游戏云解决方案市场，阿里云占比达44%。&nbsp;&nbsp;围绕游戏研",
+        "detail": "近日，国际数据公司（IDC）最新发布的《中国游戏云市场跟踪研究，2026H1》报告显示，2026年上半年阿里云以37%的市场份额位居整体市场第一，并在基础设施IaaS+CDN、基础设施IaaS+解决方案、基础设施IaaS、解决方案、通用云平台、云游戏平台六大细分市场获得第一。其中，在游戏云基础设施市场，阿里云占比达40%；在游戏云解决方案市场，阿里云占比达44%。&nbsp;&nbsp;围绕游戏研",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
       },
       {
-        "title": "AI接手运营后，速卖通潜力市场双11成交大涨超50%",
-        "link": "https://www.leiphone.com/category/industrynews/GTyH9f6MgPPWlf4S.html",
-        "description": "今年海外双11，中国跨境商家的订单出现在不少意想不到的“冷门”市场。记者从阿里旗下跨境电商平台速卖通AliExpress获悉，双11大促前7日，速卖通主力市场之外的潜力国家市场日均成交同比大涨超50%。今年，速卖通上线潜力国家地区智能经营Agent，商家一键启用，系统就能自动优化商品详情页、报名活动、匹配物流线路，还提供智能客服服务，让商家在潜力市场实现自动出单。双11期间，这类接受AI运营托管的",
-        "detail": "今年海外双11，中国跨境商家的订单出现在不少意想不到的“冷门”市场。记者从阿里旗下跨境电商平台速卖通AliExpress获悉，双11大促前7日，速卖通主力市场之外的潜力国家市场日均成交同比大涨超50%。今年，速卖通上线潜力国家地区智能经营Agent，商家一键启用，系统就能自动优化商品详情页、报名活动、匹配物流线路，还提供智能客服服务，让商家在潜力市场实现自动出单。双11期间，这类接受AI运营托管的",
-        "tag": "行业动态",
-        "sort_score": 58,
+        "title": "港人北上就医更方便了！蚂蚁健康联合宏利香港推出跨境商保直付服务",
+        "link": "https://www.leiphone.com/category/industrynews/93abjJTM4K7EYw0L.html",
+        "description": "11月10日，宏利人寿保险（国际）有限公司（简称“宏利香港”）与蚂蚁健康共同宣布，为符合资格的宏利香港客户推出全新跨境医疗支持服务。宏利香港也成为香港首家与蚂蚁健康合作提供跨境医疗直付的保险公司。据了解，宏利香港符合资格的客户可在AlipayHK上启用蚂蚁健康提供的电子“医疗保障卡”，搜索指定医院，并通过24小时预约热线安排门诊治疗。如果医生建议接受指定治疗，如住院、日间手术或门诊癌症治疗，客户可",
+        "detail": "11月10日，宏利人寿保险（国际）有限公司（简称“宏利香港”）与蚂蚁健康共同宣布，为符合资格的宏利香港客户推出全新跨境医疗支持服务。宏利香港也成为香港首家与蚂蚁健康合作提供跨境医疗直付的保险公司。据了解，宏利香港符合资格的客户可在AlipayHK上启用蚂蚁健康提供的电子“医疗保障卡”，搜索指定医院，并通过24小时预约热线安排门诊治疗。如果医生建议接受指定治疗，如住院、日间手术或门诊癌症治疗，客户可",
+        "tag": "模型发布",
+        "sort_score": 90,
         "source": "雷锋网"
       },
       {
-        "title": "清华系团队创业做 AI 眼镜，拿下传统眼镜厂商种子轮",
-        "link": "https://www.leiphone.com/category/weiwu/Lfff1nBYqpWoqgMF.html",
-        "description": "清目创始团队均为清华背景，成员背景涵盖XREAL、荣耀、阿里等。作者丨黄艳冰编辑丨姚单雷峰网·鲸犀独家获悉，智能眼镜初创公司深圳市清目数字科技有限公司（下文简称清目数字）已完成种子轮融资，投资方为南京视客，天使轮融资正在推进中。清目数字首款产品定位职场办公场景，采用双目双波导显示、多麦克风阵列、双喇叭导音方案，无摄像头，整机 31.7 克。目前硬件方案已定型并完成工程样机，进入 EVT 阶段，首版",
-        "detail": "清目创始团队均为清华背景，成员背景涵盖XREAL、荣耀、阿里等。作者丨黄艳冰编辑丨姚单雷峰网·鲸犀独家获悉，智能眼镜初创公司深圳市清目数字科技有限公司（下文简称清目数字）已完成种子轮融资，投资方为南京视客，天使轮融资正在推进中。清目数字首款产品定位职场办公场景，采用双目双波导显示、多麦克风阵列、双喇叭导音方案，无摄像头，整机 31.7 克。目前硬件方案已定型并完成工程样机，进入 EVT 阶段，首版",
-        "tag": "行业动态",
-        "sort_score": 58,
+        "title": "灵光2.0上线两周，累计托管事务量突破300万",
+        "link": "https://www.leiphone.com/category/industrynews/588lnnPVveccwufm.html",
+        "description": "11月11日，蚂蚁集团旗下个人AI助理灵光公布最新数据：自10月27日灵光2.0上线以来，累计托管事务量突破300万项，累计执行任务超过1100万次。这是灵光2.0上线以来又一次披露事务托管数据。11月5日，灵光曾公布，上线一周已托管超过116万项事务，累计执行任务超过360万次，用户规模突破2000万。与用户规模、对话次数等传统AI产品指标不同，事务托管量衡量的是用户有多少件事交由AI持续跟进。",
+        "detail": "11月11日，蚂蚁集团旗下个人AI助理灵光公布最新数据：自10月27日灵光2.0上线以来，累计托管事务量突破300万项，累计执行任务超过1100万次。这是灵光2.0上线以来又一次披露事务托管数据。11月5日，灵光曾公布，上线一周已托管超过116万项事务，累计执行任务超过360万次，用户规模突破2000万。与用户规模、对话次数等传统AI产品指标不同，事务托管量衡量的是用户有多少件事交由AI持续跟进。",
+        "tag": "新功能",
+        "sort_score": 82,
         "source": "雷锋网"
-      },
-      {
-        "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-        "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-        "description": "[HN] +45 points · 28 comments · by rdmuser",
-        "detail": "[HN] +45 points · 28 comments · by rdmuser",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
       }
     ]
   },
