@@ -2,8 +2,80 @@
   {
     "date": "2026-11-13",
     "weekday": "星期五",
-    "summary": "今日共收录 24 条 AI 动态。 来源包括：InfoQ 中文, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 51 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Verge AI, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
     "news": [
+      {
+        "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th",
+        "detail": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "Aven App Agent",
+        "link": "https://www.producthunt.com/products/aven-app-agent",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Templify AI",
+        "link": "https://www.producthunt.com/products/templify",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Gemini 4 Hydrogen",
+        "link": "https://www.producthunt.com/products/gemini-6",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Claude Meetings",
+        "link": "https://www.producthunt.com/products/claude",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Adobe AI Assistant",
+        "link": "https://www.producthunt.com/products/adobe-ai-assistant",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Insight7 Voice AI Agents",
+        "link": "https://www.producthunt.com/products/insight7",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Grok Bot 1.0",
+        "link": "https://www.producthunt.com/products/grok",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
       {
         "title": "前OpenAI研究员改口：超级AI研究员可能明年就来！",
         "link": "https://aiera.com.cn/2026/11/13/other/admin/123651/%e5%89%8dopenai%e7%a0%94%e7%a9%b6%e5%91%98%e6%94%b9%e5%8f%a3%ef%bc%9a%e8%b6%85%e7%ba%a7ai%e7%a0%94%e7%a9%b6%e5%91%98%e5%8f%af%e8%83%bd%e6%98%8e%e5%b9%b4%e5%b0%b1%e6%9d%a5%ef%bc%81/",
@@ -59,6 +131,24 @@
         "source": "新智元"
       },
       {
+        "title": "智能互动 Agent 在快手商业场景的落地实践",
+        "link": "https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体",
+        "link": "https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "Docker 呼吁通过隔离与治理保障智能体安全",
         "link": "https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -86,6 +176,15 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "李飞飞最新世界模型正式开放，我用它一句话造出重庆山城",
+        "link": "https://www.ifanr.com/1689379?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "世界模型的竞争要开始了吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "世界模型的竞争要开始了吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
         "title": "AI 时代，公司的「新厂房」长什么样？",
         "link": "https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=",
         "description": "真正决定公司未来十年身位的，是谁先动手重建那座名叫「智能组织」的新厂房。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -102,6 +201,15 @@
         "tag": "模型发布",
         "sort_score": 35,
         "source": "爱范儿"
+      },
+      {
+        "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+        "link": "https://sspai.com/post/118153",
+        "description": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文",
+        "detail": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "少数派"
       },
       {
         "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
@@ -149,76 +257,67 @@
         "source": "极客公园"
       },
       {
-        "title": "埃安Ray7正式上市，702公里激光雷达后驱版13.47万元",
-        "link": "https://www.leiphone.com/category/transportation/AxCfndkvZtBgm8PZ.html",
-        "description": "11月12日，昊铂埃安旗下超级纯电轿车Ray7正式上市，上市限时价11.47万-14.47万元。新车共5个版本：530后驱驾趣版11.47万元、530后驱激光版12.47万元、702后驱驾趣宁德版12.47万元、702后驱激光宁德版13.47万元、702后驱EMB激光宁德版14.47万元。车身部分，Ray7车长近5米，采用低趴宽体造型，宽高比1.30、轮高比0.48，配备“量子星环”前后灯组。三电",
-        "detail": "11月12日，昊铂埃安旗下超级纯电轿车Ray7正式上市，上市限时价11.47万-14.47万元。新车共5个版本：530后驱驾趣版11.47万元、530后驱激光版12.47万元、702后驱驾趣宁德版12.47万元、702后驱激光宁德版13.47万元、702后驱EMB激光宁德版14.47万元。车身部分，Ray7车长近5米，采用低趴宽体造型，宽高比1.30、轮高比0.48，配备“量子星环”前后灯组。三电",
+        "title": "9.99万的ID.ERA 5X，大众开始用中国效率打价格战",
+        "link": "https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html",
+        "description": "从过去全球技术导入中国，转向中国本土研发定义产品，并反哺全球，大众在华的研发模式迎来的关键转身，集中在一款新车型中。11月12日，上汽大众ID.ERA 5X正式上市，限时权益价9.99万起，共推出四款配置。定位都市纯电SUV，瞄准年轻用户与家庭市场。作为一款主打高性价比的紧凑型纯电SUV，上汽大众ID.ERA 5X是德系品质与中国智能共同发力的代表。新车车长4560mm，但轴距达到 2815mm，",
+        "detail": "从过去全球技术导入中国，转向中国本土研发定义产品，并反哺全球，大众在华的研发模式迎来的关键转身，集中在一款新车型中。11月12日，上汽大众ID.ERA 5X正式上市，限时权益价9.99万起，共推出四款配置。定位都市纯电SUV，瞄准年轻用户与家庭市场。作为一款主打高性价比的紧凑型纯电SUV，上汽大众ID.ERA 5X是德系品质与中国智能共同发力的代表。新车车长4560mm，但轴距达到 2815mm，",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
       },
       {
-        "title": "国台严选背后：从两会记者到APEC央视主播团，Pocket 4P 为何成为媒体人标配",
-        "link": "https://www.leiphone.com/category/industrynews/XwQ7utNsCKydcl0N.html",
-        "description": "2026年APEC峰会前夕，中央广播电视总台推出特别节目《主播骑遇未来之城》，康辉、刘妙然等央视名嘴穿行深圳街头。其中，康辉单手持握大疆 Osmo Pocket 4P 穿梭在熙攘的地铁站内从容记录的画面，迅速在产业界与传媒圈刷屏。图：康辉手举Osmo Pocket4P记录深圳地铁镜头一个跨越十余年的装备变迁正在被验证：越来越多的记者装备包里，只需一台手掌大小的一体化云台相机，单手开机、对焦出镜，视",
-        "detail": "2026年APEC峰会前夕，中央广播电视总台推出特别节目《主播骑遇未来之城》，康辉、刘妙然等央视名嘴穿行深圳街头。其中，康辉单手持握大疆 Osmo Pocket 4P 穿梭在熙攘的地铁站内从容记录的画面，迅速在产业界与传媒圈刷屏。图：康辉手举Osmo Pocket4P记录深圳地铁镜头一个跨越十余年的装备变迁正在被验证：越来越多的记者装备包里，只需一台手掌大小的一体化云台相机，单手开机、对焦出镜，视",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "腾讯 AI 李牧青离职，出任 AI 公司联席 CEO",
-        "link": "https://www.leiphone.com/category/industrynews/xfpQo71RiPDWJHvS.html",
-        "description": "雷峰网独家获悉，近日，腾讯云 AI 全球业务负责人李牧青，正式出任教育 AI 科技公司启鸣达人联席 CEO。雷峰网了解到，李牧青本科、硕士毕业于上海交通大学，曾任 UCLA 访问学者。2016 年，他加入依图科技，主导早期 AI 产业化体系的建设，亲历「AI 四小龙」从初创走向鼎盛。2018 年，李牧青加入腾讯优图，出任首席方案架构师，负责计算机视觉技术的落地。此后分别担任腾讯云智能总架构师、腾讯",
-        "detail": "雷峰网独家获悉，近日，腾讯云 AI 全球业务负责人李牧青，正式出任教育 AI 科技公司启鸣达人联席 CEO。雷峰网了解到，李牧青本科、硕士毕业于上海交通大学，曾任 UCLA 访问学者。2016 年，他加入依图科技，主导早期 AI 产业化体系的建设，亲历「AI 四小龙」从初创走向鼎盛。2018 年，李牧青加入腾讯优图，出任首席方案架构师，负责计算机视觉技术的落地。此后分别担任腾讯云智能总架构师、腾讯",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "ID. ERA 5X上市，限时权益价9.99万元起",
-        "link": "https://www.leiphone.com/category/transportation/Uxxem2Ha3zzVNdv9.html",
-        "description": "近日，上汽大众ID. ERA 5X正式上市，新车共推出Pro、Pro+、Max、Ultra四款车型。限时权益价为9.99万元—13.99万元。作为一款面向年轻人与家庭用户的都市纯电SUV，ID. ERA 5X是大众CMP+CEA+ADAS全球首款量产车，全系标配4纳米MTK8676车规级芯片与豆包大模型2.0，并搭载行云智能辅助驾驶系统，融合中国原生智能技术与大众全球标准，兼顾智能体验与家庭出行需",
-        "detail": "近日，上汽大众ID. ERA 5X正式上市，新车共推出Pro、Pro+、Max、Ultra四款车型。限时权益价为9.99万元—13.99万元。作为一款面向年轻人与家庭用户的都市纯电SUV，ID. ERA 5X是大众CMP+CEA+ADAS全球首款量产车，全系标配4纳米MTK8676车规级芯片与豆包大模型2.0，并搭载行云智能辅助驾驶系统，融合中国原生智能技术与大众全球标准，兼顾智能体验与家庭出行需",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "VLM 在预测性空间推理上的缺口还有多大？21 个模型，最高准确率仅 58.0%",
-        "link": "https://www.leiphone.com/category/academic/Ma9dfYJE9ifGDZ9I.html",
-        "description": "空间专项模型反而不如通用模型？浙大庄越挺团队提出空间智能新基准&nbsp; &nbsp; 作者丨张岂萍&nbsp; &nbsp; 编辑丨幸丽娟&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
-        "detail": "空间专项模型反而不如通用模型？浙大庄越挺团队提出空间智能新基准&nbsp; &nbsp; 作者丨张岂萍&nbsp; &nbsp; 编辑丨幸丽娟&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "灵睿智芯完成数亿元Pre-A+轮融资，产业资本密集押注",
-        "link": "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html",
-        "description": "近日，上海灵睿智芯计算技术有限公司（以下简称“灵睿智芯”）宣布完成数亿元Pre-A+轮融资。本轮融资由美团战投领投，京东关联基金、干杯基金、力合算芯基金（东方算芯CVC）、钧犀资本、商汤国香资本、尚颀资本（上汽CVC）、深信服科技的产业投资基金琥珀资本等头部产业资本和众多老股东跟投。至此，这家2025年初才成立的企业，累计融资金额已接近十亿元。灵睿智芯创始人、董事长兼总经理刘洋表示，本轮融资将主要",
-        "detail": "近日，上海灵睿智芯计算技术有限公司（以下简称“灵睿智芯”）宣布完成数亿元Pre-A+轮融资。本轮融资由美团战投领投，京东关联基金、干杯基金、力合算芯基金（东方算芯CVC）、钧犀资本、商汤国香资本、尚颀资本（上汽CVC）、深信服科技的产业投资基金琥珀资本等头部产业资本和众多老股东跟投。至此，这家2025年初才成立的企业，累计融资金额已接近十亿元。灵睿智芯创始人、董事长兼总经理刘洋表示，本轮融资将主要",
+        "title": "港大孵化的半导体材料公司，融资数千万",
+        "link": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+        "description": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，半导体材料公司钻耐科思科技（DiamNEX）已完成数千万元新一轮融资，由耀途资本独家投资。钻耐科思（DiamNEX）成立于2025年，由香港大学孵化，专注于金刚石半导体和量子技术的研发、生产与商业化应用。创始人褚智勤是港大电机与计算机工程系副教授、副系主任，在金刚石方向论文超8",
+        "detail": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，半导体材料公司钻耐科思科技（DiamNEX）已完成数千万元新一轮融资，由耀途资本独家投资。钻耐科思（DiamNEX）成立于2025年，由香港大学孵化，专注于金刚石半导体和量子技术的研发、生产与商业化应用。创始人褚智勤是港大电机与计算机工程系副教授、副系主任，在金刚石方向论文超8",
         "tag": "公司动态",
         "sort_score": 68,
         "source": "雷锋网"
       },
       {
-        "title": "百度智能云与普渡机器人达成战略合作 聚焦具身模型训练、真实场景数据等四大方向",
-        "link": "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html",
-        "description": "11月12日，在2026百度世界大会期间，百度与全球商用服务机器人领军企业深圳市普渡科技股份有限公司正式达成战略合作。百度智能云将为普渡提供模型训练所需的基础设施与云服务支撑；普渡将依托自身技术体系，自主开展具身基座模型训练，建设完善多元场景数据体系，并推进智能体平台能力升级。双方还将在产业生态协同方面展开深度合作。&nbsp;&nbsp;&nbsp;当前，具身智能正加速进入产业化发展新阶段，真实",
-        "detail": "11月12日，在2026百度世界大会期间，百度与全球商用服务机器人领军企业深圳市普渡科技股份有限公司正式达成战略合作。百度智能云将为普渡提供模型训练所需的基础设施与云服务支撑；普渡将依托自身技术体系，自主开展具身基座模型训练，建设完善多元场景数据体系，并推进智能体平台能力升级。双方还将在产业生态协同方面展开深度合作。&nbsp;&nbsp;&nbsp;当前，具身智能正加速进入产业化发展新阶段，真实",
-        "tag": "模型发布",
-        "sort_score": 90,
+        "title": "海尔热水器双11战报：京东天猫双平台销量TOP1",
+        "link": "https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html",
+        "description": "随着双11落幕，热水器市场也结束了新一轮换新热潮。从近两年的用户需求来看，热水器不再只看重热水供给，而是更加关注使用安全、沐浴水质与维保省心，家庭用水的健康化、场景化、智能化成为选购核心标尺。激烈角逐之中，海尔热水器脱颖而出，拿下京东、天猫双平台热水器销量 TOP1，电热、燃热双线领跑，用亮眼战绩印证市场对海尔全屋用水方案的认可。这份成绩的背后，是海尔持续深耕AI智慧用水场景，瞄准家庭用水隐忧，将",
+        "detail": "随着双11落幕，热水器市场也结束了新一轮换新热潮。从近两年的用户需求来看，热水器不再只看重热水供给，而是更加关注使用安全、沐浴水质与维保省心，家庭用水的健康化、场景化、智能化成为选购核心标尺。激烈角逐之中，海尔热水器脱颖而出，拿下京东、天猫双平台热水器销量 TOP1，电热、燃热双线领跑，用亮眼战绩印证市场对海尔全屋用水方案的认可。这份成绩的背后，是海尔持续深耕AI智慧用水场景，瞄准家庭用水隐忧，将",
+        "tag": "行业动态",
+        "sort_score": 58,
         "source": "雷锋网"
       },
       {
-        "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-        "link": "https://brave.com/blog/search-api-agentic-payments/",
-        "description": "[HN] +65 points · 24 comments · by sjdh76",
-        "detail": "[HN] +65 points · 24 comments · by sjdh76",
-        "tag": "工具与生态",
-        "sort_score": 76,
-        "source": "hackernews"
+        "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+        "link": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+        "description": "11月13日，中国国际金融股份有限公司（简称“中金公司”）与蚂蚁科技集团股份有限公司（简称“蚂蚁集团”）签署战略合作协议。双方将结合中金公司在专业投研、金融服务等方面的积累，以及蚂蚁集团在人工智能、行业生态、客户运营等方面的优势，围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等领域开展合作，共同探索“AI+金融”创新路径。中金公司党委副书记、副董事长、总裁王曙光（右二），蚂蚁集团首席",
+        "detail": "11月13日，中国国际金融股份有限公司（简称“中金公司”）与蚂蚁科技集团股份有限公司（简称“蚂蚁集团”）签署战略合作协议。双方将结合中金公司在专业投研、金融服务等方面的积累，以及蚂蚁集团在人工智能、行业生态、客户运营等方面的优势，围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等领域开展合作，共同探索“AI+金融”创新路径。中金公司党委副书记、副董事长、总裁王曙光（右二），蚂蚁集团首席",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "一家主动灭火的智慧消防公司，融资超千万",
+        "link": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
+        "description": "把 AI 用在“水火之间”——菲思拓的整体方案，已接入超三万家单位。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，做主动灭火的智慧消防公司菲思拓已完成千万级天使轮融资，投资方为北京国润智投科技有限公司。菲思拓已经开启新一轮融资，投前估值 3 亿元，本轮资金意在进行产品研发、市场拓展和推动产能落地。创始人兼 CEO 顾永峰有 20 年消防行业经验，曾任喜利得中国区域经理、STI 中国全国销售总监；团队",
+        "detail": "把 AI 用在“水火之间”——菲思拓的整体方案，已接入超三万家单位。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，做主动灭火的智慧消防公司菲思拓已完成千万级天使轮融资，投资方为北京国润智投科技有限公司。菲思拓已经开启新一轮融资，投前估值 3 亿元，本轮资金意在进行产品研发、市场拓展和推动产能落地。创始人兼 CEO 顾永峰有 20 年消防行业经验，曾任喜利得中国区域经理、STI 中国全国销售总监；团队",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "雷锋网"
+      },
+      {
+        "title": "美团陈一方：2026洗浴行业线上化率超20%",
+        "link": "https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html",
+        "description": "11月13日，2027美团洗浴指南在沈阳发布。美团服务零售乐生活业务部负责人陈一方介绍，中国洗浴行业正呈现出新发展气象，2026年洗浴行业线上化率已超20%。越来越多洗浴商户把美团作为承接多元消费需求的主阵地，更多门店特色服务、多种供需组合产品在线上同步首发。",
+        "detail": "11月13日，2027美团洗浴指南在沈阳发布。美团服务零售乐生活业务部负责人陈一方介绍，中国洗浴行业正呈现出新发展气象，2026年洗浴行业线上化率已超20%。越来越多洗浴商户把美团作为承接多元消费需求的主阵地，更多门店特色服务、多种供需组合产品在线上同步首发。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "解读丨不插电的宠物梳毛器，凭什么拿下三千家海外门店？",
+        "link": "https://www.leiphone.com/category/weiwu/Hxr2CvehePVKjS4m.html",
+        "description": "用专利，PawSwing 在宠物梳毛器品类画了一个大圈。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀获悉，宠物智能硬件公司「橘猫宇宙」近日完成数千万元Pre-A轮融资，高秉强教授及旗下高锋耐心基金、前海创新投资、常垒创投等持续加注，并同步开启新一轮融资。资金将主要用于技术创新、产品迭代、专利体系建设以及全球线下渠道网络拓展。橘猫宇宙（PawSwing）的核心产品 PawSwing Neo 是一款被动式猫窝梳",
+        "detail": "用专利，PawSwing 在宠物梳毛器品类画了一个大圈。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀获悉，宠物智能硬件公司「橘猫宇宙」近日完成数千万元Pre-A轮融资，高秉强教授及旗下高锋耐心基金、前海创新投资、常垒创投等持续加注，并同步开启新一轮融资。资金将主要用于技术创新、产品迭代、专利体系建设以及全球线下渠道网络拓展。橘猫宇宙（PawSwing）的核心产品 PawSwing Neo 是一款被动式猫窝梳",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
       }
     ]
   },
