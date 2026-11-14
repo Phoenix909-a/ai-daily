@@ -1,5 +1,156 @@
 [
   {
+    "date": "2026-11-14",
+    "weekday": "星期六",
+    "summary": "今日共收录 16 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 雷锋网。",
+    "news": [
+      {
+        "title": "英伟达，从此再无CEO黄仁勋！",
+        "link": "https://aiera.com.cn/2026/11/14/other/admin/123811/%e8%8b%b1%e4%bc%9f%e8%be%be%ef%bc%8c%e4%bb%8e%e6%ad%a4%e5%86%8d%e6%97%a0ceo%e9%bb%84%e4%bb%81%e5%8b%8b%ef%bc%81/",
+        "description": "2026年11月11日，穿黑色皮衣的人走下了他一手创建的GPU舞台。 就在刚刚，英伟达官网突然发布重磅公告——",
+        "detail": "2026年11月11日，穿黑色皮衣的人走下了他一手创建的GPU舞台。 就在刚刚，英伟达官网突然发布重磅公告——",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌今日「换脑」！轻量之王Gemini 4 Hydrogen反杀旗舰",
+        "link": "https://aiera.com.cn/2026/11/14/other/admin/123797/%e8%b0%b7%e6%ad%8c%e4%bb%8a%e6%97%a5%e3%80%8c%e6%8d%a2%e8%84%91%e3%80%8d%ef%bc%81%e8%bd%bb%e9%87%8f%e4%b9%8b%e7%8e%8bgemini-4-hydrogen%e5%8f%8d%e6%9d%80%e6%97%97%e8%88%b0/",
+        "description": "终于，Gemini 4 Hydrogen登场了！ 这个星期预热了很久的谷歌，终于放出了这个Gemini 4家族的新主力。",
+        "detail": "终于，Gemini 4 Hydrogen登场了！ 这个星期预热了很久的谷歌，终于放出了这个Gemini 4家族的新主力。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "数学界震动！Claude一口气写下19万行源码，揪出13年前证明错误",
+        "link": "https://aiera.com.cn/2026/11/14/other/admin/123766/%e6%95%b0%e5%ad%a6%e7%95%8c%e9%9c%87%e5%8a%a8%ef%bc%81claude%e4%b8%80%e5%8f%a3%e6%b0%94%e5%86%99%e4%b8%8b19%e4%b8%87%e8%a1%8c%e6%ba%90%e7%a0%81%ef%bc%8c%e6%8f%aa%e5%87%ba13%e5%b9%b4%e5%89%8d%e8%af%81/",
+        "description": "这是真要把人类数学家，逼上绝路啊...... 费马大定理，30个小时1000个Claude Fable 5.2组队，完成了完整的形式化证明。",
+        "detail": "这是真要把人类数学家，逼上绝路啊...... 费马大定理，30个小时1000个Claude Fable 5.2组队，完成了完整的形式化证明。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude新旗舰刚发，95万字绝密提示词被扒光了！",
+        "link": "https://aiera.com.cn/2026/11/14/other/admin/123751/claude%e6%96%b0%e6%97%97%e8%88%b0%e5%88%9a%e5%8f%91%ef%bc%8c95%e4%b8%87%e5%ad%97%e7%bb%9d%e5%af%86%e6%8f%90%e7%a4%ba%e8%af%8d%e8%a2%ab%e6%89%92%e5%85%89%e4%ba%86%ef%bc%81/",
+        "description": "Anthropic全新王炸模型Claude Fable 5.2刚上线两个多小时，后台家底就被扒了个精光！",
+        "detail": "Anthropic全新王炸模型Claude Fable 5.2刚上线两个多小时，后台家底就被扒了个精光！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "成立不到1年吸金4个亿，物理AI最野黑马横空出世，万亿风口已来！",
+        "link": "https://aiera.com.cn/2026/11/14/other/admin/123738/%e6%88%90%e7%ab%8b%e4%b8%8d%e5%88%b01%e5%b9%b4%e5%90%b8%e9%87%914%e4%b8%aa%e4%ba%bf%ef%bc%8c%e7%89%a9%e7%90%86ai%e6%9c%80%e9%87%8e%e9%bb%91%e9%a9%ac%e6%a8%aa%e7%a9%ba%e5%87%ba%e4%b8%96%ef%bc%8c/",
+        "description": "新疆，准噶尔盆地边缘戈壁滩，飞沙走石，人迹罕至。 类似的地方，全国有上百万公路重卡在奔波。",
+        "detail": "新疆，准噶尔盆地边缘戈壁滩，飞沙走石，人迹罕至。 类似的地方，全国有上百万公路重卡在奔波。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "以智能体视角，清华首发具身智能综述：从端到端策略到自主系统",
+        "link": "https://aiera.com.cn/2026/11/14/other/admin/123724/%e4%bb%a5%e6%99%ba%e8%83%bd%e4%bd%93%e8%a7%86%e8%a7%92%ef%bc%8c%e6%b8%85%e5%8d%8e%e9%a6%96%e5%8f%91%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e7%bb%bc%e8%bf%b0%ef%bc%9a%e4%bb%8e%e7%ab%af%e5%88%b0%e7%ab%af/",
+        "description": "多模态基础模型正在扩大机器人的能力边界。语言理解、视觉感知与动作生成逐渐进入统一的学习框架，机器人能够执行的任务越来越多。",
+        "detail": "多模态基础模型正在扩大机器人的能力边界。语言理解、视觉感知与动作生成逐渐进入统一的学习框架，机器人能够执行的任务越来越多。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "破局硅谷头号难题！中国AI「魂穿」老电影，神器全民开放",
+        "link": "https://aiera.com.cn/2026/11/14/other/admin/123709/%e7%a0%b4%e5%b1%80%e7%a1%85%e8%b0%b7%e5%a4%b4%e5%8f%b7%e9%9a%be%e9%a2%98%ef%bc%81%e4%b8%ad%e5%9b%bdai%e3%80%8c%e9%ad%82%e7%a9%bf%e3%80%8d%e8%80%81%e7%94%b5%e5%bd%b1%ef%bc%8c%e7%a5%9e%e5%99%a8%e5%85%a8/",
+        "description": "大家平时没少看主角「魂穿」的小说，可很少有人想过，有一天AI也会玩起「魂穿」。 假如让AI穿越回1925年的黑白默片《淘金记》，直接代入卓别林的第一视角，睁开眼会看到什么画面？",
+        "detail": "大家平时没少看主角「魂穿」的小说，可很少有人想过，有一天AI也会玩起「魂穿」。 假如让AI穿越回1925年的黑白默片《淘金记》，直接代入卓别林的第一视角，睁开眼会看到什么画面？",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Fable 5.2登顶RoboColiseum新榜单",
+        "link": "https://aiera.com.cn/2026/11/14/other/admin/123677/%e5%88%9a%e5%88%9a%ef%bc%8cfable-5-2%e7%99%bb%e9%a1%b6robocoliseum%e6%96%b0%e6%a6%9c%e5%8d%95/",
+        "description": "在RoboColiseum新赛季公布的成绩中，Claude Fable 5.2 以18.30分拿下综合第一，精细操作、跨本体迁移分别得到33.04分和17.99分，两项同样领先…",
+        "detail": "在RoboColiseum新赛季公布的成绩中，Claude Fable 5.2 以18.30分拿下综合第一，精细操作、跨本体迁移分别得到33.04分和17.99分，两项同样领先…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+        "link": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+        "link": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人",
+        "link": "https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
+        "description": "八年研究，两个落地系统，超六万GitHub Stars。&nbsp; &nbsp; 作者丨李秋悦&nbsp; &nbsp; 编辑丨吴 &nbsp; 彤&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "detail": "八年研究，两个落地系统，超六万GitHub Stars。&nbsp; &nbsp; 作者丨李秋悦&nbsp; &nbsp; 编辑丨吴 &nbsp; 彤&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+        "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "description": "[HN] +359 points · 188 comments · by speckx",
+        "detail": "[HN] +359 points · 188 comments · by speckx",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+        "link": "https://unsloth.ai/docs/models/qwen3.8",
+        "description": "[HN] +95 points · 16 comments · by Retro_Dev",
+        "detail": "[HN] +95 points · 16 comments · by Retro_Dev",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "hackernews"
+      },
+      {
+        "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+        "link": "https://claude.com/resources/articles/projects-redesigned",
+        "description": "[HN] +80 points · 75 comments · by toppa33",
+        "detail": "[HN] +80 points · 75 comments · by toppa33",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      },
+      {
+        "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
+        "link": "https://twitter.com/willdepue/status/2120992457630326841",
+        "description": "[HN] +6 points · 1 comments · by fbrusch",
+        "detail": "[HN] +6 points · 1 comments · by fbrusch",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
+        "link": "https://opencyclone.vercel.app/",
+        "description": "[HN] +4 points · 0 comments · by Exorust",
+        "detail": "[HN] +4 points · 0 comments · by Exorust",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-11-13",
     "weekday": "星期五",
     "summary": "今日共收录 51 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Verge AI, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
