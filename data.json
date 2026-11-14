@@ -2,8 +2,62 @@
   {
     "date": "2026-11-14",
     "weekday": "星期六",
-    "summary": "今日共收录 16 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 雷锋网。",
+    "summary": "今日共收录 23 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 雷锋网。",
     "news": [
+      {
+        "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+        "link": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+        "description": "\n        Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World ",
+        "detail": "\n        Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Gemini Robotics 2.5",
+        "link": "https://www.producthunt.com/products/gemini-robotics-2-5",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Gemini 4 Hydrogen",
+        "link": "https://www.producthunt.com/products/gemini-6",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Aven App Agent",
+        "link": "https://www.producthunt.com/products/aven-app-agent",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Templify AI",
+        "link": "https://www.producthunt.com/products/templify",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Claude Meetings",
+        "link": "https://www.producthunt.com/products/claude",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
       {
         "title": "英伟达，从此再无CEO黄仁勋！",
         "link": "https://aiera.com.cn/2026/11/14/other/admin/123811/%e8%8b%b1%e4%bc%9f%e8%be%be%ef%bc%8c%e4%bb%8e%e6%ad%a4%e5%86%8d%e6%97%a0ceo%e9%bb%84%e4%bb%81%e5%8b%8b%ef%bc%81/",
@@ -95,6 +149,15 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "百度词元所发布首日：供应商暴增超100家，客户新增超1000家",
+        "link": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
+        "description": "11月14日，从百度获悉，百度词元所发布首日，新增申请入驻的供应商已超过100家，新增超过1000家客户接入。&nbsp;词元所在11月12日举行的百度世界2026上正式发布，百度创始人李彦宏将其称为“大模型的交易所”。据介绍，词元所一端汇聚模型和模型提供商，另一端服务企业和个人，让用户便捷地找到、购买和使用可信的模型Token。&nbsp;词元所主打验真与征信两大能力：模型入平台前需通过模型指纹",
+        "detail": "11月14日，从百度获悉，百度词元所发布首日，新增申请入驻的供应商已超过100家，新增超过1000家客户接入。&nbsp;词元所在11月12日举行的百度世界2026上正式发布，百度创始人李彦宏将其称为“大模型的交易所”。据介绍，词元所一端汇聚模型和模型提供商，另一端服务企业和个人，让用户便捷地找到、购买和使用可信的模型Token。&nbsp;词元所主打验真与征信两大能力：模型入平台前需通过模型指纹",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
         "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人",
         "link": "https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
         "description": "八年研究，两个落地系统，超六万GitHub Stars。&nbsp; &nbsp; 作者丨李秋悦&nbsp; &nbsp; 编辑丨吴 &nbsp; 彤&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
@@ -104,10 +167,10 @@
         "source": "雷锋网"
       },
       {
-        "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
         "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "description": "[HN] +359 points · 188 comments · by speckx",
-        "detail": "[HN] +359 points · 188 comments · by speckx",
+        "description": "[HN] +613 points · 353 comments · by speckx",
+        "detail": "[HN] +613 points · 353 comments · by speckx",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "hackernews"
@@ -115,8 +178,8 @@
       {
         "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
         "link": "https://unsloth.ai/docs/models/qwen3.8",
-        "description": "[HN] +95 points · 16 comments · by Retro_Dev",
-        "detail": "[HN] +95 points · 16 comments · by Retro_Dev",
+        "description": "[HN] +152 points · 46 comments · by Retro_Dev",
+        "detail": "[HN] +152 points · 46 comments · by Retro_Dev",
         "tag": "新功能",
         "sort_score": 82,
         "source": "hackernews"
@@ -124,26 +187,26 @@
       {
         "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
         "link": "https://claude.com/resources/articles/projects-redesigned",
-        "description": "[HN] +80 points · 75 comments · by toppa33",
-        "detail": "[HN] +80 points · 75 comments · by toppa33",
+        "description": "[HN] +89 points · 84 comments · by toppa33",
+        "detail": "[HN] +89 points · 84 comments · by toppa33",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "hackernews"
       },
       {
-        "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
-        "link": "https://twitter.com/willdepue/status/2120992457630326841",
-        "description": "[HN] +6 points · 1 comments · by fbrusch",
-        "detail": "[HN] +6 points · 1 comments · by fbrusch",
+        "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+        "link": "https://news.ycombinator.com/item?id=50494696",
+        "description": "[HN] +34 points · 35 comments · by shnock",
+        "detail": "[HN] +34 points · 35 comments · by shnock",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "hackernews"
       },
       {
-        "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
-        "link": "https://opencyclone.vercel.app/",
-        "description": "[HN] +4 points · 0 comments · by Exorust",
-        "detail": "[HN] +4 points · 0 comments · by Exorust",
+        "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
+        "link": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
+        "description": "[HN] +4 points · 0 comments · by ankitg12",
+        "detail": "[HN] +4 points · 0 comments · by ankitg12",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "hackernews"
