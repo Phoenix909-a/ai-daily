@@ -2,8 +2,35 @@
   {
     "date": "2026-11-15",
     "weekday": "星期日",
-    "summary": "今日共收录 12 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 新智元, 极客公园。",
+    "summary": "今日共收录 19 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园。",
     "news": [
+      {
+        "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+        "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+        "description": "\n        Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, accordin",
+        "detail": "\n        Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, accordin",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+        "link": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+        "description": "\n        Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job posti",
+        "detail": "\n        Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job posti",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+        "link": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+        "description": "\n        Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landin",
+        "detail": "\n        Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landin",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "The Decoder"
+      },
       {
         "title": "Where was Nvidia’s security team?",
         "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
@@ -12,6 +39,42 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "Canvas by AgentGrid.io",
+        "link": "https://www.producthunt.com/products/agentgrid-io",
+        "description": "",
+        "detail": "",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "ByteAsk Cloud Agents",
+        "link": "https://www.producthunt.com/products/byteask-cloud-agents",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Gemini Robotics 2.5",
+        "link": "https://www.producthunt.com/products/gemini-robotics-2-5",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Gemini 4 Hydrogen",
+        "link": "https://www.producthunt.com/products/gemini-6",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
       },
       {
         "title": "DeepSeek全家桶API正式开放！你也能造一个DeepSeek了",
