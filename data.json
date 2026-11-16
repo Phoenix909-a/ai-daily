@@ -2,7 +2,7 @@
   {
     "date": "2026-11-16",
     "weekday": "星期一",
-    "summary": "今日共收录 27 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 少数派, 新智元, 极客公园, 雷锋网。",
+    "summary": "今日共收录 45 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
     "news": [
       {
         "title": "Apple launches new app to study how people use AI for health",
@@ -12,6 +12,78 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "link": "https://openai.com/index/lvmh-media-division-partnership",
+        "description": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+        "detail": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "OpenAI News"
+      },
+      {
+        "title": "The King’s Trust and OpenAI launch £1m partnership",
+        "link": "https://openai.com/index/the-kings-trust-and-openai",
+        "description": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+        "detail": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "OpenAI News"
+      },
+      {
+        "title": "Boost.space AgentOS",
+        "link": "https://www.producthunt.com/products/boost-space",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Degla AI",
+        "link": "https://www.producthunt.com/products/degla-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentWatch",
+        "link": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Agentic Canvas",
+        "link": "https://www.producthunt.com/products/agentgrid-io",
+        "description": "",
+        "detail": "",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "ByteAsk Cloud Agents",
+        "link": "https://www.producthunt.com/products/byteask-cloud-agents",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "平均年龄25岁，00后小伙带队拿下首届蚂蚁灵波具身大模型挑战赛最高分",
+        "link": "https://aiera.com.cn/2026/11/16/other/admin/124032/%e5%b9%b3%e5%9d%87%e5%b9%b4%e9%be%8425%e5%b2%81%ef%bc%8c00%e5%90%8e%e5%b0%8f%e4%bc%99%e5%b8%a6%e9%98%9f%e6%8b%bf%e4%b8%8b%e9%a6%96%e5%b1%8a%e8%9a%82%e8%9a%81%e7%81%b5%e6%b3%a2%e5%85%b7%e8%ba%ab/",
+        "description": "11月16日，蚂蚁灵波首届具身大模型挑战赛总决赛结果出炉。 来自福田实验室、西北工业大学、普渡机器人、天津大学的五位选手组成的“TARS”战队获得一等奖；华中科技大学、清华大学…",
+        "detail": "11月16日，蚂蚁灵波首届具身大模型挑战赛总决赛结果出炉。 来自福田实验室、西北工业大学、普渡机器人、天津大学的五位选手组成的“TARS”战队获得一等奖；华中科技大学、清华大学…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
       },
       {
         "title": "马斯克首次实现「筷子夹火箭」！SpaceX改写人类航天史",
@@ -77,6 +149,33 @@
         "source": "新智元"
       },
       {
+        "title": "DigitalOcean Managed Agents为AI智能体提供托管云基础设施",
+        "link": "https://www.infoq.cn/article/LjVeWVAsBWwaiifdMRiu?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Docker Sandbox Kit规范：将AI智能体权限打包为OCI镜像",
+        "link": "https://www.infoq.cn/article/yV89L6iMCqSLDHeSoLxo?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI 来了，团队究竟怎么变？",
+        "link": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词",
         "link": "https://www.infoq.cn/article/8TySw9wzqf0l90keJUNf?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -131,6 +230,15 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
+        "link": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "比 DeepSeek V4.1 Flash 性价比更高#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "比 DeepSeek V4.1 Flash 性价比更高#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
         "title": "派早报：逾十万人次联署要求黄仁勋复职",
         "link": "https://sspai.com/post/119119",
         "description": "逾十万人次联署要求黄仁勋复职Microsoft 365 服务在 19 小时全球宕机后恢复国产前沿模型携带 Blackwell GPU 特征线缆更换导致全美飞机停飞流媒体用户抱怨更难找到想看作品特斯拉 Cybercab 订阅协议包含苛刻条款看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
@@ -149,103 +257,67 @@
         "source": "极客公园"
       },
       {
-        "title": "模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型",
-        "link": "https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html",
-        "description": "11月16日，千问办公一口气上线10款模型，包括刚刚发布的Qwen4-Max，以及Kimi、GLM、DeepSeek、MiniMax、Step等多款三方大模型。目前，千问办公的模型列表已向用户开放选择，个人版和企业标准版用户可结合自身使用场景自由选择模型。&nbsp;&nbsp;此前，千问办公在模型供给上为用户提供了标准、高级和Qwen3.8-Max三档模型选择，可满足绝大多数日常办公任务的需求。",
-        "detail": "11月16日，千问办公一口气上线10款模型，包括刚刚发布的Qwen4-Max，以及Kimi、GLM、DeepSeek、MiniMax、Step等多款三方大模型。目前，千问办公的模型列表已向用户开放选择，个人版和企业标准版用户可结合自身使用场景自由选择模型。&nbsp;&nbsp;此前，千问办公在模型供给上为用户提供了标准、高级和Qwen3.8-Max三档模型选择，可满足绝大多数日常办公任务的需求。",
+        "title": "启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装",
+        "link": "https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html",
+        "description": "11月13日，启境汽车以“一车双能 为热爱上新”为主题，正式推出启境GT7 Ultra舒享版增程、纯电双车型，限时权益价分别为22.19万元与23.19万元。两款新车均标配面向L3级自动驾驶架构，启境GT7此次上新进一步拓宽了动力选择：增程版主打超长续航，纯电版兼顾豪华舒享。双车型均享最低首付6.66万元、5年分期前3年0息的金融政策，让面向L3级架构猎装真正走入20万级市场。启境由广汽集团与华为",
+        "detail": "11月13日，启境汽车以“一车双能 为热爱上新”为主题，正式推出启境GT7 Ultra舒享版增程、纯电双车型，限时权益价分别为22.19万元与23.19万元。两款新车均标配面向L3级自动驾驶架构，启境GT7此次上新进一步拓宽了动力选择：增程版主打超长续航，纯电版兼顾豪华舒享。双车型均享最低首付6.66万元、5年分期前3年0息的金融政策，让面向L3级架构猎装真正走入20万级市场。启境由广汽集团与华为",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "雷锋网"
       },
       {
-        "title": "百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径",
-        "link": "https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html",
-        "description": "11月12日，百度世界2026在北京举行，大会聚焦 AI 时代下如何提升组织能力。百度创始人李彦宏在开幕式上判断，人工智能的下一幕是“智能组织”，并首次提出“组织进化三原则”：打破岗位边界、沉淀隐性知识、设计流程闭环。“如果说，人工智能是新电能。那么，智能组织就是AI时代的新厂房，是生产力真正发生的地方。”&nbsp;本届大会期间，百度围绕“芯云模体”四层架构，发布多项成果：正式推出大模型交易平台",
-        "detail": "11月12日，百度世界2026在北京举行，大会聚焦 AI 时代下如何提升组织能力。百度创始人李彦宏在开幕式上判断，人工智能的下一幕是“智能组织”，并首次提出“组织进化三原则”：打破岗位边界、沉淀隐性知识、设计流程闭环。“如果说，人工智能是新电能。那么，智能组织就是AI时代的新厂房，是生产力真正发生的地方。”&nbsp;本届大会期间，百度围绕“芯云模体”四层架构，发布多项成果：正式推出大模型交易平台",
+        "title": "豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景",
+        "link": "https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html",
+        "description": "近日，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，让AI办公进一步走向职业化。据悉，这也是业内首个面向多个专业场景、不同职业人群定制的AI工作台功能。工作台页面据豆包工作官方介绍，“工作台”是为用户的专业工作场景提供的专属AI工作空间。金融、医疗、教育、创意设计等21个场景所需要的技能、工具，都预先配置在这个空间里，用户不必再逐项挑选。这大幅降低了专业工作场",
+        "detail": "近日，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，让AI办公进一步走向职业化。据悉，这也是业内首个面向多个专业场景、不同职业人群定制的AI工作台功能。工作台页面据豆包工作官方介绍，“工作台”是为用户的专业工作场景提供的专属AI工作空间。金融、医疗、教育、创意设计等21个场景所需要的技能、工具，都预先配置在这个空间里，用户不必再逐项挑选。这大幅降低了专业工作场",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "雷锋网"
+      },
+      {
+        "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
+        "link": "https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html",
+        "description": "物理AI的热度，正从机器人本体向产业链上下游扩散。过去一年，人形机器人、四足机器狗频繁出现在工厂、仓库和门店。产业界关心的问题正在变化：从“机器人能完成什么动作”转向“如何让它越做越准”。答案不只在机器人本体，更在其背后的计算系统：数据从哪里来，仿真在哪里运行，模型多久迭代，算力如何匹配研发节奏。这些都不是多买几台服务器能解决的。英伟达提出“三台计算机”概念：一台训练模型，一台在数字孪生与仿真环境",
+        "detail": "物理AI的热度，正从机器人本体向产业链上下游扩散。过去一年，人形机器人、四足机器狗频繁出现在工厂、仓库和门店。产业界关心的问题正在变化：从“机器人能完成什么动作”转向“如何让它越做越准”。答案不只在机器人本体，更在其背后的计算系统：数据从哪里来，仿真在哪里运行，模型多久迭代，算力如何匹配研发节奏。这些都不是多买几台服务器能解决的。英伟达提出“三台计算机”概念：一台训练模型，一台在数字孪生与仿真环境",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
       },
       {
-        "title": "众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发",
-        "link": "https://www.leiphone.com/category/weiwu/nFSVApZT1GmSFH9T.html",
-        "description": "2026 年 11 月 14 日，深圳湾文化广场北馆INNO100 全球创新旗舰店，Kickstarter为其平台上的众筹爆款新品——妙动科技打造的多地形跟拍机器人Beni，举办“首硬礼”中国线下首发活动。即日起用户可在该线下门店现场体验并直接购买Beni跟拍机器人，标准套装4999元、探索套装5799元。此前，Beni刚以“全球首款多地形跟拍机器人”的定位，通过海外众筹平台Kickstarter",
-        "detail": "2026 年 11 月 14 日，深圳湾文化广场北馆INNO100 全球创新旗舰店，Kickstarter为其平台上的众筹爆款新品——妙动科技打造的多地形跟拍机器人Beni，举办“首硬礼”中国线下首发活动。即日起用户可在该线下门店现场体验并直接购买Beni跟拍机器人，标准套装4999元、探索套装5799元。此前，Beni刚以“全球首款多地形跟拍机器人”的定位，通过海外众筹平台Kickstarter",
+        "title": "HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026",
+        "link": "https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html",
+        "description": "研究者需要的不只是AI生成的答案，更是审查答案、追溯来源并为知识判断负责的能力。&nbsp; &nbsp; 作者丨张 &nbsp; 璐&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+        "detail": "研究者需要的不只是AI生成的答案，更是审查答案、追溯来源并为知识判断负责的能力。&nbsp; &nbsp; 作者丨张 &nbsp; 璐&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "雷锋网"
       },
       {
-        "title": "抖音商城双11 好物节收官：品牌如何在大促中收获生意爆发？",
-        "link": "https://www.leiphone.com/category/industrynews/k4AfYGyYAfHKk0WW.html",
-        "description": "2026年抖音商城双11好物节已落下帷幕，品牌商家们围绕不同的消费需求规划货盘与内容，并结合消费券、补贴和现货履约保障，取得了各具特点的经营成果。接下来，本文将结合品牌的真实案例，分享商家在大促中的“高能打法”与可复用的经营策略。荣耀：携手「上新了！超级开新」IP首发年度新品，联动明星达人直播引爆大场对于硬核电竞玩家而言，纸面上的参数再漂亮，也不如一场高帧率实战来得实在。荣耀在抖音商城首发WIN2",
-        "detail": "2026年抖音商城双11好物节已落下帷幕，品牌商家们围绕不同的消费需求规划货盘与内容，并结合消费券、补贴和现货履约保障，取得了各具特点的经营成果。接下来，本文将结合品牌的真实案例，分享商家在大促中的“高能打法”与可复用的经营策略。荣耀：携手「上新了！超级开新」IP首发年度新品，联动明星达人直播引爆大场对于硬核电竞玩家而言，纸面上的参数再漂亮，也不如一场高帧率实战来得实在。荣耀在抖音商城首发WIN2",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "华为Mate X8官宣第二代灵珑屏，折叠屏手机进入大焕新时代？",
-        "link": "https://www.leiphone.com/category/industrynews/uQHWYgknaxF4jzlB.html",
-        "description": "11月16日，华为终端发布华为Mate X8新机屏幕卖点视频，官宣其将搭载第二代灵珑屏。与此同时，以“大、亮、平”为主题的户外广告同步登陆多个核心商圈户外大屏，迅速掀起新一轮热议。作为新一代大折叠的核心升级点，这次屏幕焕新显然不止是常规参数迭代，而是预示着折叠屏体验即将迎来一次全面进阶。提到折叠屏的核心优势，大屏观感始终是最直观的吸引力。从目前曝光的信息来看，华为Mate X8的屏幕尺寸将进一步升",
-        "detail": "11月16日，华为终端发布华为Mate X8新机屏幕卖点视频，官宣其将搭载第二代灵珑屏。与此同时，以“大、亮、平”为主题的户外广告同步登陆多个核心商圈户外大屏，迅速掀起新一轮热议。作为新一代大折叠的核心升级点，这次屏幕焕新显然不止是常规参数迭代，而是预示着折叠屏体验即将迎来一次全面进阶。提到折叠屏的核心优势，大屏观感始终是最直观的吸引力。从目前曝光的信息来看，华为Mate X8的屏幕尺寸将进一步升",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-        "link": "https://www.leiphone.com/category/industrynews/TRw4D5Bw5HsTmC1G.html",
-        "description": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测CodeArena中，Qwen4位居第六；在Agents&#39; Last Exam（ALE）、Vals Index等智能体能力及专业",
-        "detail": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测CodeArena中，Qwen4位居第六；在Agents&#39; Last Exam（ALE）、Vals Index等智能体能力及专业",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "雷锋网"
-      },
-      {
-        "title": "会畅科技发布任务管理原生 Agent 矩阵 软硬件协同深耕企业执行场景",
-        "link": "https://www.leiphone.com/category/industrynews/vBMqo9G7ViFbsPER.html",
-        "description": "2026 年 11 月 12 日，“会联运营・畅享执行 ——2026 会畅科技任务管理原生 Agent 发布会” 在上海举办。会畅科技现场推出白泽任务管理 OS 与会畅超光桌面 AI 助理终端两大核心产品，首次提出 “以任务为 AI 原生组织最小协作单元” 的产业判断，通过 “软件中枢 + 硬件入口” 一体化布局，打通战略到执行的全链路闭环，为企业从流程数字化迈向执行智能化提供落地方案。一、AI ",
-        "detail": "2026 年 11 月 12 日，“会联运营・畅享执行 ——2026 会畅科技任务管理原生 Agent 发布会” 在上海举办。会畅科技现场推出白泽任务管理 OS 与会畅超光桌面 AI 助理终端两大核心产品，首次提出 “以任务为 AI 原生组织最小协作单元” 的产业判断，通过 “软件中枢 + 硬件入口” 一体化布局，打通战略到执行的全链路闭环，为企业从流程数字化迈向执行智能化提供落地方案。一、AI ",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "雷锋网"
-      },
-      {
-        "title": "AI公司转型最难的一步：如何构建AI Native的产品体系",
-        "link": "https://www.leiphone.com/category/ai/pzBYjjLW3Cjb6AAO.html",
-        "description": "企业把大模型接进产品之后，新的经营问题才刚刚展开。客户提出一项任务，系统能拿到哪些信息，由谁核准结果，出现例外时如何处理，都会影响AI能否持续投入使用。产品演示中的能力，需要经由完整的服务过程才能转化为客户价值。王强宇出任百望股份首席执行官（CEO），为观察这项变化提供了一个具体切口：王强宇如何将百望的财税场景积累转化为专业模型与智能体产品，并让研发、交付和组织能力共同支撑商业化。产品的交付单位开",
-        "detail": "企业把大模型接进产品之后，新的经营问题才刚刚展开。客户提出一项任务，系统能拿到哪些信息，由谁核准结果，出现例外时如何处理，都会影响AI能否持续投入使用。产品演示中的能力，需要经由完整的服务过程才能转化为客户价值。王强宇出任百望股份首席执行官（CEO），为观察这项变化提供了一个具体切口：王强宇如何将百望的财税场景积累转化为专业模型与智能体产品，并让研发、交付和组织能力共同支撑商业化。产品的交付单位开",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "Qwen4-Max",
-        "link": "https://qwen.ai/blog?id=qwen4-max",
-        "description": "[HN] +387 points · 136 comments · by ilreb",
-        "detail": "[HN] +387 points · 136 comments · by ilreb",
+        "title": "李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？",
+        "link": "https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html",
+        "description": "时隔两年，World Labs 的工作已经完全不同了。&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "detail": "时隔两年，World Labs 的工作已经完全不同了。&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
         "tag": "模型发布",
         "sort_score": 90,
-        "source": "hackernews"
+        "source": "雷锋网"
       },
       {
-        "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
-        "link": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
-        "description": "[HN] +16 points · 2 comments · by mfiguiere",
-        "detail": "[HN] +16 points · 2 comments · by mfiguiere",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
+        "title": "李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」",
+        "link": "https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html",
+        "description": "一场横跨科研、经济、AI、社会话题、算力未来的女性对话。&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "detail": "一场横跨科研、经济、AI、社会话题、算力未来的女性对话。&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "雷锋网"
       },
       {
-        "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
-        "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
-        "description": "[HN] +12 points · 8 comments · by madihaa",
-        "detail": "[HN] +12 points · 8 comments · by madihaa",
+        "title": "韩国消费者爱上速卖通双11！中国品牌成交大涨4倍",
+        "link": "https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html",
+        "description": "今年海外双11，阿里旗下跨境电商平台速卖通在韩国加大品牌投入，豪送4辆特斯拉，直接带动双11首日Brand+品牌商品成交额同比去年大涨4倍，石头、绿联等一众中国品牌在韩国市场实现数倍增长。&nbsp;&nbsp;（速卖通韩国在双11活动现场送出特斯拉大奖）&nbsp;速卖通平台数据显示，11月1日至10日，电脑办公品牌朗科Netac销售额同比增长超8倍，清洁家电品牌石头Roborock同比增长超3",
+        "detail": "今年海外双11，阿里旗下跨境电商平台速卖通在韩国加大品牌投入，豪送4辆特斯拉，直接带动双11首日Brand+品牌商品成交额同比去年大涨4倍，石头、绿联等一众中国品牌在韩国市场实现数倍增长。&nbsp;&nbsp;（速卖通韩国在双11活动现场送出特斯拉大奖）&nbsp;速卖通平台数据显示，11月1日至10日，电脑办公品牌朗科Netac销售额同比增长超8倍，清洁家电品牌石头Roborock同比增长超3",
         "tag": "行业动态",
         "sort_score": 58,
-        "source": "hackernews"
+        "source": "雷锋网"
       }
     ]
   },
