@@ -1,5 +1,255 @@
 [
   {
+    "date": "2026-11-16",
+    "weekday": "星期一",
+    "summary": "今日共收录 27 条 AI 动态。 来源包括：InfoQ 中文, TechCrunch AI, 少数派, 新智元, 极客公园, 雷锋网。",
+    "news": [
+      {
+        "title": "Apple launches new app to study how people use AI for health",
+        "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+        "description": "Apple's new app for a study will answer everyday medical questions",
+        "detail": "Apple's new app for a study will answer everyday medical questions",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "马斯克首次实现「筷子夹火箭」！SpaceX改写人类航天史",
+        "link": "https://aiera.com.cn/2026/11/16/other/admin/124028/%e9%a9%ac%e6%96%af%e5%85%8b%e9%a6%96%e6%ac%a1%e5%ae%9e%e7%8e%b0%e3%80%8c%e7%ad%b7%e5%ad%90%e5%a4%b9%e7%81%ab%e7%ae%ad%e3%80%8d%ef%bc%81spacex%e6%94%b9%e5%86%99%e4%ba%ba%e7%b1%bb%e8%88%aa%e5%a4%a9/",
+        "description": "SpaceX再次创造了历史！ 北京清晨5点20分左右，一艘从太空回来的星舰飞船，被发射塔上的两只机械臂一把夹住。",
+        "detail": "SpaceX再次创造了历史！ 北京清晨5点20分左右，一艘从太空回来的星舰飞船，被发射塔上的两只机械臂一把夹住。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude杀进Office全家桶腹地！微软市值一夜蒸发6000亿",
+        "link": "https://aiera.com.cn/2026/11/16/other/admin/124005/claude%e6%9d%80%e8%bf%9boffice%e5%85%a8%e5%ae%b6%e6%a1%b6%e8%85%b9%e5%9c%b0%ef%bc%81%e5%be%ae%e8%bd%af%e5%b8%82%e5%80%bc%e4%b8%80%e5%a4%9c%e8%92%b8%e5%8f%916000%e4%ba%bf/",
+        "description": "IPO路演刚开始，A/再次宣战！ 今天，Claude一口气端上了三大「办公神器」：Whiteboards、Sheets、Data。",
+        "detail": "IPO路演刚开始，A/再次宣战！ 今天，Claude一口气端上了三大「办公神器」：Whiteboards、Sheets、Data。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "NeurIPS’26｜无需训练+梯度：引导离散扩散模型设计DNA/蛋白质",
+        "link": "https://aiera.com.cn/2026/11/16/other/admin/123993/neurips26%ef%bd%9c%e6%97%a0%e9%9c%80%e8%ae%ad%e7%bb%83%e6%a2%af%e5%ba%a6%ef%bc%9a%e5%bc%95%e5%af%bc%e7%a6%bb%e6%95%a3%e6%89%a9%e6%95%a3%e6%a8%a1%e5%9e%8b%e8%ae%be%e8%ae%a1dna-%e8%9b%8b%e7%99%bd/",
+        "description": "近两年，离散扩散模型（Discrete Diffusion）正在成为生物序列生成的重要工具。与自回归模型逐个token从左到右生成不同，掩码离散扩散（Masked Discre…",
+        "detail": "近两年，离散扩散模型（Discrete Diffusion）正在成为生物序列生成的重要工具。与自回归模型逐个token从左到右生成不同，掩码离散扩散（Masked Discre…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude能进视频会议了！边听边写方案，白板当场画",
+        "link": "https://aiera.com.cn/2026/11/16/other/admin/123969/claude%e8%83%bd%e8%bf%9b%e8%a7%86%e9%a2%91%e4%bc%9a%e8%ae%ae%e4%ba%86%ef%bc%81%e8%be%b9%e5%90%ac%e8%be%b9%e5%86%99%e6%96%b9%e6%a1%88%ef%bc%8c%e7%99%bd%e6%9d%bf%e5%bd%93%e5%9c%ba%e7%94%bb/",
+        "description": "开会最怕的是，一屋子人聊天得热火朝天，两个小时过去，还是不知道谁该干什么。 会议纪要看着很齐全，可散会后真要干活，还得有人重新拉文档、补资料、找同事确认。",
+        "detail": "开会最怕的是，一屋子人聊天得热火朝天，两个小时过去，还是不知道谁该干什么。 会议纪要看着很齐全，可散会后真要干活，还得有人重新拉文档、补资料、找同事确认。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "一张图吓得研究员当场辞职！Anthropic最疯神图流出",
+        "link": "https://aiera.com.cn/2026/11/16/other/admin/123959/%e4%b8%80%e5%bc%a0%e5%9b%be%e5%90%93%e5%be%97%e7%a0%94%e7%a9%b6%e5%91%98%e5%bd%93%e5%9c%ba%e8%be%9e%e8%81%8c%ef%bc%81anthropic%e6%9c%80%e7%96%af%e7%a5%9e%e5%9b%be%e6%b5%81%e5%87%ba/",
+        "description": "因为在内部看到了一张折线图，一名顶尖AI研究员在万亿IPO前夕，直接掀桌子走人了！ 他叫Jacob Coxon，曾先后担任OpenAI与Anthropic的预训练研究员。两个月…",
+        "detail": "因为在内部看到了一张折线图，一名顶尖AI研究员在万亿IPO前夕，直接掀桌子走人了！ 他叫Jacob Coxon，曾先后担任OpenAI与Anthropic的预训练研究员。两个月…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "10000个AI分身88小时攻下千禧难题！奥特曼两夜没睡，却不领100万奖金",
+        "link": "https://aiera.com.cn/2026/11/16/other/admin/123942/10000%e4%b8%aaai%e5%88%86%e8%ba%ab88%e5%b0%8f%e6%97%b6%e6%94%bb%e4%b8%8b%e5%8d%83%e7%a6%a7%e9%9a%be%e9%a2%98%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e4%b8%a4%e5%a4%9c%e6%b2%a1%e7%9d%a1%ef%bc%8c%e5%8d%b4/",
+        "description": "你想象一下这个画面： 一个望不到头的大考场，一万张小桌子排得整整齐齐，跟走进了小人国似的。",
+        "detail": "你想象一下这个画面： 一个望不到头的大考场，一万张小桌子排得整整齐齐，跟走进了小人国似的。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "「别提越权」！OpenAI自曝：AI摸进黑客考场后台，交卷时只字不提",
+        "link": "https://aiera.com.cn/2026/11/16/other/admin/123926/%e3%80%8c%e5%88%ab%e6%8f%90%e8%b6%8a%e6%9d%83%e3%80%8d%ef%bc%81openai%e8%87%aa%e6%9b%9d%ef%bc%9aai%e6%91%b8%e8%bf%9b%e9%bb%91%e5%ae%a2%e8%80%83%e5%9c%ba%e5%90%8e%e5%8f%b0%ef%bc%8c%e4%ba%a4%e5%8d%b7/",
+        "description": "我们应该避免提到未经授权的基础设施。任务目标只有flag。 很难想到，这句听着像串供老手的话，竟然出现在一个AI智能体的推理记录里。",
+        "detail": "我们应该避免提到未经授权的基础设施。任务目标只有flag。 很难想到，这句听着像串供老手的话，竟然出现在一个AI智能体的推理记录里。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词",
+        "link": "https://www.infoq.cn/article/8TySw9wzqf0l90keJUNf?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "DeepSeek又来掀桌子了！官方App全套能力开放API，联网搜索价格不到OpenAI、Claude的8%",
+        "link": "https://www.infoq.cn/article/NWmk4epBL0jPAUtpKSKb?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "马斯克喊话“真男人自己管理内存”，三十年系统老将警告：Rust 也拦不住 AI 制造复杂性",
+        "link": "https://www.infoq.cn/article/FWqT2oGIEl9zlyJ7HXZF?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI 写得快，谁来接住生产责任",
+        "link": "https://www.infoq.cn/article/sIqEVPmL3P9PExLjPzPW?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
+        "link": "https://www.infoq.cn/article/ExwZoqvAjY423YKaXcpw?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”",
+        "link": "https://www.infoq.cn/article/myl5Mcw3iyCYv3ZJ3hwQ?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "派早报：逾十万人次联署要求黄仁勋复职",
+        "link": "https://sspai.com/post/119119",
+        "description": "逾十万人次联署要求黄仁勋复职Microsoft 365 服务在 19 小时全球宕机后恢复国产前沿模型携带 Blackwell GPU 特征线缆更换导致全美飞机停飞流媒体用户抱怨更难找到想看作品特斯拉 Cybercab 订阅协议包含苛刻条款看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "detail": "逾十万人次联署要求黄仁勋复职Microsoft 365 服务在 19 小时全球宕机后恢复国产前沿模型携带 Blackwell GPU 特征线缆更换导致全美飞机停飞流媒体用户抱怨更难找到想看作品特斯拉 Cybercab 订阅协议包含苛刻条款看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "少数派"
+      },
+      {
+        "title": "曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队",
+        "link": "http://www.geekpark.net/news/373994",
+        "description": "\n        \n曝黄仁勋考虑重返英伟达担任 CEO，盟友正施压董事会\n据英国《金融时报》周日报道，黄仁勋正考虑重返英伟达担任首席执行官。如今他在硅谷的多位盟友正向英伟达董事会施压，要求公司重新任命他。\n报道称，黄仁勋已经和亲信讨论了重返公司的可能性。与此同时，英伟达董事会还在开展独立调查。\n一位黄仁勋的盟友表示，他们正在组建一个由硅谷高管构成的「作战室」，游说黄仁勋重返英伟达，并计划争取白宫方",
+        "detail": "\n        \n曝黄仁勋考虑重返英伟达担任 CEO，盟友正施压董事会\n据英国《金融时报》周日报道，黄仁勋正考虑重返英伟达担任首席执行官。如今他在硅谷的多位盟友正向英伟达董事会施压，要求公司重新任命他。\n报道称，黄仁勋已经和亲信讨论了重返公司的可能性。与此同时，英伟达董事会还在开展独立调查。\n一位黄仁勋的盟友表示，他们正在组建一个由硅谷高管构成的「作战室」，游说黄仁勋重返英伟达，并计划争取白宫方",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型",
+        "link": "https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html",
+        "description": "11月16日，千问办公一口气上线10款模型，包括刚刚发布的Qwen4-Max，以及Kimi、GLM、DeepSeek、MiniMax、Step等多款三方大模型。目前，千问办公的模型列表已向用户开放选择，个人版和企业标准版用户可结合自身使用场景自由选择模型。&nbsp;&nbsp;此前，千问办公在模型供给上为用户提供了标准、高级和Qwen3.8-Max三档模型选择，可满足绝大多数日常办公任务的需求。",
+        "detail": "11月16日，千问办公一口气上线10款模型，包括刚刚发布的Qwen4-Max，以及Kimi、GLM、DeepSeek、MiniMax、Step等多款三方大模型。目前，千问办公的模型列表已向用户开放选择，个人版和企业标准版用户可结合自身使用场景自由选择模型。&nbsp;&nbsp;此前，千问办公在模型供给上为用户提供了标准、高级和Qwen3.8-Max三档模型选择，可满足绝大多数日常办公任务的需求。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径",
+        "link": "https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html",
+        "description": "11月12日，百度世界2026在北京举行，大会聚焦 AI 时代下如何提升组织能力。百度创始人李彦宏在开幕式上判断，人工智能的下一幕是“智能组织”，并首次提出“组织进化三原则”：打破岗位边界、沉淀隐性知识、设计流程闭环。“如果说，人工智能是新电能。那么，智能组织就是AI时代的新厂房，是生产力真正发生的地方。”&nbsp;本届大会期间，百度围绕“芯云模体”四层架构，发布多项成果：正式推出大模型交易平台",
+        "detail": "11月12日，百度世界2026在北京举行，大会聚焦 AI 时代下如何提升组织能力。百度创始人李彦宏在开幕式上判断，人工智能的下一幕是“智能组织”，并首次提出“组织进化三原则”：打破岗位边界、沉淀隐性知识、设计流程闭环。“如果说，人工智能是新电能。那么，智能组织就是AI时代的新厂房，是生产力真正发生的地方。”&nbsp;本届大会期间，百度围绕“芯云模体”四层架构，发布多项成果：正式推出大模型交易平台",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发",
+        "link": "https://www.leiphone.com/category/weiwu/nFSVApZT1GmSFH9T.html",
+        "description": "2026 年 11 月 14 日，深圳湾文化广场北馆INNO100 全球创新旗舰店，Kickstarter为其平台上的众筹爆款新品——妙动科技打造的多地形跟拍机器人Beni，举办“首硬礼”中国线下首发活动。即日起用户可在该线下门店现场体验并直接购买Beni跟拍机器人，标准套装4999元、探索套装5799元。此前，Beni刚以“全球首款多地形跟拍机器人”的定位，通过海外众筹平台Kickstarter",
+        "detail": "2026 年 11 月 14 日，深圳湾文化广场北馆INNO100 全球创新旗舰店，Kickstarter为其平台上的众筹爆款新品——妙动科技打造的多地形跟拍机器人Beni，举办“首硬礼”中国线下首发活动。即日起用户可在该线下门店现场体验并直接购买Beni跟拍机器人，标准套装4999元、探索套装5799元。此前，Beni刚以“全球首款多地形跟拍机器人”的定位，通过海外众筹平台Kickstarter",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "抖音商城双11 好物节收官：品牌如何在大促中收获生意爆发？",
+        "link": "https://www.leiphone.com/category/industrynews/k4AfYGyYAfHKk0WW.html",
+        "description": "2026年抖音商城双11好物节已落下帷幕，品牌商家们围绕不同的消费需求规划货盘与内容，并结合消费券、补贴和现货履约保障，取得了各具特点的经营成果。接下来，本文将结合品牌的真实案例，分享商家在大促中的“高能打法”与可复用的经营策略。荣耀：携手「上新了！超级开新」IP首发年度新品，联动明星达人直播引爆大场对于硬核电竞玩家而言，纸面上的参数再漂亮，也不如一场高帧率实战来得实在。荣耀在抖音商城首发WIN2",
+        "detail": "2026年抖音商城双11好物节已落下帷幕，品牌商家们围绕不同的消费需求规划货盘与内容，并结合消费券、补贴和现货履约保障，取得了各具特点的经营成果。接下来，本文将结合品牌的真实案例，分享商家在大促中的“高能打法”与可复用的经营策略。荣耀：携手「上新了！超级开新」IP首发年度新品，联动明星达人直播引爆大场对于硬核电竞玩家而言，纸面上的参数再漂亮，也不如一场高帧率实战来得实在。荣耀在抖音商城首发WIN2",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "华为Mate X8官宣第二代灵珑屏，折叠屏手机进入大焕新时代？",
+        "link": "https://www.leiphone.com/category/industrynews/uQHWYgknaxF4jzlB.html",
+        "description": "11月16日，华为终端发布华为Mate X8新机屏幕卖点视频，官宣其将搭载第二代灵珑屏。与此同时，以“大、亮、平”为主题的户外广告同步登陆多个核心商圈户外大屏，迅速掀起新一轮热议。作为新一代大折叠的核心升级点，这次屏幕焕新显然不止是常规参数迭代，而是预示着折叠屏体验即将迎来一次全面进阶。提到折叠屏的核心优势，大屏观感始终是最直观的吸引力。从目前曝光的信息来看，华为Mate X8的屏幕尺寸将进一步升",
+        "detail": "11月16日，华为终端发布华为Mate X8新机屏幕卖点视频，官宣其将搭载第二代灵珑屏。与此同时，以“大、亮、平”为主题的户外广告同步登陆多个核心商圈户外大屏，迅速掀起新一轮热议。作为新一代大折叠的核心升级点，这次屏幕焕新显然不止是常规参数迭代，而是预示着折叠屏体验即将迎来一次全面进阶。提到折叠屏的核心优势，大屏观感始终是最直观的吸引力。从目前曝光的信息来看，华为Mate X8的屏幕尺寸将进一步升",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+        "link": "https://www.leiphone.com/category/industrynews/TRw4D5Bw5HsTmC1G.html",
+        "description": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测CodeArena中，Qwen4位居第六；在Agents&#39; Last Exam（ALE）、Vals Index等智能体能力及专业",
+        "detail": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测CodeArena中，Qwen4位居第六；在Agents&#39; Last Exam（ALE）、Vals Index等智能体能力及专业",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "雷锋网"
+      },
+      {
+        "title": "会畅科技发布任务管理原生 Agent 矩阵 软硬件协同深耕企业执行场景",
+        "link": "https://www.leiphone.com/category/industrynews/vBMqo9G7ViFbsPER.html",
+        "description": "2026 年 11 月 12 日，“会联运营・畅享执行 ——2026 会畅科技任务管理原生 Agent 发布会” 在上海举办。会畅科技现场推出白泽任务管理 OS 与会畅超光桌面 AI 助理终端两大核心产品，首次提出 “以任务为 AI 原生组织最小协作单元” 的产业判断，通过 “软件中枢 + 硬件入口” 一体化布局，打通战略到执行的全链路闭环，为企业从流程数字化迈向执行智能化提供落地方案。一、AI ",
+        "detail": "2026 年 11 月 12 日，“会联运营・畅享执行 ——2026 会畅科技任务管理原生 Agent 发布会” 在上海举办。会畅科技现场推出白泽任务管理 OS 与会畅超光桌面 AI 助理终端两大核心产品，首次提出 “以任务为 AI 原生组织最小协作单元” 的产业判断，通过 “软件中枢 + 硬件入口” 一体化布局，打通战略到执行的全链路闭环，为企业从流程数字化迈向执行智能化提供落地方案。一、AI ",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "雷锋网"
+      },
+      {
+        "title": "AI公司转型最难的一步：如何构建AI Native的产品体系",
+        "link": "https://www.leiphone.com/category/ai/pzBYjjLW3Cjb6AAO.html",
+        "description": "企业把大模型接进产品之后，新的经营问题才刚刚展开。客户提出一项任务，系统能拿到哪些信息，由谁核准结果，出现例外时如何处理，都会影响AI能否持续投入使用。产品演示中的能力，需要经由完整的服务过程才能转化为客户价值。王强宇出任百望股份首席执行官（CEO），为观察这项变化提供了一个具体切口：王强宇如何将百望的财税场景积累转化为专业模型与智能体产品，并让研发、交付和组织能力共同支撑商业化。产品的交付单位开",
+        "detail": "企业把大模型接进产品之后，新的经营问题才刚刚展开。客户提出一项任务，系统能拿到哪些信息，由谁核准结果，出现例外时如何处理，都会影响AI能否持续投入使用。产品演示中的能力，需要经由完整的服务过程才能转化为客户价值。王强宇出任百望股份首席执行官（CEO），为观察这项变化提供了一个具体切口：王强宇如何将百望的财税场景积累转化为专业模型与智能体产品，并让研发、交付和组织能力共同支撑商业化。产品的交付单位开",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Qwen4-Max",
+        "link": "https://qwen.ai/blog?id=qwen4-max",
+        "description": "[HN] +387 points · 136 comments · by ilreb",
+        "detail": "[HN] +387 points · 136 comments · by ilreb",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      },
+      {
+        "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+        "link": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+        "description": "[HN] +16 points · 2 comments · by mfiguiere",
+        "detail": "[HN] +16 points · 2 comments · by mfiguiere",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+        "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+        "description": "[HN] +12 points · 8 comments · by madihaa",
+        "detail": "[HN] +12 points · 8 comments · by madihaa",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "weekday": "星期日",
     "summary": "今日共收录 19 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, The Decoder, 新智元, 极客公园。",
