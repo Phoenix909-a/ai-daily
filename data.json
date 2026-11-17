@@ -1,5 +1,300 @@
 [
   {
+    "date": "2026-11-17",
+    "weekday": "星期二",
+    "summary": "今日共收录 32 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "news": [
+      {
+        "title": "Strengthening NATO and allied cyber defenses with AI",
+        "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "description": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+        "detail": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "OpenAI News"
+      },
+      {
+        "title": "Agents API by Recall.ai",
+        "link": "https://www.producthunt.com/products/recall-ai",
+        "description": "",
+        "detail": "",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "GatherHQ Agent Research",
+        "link": "https://www.producthunt.com/products/gatherhq-agent-research",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AI Visibility by TruLata",
+        "link": "https://www.producthunt.com/products/trulata",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Trading Agents",
+        "link": "https://www.producthunt.com/products/alpha-vantage",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "华为云“行业AI梦工厂”发布并开源昇腾原生具身世界模型CloudRobo-WM1.2",
+        "link": "https://aiera.com.cn/2026/11/17/other/admin/124161/%e5%8d%8e%e4%b8%ba%e4%ba%91%e8%a1%8c%e4%b8%9aai%e6%a2%a6%e5%b7%a5%e5%8e%82%e5%8f%91%e5%b8%83%e5%b9%b6%e5%bc%80%e6%ba%90%e6%98%87%e8%85%be%e5%8e%9f%e7%94%9f%e5%85%b7%e8%ba%ab%e4%b8%96/",
+        "description": "[中国，杭州，2026年11月16日] 今天，华为云“行业AI梦工厂”发布并开源昇腾原生的具身世界模型CloudRobo-WM1.2，采用共享世界模型骨干网络实现预测增强的世…",
+        "detail": "[中国，杭州，2026年11月16日] 今天，华为云“行业AI梦工厂”发布并开源昇腾原生的具身世界模型CloudRobo-WM1.2，采用共享世界模型骨干网络实现预测增强的世…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "大神李沐杀入世界模型！",
+        "link": "https://aiera.com.cn/2026/11/17/other/admin/124158/%e5%a4%a7%e7%a5%9e%e6%9d%8e%e6%b2%90%e6%9d%80%e5%85%a5%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%ef%bc%81/",
+        "description": "近日，总部位于硅谷的 Aimotion 宣布，知名AI科学家李沐出任公司联合创始人兼CTO，主导下一代产业级AI技术体系建设。",
+        "detail": "近日，总部位于硅谷的 Aimotion 宣布，知名AI科学家李沐出任公司联合创始人兼CTO，主导下一代产业级AI技术体系建设。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "沃顿教授一句「打磨」，Claude反手给自己写了8.7万词规章！",
+        "link": "https://aiera.com.cn/2026/11/17/other/admin/124152/%e6%b2%83%e9%a1%bf%e6%95%99%e6%8e%88%e4%b8%80%e5%8f%a5%e3%80%8c%e6%89%93%e7%a3%a8%e3%80%8d%ef%bc%8cclaude%e5%8f%8d%e6%89%8b%e7%bb%99%e8%87%aa%e5%b7%b1%e5%86%99%e4%ba%868-7%e4%b8%87%e8%af%8d%e8%a7%84/",
+        "description": "这几乎就是AGI了，不过是「锯齿版」的！ 最近，沃顿商学院教授Ethan Mollick干了一件事：让Anthropic刚发布的Fable 5.2带着一群AI去造3D世界。",
+        "detail": "这几乎就是AGI了，不过是「锯齿版」的！ 最近，沃顿商学院教授Ethan Mollick干了一件事：让Anthropic刚发布的Fable 5.2带着一群AI去造3D世界。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "10年太慢！顾全全团队叫板Dario：治愈癌症压缩到4年",
+        "link": "https://aiera.com.cn/2026/11/17/other/admin/124140/10%e5%b9%b4%e5%a4%aa%e6%85%a2%ef%bc%81%e9%a1%be%e5%85%a8%e5%85%a8%e5%9b%a2%e9%98%9f%e5%8f%ab%e6%9d%bfdario%ef%bc%9a%e6%b2%bb%e6%84%88%e7%99%8c%e7%97%87%e5%8e%8b%e7%bc%a9%e5%88%b04%e5%b9%b4/",
+        "description": "最近，Anthropic的CEO Dario Amodei 说了一句话： AI将在10年内，把人类在生物学上50到100年的进展压缩完成——癌症、阿尔茨海默症、心脏病，统统有…",
+        "detail": "最近，Anthropic的CEO Dario Amodei 说了一句话： AI将在10年内，把人类在生物学上50到100年的进展压缩完成——癌症、阿尔茨海默症、心脏病，统统有…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "个人智能体咋总掉线？9顶校发布126页「持续在线智能体」路线图",
+        "link": "https://aiera.com.cn/2026/11/17/other/admin/124118/%e4%b8%aa%e4%ba%ba%e6%99%ba%e8%83%bd%e4%bd%93%e5%92%8b%e6%80%bb%e6%8e%89%e7%ba%bf%ef%bc%9f9%e9%a1%b6%e6%a0%a1%e5%8f%91%e5%b8%83126%e9%a1%b5%e3%80%8c%e6%8c%81%e7%bb%ad%e5%9c%a8%e7%ba%bf%e6%99%ba/",
+        "description": "个人智能体，正在迎来一场前所未有的密集爆发。 在海外，前沿AI实验室接连出手，推出Muse、dots、Claude Duet、Grok Bot、Gemini Daily Bri…",
+        "detail": "个人智能体，正在迎来一场前所未有的密集爆发。 在海外，前沿AI实验室接连出手，推出Muse、dots、Claude Duet、Grok Bot、Gemini Daily Bri…",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "英伟达沦为背景板！Opus 5.5亲手搓AI基建，人类基线失守",
+        "link": "https://aiera.com.cn/2026/11/17/other/admin/124100/%e8%8b%b1%e4%bc%9f%e8%be%be%e6%b2%a6%e4%b8%ba%e8%83%8c%e6%99%af%e6%9d%bf%ef%bc%81opus-5-5%e4%ba%b2%e6%89%8b%e6%90%93ai%e5%9f%ba%e5%bb%ba%ef%bc%8c%e4%ba%ba%e7%b1%bb%e5%9f%ba%e7%ba%bf%e5%a4%b1%e5%ae%88/",
+        "description": "短短一周内，黄仁勋从英伟达几乎「净身出户」，消息被疯狂刷屏。 当人们还在吃瓜时，卡内基梅隆大学（CMU）刚刚发布的一篇新论文，炸懵了所有的AI工程师。",
+        "detail": "短短一周内，黄仁勋从英伟达几乎「净身出户」，消息被疯狂刷屏。 当人们还在吃瓜时，卡内基梅隆大学（CMU）刚刚发布的一篇新论文，炸懵了所有的AI工程师。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "别问了，我就爱钱！A\\裸辞天才研究员反悔，或想重返大厂",
+        "link": "https://aiera.com.cn/2026/11/17/other/admin/124084/%e5%88%ab%e9%97%ae%e4%ba%86%ef%bc%8c%e6%88%91%e5%b0%b1%e7%88%b1%e9%92%b1%ef%bc%81a%e8%a3%b8%e8%be%9e%e5%a4%a9%e6%89%8d%e7%a0%94%e7%a9%b6%e5%91%98%e5%8f%8d%e6%82%94%ef%bc%8c%e6%88%96%e6%83%b3/",
+        "description": "刚刚，两个月前高调裸辞的Anthropic前研究员Jacob Coxon，态度突然大反转了！",
+        "detail": "刚刚，两个月前高调裸辞的Anthropic前研究员Jacob Coxon，态度突然大反转了！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "00后爆改机械臂，狂揽全国总冠军！15战队上海鏖战48h结果出炉",
+        "link": "https://aiera.com.cn/2026/11/17/other/admin/124066/00%e5%90%8e%e7%88%86%e6%94%b9%e6%9c%ba%e6%a2%b0%e8%87%82%ef%bc%8c%e7%8b%82%e6%8f%bd%e5%85%a8%e5%9b%bd%e6%80%bb%e5%86%a0%e5%86%9b%ef%bc%8115%e6%88%98%e9%98%9f%e4%b8%8a%e6%b5%b7%e9%8f%96%e6%88%9848h/",
+        "description": "就在刚刚，首届蚂蚁灵波具身大模型挑战赛，总决赛成绩揭晓！ 平均年龄25岁的TARS战队获得冠军。",
+        "detail": "就在刚刚，首届蚂蚁灵波具身大模型挑战赛，总决赛成绩揭晓！ 平均年龄25岁的TARS战队获得冠军。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
+        "link": "https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Agent演示惊艳，一进生产就不好用：SAP直指企业AI落地的最大幻觉",
+        "link": "https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Google Cloud API Gateway 推出面向实时 AI 应用的流式处理",
+        "link": "https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本",
+        "link": "https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "openEuler 进军 Agentic Infra！主席熊伟：不讲大故事，先解决真问题",
+        "link": "https://www.infoq.cn/article/JhBUwv1pHR3S986Ih0iJ?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从 SDLC 到 ADLC：宝洁的 AI 原生组织实验",
+        "link": "https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六",
+        "link": "https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "微软全球大宕机，AI 怎么又成了背锅侠",
+        "link": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "微软宕机与美国航班停飞，背后都是 AI 失控吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "微软宕机与美国航班停飞，背后都是 AI 失控吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
+        "link": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元\n· 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用\n· 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元\n· 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用\n· 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代",
+        "link": "http://www.geekpark.net/news/374083",
+        "description": "\n        作者｜Cynthia\n编辑｜郑玄\n过日子的风，还是吹到了大模型行业。\n2026 年之前，一款模型能不能刷屏，往往取决于它又做到了什么。GPT-4o 的实时语音交互、Claude 的编程能力、DeepSeek R1 的推理表现，一度轮番成为讨论焦点。一款新模型发布，大家首先关心的是它超过了谁，又做到了什么过去做不到的事。\n但到了 2026 年，Agent 真正流行起来之后，风向开始",
+        "detail": "\n        作者｜Cynthia\n编辑｜郑玄\n过日子的风，还是吹到了大模型行业。\n2026 年之前，一款模型能不能刷屏，往往取决于它又做到了什么。GPT-4o 的实时语音交互、Claude 的编程能力、DeepSeek R1 的推理表现，一度轮番成为讨论焦点。一款新模型发布，大家首先关心的是它超过了谁，又做到了什么过去做不到的事。\n但到了 2026 年，Agent 真正流行起来之后，风向开始",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」",
+        "link": "http://www.geekpark.net/news/374079",
+        "description": "\n        作者｜桦林舞王\n编辑｜靖宇\n底座架构重写，单任务成本暴降近六成，阿里把旗舰模型拉进了真实排班表。\n终于，一款国产旗舰模型现身了。\n11 月 16 日，阿里千问正式发布新一代旗舰模型 Qwen4-Max。就在五天前，它的预览版 qwen4-max-preview 刚在 Token Plan 里低调露过面，今天正式版直接亮出了完整底牌。\n新模型依然维持着 2.4 万亿（2.4T）的主",
+        "detail": "\n        作者｜桦林舞王\n编辑｜靖宇\n底座架构重写，单任务成本暴降近六成，阿里把旗舰模型拉进了真实排班表。\n终于，一款国产旗舰模型现身了。\n11 月 16 日，阿里千问正式发布新一代旗舰模型 Qwen4-Max。就在五天前，它的预览版 qwen4-max-preview 刚在 Token Plan 里低调露过面，今天正式版直接亮出了完整底牌。\n新模型依然维持着 2.4 万亿（2.4T）的主",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」",
+        "link": "http://www.geekpark.net/news/374075",
+        "description": "\n        \n作者｜桦林舞王\n编辑｜靖宇\n\nAgent 能进门了，也能付钱了。\nAgent 替用户「消费」的时代，终于到来了。\n美国时间 2026 年 11 月 13 日，两家公司两场发布会同天发生。一边是企业级对话式智能体公司 Sierra 联合 Meta 正式发布个人代理协议 Poppy v1.0，解决助手怎么「进门」的问题；另一边是 OpenAI 推出面向个人助手 dots 的 Cha",
+        "detail": "\n        \n作者｜桦林舞王\n编辑｜靖宇\n\nAgent 能进门了，也能付钱了。\nAgent 替用户「消费」的时代，终于到来了。\n美国时间 2026 年 11 月 13 日，两家公司两场发布会同天发生。一边是企业级对话式智能体公司 Sierra 联合 Meta 正式发布个人代理协议 Poppy v1.0，解决助手怎么「进门」的问题；另一边是 OpenAI 推出面向个人助手 dots 的 Cha",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "极客公园"
+      },
+      {
+        "title": "消息称黄仁勋回归尚未进入英伟达董事会议程；腾讯总办号召AI时代再创业；AI 演员虚假代言被罚",
+        "link": "http://www.geekpark.net/news/374056",
+        "description": "\n        \n消息称黄仁勋回归尚未进入英伟达董事会议程，已有 18 万人联署呼吁复职\n11 月 17 日消息，CNBC 今天（11 月 17 日）发布博文，援引一名知情人士透露信息，英伟达董事会目前没有考虑让黄仁勋重新担任首席执行官，也未就其回归展开讨论。报道称英伟达董事会的工作重心，目前聚焦推进针对黄仁勋相关行为的调查。\n报道称，英伟达已聘请 Wachtell Lipton 律师事务所，调",
+        "detail": "\n        \n消息称黄仁勋回归尚未进入英伟达董事会议程，已有 18 万人联署呼吁复职\n11 月 17 日消息，CNBC 今天（11 月 17 日）发布博文，援引一名知情人士透露信息，英伟达董事会目前没有考虑让黄仁勋重新担任首席执行官，也未就其回归展开讨论。报道称英伟达董事会的工作重心，目前聚焦推进针对黄仁勋相关行为的调查。\n报道称，英伟达已聘请 Wachtell Lipton 律师事务所，调",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿",
+        "link": "https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html",
+        "description": "要闻提示1.黄仁勋借钱成新型诈骗！英伟达董事会：没考虑让黄仁勋复任 CEO2.已到生死存亡时刻！腾讯内部讲话：现在不是和平年代，大家不能自以为站在高处很安全3.网传360集团副总裁卜思南涉贪腐问题被带走调查，本人回应：不是真的，在处理ing4.网易《哈利波特：魔法觉醒》手游宣布明年 3 月停止运营，曾月流水破10亿5.AI 演员方桃子代言美瞳广告被罚，声称“戴了一天都很舒服”6.阿里合伙人樊路远辞",
+        "detail": "要闻提示1.黄仁勋借钱成新型诈骗！英伟达董事会：没考虑让黄仁勋复任 CEO2.已到生死存亡时刻！腾讯内部讲话：现在不是和平年代，大家不能自以为站在高处很安全3.网传360集团副总裁卜思南涉贪腐问题被带走调查，本人回应：不是真的，在处理ing4.网易《哈利波特：魔法觉醒》手游宣布明年 3 月停止运营，曾月流水破10亿5.AI 演员方桃子代言美瞳广告被罚，声称“戴了一天都很舒服”6.阿里合伙人樊路远辞",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Running coding agents without handing them my credentials",
+        "link": "https://blog.antonio.cx/running-agents-with-lend",
+        "description": "[HN] +106 points · 67 comments · by antoniomika",
+        "detail": "[HN] +106 points · 67 comments · by antoniomika",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+        "description": "[HN] +44 points · 14 comments · by nsoonhui",
+        "detail": "[HN] +44 points · 14 comments · by nsoonhui",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      },
+      {
+        "title": "Tokendoctor – See what your Claude Code use overpays",
+        "link": "https://github.com/localixai/tokendoctor",
+        "description": "[HN] +21 points · 11 comments · by rsaryev1997",
+        "detail": "[HN] +21 points · 11 comments · by rsaryev1997",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      },
+      {
+        "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+        "link": "https://github.com/yocontra/pulsar",
+        "description": "[HN] +14 points · 0 comments · by contrahax",
+        "detail": "[HN] +14 points · 0 comments · by contrahax",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      },
+      {
+        "title": "40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md",
+        "link": "https://verisource.dev/benchmarks/ai-search-readiness-2026",
+        "description": "[HN] +3 points · 0 comments · by kulinichnick",
+        "detail": "[HN] +3 points · 0 comments · by kulinichnick",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "weekday": "星期一",
     "summary": "今日共收录 45 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 雷锋网。",
