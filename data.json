@@ -2,7 +2,7 @@
   {
     "date": "2026-11-17",
     "weekday": "星期二",
-    "summary": "今日共收录 32 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 47 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, 新智元, 极客公园, 爱范儿, 雷锋网。",
     "news": [
       {
         "title": "Strengthening NATO and allied cyber defenses with AI",
@@ -12,24 +12,6 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "OpenAI News"
-      },
-      {
-        "title": "Agents API by Recall.ai",
-        "link": "https://www.producthunt.com/products/recall-ai",
-        "description": "",
-        "detail": "",
-        "tag": "工具与生态",
-        "sort_score": 76,
-        "source": "Product Hunt"
-      },
-      {
-        "title": "GatherHQ Agent Research",
-        "link": "https://www.producthunt.com/products/gatherhq-agent-research",
-        "description": "",
-        "detail": "",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "Product Hunt"
       },
       {
         "title": "AI Visibility by TruLata",
@@ -43,6 +25,51 @@
       {
         "title": "Trading Agents",
         "link": "https://www.producthunt.com/products/alpha-vantage",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "GatherHQ Agent Research",
+        "link": "https://www.producthunt.com/products/gatherhq-agent-research",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Agents API by Recall.ai",
+        "link": "https://www.producthunt.com/products/recall-ai",
+        "description": "",
+        "detail": "",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentWatch",
+        "link": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Boost.space AgentOS",
+        "link": "https://www.producthunt.com/products/boost-space",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Degla AI",
+        "link": "https://www.producthunt.com/products/degla-ai",
         "description": "",
         "detail": "",
         "tag": "行业动态",
@@ -122,6 +149,15 @@
         "source": "新智元"
       },
       {
+        "title": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
+        "link": "https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
         "link": "https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -185,6 +221,33 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "企业 AI Native 研发流程升级与重塑",
+        "link": "https://www.infoq.cn/article/4z7Bbxy92tjAI7MB5evM?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Mac 收紧权限，苹果开始防着 AI 了",
+        "link": "https://www.ifanr.com/1689832?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "AI 越自由，人越麻烦#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "AI 越自由，人越麻烦#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "DeepSeek 不限额的用法，都在这里了 |  附指南",
+        "link": "https://www.ifanr.com/1689869?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "花钱接 API，导入历史记录#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "花钱接 API，导入历史记录#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
         "title": "微软全球大宕机，AI 怎么又成了背锅侠",
         "link": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=",
         "description": "微软宕机与美国航班停飞，背后都是 AI 失控吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -201,6 +264,24 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "爱范儿"
+      },
+      {
+        "title": "最大规模具身大模型挑战赛落幕，48 小时真机总决赛比出了什么？",
+        "link": "http://www.geekpark.net/news/374103",
+        "description": "\n        开发者围绕同一块基础模型进行实验，让模型直面成功的方法、失败的经验和真实世界的问题。作者｜Li Yuan编辑｜郑玄最大规模具身大模型挑战赛总决赛结果出炉，排名第三的队伍 SST 只额外采集了 13 条数据。他们没有大量补数据，而是让 DeepSeek 先理解任务，再用视觉分割模型标出目标物体，最后交给 LingBot-VLA 2.0 完成动作，并在真机评测中拿到 65.87 分。",
+        "detail": "\n        开发者围绕同一块基础模型进行实验，让模型直面成功的方法、失败的经验和真实世界的问题。作者｜Li Yuan编辑｜郑玄最大规模具身大模型挑战赛总决赛结果出炉，排名第三的队伍 SST 只额外采集了 13 条数据。他们没有大量补数据，而是让 DeepSeek 先理解任务，再用视觉分割模型标出目标物体，最后交给 LingBot-VLA 2.0 完成动作，并在真机评测中拿到 65.87 分。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "AI，没有抛弃小城商家",
+        "link": "http://www.geekpark.net/news/374101",
+        "description": "\n        \n作者｜李苏\n编辑｜郑玄\n\n理解本地商业，是 AI 走出实验室后的新课程。\n过去几年，AI 界擅长讲的故事变了。\n从最开始谈技术，讲参数有多大，算得有多快，跑分超过多少人，慢慢转变为讲落地，讲 AI 怎么一分钟生成商业计划书，怎么给被生活困扰的人们出情绪价值满满的建议。\n走出实验室，AI 下一站在哪里？这背后，是一段讲了一半的「AI 平权」故事。前面讲的这一半，是消费者：普通人用",
+        "detail": "\n        \n作者｜李苏\n编辑｜郑玄\n\n理解本地商业，是 AI 走出实验室后的新课程。\n过去几年，AI 界擅长讲的故事变了。\n从最开始谈技术，讲参数有多大，算得有多快，跑分超过多少人，慢慢转变为讲落地，讲 AI 怎么一分钟生成商业计划书，怎么给被生活困扰的人们出情绪价值满满的建议。\n走出实验室，AI 下一站在哪里？这背后，是一段讲了一半的「AI 平权」故事。前面讲的这一半，是消费者：普通人用",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
       },
       {
         "title": "腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代",
@@ -237,60 +318,6 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "极客公园"
-      },
-      {
-        "title": "网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿",
-        "link": "https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html",
-        "description": "要闻提示1.黄仁勋借钱成新型诈骗！英伟达董事会：没考虑让黄仁勋复任 CEO2.已到生死存亡时刻！腾讯内部讲话：现在不是和平年代，大家不能自以为站在高处很安全3.网传360集团副总裁卜思南涉贪腐问题被带走调查，本人回应：不是真的，在处理ing4.网易《哈利波特：魔法觉醒》手游宣布明年 3 月停止运营，曾月流水破10亿5.AI 演员方桃子代言美瞳广告被罚，声称“戴了一天都很舒服”6.阿里合伙人樊路远辞",
-        "detail": "要闻提示1.黄仁勋借钱成新型诈骗！英伟达董事会：没考虑让黄仁勋复任 CEO2.已到生死存亡时刻！腾讯内部讲话：现在不是和平年代，大家不能自以为站在高处很安全3.网传360集团副总裁卜思南涉贪腐问题被带走调查，本人回应：不是真的，在处理ing4.网易《哈利波特：魔法觉醒》手游宣布明年 3 月停止运营，曾月流水破10亿5.AI 演员方桃子代言美瞳广告被罚，声称“戴了一天都很舒服”6.阿里合伙人樊路远辞",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "Running coding agents without handing them my credentials",
-        "link": "https://blog.antonio.cx/running-agents-with-lend",
-        "description": "[HN] +106 points · 67 comments · by antoniomika",
-        "detail": "[HN] +106 points · 67 comments · by antoniomika",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
-      },
-      {
-        "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-        "description": "[HN] +44 points · 14 comments · by nsoonhui",
-        "detail": "[HN] +44 points · 14 comments · by nsoonhui",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "hackernews"
-      },
-      {
-        "title": "Tokendoctor – See what your Claude Code use overpays",
-        "link": "https://github.com/localixai/tokendoctor",
-        "description": "[HN] +21 points · 11 comments · by rsaryev1997",
-        "detail": "[HN] +21 points · 11 comments · by rsaryev1997",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "hackernews"
-      },
-      {
-        "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
-        "link": "https://github.com/yocontra/pulsar",
-        "description": "[HN] +14 points · 0 comments · by contrahax",
-        "detail": "[HN] +14 points · 0 comments · by contrahax",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "hackernews"
-      },
-      {
-        "title": "40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md",
-        "link": "https://verisource.dev/benchmarks/ai-search-readiness-2026",
-        "description": "[HN] +3 points · 0 comments · by kulinichnick",
-        "detail": "[HN] +3 points · 0 comments · by kulinichnick",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "hackernews"
       }
     ]
   },
