@@ -2,8 +2,35 @@
   {
     "date": "2026-11-18",
     "weekday": "星期三",
-    "summary": "今日共收录 39 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 65 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, TLDR AI, TechCrunch AI, The Decoder, The Verge AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+        "link": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/",
+        "description": "\n        AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals.\nThe article Suno&#039;s new Visuals feature pairs AI-generated musi",
+        "detail": "\n        AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals.\nThe article Suno&#039;s new Visuals feature pairs AI-generated musi",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+        "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+        "description": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+        "detail": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+        "description": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+        "detail": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TechCrunch AI"
+      },
       {
         "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
         "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
@@ -23,13 +50,112 @@
         "source": "TechCrunch AI"
       },
       {
-        "title": "GPT-6.2 Astra",
+        "title": "Suno now lets you make AI videos for your AI music",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+        "description": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated vi",
+        "detail": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated vi",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "GPT-6.2 🤖, widespread outages ⚠️, being known as a good dev 👨‍💻",
+        "link": "https://tldr.tech/tech/2026-11-18",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "TLDR AI"
+      },
+      {
+        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "description": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+        "detail": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "OpenAI News"
+      },
+      {
+        "title": "KaDeep AI",
+        "link": "https://www.producthunt.com/products/kadeep-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AI Canvas",
+        "link": "https://www.producthunt.com/products/ai-canvas-2",
+        "description": "",
+        "detail": "",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "GPT-6.2 Astra and Sol",
         "link": "https://www.producthunt.com/products/openai",
         "description": "",
         "detail": "",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "Product Hunt"
+      },
+      {
+        "title": "Incredible Agents",
+        "link": "https://www.producthunt.com/products/incredible",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Ody Ai Business Phone",
+        "link": "https://www.producthunt.com/products/ody-ai-business-phone",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Qwen4-Max",
+        "link": "https://www.producthunt.com/products/qwen3",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+        "link": "https://www.qbitai.com/2026/11/510922.html",
+        "description": "氖人寻味！",
+        "detail": "氖人寻味！",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "GPT-6.2难产！OpenAI怕了",
+        "link": "https://www.qbitai.com/2026/11/510914.html",
+        "description": "OpenAI也终于活成了2022年谷歌的样子",
+        "detail": "OpenAI也终于活成了2022年谷歌的样子",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+        "link": "https://www.qbitai.com/2026/11/510916.html",
+        "description": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+        "detail": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+        "tag": "对比评测",
+        "sort_score": 86,
+        "source": "量子位"
       },
       {
         "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
@@ -75,6 +201,15 @@
         "tag": "模型发布",
         "sort_score": 90,
         "source": "量子位"
+      },
+      {
+        "title": "全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+        "link": "https://aiera.com.cn/2026/11/18/other/admin/124303/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%e5%8c%bb%e7%96%97%e5%81%a5%e5%ba%b7-ai-%e7%8b%ac%e7%ab%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e5%88%86%e6%9e%90%e5%b9%b3%e5%8f%b0inclusionmed-%e6%ad%a3%e5%bc%8f%e4%b8%8a/",
+        "description": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线，并同步推出医疗 AI 评测图谱 InclusionMed Atlas 和首期医疗 AI 评测…",
+        "detail": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线，并同步推出医疗 AI 评测图谱 InclusionMed Atlas 和首期医疗 AI 评测…",
+        "tag": "对比评测",
+        "sort_score": 86,
+        "source": "新智元"
       },
       {
         "title": "微软全球宕机30小时，AI替代员工裁到大动脉？",
@@ -149,8 +284,8 @@
         "source": "新智元"
       },
       {
-        "title": "从快速部署到统一运营，Agent 的 AH Moment 来了！",
-        "link": "https://www.infoq.cn/video/AWswNIWpvlNvaWY8MTDd?utm_source=rss&utm_medium=article",
+        "title": "Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
+        "link": "https://www.infoq.cn/video/xsEfht2OwBZQBvWVHSIb?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
         "detail": "点击查看原文>",
         "tag": "Agent 进展",
@@ -158,8 +293,17 @@
         "source": "InfoQ 中文"
       },
       {
-        "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
-        "link": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&utm_medium=article",
+        "title": "从 AI 试点到规模化生产：Snowflake 驻场前沿工程师如何助力企业实现 AI 落地 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/ZukzUBeu7k74T9UGCkfh?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "如何让 Agent 从“能跑起来”到“可规模化、可信赖地持续生产”？",
+        "link": "https://www.infoq.cn/video/uzyzSB9HkO1wwi5w4w9F?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
         "detail": "点击查看原文>",
         "tag": "Agent 进展",
@@ -167,157 +311,13 @@
         "source": "InfoQ 中文"
       },
       {
-        "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
-        "link": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "detail": "点击查看原文>",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "纳德拉回应微软首次给工程师发“离场费”：Claude Code 让微软措手不及，二十年 IDE 优势半年动摇",
-        "link": "https://www.infoq.cn/article/zUC0vHq9xm3BFHSqQlw3?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "detail": "点击查看原文>",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "谷歌 SRE 圣经被迫重写：AI 时代，硬技能在塌陷，第一性原理在升值",
-        "link": "https://www.infoq.cn/article/draE95cYeLAqhcR3CwIF?utm_source=rss&utm_medium=article",
+        "title": "业务本体：面向 AI 与数据分析，统一规范业务概念与指标口径 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/GSGpEUU4dCdppTCmaOSy?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
         "detail": "点击查看原文>",
         "tag": "行业动态",
         "sort_score": 58,
         "source": "InfoQ 中文"
-      },
-      {
-        "title": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
-        "link": "https://www.infoq.cn/article/uGTol3TSzOV72NSrcBrB?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "detail": "点击查看原文>",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
-        "link": "https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "detail": "点击查看原文>",
-        "tag": "工具与生态",
-        "sort_score": 76,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
-        "link": "https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "从 AI 出片，走向 AI 交片#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "detail": "从 AI 出片，走向 AI 交片#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "爱范儿"
-      },
-      {
-        "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
-        "link": "https://sspai.com/post/119210",
-        "description": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。查看全文",
-        "detail": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。查看全文",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "少数派"
-      },
-      {
-        "title": "影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！",
-        "link": "http://www.geekpark.net/news/374125",
-        "description": "\n        \n首批嘉宾公布以来，IF 2027 收到了超出预期的关注， 短短几天早鸟票已经售罄。\n今年 IF 大会的主题是：「Revaluation 价值，另有答案」。\n过去一年，AI 正在以超出预期的速度改变世界。变化越来越快，但真正重要的问题并没有变得更简单：下一轮机会在哪里？哪些行业正在发生根本性的变化？当旧的经验和规则不再适用，我们又该如何做出新的判断？\n我们希望 IF 大会呈现的，",
-        "detail": "\n        \n首批嘉宾公布以来，IF 2027 收到了超出预期的关注， 短短几天早鸟票已经售罄。\n今年 IF 大会的主题是：「Revaluation 价值，另有答案」。\n过去一年，AI 正在以超出预期的速度改变世界。变化越来越快，但真正重要的问题并没有变得更简单：下一轮机会在哪里？哪些行业正在发生根本性的变化？当旧的经验和规则不再适用，我们又该如何做出新的判断？\n我们希望 IF 大会呈现的，",
-        "tag": "新功能",
-        "sort_score": 82,
-        "source": "极客公园"
-      },
-      {
-        "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道",
-        "link": "http://www.geekpark.net/news/374109",
-        "description": "\n        \nOpenAI 发布 GPT-6.2 Astra 和 Sol，强化编程、电脑操作与专业工作\nOpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业任务、Coding、电脑操作和执行效率，并降低部分使用成本。新模型将应用于 ChatGPT Work、Codex 和 API。\n其中，Astra 面向复杂编程和专业工作，Sol 则更强调日",
-        "detail": "\n        \nOpenAI 发布 GPT-6.2 Astra 和 Sol，强化编程、电脑操作与专业工作\nOpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业任务、Coding、电脑操作和执行效率，并降低部分使用成本。新模型将应用于 ChatGPT Work、Codex 和 API。\n其中，Astra 面向复杂编程和专业工作，Sol 则更强调日",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "极客公园"
-      },
-      {
-        "title": "继YouTube后，速卖通与全球头部联盟营销平台CJ达成战略合作",
-        "link": "https://www.leiphone.com/category/industrynews/dDQc2ToCG7vy6d8x.html",
-        "description": "阿里旗下跨境电商平台速卖通与全球头部联盟营销平台CJ在11月达成战略合作，双方将在西班牙、德国、英国、波兰、美国等欧美市场推动规模化流量拓展，围绕Brand+加速中国品牌出海的品牌化升级。这是继与YouTube达成全球战略合作之后，速卖通在海外渠道布局上的又一关键进展。&nbsp;&nbsp;图：阿里速卖通AliExpress与CJ达成战略合作&nbsp;CJ（原CJ Affiliate）成立于1",
-        "detail": "阿里旗下跨境电商平台速卖通与全球头部联盟营销平台CJ在11月达成战略合作，双方将在西班牙、德国、英国、波兰、美国等欧美市场推动规模化流量拓展，围绕Brand+加速中国品牌出海的品牌化升级。这是继与YouTube达成全球战略合作之后，速卖通在海外渠道布局上的又一关键进展。&nbsp;&nbsp;图：阿里速卖通AliExpress与CJ达成战略合作&nbsp;CJ（原CJ Affiliate）成立于1",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "继YouTube后，速卖通与全球头部联盟营销平台CJ达成战略合作",
-        "link": "https://www.leiphone.com/category/industrynews/vgLr7jdsQ61ngs7W.html",
-        "description": "阿里旗下跨境电商平台速卖通与全球头部联盟营销平台CJ在11月达成战略合作，双方将在西班牙、德国、英国、波兰、美国等欧美市场推动规模化流量拓展，围绕Brand+加速中国品牌出海的品牌化升级。这是继与YouTube达成全球战略合作之后，速卖通在海外渠道布局上的又一关键进展。",
-        "detail": "阿里旗下跨境电商平台速卖通与全球头部联盟营销平台CJ在11月达成战略合作，双方将在西班牙、德国、英国、波兰、美国等欧美市场推动规模化流量拓展，围绕Brand+加速中国品牌出海的品牌化升级。这是继与YouTube达成全球战略合作之后，速卖通在海外渠道布局上的又一关键进展。",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "海外算力通道收窄！众智 FlagOS × 清昴智能，助力国芯高性能上线商用 Token 工厂",
-        "link": "https://www.leiphone.com/category/industrynews/ukrIJ082d0MIuodR.html",
-        "description": "11 月 16 日，美国商务部工业与安全局（BIS）最新出口管制政策正式落地，将限制范围从芯片实物进一步延伸至远程算力访问，旨在封堵中国企业通过海外数据中心获取先进 AI 算力的路径。&nbsp;这一外部变量正在迅速传导至国内算力供给侧。对于正在兴起的“国芯 Token 工厂”而言，海外算力通道的收窄在需求侧倒逼本土算力加快承接真实业务；但在供给侧，国产推理芯片在制造与封装环节同样面临更严苛的审查",
-        "detail": "11 月 16 日，美国商务部工业与安全局（BIS）最新出口管制政策正式落地，将限制范围从芯片实物进一步延伸至远程算力访问，旨在封堵中国企业通过海外数据中心获取先进 AI 算力的路径。&nbsp;这一外部变量正在迅速传导至国内算力供给侧。对于正在兴起的“国芯 Token 工厂”而言，海外算力通道的收窄在需求侧倒逼本土算力加快承接真实业务；但在供给侧，国产推理芯片在制造与封装环节同样面临更严苛的审查",
-        "tag": "新功能",
-        "sort_score": 82,
-        "source": "雷锋网"
-      },
-      {
-        "title": "千问办公电商版推出“品牌知识库”，让Agent先懂品牌，再干活",
-        "link": "https://www.leiphone.com/category/industrynews/DEwlGyHOnFTL6jRy.html",
-        "description": "11月18日，千问办公电商版推出全新“品牌知识库”功能。商家在千问办公网页端切换至“电商经营”模式，上传网店链接、过往图片和设计规范等品牌资料后，千问办公就能理解品牌风格，在生成图片、视频和文案时统一品牌调性，用得越多越懂品牌。此前，千问办公电商版面向部分商家邀测，目前已向所有电商商家开放。&nbsp;&nbsp;&nbsp;目前，不少商家已经习惯用Agent生成商品图、短视频和各类文案。但通用A",
-        "detail": "11月18日，千问办公电商版推出全新“品牌知识库”功能。商家在千问办公网页端切换至“电商经营”模式，上传网店链接、过往图片和设计规范等品牌资料后，千问办公就能理解品牌风格，在生成图片、视频和文案时统一品牌调性，用得越多越懂品牌。此前，千问办公电商版面向部分商家邀测，目前已向所有电商商家开放。&nbsp;&nbsp;&nbsp;目前，不少商家已经习惯用Agent生成商品图、短视频和各类文案。但通用A",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "可灵AI发布Kling Image 4.0：原生8K超高清、组图直出，刷新专业图像生成新高度",
-        "link": "https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html",
-        "description": "11月17日晚，可灵AI全新一代图像创作模型Kling Image 4.0正式上线。真实、文字表现、指令理解和一致性，是这一代模型升级的核心方向。Kling Image 4.0聚焦影视创作、广告营销等专业图像创作场景，在三个方向实现集中突破：画面真实感全面升级，光影、肤质与材质纹理呈现接近相机直出的自然观感，并首次支持原生8K图像生成，超高清画质带来更丰富的细节表现；文字生成与设计表现全面升级，支",
-        "detail": "11月17日晚，可灵AI全新一代图像创作模型Kling Image 4.0正式上线。真实、文字表现、指令理解和一致性，是这一代模型升级的核心方向。Kling Image 4.0聚焦影视创作、广告营销等专业图像创作场景，在三个方向实现集中突破：画面真实感全面升级，光影、肤质与材质纹理呈现接近相机直出的自然观感，并首次支持原生8K图像生成，超高清画质带来更丰富的细节表现；文字生成与设计表现全面升级，支",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO；阿里调整员工回流政策：离职两次不得回流原集团；红果被曝筹备电视端独立APP",
-        "link": "https://www.leiphone.com/category/zaobao/OlqabqceGorcm242.html",
-        "description": "要闻提示1.黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO！英伟达董事会拒绝其回归2.不让吃回头草了？阿里调整员工回流政策：离职两次不得回流原集团3.抢客厅时长！红果短剧被曝筹备电视端独立APP4.抖音生活服务负责人换帅，老将浦燕子转顾问5.小米回应雷军APEC发言紧张：这么大的国际场合，紧张太正常啦6.Qwen研究员陈雄辉或将离职创业7.谷歌DeepMind核心高管再出走，首席战略官",
-        "detail": "要闻提示1.黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO！英伟达董事会拒绝其回归2.不让吃回头草了？阿里调整员工回流政策：离职两次不得回流原集团3.抢客厅时长！红果短剧被曝筹备电视端独立APP4.抖音生活服务负责人换帅，老将浦燕子转顾问5.小米回应雷军APEC发言紧张：这么大的国际场合，紧张太正常啦6.Qwen研究员陈雄辉或将离职创业7.谷歌DeepMind核心高管再出走，首席战略官",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "Google's AI answers reducing search traffic by 40%",
-        "link": "https://revscope.co/blog/search-seo-geo-2026/",
-        "description": "[HN] +319 points · 250 comments · by slashdev",
-        "detail": "[HN] +319 points · 250 comments · by slashdev",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
-      },
-      {
-        "title": "AI is killing All About Berlin",
-        "link": "https://nicolasbouliane.com/blog/death-by-ai",
-        "description": "[HN] +96 points · 50 comments · by grey-area",
-        "detail": "[HN] +96 points · 50 comments · by grey-area",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
       }
     ]
   },
