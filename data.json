@@ -1,5 +1,309 @@
 [
   {
+    "date": "2026-11-19",
+    "weekday": "星期四",
+    "summary": "今日共收录 33 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+        "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive ",
+        "detail": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive ",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Ableten Hybrid AI Travel Planner",
+        "link": "https://www.producthunt.com/products/ableten-source-library",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Room AI",
+        "link": "https://www.producthunt.com/products/room-ai-2",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Gemini 4 Neon",
+        "link": "https://www.producthunt.com/products/gemini-6",
+        "description": "",
+        "detail": "",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+        "link": "https://www.qbitai.com/2026/11/511088.html",
+        "description": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+        "detail": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+        "link": "https://www.qbitai.com/2026/11/511079.html",
+        "description": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+        "detail": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+        "link": "https://www.qbitai.com/2026/11/511071.html",
+        "description": "语言模型单张3090卡即可运行",
+        "detail": "语言模型单张3090卡即可运行",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+        "link": "https://www.qbitai.com/2026/11/510947.html",
+        "description": "国产AI工具实现「一个人就是一个剧组」",
+        "detail": "国产AI工具实现「一个人就是一个剧组」",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "GPT-6.2 Astra/Sol来了！首破自进化红线，OpenAI历史性一夜",
+        "link": "https://aiera.com.cn/2026/11/19/other/admin/124429/gpt-6-2-astra-sol%e6%9d%a5%e4%ba%86%ef%bc%81%e9%a6%96%e7%a0%b4%e8%87%aa%e8%bf%9b%e5%8c%96%e7%ba%a2%e7%ba%bf%ef%bc%8copenai%e5%8e%86%e5%8f%b2%e6%80%a7%e4%b8%80%e5%a4%9c/",
+        "description": "刚刚，OpenAI正式发布GPT-6.2 Astra和GPT-6.2 Sol。 API定价上，Astra单价直降20%，输入8美元、输出40美元/百万Token，Sol则保持输…",
+        "detail": "刚刚，OpenAI正式发布GPT-6.2 Astra和GPT-6.2 Sol。 API定价上，Astra单价直降20%，输入8美元、输出40美元/百万Token，Sol则保持输…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "牛津59页长文首提「认知共生体」，具身智能新终局浮出水面",
+        "link": "https://aiera.com.cn/2026/11/19/other/admin/124390/%e7%89%9b%e6%b4%a559%e9%a1%b5%e9%95%bf%e6%96%87%e9%a6%96%e6%8f%90%e3%80%8c%e8%ae%a4%e7%9f%a5%e5%85%b1%e7%94%9f%e4%bd%93%e3%80%8d%ef%bc%8c%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e6%96%b0%e7%bb%88%e5%b1%80/",
+        "description": "2008年，《钢铁侠》第一部上映。 托尼·斯塔克身边，有个从不露面的管家：贾维斯。 它认识托尼很多年。托尼一边说话一边干活，它就一边插话一边帮忙，从来不用托尼停下来，把前因后果…",
+        "detail": "2008年，《钢铁侠》第一部上映。 托尼·斯塔克身边，有个从不露面的管家：贾维斯。 它认识托尼很多年。托尼一边说话一边干活，它就一边插话一边帮忙，从来不用托尼停下来，把前因后果…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "奥特曼坦言不敢全速训AI！RLHF之父推演GPT-10夺权，警告推翻人类",
+        "link": "https://aiera.com.cn/2026/11/19/other/admin/124367/%e5%a5%a5%e7%89%b9%e6%9b%bc%e5%9d%a6%e8%a8%80%e4%b8%8d%e6%95%a2%e5%85%a8%e9%80%9f%e8%ae%adai%ef%bc%81rlhf%e4%b9%8b%e7%88%b6%e6%8e%a8%e6%bc%94gpt-10%e5%a4%ba%e6%9d%83%ef%bc%8c%e8%ad%a6%e5%91%8a/",
+        "description": "用AI加速训练下一代AI，这件事在OpenAI内部已经司空见惯了。 但再往前一步呢？ 就在刚刚落幕的Semafor峰会上，主持人直接问到了外界最关心的那个临界点：「你们现在已经…",
+        "detail": "用AI加速训练下一代AI，这件事在OpenAI内部已经司空见惯了。 但再往前一步呢？ 就在刚刚落幕的Semafor峰会上，主持人直接问到了外界最关心的那个临界点：「你们现在已经…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI翻车！GPT-6.2 Astra被批「史上最差」，内部员工连夜弃用",
+        "link": "https://aiera.com.cn/2026/11/19/other/admin/124348/openai%e7%bf%bb%e8%bd%a6%ef%bc%81gpt-6-2-astra%e8%a2%ab%e6%89%b9%e3%80%8c%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%b7%ae%e3%80%8d%ef%bc%8c%e5%86%85%e9%83%a8%e5%91%98%e5%b7%a5%e8%bf%9e%e5%a4%9c%e5%bc%83%e7%94%a8/",
+        "description": "刚刚，OpenAI发布了新模型 GPT-6.2 Astra。然而，发布首日，GPT-6.2 Astra却遭到早期测试者集体炮轰。",
+        "detail": "刚刚，OpenAI发布了新模型 GPT-6.2 Astra。然而，发布首日，GPT-6.2 Astra却遭到早期测试者集体炮轰。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "5300人，人均3个亿！Anthropic即将敲钟，泼天富贵要来了",
+        "link": "https://aiera.com.cn/2026/11/19/other/admin/124328/5300%e4%ba%ba%ef%bc%8c%e4%ba%ba%e5%9d%873%e4%b8%aa%e4%ba%bf%ef%bc%81anthropic%e5%8d%b3%e5%b0%86%e6%95%b2%e9%92%9f%ef%bc%8c%e6%b3%bc%e5%a4%a9%e5%af%8c%e8%b4%b5%e8%a6%81%e6%9d%a5%e4%ba%86/",
+        "description": "泼天的富贵，真的要来了！ 据悉，Anthropic上市前夜，估值将会涨到1.5万亿至1.6万亿美金。",
+        "detail": "泼天的富贵，真的要来了！ 据悉，Anthropic上市前夜，估值将会涨到1.5万亿至1.6万亿美金。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "补丁成了「漏洞说明书」！谷歌曝黑客让AI照着补丁写攻击代码",
+        "link": "https://aiera.com.cn/2026/11/19/other/admin/124312/%e8%a1%a5%e4%b8%81%e6%88%90%e4%ba%86%e3%80%8c%e6%bc%8f%e6%b4%9e%e8%af%b4%e6%98%8e%e4%b9%a6%e3%80%8d%ef%bc%81%e8%b0%b7%e6%ad%8c%e6%9b%9d%e9%bb%91%e5%ae%a2%e8%ae%a9ai%e7%85%a7%e7%9d%80%e8%a1%a5%e4%b8%81/",
+        "description": "厂商刚发布安全补丁，你的屏幕上就弹出了更新提示。 你手头正忙，顺手点了「稍后提醒」。 而此时，黑客也在等这份补丁。",
+        "detail": "厂商刚发布安全补丁，你的屏幕上就弹出了更新提示。 你手头正忙，顺手点了「稍后提醒」。 而此时，黑客也在等这份补丁。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "街道办 AI 智能化白皮书",
+        "link": "https://www.infoq.cn/minibook/UAGTBMHJ8mTIx95CFzmo?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "12类高频任务、3类实践案例，商汤小浣熊带着街道办 AI 白皮书来了！",
+        "link": "https://www.infoq.cn/article/y1DHWaCUGxsuSrQwqEXi?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+        "link": "https://www.infoq.cn/article/R9BxSitBpwGcDwfS22ac?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+        "link": "https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+        "link": "https://www.infoq.cn/article/u8eHrtbbchlNRkP94ALh?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
+        "link": "https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本\n· 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪\n· 英特尔再裁全球 IT 员工，继续推进组织精简#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本\n· 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪\n· 英特尔再裁全球 IT 员工，继续推进组织精简#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央",
+        "link": "http://www.geekpark.net/news/374196",
+        "description": "\n        \n\n作者｜Wildcard\n编辑｜靖宇\n\n谷歌，这次是真的回来了。\n11 月 18 日，Google DeepMind 点亮了Gemini 4 Neon的霓虹灯牌。\n这是 Gemini 4 系列在短短 7 周内甩出的第 4 款元素模型。如果看一眼官方放出的基准跑分长表和社区实测反馈，你会发现它精准卡在了一个极其舒服的「甜点」位上，既有接近、甚至局部反超旗舰的硬核智商，又把单任务成",
+        "detail": "\n        \n\n作者｜Wildcard\n编辑｜靖宇\n\n谷歌，这次是真的回来了。\n11 月 18 日，Google DeepMind 点亮了Gemini 4 Neon的霓虹灯牌。\n这是 Gemini 4 系列在短短 7 周内甩出的第 4 款元素模型。如果看一眼官方放出的基准跑分长表和社区实测反馈，你会发现它精准卡在了一个极其舒服的「甜点」位上，既有接近、甚至局部反超旗舰的硬核智商，又把单任务成",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "极客公园"
+      },
+      {
+        "title": "WorkBuddy 日活超过 1000 万；曝英伟达未投企业责任险，或因黄仁勋事件遭巨额索赔；DeepSeek 再调整 API 计费 | 极客早知道",
+        "link": "http://www.geekpark.net/news/374177",
+        "description": "\n        \n黄仁勋辞职风波升级：英伟达遭两起证券欺诈诉讼，公司自身却未投保企业责任险\n\n11 月 18 日消息，据路透社报道，英伟达为公司高管和董事购买了责任保险，最高赔付额度达 9.5 亿美元，但公司自身没有购买通常用于覆盖证券诉讼辩护费用、和解金与判决赔偿的企业责任保险。\n这意味着，如果围绕黄仁勋突然辞去 CEO 职务引发的诉讼最终胜诉，涉及股价暴跌的赔偿需要由公司自行承担。英伟达目前",
+        "detail": "\n        \n黄仁勋辞职风波升级：英伟达遭两起证券欺诈诉讼，公司自身却未投保企业责任险\n\n11 月 18 日消息，据路透社报道，英伟达为公司高管和董事购买了责任保险，最高赔付额度达 9.5 亿美元，但公司自身没有购买通常用于覆盖证券诉讼辩护费用、和解金与判决赔偿的企业责任保险。\n这意味着，如果围绕黄仁勋突然辞去 CEO 职务引发的诉讼最终胜诉，涉及股价暴跌的赔偿需要由公司自行承担。英伟达目前",
+        "tag": "模型发布",
+        "sort_score": 35,
+        "source": "极客公园"
+      },
+      {
+        "title": "AI4S青年志②丨赋澈生物王子龙：实验室里的「企业家」",
+        "link": "https://www.leiphone.com/category/ai/gIEEBnDSMmXYn1bE.html",
+        "description": "同时拥有理工科训练、结构生物学功底，和系统商科思维的创业者，在AI4S领域里并不常见。&nbsp; &nbsp; 作者丨周蕾&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "detail": "同时拥有理工科训练、结构生物学功底，和系统商科思维的创业者，在AI4S领域里并不常见。&nbsp; &nbsp; 作者丨周蕾&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "华为Mate X8官宣两大功能：小艺慧记+虚拟触控板，生产力再进阶",
+        "link": "https://www.leiphone.com/category/industrynews/5DmohtTAlmiheVD3.html",
+        "description": "11月19日，华为终端再次发布华为Mate X8预热视频，焕新升级的小艺慧记和全新的虚拟触控板两项功能同步亮相，聚焦职场办公、单手用机两大高频场景，以贴近日常的功能创新带来直观可感体验升级，也让外界对这款全新大折叠产品更加期待。随着发布会的日益临近，相信新机在屏幕、影像、性能等核心体验上有望实现突破，充分发挥大折叠形态优势，带来全方位体验焕新。工作场景中，高效会议记录是职场人刚需。大型会议室座谈、",
+        "detail": "11月19日，华为终端再次发布华为Mate X8预热视频，焕新升级的小艺慧记和全新的虚拟触控板两项功能同步亮相，聚焦职场办公、单手用机两大高频场景，以贴近日常的功能创新带来直观可感体验升级，也让外界对这款全新大折叠产品更加期待。随着发布会的日益临近，相信新机在屏幕、影像、性能等核心体验上有望实现突破，充分发挥大折叠形态优势，带来全方位体验焕新。工作场景中，高效会议记录是职场人刚需。大型会议室座谈、",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "雷锋网"
+      },
+      {
+        "title": "歪马送酒“金乌皮尔森”获BBC“中国最佳啤酒”，中国啤酒斩获历史最佳成绩",
+        "link": "https://www.leiphone.com/category/industrynews/sIpzBvKmqYOZJnG0.html",
+        "description": "近日，2026年布鲁塞尔啤酒挑战赛（Brussels Beer Challenge，以下简称BBC）公布赛果，美团歪马送酒的自有品牌精酿啤酒“金乌皮尔森”获得德式皮尔森组金奖，同时从本届中国区所有金奖作品中脱颖而出，获评10项全场最佳大奖（The Best of the Best 10 Trophies）之一的“中国最佳啤酒”。这是中国零售商的自有品牌酒水首次在国际大赛上斩获“中国最佳”，也是“金",
+        "detail": "近日，2026年布鲁塞尔啤酒挑战赛（Brussels Beer Challenge，以下简称BBC）公布赛果，美团歪马送酒的自有品牌精酿啤酒“金乌皮尔森”获得德式皮尔森组金奖，同时从本届中国区所有金奖作品中脱颖而出，获评10项全场最佳大奖（The Best of the Best 10 Trophies）之一的“中国最佳啤酒”。这是中国零售商的自有品牌酒水首次在国际大赛上斩获“中国最佳”，也是“金",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "AI 已经进入企业，为什么组织还没有进化？",
+        "link": "https://www.leiphone.com/category/industrynews/98sAVeAaYPhJQvgY.html",
+        "description": "&nbsp;十年前看人工智能，十年后看智能组织。&nbsp; &nbsp; 作者丨成妍菁&nbsp; &nbsp; 编辑丨胡 &nbsp; 敏&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+        "detail": "&nbsp;十年前看人工智能，十年后看智能组织。&nbsp; &nbsp; 作者丨成妍菁&nbsp; &nbsp; 编辑丨胡 &nbsp; 敏&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "阿里樊路远离场，虎鲸文娱去向何方？",
+        "link": "https://www.leiphone.com/category/industrynews/L9tleA0kDSyrruLn.html",
+        "description": "“其实从三个月前就传来老樊要走，只是一直在交接流程。”“去年四月老樊的任期就多延长了一年。”多位大厂人士对雷峰网表示，阿里虎鲸文娱CEO樊路远离职的消息内部早就有所传闻。11月16日，大麦娱乐发布公告，樊路远辞任执行董事、董事会主席及CEO，理由是“专注发展个人事业”。对于老樊接下来的创业方向，有知情人士表示会聚焦于AI领域，但做游戏的可能性不大。樊路远在阿里体系内工作近20年，有报道称，他也是大",
+        "detail": "“其实从三个月前就传来老樊要走，只是一直在交接流程。”“去年四月老樊的任期就多延长了一年。”多位大厂人士对雷峰网表示，阿里虎鲸文娱CEO樊路远离职的消息内部早就有所传闻。11月16日，大麦娱乐发布公告，樊路远辞任执行董事、董事会主席及CEO，理由是“专注发展个人事业”。对于老樊接下来的创业方向，有知情人士表示会聚焦于AI领域，但做游戏的可能性不大。樊路远在阿里体系内工作近20年，有报道称，他也是大",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "英伟达临时CEO称将不再向中国出货H200芯片；一天之内173名管理人员被免，宗馥莉大规模「动刀」；英特尔被曝再度裁员，波及全球IT员工",
+        "link": "https://www.leiphone.com/category/zaobao/wMg9SCFKwT7JSsGq.html",
+        "description": "要闻提示1.英特尔被曝再度裁员，波及全球IT员工2.英伟达临时CEO称将不再向中国出货H200芯片，外交部回应3.权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演4.宗馥莉再掀人事风暴：173名管理人员被免职5.最高涨560元！大疆两款手持云台相机涨价6.腾讯第三季度营收2073亿元，WorkBuddy日活超千万7.张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情8",
+        "detail": "要闻提示1.英特尔被曝再度裁员，波及全球IT员工2.英伟达临时CEO称将不再向中国出货H200芯片，外交部回应3.权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演4.宗馥莉再掀人事风暴：173名管理人员被免职5.最高涨560元！大疆两款手持云台相机涨价6.腾讯第三季度营收2073亿元，WorkBuddy日活超千万7.张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情8",
+        "tag": "公司动态",
+        "sort_score": 35,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+        "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+        "description": "[HN] +214 points · 68 comments · by seizethecheese",
+        "detail": "[HN] +214 points · 68 comments · by seizethecheese",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "hackernews"
+      },
+      {
+        "title": "AI will not make you rich (2025)",
+        "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
+        "description": "[HN] +94 points · 55 comments · by madars",
+        "detail": "[HN] +94 points · 55 comments · by madars",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+        "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+        "description": "[HN] +84 points · 44 comments · by DeepLogin",
+        "detail": "[HN] +84 points · 44 comments · by DeepLogin",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+        "link": "https://arxiv.org/abs/2607.29378",
+        "description": "[HN] +45 points · 7 comments · by dalmo3",
+        "detail": "[HN] +45 points · 7 comments · by dalmo3",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "hackernews"
+      },
+      {
+        "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
+        "link": "https://adeindex.com",
+        "description": "[HN] +16 points · 3 comments · by jonnyasmar",
+        "detail": "[HN] +16 points · 3 comments · by jonnyasmar",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-11-18",
     "weekday": "星期三",
     "summary": "今日共收录 65 条 AI 动态。 来源包括：InfoQ 中文, OpenAI News, Product Hunt, TLDR AI, TechCrunch AI, The Decoder, The Verge AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
