@@ -2,8 +2,17 @@
   {
     "date": "2026-11-20",
     "weekday": "星期五",
-    "summary": "今日共收录 28 条 AI 动态。 来源包括：InfoQ 中文, Simon Willison, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 55 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, Simon Willison, TLDR AI, TechCrunch AI, The Decoder, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+        "link": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+        "description": "\n        Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams.\nThe article Hermes Agent&#039;s Collective Wisdom feature turns one employe",
+        "detail": "\n        Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams.\nThe article Hermes Agent&#039;s Collective Wisdom feature turns one employe",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "The Decoder"
+      },
       {
         "title": "Apple may be developing its own AI agent that runs your Mac",
         "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -23,6 +32,15 @@
         "source": "TechCrunch AI"
       },
       {
+        "title": "Apple's AI agent 🤖, GTA IV launch 📈, AI product engineering 👨‍💻",
+        "link": "https://tldr.tech/tech/2026-11-20",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "TLDR AI"
+      },
+      {
         "title": "Token fraud is here and it’s BAD (YouTube)",
         "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
         "description": "\n    \nToken fraud is here and it’s BAD (YouTube)\nClaire Vo runs ChatPRD, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Clair",
@@ -30,6 +48,33 @@
         "tag": "行业动态",
         "sort_score": 35,
         "source": "Simon Willison"
+      },
+      {
+        "title": "Nexuro AI",
+        "link": "https://www.producthunt.com/products/nexuro-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AI Gateway",
+        "link": "https://www.producthunt.com/products/ai-gateway-6",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+        "link": "https://www.qbitai.com/2026/11/511610.html",
+        "description": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+        "detail": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
       },
       {
         "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
@@ -140,6 +185,51 @@
         "source": "新智元"
       },
       {
+        "title": "AI 来了，团队究竟怎么变？",
+        "link": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
+        "link": "https://www.infoq.cn/article/tDxNggErsJNeb53ZkYeF?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Agent 上岗，你敢放手吗？",
+        "link": "https://www.infoq.cn/video/qafOtORWUX0eD0WfSlYi?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
+        "link": "https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "对比评测",
+        "sort_score": 86,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI 漫剧不缺作品，缺什么？｜QLab直播",
+        "link": "https://www.infoq.cn/article/27xI2tBkStO5qz52VBPw?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "Grab 通过安全策略应对 AI 生成代码变更激增，提升移动端 App 稳定性",
         "link": "https://www.infoq.cn/article/AH8deOIGb5hMHRPIKfrf?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -165,6 +255,24 @@
         "tag": "Agent 进展",
         "sort_score": 88,
         "source": "InfoQ 中文"
+      },
+      {
+        "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+        "link": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "在手机里打开了一个关于 AI 的「平行宇宙」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "在手机里打开了一个关于 AI 的「平行宇宙」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "给 Gemini 道歉，请自觉排队",
+        "link": "https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "Gemini 4 真的越来越好用了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "Gemini 4 真的越来越好用了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
       },
       {
         "title": "AI Agent 元年，苹果是最后一个入局的巨头",
@@ -194,6 +302,15 @@
         "source": "少数派"
       },
       {
+        "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
+        "link": "http://www.geekpark.net/news/374282",
+        "description": "\n        \n作者｜宇航猿\n编辑｜靖宇\n\nAI 吞掉了软件，现在，它要吞掉工业了。\n卸任亚马逊 CEO 五年后，杰夫&middot;贝佐斯没忍住，又给自己找了个班上。\n当地时间 2026 年 11 月 17 日，加州门洛帕克的 Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克&middot;巴贾杰（Vik Bajaj）罕见同台。他现在的最新头衔，是 AI 初创公司 Promethe",
+        "detail": "\n        \n作者｜宇航猿\n编辑｜靖宇\n\nAI 吞掉了软件，现在，它要吞掉工业了。\n卸任亚马逊 CEO 五年后，杰夫&middot;贝佐斯没忍住，又给自己找了个班上。\n当地时间 2026 年 11 月 17 日，加州门洛帕克的 Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克&middot;巴贾杰（Vik Bajaj）罕见同台。他现在的最新头衔，是 AI 初创公司 Promethe",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "极客公园"
+      },
+      {
         "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
         "link": "http://www.geekpark.net/news/374235",
         "description": "\n        \n「史上最大 IPO」：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元\n11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市，首日股价以 97.17 美元（现汇率约合 649.2 元人民币）收盘，较 83 美元（现汇率约合 554.5 元人民币）的发行价上涨 17.07%。\n该股开盘即报 111.5 美",
@@ -201,60 +318,6 @@
         "tag": "Agent 进展",
         "sort_score": 88,
         "source": "极客公园"
-      },
-      {
-        "title": "支付宝小荷包联合蚂蚁庄园上线爱心插件，近50万用户共同守护流浪动物",
-        "link": "https://www.leiphone.com/category/industrynews/Xe1FWkNUk4IQr4kx.html",
-        "description": "冬天的寒风一点点钻进街巷，街边的毛孩子该如何度过一年里最难捱的季节？近日，支付宝小荷包宣布联合蚂蚁庄园发起“守护流浪动物”计划。该计划以小荷包的共同管账能力为基础，联动蚂蚁庄园的公益互动玩法，让普通用户也能顺手做公益，陪小流浪们温暖过冬，目前已吸引近50万用户参与。用小荷包管理救助花销账目公开透明记者从支付宝小荷包的荷包圈发现，大量救助群体在用小荷包管理流浪动物的公益救助花销。作为支持多人共同管账",
-        "detail": "冬天的寒风一点点钻进街巷，街边的毛孩子该如何度过一年里最难捱的季节？近日，支付宝小荷包宣布联合蚂蚁庄园发起“守护流浪动物”计划。该计划以小荷包的共同管账能力为基础，联动蚂蚁庄园的公益互动玩法，让普通用户也能顺手做公益，陪小流浪们温暖过冬，目前已吸引近50万用户参与。用小荷包管理救助花销账目公开透明记者从支付宝小荷包的荷包圈发现，大量救助群体在用小荷包管理流浪动物的公益救助花销。作为支持多人共同管账",
-        "tag": "新功能",
-        "sort_score": 82,
-        "source": "雷锋网"
-      },
-      {
-        "title": "荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资",
-        "link": "https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html",
-        "description": "创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。作者丨黄艳冰编辑丨姚单雷峰网·鲸犀独家获悉，荣耀前高级算法工程师肖裕炜已离职创业，于今年年中创立 AI 交互硬件公司 KnowVoice。其目前正在李泽湘教授的下深圳科创学院孵化，已获得早期投资支持。创始人兼 CEO 肖裕炜生于 1998 年，本科毕业于广东工业大学，为广工大 Robomaster 战队 DynamicX ",
-        "detail": "创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。作者丨黄艳冰编辑丨姚单雷峰网·鲸犀独家获悉，荣耀前高级算法工程师肖裕炜已离职创业，于今年年中创立 AI 交互硬件公司 KnowVoice。其目前正在李泽湘教授的下深圳科创学院孵化，已获得早期投资支持。创始人兼 CEO 肖裕炜生于 1998 年，本科毕业于广东工业大学，为广工大 Robomaster 战队 DynamicX ",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "｜前京东健康市场营销部总经理王丁虓加入面壁智能，担任品牌公关负责人",
-        "link": "https://www.leiphone.com/category/industrynews/r1chb5ofkWYaKjMn.html",
-        "description": "雷峰网独家获悉，原京东健康市场营销部总经理王丁虓（九虎）已于近期加入面壁智能，担任品牌公关负责人。公开资料显示，2010 年，王丁虓从天津师范大学广告学专业本科毕业，先后在电通数码、奥美广告任策略经理和策略总监，是根正苗红的广告人。2017年9月，王丁虓加入字节，开始了从广告人到营销人的转变。加入字节后，王丁虓先后担任商业化华北营销中心总经理、巨量引擎营销中心策略负责人、大力教育清北网校市场负责人",
-        "detail": "雷峰网独家获悉，原京东健康市场营销部总经理王丁虓（九虎）已于近期加入面壁智能，担任品牌公关负责人。公开资料显示，2010 年，王丁虓从天津师范大学广告学专业本科毕业，先后在电通数码、奥美广告任策略经理和策略总监，是根正苗红的广告人。2017年9月，王丁虓加入字节，开始了从广告人到营销人的转变。加入字节后，王丁虓先后担任商业化华北营销中心总经理、巨量引擎营销中心策略负责人、大力教育清北网校市场负责人",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "影石研究院首度公开：字节旧将亓鲁任负责人",
-        "link": "https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html",
-        "description": "雷峰网·鲸犀独家获悉，影石创新董事亓鲁已出任影石研究院中心负责人，并兼任公司首席 AI 官。知情人士称，他将主要负责相关算法及人工智能领域的研发工作。亓鲁是一位 90 后，本硕博先后毕业于山东大学、中国科学院、香港中文大学，并在加州大学默塞德分校做过博士后，当前为武汉大学计算机学院教授，研究方向涉及计算机视觉与无人机。同时，亓鲁有丰富的学术履历，除高校任职外，还担任 IEEE TPAMI 编委以及",
-        "detail": "雷峰网·鲸犀独家获悉，影石创新董事亓鲁已出任影石研究院中心负责人，并兼任公司首席 AI 官。知情人士称，他将主要负责相关算法及人工智能领域的研发工作。亓鲁是一位 90 后，本硕博先后毕业于山东大学、中国科学院、香港中文大学，并在加州大学默塞德分校做过博士后，当前为武汉大学计算机学院教授，研究方向涉及计算机视觉与无人机。同时，亓鲁有丰富的学术履历，除高校任职外，还担任 IEEE TPAMI 编委以及",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "商汤20%资源投入背后的逻辑：林达华谈拼手速与长期竞争力",
-        "link": "https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html",
-        "description": "&nbsp;Scaling Law在空间智能这里失效了？&nbsp; &nbsp; 作者丨周蕾&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
-        "detail": "&nbsp;Scaling Law在空间智能这里失效了？&nbsp; &nbsp; 作者丨周蕾&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "Mapping every neuron in Qwen3-8B",
-        "link": "https://www.fermionresearch.com/research/mapping-every-neuron-in-qwen3-8b/",
-        "description": "[HN] +11 points · 0 comments · by sheepscreek",
-        "detail": "[HN] +11 points · 0 comments · by sheepscreek",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "hackernews"
       }
     ]
   },
