@@ -2,8 +2,80 @@
   {
     "date": "2026-11-21",
     "weekday": "星期六",
-    "summary": "今日共收录 16 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 爱范儿, 雷锋网。",
+    "summary": "今日共收录 26 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+        "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+        "description": "\n        Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,0",
+        "detail": "\n        Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,0",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Decoder"
+      },
+      {
+        "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+        "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+        "description": "\n        Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generat",
+        "detail": "\n        Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generat",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+        "link": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+        "description": "\n        The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all",
+        "detail": "\n        The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+        "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+        "description": "\n        Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The research",
+        "detail": "\n        Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The research",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "AI Context Flow MCP",
+        "link": "https://www.producthunt.com/products/ai-context-flow",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+        "link": "https://www.qbitai.com/2026/11/511779.html",
+        "description": "还实现可变形物体操控全球首通",
+        "detail": "还实现可变形物体操控全球首通",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "DeepSeek V1作者创业项目曝光：开源Agent",
+        "link": "https://www.qbitai.com/2026/11/511570.html",
+        "description": "专为本地部署而生",
+        "detail": "专为本地部署而生",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+        "link": "https://www.qbitai.com/2026/11/511757.html",
+        "description": "还透露了不少训练背后的秘诀",
+        "detail": "还透露了不少训练背后的秘诀",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
       {
         "title": "2026世界计算大会｜昆仑元发布元境星座计划太空算力项目",
         "link": "https://aiera.com.cn/2026/11/21/other/admin/124677/2026%e4%b8%96%e7%95%8c%e8%ae%a1%e7%ae%97%e5%a4%a7%e4%bc%9a%ef%bd%9c%e6%98%86%e4%bb%91%e5%85%83%e5%8f%91%e5%b8%83%e5%85%83%e5%a2%83%e6%98%9f%e5%ba%a7%e8%ae%a1%e5%88%92%e5%a4%aa%e7%a9%ba%e7%ae%97/",
@@ -104,6 +176,24 @@
         "source": "InfoQ 中文"
       },
       {
+        "title": "美股一夜崩盘，AI 泡沫真要破了？",
+        "link": "https://www.ifanr.com/1690789?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "AI 泡沫要破了吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "AI 泡沫要破了吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "爱范儿"
+      },
+      {
+        "title": "曝黎曼猜想被证明，Claude 立大功",
+        "link": "https://www.ifanr.com/1690750?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "AI 恐怖如斯\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "AI 恐怖如斯\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
         "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
         "link": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
         "description": "· 三星任命手机和存储业务新负责人\n· 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro\n· ColorOS 17 上线跨品牌一碰传#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -142,8 +232,8 @@
       {
         "title": "ClawDOS – An AI coding agent for DOS",
         "link": "http://ricapar.net/ClawDOS/",
-        "description": "[HN] +28 points · 3 comments · by Ricapar",
-        "detail": "[HN] +28 points · 3 comments · by Ricapar",
+        "description": "[HN] +84 points · 22 comments · by Ricapar",
+        "detail": "[HN] +84 points · 22 comments · by Ricapar",
         "tag": "Agent 进展",
         "sort_score": 88,
         "source": "hackernews"
