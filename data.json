@@ -1,5 +1,183 @@
 [
   {
+    "date": "2026-11-22",
+    "weekday": "星期日",
+    "summary": "今日共收录 19 条 AI 动态。 来源包括：InfoQ 中文, 新智元, 极客公园, 爱范儿。",
+    "news": [
+      {
+        "title": "突发！黎曼猜想或已被Claude 1700万行代码证明",
+        "link": "https://aiera.com.cn/2026/11/22/other/admin/124791/%e7%aa%81%e5%8f%91%ef%bc%81%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e6%88%96%e5%b7%b2%e8%a2%abclaude-1700%e4%b8%87%e8%a1%8c%e4%bb%a3%e7%a0%81%e8%af%81%e6%98%8e/",
+        "description": "悬了167年的纯数学头号难题「黎曼猜想」，迎来了一份震动全球的证明声明！ 就在刚刚，Anthropic数学家Levent Alpöge宣布，他相信自己和Claude已经找到了黎…",
+        "detail": "悬了167年的纯数学头号难题「黎曼猜想」，迎来了一份震动全球的证明声明！ 就在刚刚，Anthropic数学家Levent Alpöge宣布，他相信自己和Claude已经找到了黎…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "大规模封号来了！OpenAI开打反蒸馏战",
+        "link": "https://aiera.com.cn/2026/11/22/other/admin/124774/%e5%a4%a7%e8%a7%84%e6%a8%a1%e5%b0%81%e5%8f%b7%e6%9d%a5%e4%ba%86%ef%bc%81openai%e5%bc%80%e6%89%93%e5%8f%8d%e8%92%b8%e9%a6%8f%e6%88%98/",
+        "description": "OpenAI宣战了！ 就在今天凌晨，OpenAI发布了一份重磅宣言——《打击对抗性蒸馏》。",
+        "detail": "OpenAI宣战了！ 就在今天凌晨，OpenAI发布了一份重磅宣言——《打击对抗性蒸馏》。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "菲尔兹奖得主深夜痛哭，吵醒女儿！数学家的体面，被AI一夜撕碎",
+        "link": "https://aiera.com.cn/2026/11/22/other/admin/124761/%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb%e6%b7%b1%e5%a4%9c%e7%97%9b%e5%93%ad%ef%bc%8c%e5%90%b5%e9%86%92%e5%a5%b3%e5%84%bf%ef%bc%81%e6%95%b0%e5%ad%a6%e5%ae%b6%e7%9a%84%e4%bd%93%e9%9d%a2/",
+        "description": "2022年菲尔兹奖得主Hugo Duminil-Copin 10月6日，OpenAI突然甩出一批数学手稿，声称他关心的16道难题，一口气全解了。",
+        "detail": "2022年菲尔兹奖得主Hugo Duminil-Copin 10月6日，OpenAI突然甩出一批数学手稿，声称他关心的16道难题，一口气全解了。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "马斯克：也许该给亚马逊添个对手，网友连名字都起好了",
+        "link": "https://aiera.com.cn/2026/11/22/other/admin/124745/%e9%a9%ac%e6%96%af%e5%85%8b%ef%bc%9a%e4%b9%9f%e8%ae%b8%e8%af%a5%e7%bb%99%e4%ba%9a%e9%a9%ac%e9%80%8a%e6%b7%bb%e4%b8%aa%e5%af%b9%e6%89%8b%ef%bc%8c%e7%bd%91%e5%8f%8b%e8%bf%9e%e5%90%8d%e5%ad%97%e9%83%bd/",
+        "description": "AI刚学会替你干活，亚马逊、摩根大通、嘉信理财就开始堵门了！ 10月18日，@trikcode在X上列出了一份「AI碰壁清单」，点名达美航空、摩根大通、嘉信理财、Yelp和亚马…",
+        "detail": "AI刚学会替你干活，亚马逊、摩根大通、嘉信理财就开始堵门了！ 10月18日，@trikcode在X上列出了一份「AI碰壁清单」，点名达美航空、摩根大通、嘉信理财、Yelp和亚马…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌重磅论文：内部已实现RSI！Opus经验喂给Gemini，AI拥有进化记忆",
+        "link": "https://aiera.com.cn/2026/11/22/other/admin/124732/%e8%b0%b7%e6%ad%8c%e9%87%8d%e7%a3%85%e8%ae%ba%e6%96%87%ef%bc%9a%e5%86%85%e9%83%a8%e5%b7%b2%e5%ae%9e%e7%8e%b0rsi%ef%bc%81opus%e7%bb%8f%e9%aa%8c%e5%96%82%e7%bb%99gemini%ef%bc%8cai%e6%8b%a5%e6%9c%89/",
+        "description": "谷歌内部，或许真正实现了RSI！ 从此，Gemini已能「继承经验」持续自我进化，Gemini新模型不再从零开始！",
+        "detail": "谷歌内部，或许真正实现了RSI！ 从此，Gemini已能「继承经验」持续自我进化，Gemini新模型不再从零开始！",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "对AI说「下次注意」没用！马斯克麾下工程师：把纠错锁进代码",
+        "link": "https://aiera.com.cn/2026/11/22/other/admin/124717/%e5%af%b9ai%e8%af%b4%e3%80%8c%e4%b8%8b%e6%ac%a1%e6%b3%a8%e6%84%8f%e3%80%8d%e6%b2%a1%e7%94%a8%ef%bc%81%e9%a9%ac%e6%96%af%e5%85%8b%e9%ba%be%e4%b8%8b%e5%b7%a5%e7%a8%8b%e5%b8%88%ef%bc%9a%e6%8a%8a%e7%ba%a0/",
+        "description": "AI写代码的速度，早已超出了人类的审核极限。 近期的AI Engineer大会上，SpaceXAI首席工程师Lauren Tan（网名Potato）提到，上个月她一个人往线上合…",
+        "detail": "AI写代码的速度，早已超出了人类的审核极限。 近期的AI Engineer大会上，SpaceXAI首席工程师Lauren Tan（网名Potato）提到，上个月她一个人往线上合…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "手搓12年，人类数学家证明黎曼猜想却被AI截胡！陶哲轩邓煜回应",
+        "link": "https://aiera.com.cn/2026/11/22/other/admin/124705/%e6%89%8b%e6%90%9312%e5%b9%b4%ef%bc%8c%e4%ba%ba%e7%b1%bb%e6%95%b0%e5%ad%a6%e5%ae%b6%e8%af%81%e6%98%8e%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e5%8d%b4%e8%a2%abai%e6%88%aa%e8%83%a1%ef%bc%81%e9%99%b6/",
+        "description": "就在刚刚，黎曼猜想的第二份证明也被放出来了！ 2026年11月20日这一天，注定将载入史册。",
+        "detail": "就在刚刚，黎曼猜想的第二份证明也被放出来了！ 2026年11月20日这一天，注定将载入史册。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
+        "link": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
+        "link": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+        "link": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "AI 恐怖如斯#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "AI 恐怖如斯#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "重控制、轻渲染，达瓦科技的 AI 视频工业路线",
+        "link": "http://www.geekpark.net/news/374303",
+        "description": "\n        &nbsp;\n头图来源：极客公园\n今年以来，视频生成模型的进步肉眼可见，AI 短剧、换脸、场景合成在各个平台越来越多，但一个现实问题始终存在：生成一条满意的视频，往往要反复「抽卡」，算力和时间成本都不低；而一旦进入专业影视管线，今天的模型能承担的工业级工作仍然有限。\n关于这个问题，行业有两种思路。一种堆参数、扩算力，相信通用大模型终会跨过工业门槛；另一种扎进真实片场，从具体需求自",
+        "detail": "\n        &nbsp;\n头图来源：极客公园\n今年以来，视频生成模型的进步肉眼可见，AI 短剧、换脸、场景合成在各个平台越来越多，但一个现实问题始终存在：生成一条满意的视频，往往要反复「抽卡」，算力和时间成本都不低；而一旦进入专业影视管线，今天的模型能承担的工业级工作仍然有限。\n关于这个问题，行业有两种思路。一种堆参数、扩算力，相信通用大模型终会跨过工业门槛；另一种扎进真实片场，从具体需求自",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+        "link": "http://www.geekpark.net/news/374302",
+        "description": "\n        &nbsp;\n头图来源：腾讯\n&nbsp;\n腾讯的 AI 故事，正在进入一个有些沉重的阶段。\n11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 665 亿元，同比下降 6%。\n\n图片来源：腾讯财报\n本季度，腾讯资本开支达到 814 亿元，同",
+        "detail": "\n        &nbsp;\n头图来源：腾讯\n&nbsp;\n腾讯的 AI 故事，正在进入一个有些沉重的阶段。\n11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 665 亿元，同比下降 6%。\n\n图片来源：腾讯财报\n本季度，腾讯资本开支达到 814 亿元，同",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+        "link": "http://www.geekpark.net/news/374301",
+        "description": "\n        &nbsp;\n头图来源：ChatGPT 生成\n&nbsp;\n11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。\n\n图片来源：x\n两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适",
+        "detail": "\n        &nbsp;\n头图来源：ChatGPT 生成\n&nbsp;\n11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。\n\n图片来源：x\n两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办",
+        "link": "http://www.geekpark.net/news/374300",
+        "description": "\n        \n《GTA6》首发收入达 37.9 亿美元，超越《复仇者联盟 4》总票房\nTake-Two Interactive 表示，《侠盗猎车手 6》（GTA6）的预购加上首发当日销售额达到 37.9 亿美元，这不仅创下电子游戏史上最高首发收入纪录，也大概率是娱乐史上所有创意作品中规模最大的首发。这场现象级首发展现了游戏 IP 在商业、文化以及好莱坞层面的巨大价值。\nGTA6 的首发收入已",
+        "detail": "\n        \n《GTA6》首发收入达 37.9 亿美元，超越《复仇者联盟 4》总票房\nTake-Two Interactive 表示，《侠盗猎车手 6》（GTA6）的预购加上首发当日销售额达到 37.9 亿美元，这不仅创下电子游戏史上最高首发收入纪录，也大概率是娱乐史上所有创意作品中规模最大的首发。这场现象级首发展现了游戏 IP 在商业、文化以及好莱坞层面的巨大价值。\nGTA6 的首发收入已",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "The Mythology of Conscious AI",
+        "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+        "description": "[HN] +43 points · 74 comments · by Anon84",
+        "detail": "[HN] +43 points · 74 comments · by Anon84",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "AI Supply Chain Security: What Canary Tokens Found",
+        "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "description": "[HN] +31 points · 2 comments · by kristianp",
+        "detail": "[HN] +31 points · 2 comments · by kristianp",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+        "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "description": "[HN] +29 points · 10 comments · by droidjj",
+        "detail": "[HN] +29 points · 10 comments · by droidjj",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      },
+      {
+        "title": "Together.ai: Prompt Leakage for Requests",
+        "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+        "description": "[HN] +20 points · 7 comments · by Fe2O3",
+        "detail": "[HN] +20 points · 7 comments · by Fe2O3",
+        "tag": "工具与生态",
+        "sort_score": 76,
+        "source": "hackernews"
+      },
+      {
+        "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
+        "link": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
+        "description": "[HN] +6 points · 3 comments · by DenisM",
+        "detail": "[HN] +6 points · 3 comments · by DenisM",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-11-21",
     "weekday": "星期六",
     "summary": "今日共收录 26 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
