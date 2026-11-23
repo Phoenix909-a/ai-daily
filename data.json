@@ -1,5 +1,327 @@
 [
   {
+    "date": "2026-11-23",
+    "weekday": "星期一",
+    "summary": "今日共收录 41 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "news": [
+      {
+        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+        "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+        "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+        "detail": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Gauth Personal Study Agent",
+        "link": "https://www.producthunt.com/products/gauth-ai-course",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Othor AI",
+        "link": "https://www.producthunt.com/products/othor-ai",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Mobile Agent Testers",
+        "link": "https://www.producthunt.com/products/mobile-agent-testers",
+        "description": "",
+        "detail": "",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Webless Agents",
+        "link": "https://www.producthunt.com/products/webless",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+        "link": "https://www.qbitai.com/2026/11/512004.html",
+        "description": "一个完全由AI组成的科学家社会，是什么样？",
+        "detail": "一个完全由AI组成的科学家社会，是什么样？",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+        "link": "https://www.qbitai.com/2026/11/511998.html",
+        "description": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+        "detail": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+        "link": "https://www.qbitai.com/2026/11/511989.html",
+        "description": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+        "detail": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+        "link": "https://www.qbitai.com/2026/11/511978.html",
+        "description": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
+        "detail": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
+        "tag": "对比评测",
+        "sort_score": 86,
+        "source": "量子位"
+      },
+      {
+        "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+        "link": "https://www.qbitai.com/2026/11/511933.html",
+        "description": "豆包工作是目前字节优先级最高的产品",
+        "detail": "豆包工作是目前字节优先级最高的产品",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+        "link": "https://www.qbitai.com/2026/11/511921.html",
+        "description": "还透露了不少训练背后的秘诀",
+        "detail": "还透露了不少训练背后的秘诀",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "百灵医疗健康大模型LingSante家族发布，AI望闻问切的“武功秘籍”向行业开源",
+        "link": "https://aiera.com.cn/2026/11/23/other/admin/124924/%e7%99%be%e7%81%b5%e5%8c%bb%e7%96%97%e5%81%a5%e5%ba%b7%e5%a4%a7%e6%a8%a1%e5%9e%8blingsante%e5%ae%b6%e6%97%8f%e5%8f%91%e5%b8%83%ef%bc%8cai%e6%9c%9b%e9%97%bb%e9%97%ae%e5%88%87%e7%9a%84%e6%ad%a6/",
+        "description": "11月23日，百灵医疗健康大模型家族集中发布，覆盖医疗专业推理、多模态理解、疾病风险预测、安全防护和实时智能体等多个方向。这是蚂蚁阿福首次系统展示其在医疗健康AI领域的系列技术…",
+        "detail": "11月23日，百灵医疗健康大模型家族集中发布，覆盖医疗专业推理、多模态理解、疾病风险预测、安全防护和实时智能体等多个方向。这是蚂蚁阿福首次系统展示其在医疗健康AI领域的系列技术…",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "NUS发布System One模型评测基准：能力有多宽，决策有多稳？",
+        "link": "https://aiera.com.cn/2026/11/23/other/admin/124920/nus%e5%8f%91%e5%b8%83system-one%e6%a8%a1%e5%9e%8b%e8%af%84%e6%b5%8b%e5%9f%ba%e5%87%86%ef%bc%9a%e8%83%bd%e5%8a%9b%e6%9c%89%e5%a4%9a%e5%ae%bd%ef%bc%8c%e5%86%b3%e7%ad%96%e6%9c%89%e5%a4%9a%e7%a8%b3/",
+        "description": "当模型一次前向就给出决策，我们该如何判断它既做得对、又靠得住？ 分流用户请求、选择下一步工具操作、确认任务是否完成——软件流程中的大量日常决策，并不需要模型先写出一段长推理。",
+        "detail": "当模型一次前向就给出决策，我们该如何判断它既做得对、又靠得住？ 分流用户请求、选择下一步工具操作、确认任务是否完成——软件流程中的大量日常决策，并不需要模型先写出一段长推理。",
+        "tag": "对比评测",
+        "sort_score": 86,
+        "source": "新智元"
+      },
+      {
+        "title": "黎曼猜想迎来大结局！Lean官方认证：Claude证明无误",
+        "link": "https://aiera.com.cn/2026/11/23/other/admin/124905/%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e8%bf%8e%e6%9d%a5%e5%a4%a7%e7%bb%93%e5%b1%80%ef%bc%81lean%e5%ae%98%e6%96%b9%e8%ae%a4%e8%af%81%ef%bc%9aclaude%e8%af%81%e6%98%8e%e6%97%a0%e8%af%af/",
+        "description": "困扰数学界167年的黎曼猜想，官方正式确认证明成立了！ 就在刚刚，两大权威机构Lean FRO和Mathlib Initiative发布一份声明，正式盖棺定论——",
+        "detail": "困扰数学界167年的黎曼猜想，官方正式确认证明成立了！ 就在刚刚，两大权威机构Lean FRO和Mathlib Initiative发布一份声明，正式盖棺定论——",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI爆改旗舰GPU，AMD直接送厂流片！",
+        "link": "https://aiera.com.cn/2026/11/23/other/admin/124888/openai%e7%88%86%e6%94%b9%e6%97%97%e8%88%b0gpu%ef%bc%8camd%e7%9b%b4%e6%8e%a5%e9%80%81%e5%8e%82%e6%b5%81%e7%89%87%ef%bc%81/",
+        "description": "AI这把火，彻底烧进芯片圈了。 OpenAI刚刚官宣，自家GPT给AMD旗舰GPU改电路，不到5个月，核心指标PPA最高提升14%。",
+        "detail": "AI这把火，彻底烧进芯片圈了。 OpenAI刚刚官宣，自家GPT给AMD旗舰GPU改电路，不到5个月，核心指标PPA最高提升14%。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "数学界疯狂48小时！有限域黎曼猜想也被GPT-6 Astra攻克了",
+        "link": "https://aiera.com.cn/2026/11/23/other/admin/124870/%e6%95%b0%e5%ad%a6%e7%95%8c%e7%96%af%e7%8b%8248%e5%b0%8f%e6%97%b6%ef%bc%81%e6%9c%89%e9%99%90%e5%9f%9f%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e4%b9%9f%e8%a2%abgpt-6-astra%e6%94%bb%e5%85%8b%e4%ba%86/",
+        "description": "数学界彻底狂欢了！ 就在11月20日，人类见证了载入史册的一天—— Anthropic数学家Levent Alpöge联手Claude，宣布攻克黎曼猜想，甩出了1700万行Le…",
+        "detail": "数学界彻底狂欢了！ 就在11月20日，人类见证了载入史册的一天—— Anthropic数学家Levent Alpöge联手Claude，宣布攻克黎曼猜想，甩出了1700万行Le…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic开出2.7亿天价疯抢CS本科生！OpenAI迎史上最惨一周",
+        "link": "https://aiera.com.cn/2026/11/23/other/admin/124852/anthropic%e5%bc%80%e5%87%ba2-7%e4%ba%bf%e5%a4%a9%e4%bb%b7%e7%96%af%e6%8a%a2cs%e6%9c%ac%e7%a7%91%e7%94%9f%ef%bc%81openai%e8%bf%8e%e5%8f%b2%e4%b8%8a%e6%9c%80%e6%83%a8%e4%b8%80%e5%91%a8/",
+        "description": "一个刚走出大学校门的计算机本科生，已经被开出了4年4000万美元的天价股权。 折算下来，一年就是1000万美元，约合人民币6700万元。（四年就是2.7个亿）",
+        "detail": "一个刚走出大学校门的计算机本科生，已经被开出了4年4000万美元的天价股权。 折算下来，一年就是1000万美元，约合人民币6700万元。（四年就是2.7个亿）",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "「外星智能」降临，AI联手人类砸碎了百年数学圣杯",
+        "link": "https://aiera.com.cn/2026/11/23/other/admin/124831/%e3%80%8c%e5%a4%96%e6%98%9f%e6%99%ba%e8%83%bd%e3%80%8d%e9%99%8d%e4%b8%b4%ef%bc%8cai%e8%81%94%e6%89%8b%e4%ba%ba%e7%b1%bb%e7%a0%b8%e7%a2%8e%e4%ba%86%e7%99%be%e5%b9%b4%e6%95%b0%e5%ad%a6%e5%9c%a3%e6%9d%af/",
+        "description": "AI造出近3000亿个变量的怪物方程，8天后，中国数学家把它压到了26个 292,890,231,905。",
+        "detail": "AI造出近3000亿个变量的怪物方程，8天后，中国数学家把它压到了26个 292,890,231,905。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "黎曼猜想为何偏偏被Levent Alpöge证明了？",
+        "link": "https://aiera.com.cn/2026/11/23/other/admin/124819/%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e4%b8%ba%e4%bd%95%e5%81%8f%e5%81%8f%e8%a2%ablevent-alpoge%e8%af%81%e6%98%8e%e4%ba%86%ef%bc%9f/",
+        "description": "11 月 21 日，Lean 与 Mathlib 社区宣布，经过多位专家使用不同工具独立检查，他们确信，一份长达 1700 万行代码的数学证明完全正确。它所证明的，正是困扰数学…",
+        "detail": "11 月 21 日，Lean 与 Mathlib 社区宣布，经过多位专家使用不同工具独立检查，他们确信，一份长达 1700 万行代码的数学证明完全正确。它所证明的，正是困扰数学…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "黎曼200周年大会首日猜想告破！丘成桐：数学进入新纪元",
+        "link": "https://aiera.com.cn/2026/11/23/other/admin/124806/%e9%bb%8e%e6%9b%bc200%e5%91%a8%e5%b9%b4%e5%a4%a7%e4%bc%9a%e9%a6%96%e6%97%a5%e7%8c%9c%e6%83%b3%e5%91%8a%e7%a0%b4%ef%bc%81%e4%b8%98%e6%88%90%e6%a1%90%ef%bc%9a%e6%95%b0%e5%ad%a6%e8%bf%9b%e5%85%a5/",
+        "description": "困扰数学界167年的「黎曼猜想」被Claude攻克，菲尔兹奖得主丘成桐在深圳公开发声了！ 11月21日晚，正在深圳主持「黎曼诞辰200周年学术研讨会」的丘成桐接受媒体采访，对这…",
+        "detail": "困扰数学界167年的「黎曼猜想」被Claude攻克，菲尔兹奖得主丘成桐在深圳公开发声了！ 11月21日晚，正在深圳主持「黎曼诞辰200周年学术研讨会」的丘成桐接受媒体采访，对这…",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "新智元"
+      },
+      {
+        "title": "Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践",
+        "link": "https://www.infoq.cn/article/dzgleaOZ3ILx5cztUtXw?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Agent不再只写代码，亚马逊云科技瞄准三个新难题",
+        "link": "https://www.infoq.cn/article/4cFZ1bATcXRJaGPFoF7z?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "亚马逊云科技推出Well-Architected Agent预览版",
+        "link": "https://www.infoq.cn/article/LQuPgS5lcFDMEKhZSP5d?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "「AI 圈有局」第 01 期｜5 场活动、12 个社区找到你的同路人",
+        "link": "https://www.infoq.cn/article/uEfN9kdGsIMGkOgidVG7?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "广告风控为何越审越强？轻量基座与审核 Agent 的协同进化实践｜AICon北京",
+        "link": "https://www.infoq.cn/article/8YT8bJElVYOuK0FvKG4o?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了",
+        "link": "https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+        "link": "https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "面向 AI，面向世界，面向未来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "面向 AI，面向世界，面向未来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "对比评测",
+        "sort_score": 86,
+        "source": "爱范儿"
+      },
+      {
+        "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
+        "link": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "description": "· 曝小米汽车欧洲团队再添一名前小鹏高管\n· 神舟二十四号完成发射前最后一次全区合练\n· AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "detail": "· 曝小米汽车欧洲团队再添一名前小鹏高管\n· 神舟二十四号完成发射前最后一次全区合练\n· AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "爱范儿"
+      },
+      {
+        "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+        "link": "https://sspai.com/post/119418",
+        "description": "Anthropic 研究员宣称用 Claude 证明黎曼猜想OpenAI 公布反蒸馏举措黄仁勋据称将攻击下属作为管理方式GTA 6 首日销售额近 40 亿美元特斯拉升级 FSD，推出实景渲染功能AMD 股票被做空看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "detail": "Anthropic 研究员宣称用 Claude 证明黎曼猜想OpenAI 公布反蒸馏举措黄仁勋据称将攻击下属作为管理方式GTA 6 首日销售额近 40 亿美元特斯拉升级 FSD，推出实景渲染功能AMD 股票被做空看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "少数派"
+      },
+      {
+        "title": "利润增速降至 0.7%， 拼多多「申诉优赔」还要给商家补贴几十亿",
+        "link": "http://www.geekpark.net/news/374348",
+        "description": "\n        \n作者｜李苏\n编辑｜郑玄\n\n11 月 19 日，拼多多发布 2026 年第三季度未经审计财报。季度营收 1083.41 亿元，同比微增 0.1%，低于市场约 1155 亿元的一致预期。归属于普通股股东的净利润 295.41 亿元，同比增长 0.7%，高于市场预期的 261.75 亿元。\n财报发布前，市场普遍预计净利润将同比下滑 13%左右，实际披露的数据与预测方向相反。\n营收停在",
+        "detail": "\n        \n作者｜李苏\n编辑｜郑玄\n\n11 月 19 日，拼多多发布 2026 年第三季度未经审计财报。季度营收 1083.41 亿元，同比微增 0.1%，低于市场约 1155 亿元的一致预期。归属于普通股股东的净利润 295.41 亿元，同比增长 0.7%，高于市场预期的 261.75 亿元。\n财报发布前，市场普遍预计净利润将同比下滑 13%左右，实际披露的数据与预测方向相反。\n营收停在",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道",
+        "link": "http://www.geekpark.net/news/374304",
+        "description": "\n        \nOpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限\n11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 &middot; 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前",
+        "detail": "\n        \nOpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限\n11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 &middot; 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "极客公园"
+      },
+      {
+        "title": "深拆 GPT-6.2 Astra：性能涨了、价格降了，任务成本减少近一半，OpenAI 怎么做到的？",
+        "link": "https://www.leiphone.com/category/ai/MR1Osv9r2Rtr4V7F.html",
+        "description": "性能提升 6.2 分，Token 少 22%，API 价格降 20%。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "detail": "性能提升 6.2 分，Token 少 22%，API 价格降 20%。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "一场 APEC，测出了大疆手持影像的含金量",
+        "link": "https://www.leiphone.com/category/weiwu/xWhlWgFXgwlzWQMj.html",
+        "description": "2026 年 11 月，深圳 APEC 峰会落幕了，但在过去一周的新闻中心里，留下了一个极为少见的画面：在严肃的高压新闻现场，除了必须在场的广播级摄像机与长焦镜头之外，越来越多记者从口袋里掏出了一台口红大小的消费级相机。从海外多个通讯社的首席记者、报社主编，到自掏腰包购买它的 APEC 工商领导人峰会全球理事会 CEO，这些原本习惯了传统专业影像设备的人，不约而同地拿起了这台中国制造的掌上云台相机",
+        "detail": "2026 年 11 月，深圳 APEC 峰会落幕了，但在过去一周的新闻中心里，留下了一个极为少见的画面：在严肃的高压新闻现场，除了必须在场的广播级摄像机与长焦镜头之外，越来越多记者从口袋里掏出了一台口红大小的消费级相机。从海外多个通讯社的首席记者、报社主编，到自掏腰包购买它的 APEC 工商领导人峰会全球理事会 CEO，这些原本习惯了传统专业影像设备的人，不约而同地拿起了这台中国制造的掌上云台相机",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      },
+      {
+        "title": "加州起诉 OpenAI：说起来你可能不信，是模型先动的手",
+        "link": "https://www.leiphone.com/category/ai/c9ZMpnn48OtWzF0Z.html",
+        "description": "长任务、子 Agent 委派与共享服务凭证，让传统安全架构面临权限失控风险。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+        "detail": "长任务、子 Agent 委派与共享服务凭证，让传统安全架构面临权限失控风险。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "科研成果 | NeurIPS 2026发表CCCI博士生蒋翔宇工作｜NeurIPS 2026",
+        "link": "https://www.leiphone.com/category/private/hvhKCQokQvsUlFxN.html",
+        "description": "来源：认知计算与群智协同创新实验室文章链接：https://mp.weixin.qq.com/s/hgf9ipDLqSuuepr2gDyJGQ近日，国际人工智能顶级学术会议神经信息处理系统大会（Conference on Neural Information Processing Systems，NeurIPS 2026）公布录用结果，西南财经大学计算机与人工智能学院博士生蒋翔宇作为第一作者的论文",
+        "detail": "来源：认知计算与群智协同创新实验室文章链接：https://mp.weixin.qq.com/s/hgf9ipDLqSuuepr2gDyJGQ近日，国际人工智能顶级学术会议神经信息处理系统大会（Conference on Neural Information Processing Systems，NeurIPS 2026）公布录用结果，西南财经大学计算机与人工智能学院博士生蒋翔宇作为第一作者的论文",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "weekday": "星期日",
     "summary": "今日共收录 25 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, The Decoder, 新智元, 爱范儿, 量子位。",
