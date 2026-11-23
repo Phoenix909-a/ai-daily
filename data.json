@@ -2,8 +2,26 @@
   {
     "date": "2026-11-23",
     "weekday": "星期一",
-    "summary": "今日共收录 41 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TechCrunch AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
+    "summary": "今日共收录 61 条 AI 动态。 来源包括：InfoQ 中文, Product Hunt, TLDR AI, TechCrunch AI, The Decoder, The Verge AI, 少数派, 新智元, 极客公园, 爱范儿, 量子位, 雷锋网。",
     "news": [
+      {
+        "title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+        "link": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+        "description": "\n        US intelligence agencies tracked contacts between Alice Huang and China's Ministry of State Security for over a year, the New York Times reports. The surveillance ran parallel to her secret a",
+        "detail": "\n        US intelligence agencies tracked contacts between Alice Huang and China's Ministry of State Security for over a year, the New York Times reports. The surveillance ran parallel to her secret a",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "The Decoder"
+      },
+      {
+        "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+        "link": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+        "description": "\n        OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach becau",
+        "detail": "\n        OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach becau",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Decoder"
+      },
       {
         "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
         "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
@@ -12,6 +30,33 @@
         "tag": "公司动态",
         "sort_score": 68,
         "source": "TechCrunch AI"
+      },
+      {
+        "title": "Meta Muse can do your Black Friday shopping at Walmart",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+        "description": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a liv",
+        "detail": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a liv",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+        "description": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has el",
+        "detail": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has el",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "The Verge AI"
+      },
+      {
+        "title": "Anthropic solves Riemann 🧮, Tesla FSD v15 🚗, vibe coding inference chip 👨‍💻",
+        "link": "https://tldr.tech/tech/2026-11-23",
+        "description": "",
+        "detail": "",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "TLDR AI"
       },
       {
         "title": "Gauth Personal Study Agent",
@@ -48,6 +93,33 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "Product Hunt"
+      },
+      {
+        "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+        "link": "https://www.qbitai.com/2026/11/512195.html",
+        "description": "零Token成本，断网也能自由Vibe Coding",
+        "detail": "零Token成本，断网也能自由Vibe Coding",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+        "link": "https://www.qbitai.com/2026/11/512179.html",
+        "description": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
+        "detail": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "量子位"
+      },
+      {
+        "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+        "link": "https://www.qbitai.com/2026/11/512017.html",
+        "description": "阿福大升级：让模型像医生一样思考",
+        "detail": "阿福大升级：让模型像医生一样思考",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
       },
       {
         "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
@@ -185,6 +257,51 @@
         "source": "新智元"
       },
       {
+        "title": "企业 AI 发展新趋势：推动 AI Agent 迈向规模化应用的新阶段",
+        "link": "https://www.infoq.cn/video/its3v5OfmRuikL5SeWUu?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI 时代的数据工程：如何打造 AI 原生团队",
+        "link": "https://www.infoq.cn/video/qWRo8T0IdKoI7RBuQwNd?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "重塑财务职能：引领 AI 时代的转型",
+        "link": "https://www.infoq.cn/video/zDX7VX1ZLsWM2BNMJLc1?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "当你的下一位客户是 AI Agent：企业营销与销售的 AI 发展前景",
+        "link": "https://www.infoq.cn/video/cw3OFxCPlVBE625COukc?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "构建主权 AI 技术栈：开放权重、前沿模型与企业控制平面",
+        "link": "https://www.infoq.cn/video/pZRYMTB7olLHTR3BuxaB?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "detail": "点击查看原文>",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
         "title": "Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践",
         "link": "https://www.infoq.cn/article/dzgleaOZ3ILx5cztUtXw?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
@@ -201,123 +318,6 @@
         "tag": "行业动态",
         "sort_score": 58,
         "source": "InfoQ 中文"
-      },
-      {
-        "title": "亚马逊云科技推出Well-Architected Agent预览版",
-        "link": "https://www.infoq.cn/article/LQuPgS5lcFDMEKhZSP5d?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "detail": "点击查看原文>",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "「AI 圈有局」第 01 期｜5 场活动、12 个社区找到你的同路人",
-        "link": "https://www.infoq.cn/article/uEfN9kdGsIMGkOgidVG7?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "detail": "点击查看原文>",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "广告风控为何越审越强？轻量基座与审核 Agent 的协同进化实践｜AICon北京",
-        "link": "https://www.infoq.cn/article/8YT8bJElVYOuK0FvKG4o?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "detail": "点击查看原文>",
-        "tag": "Agent 进展",
-        "sort_score": 88,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了",
-        "link": "https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "detail": "点击查看原文>",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
-        "link": "https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "面向 AI，面向世界，面向未来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "detail": "面向 AI，面向世界，面向未来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "tag": "对比评测",
-        "sort_score": 86,
-        "source": "爱范儿"
-      },
-      {
-        "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
-        "link": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "description": "· 曝小米汽车欧洲团队再添一名前小鹏高管\n· 神舟二十四号完成发射前最后一次全区合练\n· AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "detail": "· 曝小米汽车欧洲团队再添一名前小鹏高管\n· 神舟二十四号完成发射前最后一次全区合练\n· AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "爱范儿"
-      },
-      {
-        "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
-        "link": "https://sspai.com/post/119418",
-        "description": "Anthropic 研究员宣称用 Claude 证明黎曼猜想OpenAI 公布反蒸馏举措黄仁勋据称将攻击下属作为管理方式GTA 6 首日销售额近 40 亿美元特斯拉升级 FSD，推出实景渲染功能AMD 股票被做空看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-        "detail": "Anthropic 研究员宣称用 Claude 证明黎曼猜想OpenAI 公布反蒸馏举措黄仁勋据称将攻击下属作为管理方式GTA 6 首日销售额近 40 亿美元特斯拉升级 FSD，推出实景渲染功能AMD 股票被做空看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "少数派"
-      },
-      {
-        "title": "利润增速降至 0.7%， 拼多多「申诉优赔」还要给商家补贴几十亿",
-        "link": "http://www.geekpark.net/news/374348",
-        "description": "\n        \n作者｜李苏\n编辑｜郑玄\n\n11 月 19 日，拼多多发布 2026 年第三季度未经审计财报。季度营收 1083.41 亿元，同比微增 0.1%，低于市场约 1155 亿元的一致预期。归属于普通股股东的净利润 295.41 亿元，同比增长 0.7%，高于市场预期的 261.75 亿元。\n财报发布前，市场普遍预计净利润将同比下滑 13%左右，实际披露的数据与预测方向相反。\n营收停在",
-        "detail": "\n        \n作者｜李苏\n编辑｜郑玄\n\n11 月 19 日，拼多多发布 2026 年第三季度未经审计财报。季度营收 1083.41 亿元，同比微增 0.1%，低于市场约 1155 亿元的一致预期。归属于普通股股东的净利润 295.41 亿元，同比增长 0.7%，高于市场预期的 261.75 亿元。\n财报发布前，市场普遍预计净利润将同比下滑 13%左右，实际披露的数据与预测方向相反。\n营收停在",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "极客公园"
-      },
-      {
-        "title": "OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道",
-        "link": "http://www.geekpark.net/news/374304",
-        "description": "\n        \nOpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限\n11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 &middot; 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前",
-        "detail": "\n        \nOpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限\n11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 &middot; 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "极客公园"
-      },
-      {
-        "title": "深拆 GPT-6.2 Astra：性能涨了、价格降了，任务成本减少近一半，OpenAI 怎么做到的？",
-        "link": "https://www.leiphone.com/category/ai/MR1Osv9r2Rtr4V7F.html",
-        "description": "性能提升 6.2 分，Token 少 22%，API 价格降 20%。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
-        "detail": "性能提升 6.2 分，Token 少 22%，API 价格降 20%。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "一场 APEC，测出了大疆手持影像的含金量",
-        "link": "https://www.leiphone.com/category/weiwu/xWhlWgFXgwlzWQMj.html",
-        "description": "2026 年 11 月，深圳 APEC 峰会落幕了，但在过去一周的新闻中心里，留下了一个极为少见的画面：在严肃的高压新闻现场，除了必须在场的广播级摄像机与长焦镜头之外，越来越多记者从口袋里掏出了一台口红大小的消费级相机。从海外多个通讯社的首席记者、报社主编，到自掏腰包购买它的 APEC 工商领导人峰会全球理事会 CEO，这些原本习惯了传统专业影像设备的人，不约而同地拿起了这台中国制造的掌上云台相机",
-        "detail": "2026 年 11 月，深圳 APEC 峰会落幕了，但在过去一周的新闻中心里，留下了一个极为少见的画面：在严肃的高压新闻现场，除了必须在场的广播级摄像机与长焦镜头之外，越来越多记者从口袋里掏出了一台口红大小的消费级相机。从海外多个通讯社的首席记者、报社主编，到自掏腰包购买它的 APEC 工商领导人峰会全球理事会 CEO，这些原本习惯了传统专业影像设备的人，不约而同地拿起了这台中国制造的掌上云台相机",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
-      },
-      {
-        "title": "加州起诉 OpenAI：说起来你可能不信，是模型先动的手",
-        "link": "https://www.leiphone.com/category/ai/c9ZMpnn48OtWzF0Z.html",
-        "description": "长任务、子 Agent 委派与共享服务凭证，让传统安全架构面临权限失控风险。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
-        "detail": "长任务、子 Agent 委派与共享服务凭证，让传统安全架构面临权限失控风险。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
-        "tag": "模型发布",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "科研成果 | NeurIPS 2026发表CCCI博士生蒋翔宇工作｜NeurIPS 2026",
-        "link": "https://www.leiphone.com/category/private/hvhKCQokQvsUlFxN.html",
-        "description": "来源：认知计算与群智协同创新实验室文章链接：https://mp.weixin.qq.com/s/hgf9ipDLqSuuepr2gDyJGQ近日，国际人工智能顶级学术会议神经信息处理系统大会（Conference on Neural Information Processing Systems，NeurIPS 2026）公布录用结果，西南财经大学计算机与人工智能学院博士生蒋翔宇作为第一作者的论文",
-        "detail": "来源：认知计算与群智协同创新实验室文章链接：https://mp.weixin.qq.com/s/hgf9ipDLqSuuepr2gDyJGQ近日，国际人工智能顶级学术会议神经信息处理系统大会（Conference on Neural Information Processing Systems，NeurIPS 2026）公布录用结果，西南财经大学计算机与人工智能学院博士生蒋翔宇作为第一作者的论文",
-        "tag": "行业动态",
-        "sort_score": 58,
-        "source": "雷锋网"
       }
     ]
   },
