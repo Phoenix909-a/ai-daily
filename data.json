@@ -1,5 +1,327 @@
 [
   {
+    "date": "2026-11-25",
+    "weekday": "星期三",
+    "summary": "今日焦点集中在 Anthropic 与 Google 的模型竞赛：Claude Opus 5.6 灰测效果曝光，效率达此前 Opus 版本的 2-3 倍，同时有消息称 Anthropic 还藏有两个未发布的最强模型；Google Gemini 4 包揽 Arena 文本榜前三，其多智能体团队更在量子计算模拟任务上将成本最高降低 10 倍。Agent 领域出现重要反思：一项 EMNLP'26 Oral 研究指出当前 Agent 的\"搜索\"多为假装，准确率仅 24%。此外，谷歌开源了用于诊断生产环境 AI 智能体故障的环境质量智能体 AQuA。",
+    "news": [
+      {
+        "title": "耶鲁教授Sonnenfeld称英伟达损害美国工业实力",
+        "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+        "description": "耶鲁教授警告英伟达可能损害美国工业竞争力",
+        "detail": "耶鲁大学Jeffrey Sonnenfeld警告称，英伟达可能成为美国工业实力的损害因素而非捍卫者。他质疑市场对英伟达与白宫合作的热烈反应，认为这未必有利于美国制造业长远发展。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "Claude Ship 相关动态",
+        "link": "https://www.producthunt.com/products/claude-code",
+        "description": "Claude Ship 相关动态信息",
+        "detail": "关于 Claude Ship 的相关动态，目前信息有限，可能涉及 Anthropic 的产品发布或更新。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Anthropic 被曝仍藏有两个最强模型",
+        "link": "https://www.qbitai.com/2026/11/512538.html",
+        "description": "Anthropic 据称还有两个未发布的最强模型",
+        "detail": "有消息称 Anthropic 除了已发布的 Fable5.2 外，还藏有两个最强模型尚未公开。Fable5.2 已被认为相对老旧，暗示 Anthropic 在模型研发上仍有重大储备。",
+        "tag": "模型发布",
+        "sort_score": 85,
+        "source": "量子位"
+      },
+      {
+        "title": "第二十一届中国IDC产业年度大典完整议程公布",
+        "link": "https://www.qbitai.com/2026/11/512532.html",
+        "description": "IDCC2026 大典议程公布，聚焦数字基础设施",
+        "detail": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办，完整议程已公布。大会将汇聚行业专家，探讨数字基础设施发展趋势。",
+        "tag": "行业动态",
+        "sort_score": 30,
+        "source": "量子位"
+      },
+      {
+        "title": "Anthropic 的 Tibo 被曝加盟 OpenAI",
+        "link": "https://www.qbitai.com/2026/11/512515.html",
+        "description": "Anthropic 核心成员 Tibo 被曝将加入 OpenAI",
+        "detail": "据爆料，Anthropic 的 Tibo 已确认加盟 OpenAI，这是继此前三人离职后又一重要人事变动。OpenAI 将拥有两位名为 Tibo 的员工，引发业界关注。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "量子位"
+      },
+      {
+        "title": "华人计算机视觉泰斗离开苹果二次创业，专注空间与物理AI",
+        "link": "https://www.qbitai.com/2026/11/512498.html",
+        "description": "华人CV泰斗离开苹果创业，专注空间与物理AI",
+        "detail": "一位华人计算机视觉泰斗离开苹果后开启二次创业，专注于下一代空间与物理AI。其团队将复杂场景三维建模成本降至10美元以内，有望推动空间智能应用普及。",
+        "tag": "行业动态",
+        "sort_score": 65,
+        "source": "量子位"
+      },
+      {
+        "title": "Claude Opus 5.6 灰测效果曝光，效率提升2-3倍",
+        "link": "https://www.qbitai.com/2026/11/512478.html",
+        "description": "Claude Opus 5.6 灰测显示效率提升2到3倍",
+        "detail": "Claude Opus 5.6 的灰度测试效果流出，整体效率大约是此前 Opus 版本的2到3倍。该版本在性能上有显著提升，可能即将正式发布。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125213/%e8%9a%82%e8%9a%81%e5%8f%91%e5%b8%83%e5%8c%bb%e7%96%97ai%e5%ae%89%e5%85%a8%e9%98%b2%e6%8a%a4%e6%a8%a1%e5%9e%8blingsante-medguard%ef%bc%8c%e5%bc%80%e6%94%be%e9%a3%8e%e9%99%a9%e8%af%84%e6%b5%8b%e6%95%b0/",
+        "description": "蚂蚁发布医疗AI安全模型并开放风险评测数据集",
+        "detail": "蚂蚁集团发布医疗AI安全防护模型LingSante MedGuard，并开放风险评测数据集。该模型旨在解决医疗AI解读中的错误传递问题，如化验单指标错位等，提升医疗AI安全性。",
+        "tag": "模型发布",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "国产AI黑马单季业绩三项破纪录，股价暴涨22%",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125210/%e5%9b%bd%e4%ba%a7ai%e9%bb%91%e9%a9%ac%e8%bf%8e%e6%9d%a5%e5%a4%a7%e7%88%86%e5%8f%91%ef%bc%81%e5%8d%95%e5%ad%a3%e4%b8%9a%e7%bb%a9%e4%b8%89%e9%a1%b9%e7%a0%b4%e7%ba%aa%e5%bd%95%ef%bc%8c%e8%82%a1%e4%bb%b7/",
+        "description": "国产AI公司单季业绩破纪录，股价大涨22%",
+        "detail": "一家国产AI黑马公司公布单季业绩，三项指标均破纪录，股价随之暴涨22%。此前Anthropic上市市值破2万亿美元，改写了全球大模型行业估值逻辑，国产AI公司也迎来爆发。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude 证出代数版P≠NP，73000行Lean代码通过验证",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125192/claude%e8%af%81%e5%87%ba%e3%80%8c%e4%bb%a3%e6%95%b0%e7%89%88p%e2%89%a0np%e3%80%8d%ef%bc%8173000%e8%a1%8clean%e4%bb%a3%e7%a0%81%e9%80%9a%e8%bf%87%e9%aa%8c%e8%af%81/",
+        "description": "Claude 用73000行Lean代码证明代数版P≠NP",
+        "detail": "Anthropic 官方GitHub仓库发布70页论文，宣布Claude证出代数版P≠NP，73000行Lean代码通过验证。这是继黎曼猜想被攻克后AI在数学领域的又一重大突破。",
+        "tag": "Agent 进展",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "研究揭示Agent仅24%准确率，答对全靠背而非真搜索",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125168/%e7%ad%94%e5%af%b9%e5%85%a8%e9%9d%a0%e8%83%8c%ef%bc%8cagent%e5%8f%aa%e6%98%af%e5%81%87%e8%a3%85%e6%90%9c%e7%b4%a2%ef%bc%81%e4%bb%8524%e5%87%86%e7%a1%ae%e7%8e%87-emnlp26-oral/",
+        "description": "EMNLP'26 Oral研究：Agent仅24%准确率，假装搜索",
+        "detail": "一项EMNLP'26 Oral研究指出，当前Agent在文档、视频、音频理解基准上仅24%准确率，答对主要靠背诵而非真正搜索。研究揭示了Agent在真实搜索能力上的严重不足。",
+        "tag": "对比评测",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌Gemini 4智能体破解量子计算难题，成本降低10倍",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125152/%e8%b0%b7%e6%ad%8cgemini-4%e7%a0%b4%e8%a7%a3%e9%87%8f%e5%ad%90%e8%ae%a1%e7%ae%97%e3%80%8c%e5%a4%a9%e4%b9%a6%e3%80%8d%ef%bc%81%e6%a0%b8%e8%81%9a%e5%8f%98%e8%bf%9b%e5%ba%a6%e6%9d%a1%e6%8b%89%e6%bb%a1/",
+        "description": "Gemini 4多智能体团队破解量子计算天书，降本10倍",
+        "detail": "DeepMind官宣，多个Gemini 4智能体组成的AI团队成功破解量子计算难题，将量子模拟成本最高降低10倍。这标志着AI在科学发现领域的重要应用进展。",
+        "tag": "Agent 进展",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "美国创世纪任务一周年，人类拓界计划全球引燃",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125135/%e7%be%8e%e5%9b%bd%e3%80%8c%e5%88%9b%e4%b8%96%e7%ba%aa%e3%80%8d%e4%b8%80%e5%91%a8%e5%b9%b4%ef%bc%8c%e3%80%8c%e4%ba%ba%e7%b1%bb%e6%8b%93%e7%95%8c%e8%ae%a1%e5%88%92%e3%80%8d%e5%85%a8%e7%90%83%e5%bc%95/",
+        "description": "美国创世纪任务一周年，AI驱动科学发现引关注",
+        "detail": "美国Genesis Mission（创世纪任务）启动一周年，该任务汇聚能源部17家国家实验室的超级计算机、科学数据与实验设施，推动AI驱动科学发现。人类拓界计划在全球范围内引发关注。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "新智元"
+      },
+      {
+        "title": "Karpathy预言成真，LLM新风口落地中国",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125120/karpathy%e9%a2%84%e8%a8%80%e6%88%90%e7%9c%9f%ef%bc%81%e6%a8%aa%e6%89%ab8%e9%a1%b9%e5%85%a8%e7%90%83%e6%9c%80%e9%ab%98%e5%88%86%ef%bc%8c%e7%a1%85%e8%b0%b7%e8%bf%99%e4%b8%aallm%e6%96%b0%e9%a3%8e/",
+        "description": "Karpathy预言成真，LLM新风口落地中国横扫8项最高分",
+        "detail": "Karpathy曾预言记忆机制将取代RAG，如今这一趋势成真。硅谷新风口LLM记忆技术落地中国，相关模型横扫8项全球最高分，推动大模型长期记忆能力发展。",
+        "tag": "工具与生态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "Gemini 4包揽Arena文本榜前三",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125085/gemini-4%e5%8c%85%e6%8f%bd%e5%89%8d%e4%b8%89%ef%bc%81%e8%83%bd%e6%89%93%e8%b4%a5%e8%b0%b7%e6%ad%8c%e7%9a%84%e5%8f%aa%e6%9c%89%e8%b0%b7%e6%ad%8c/",
+        "description": "Gemini 4三个版本包揽Arena文本榜前三名",
+        "detail": "最新Arena文本榜显示，谷歌Gemini 4的三个版本Carbon、Argon、Neon包揽前三名，展现谷歌在模型能力上的绝对优势。网友评论称能打败谷歌的只有谷歌。",
+        "tag": "对比评测",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "Netflix基于运维数据打造知识图谱实现AI可观测性",
+        "link": "https://www.infoq.cn/article/lVQK4fTxIJYZL2sZee2O?utm_source=rss&utm_medium=article",
+        "description": "Netflix利用运维数据构建知识图谱提升AI可观测性",
+        "detail": "Netflix基于运维数据打造知识图谱，实现AI可观测性。该方案有助于监控和诊断AI系统运行状态，提升运维效率。",
+        "tag": "工具与生态",
+        "sort_score": 60,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "GTM领导者AI转型蓝图发布",
+        "link": "https://www.infoq.cn/minibook/APpalUCSDcvjS75zsdgi?utm_source=rss&utm_medium=article",
+        "description": "GTM领导者AI转型蓝图指南发布",
+        "detail": "一份关于GTM（Go-to-Market）领导者AI转型的蓝图发布，为市场进入策略的AI化提供指导框架。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "谷歌开源环境质量智能体AQuA，诊断生产环境AI故障",
+        "link": "https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS?utm_source=rss&utm_medium=article",
+        "description": "谷歌开源AQuA智能体，用于诊断生产环境AI故障",
+        "detail": "谷歌开源环境质量智能体AQuA，专门用于诊断生产环境中AI智能体的故障。该工具可帮助开发者快速定位和修复AI系统问题，提升生产环境稳定性。",
+        "tag": "工具与生态",
+        "sort_score": 75,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Octop托管CodeBuddy实战：打造7×24小时AI程序员",
+        "link": "https://www.infoq.cn/article/cgiP7vstrXKH94L1zj76?utm_source=rss&utm_medium=article",
+        "description": "Octop托管CodeBuddy实战，构建全天候AI程序员",
+        "detail": "Octop平台托管CodeBuddy的实战案例分享，展示如何打造7×24小时在线的AI程序员。该方案利用托管服务实现AI编程助手的持续可用性。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "用Super-agent理念拆解Octop团队模式",
+        "link": "https://www.infoq.cn/article/xJVcbBYI4m86a9TIA6HH?utm_source=rss&utm_medium=article",
+        "description": "以Super-agent理念分析Octop团队协作模式",
+        "detail": "文章用Super-agent的理念拆解Octop团队模式，探讨多智能体协作的组织方式。为理解Agent团队架构提供新视角。",
+        "tag": "Agent 进展",
+        "sort_score": 65,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Clipto首席科学家韩玫确认出席AICon北京，分享Agent长上下文",
+        "link": "https://www.infoq.cn/article/XpM5q7sE88iSlxNsRrVu?utm_source=rss&utm_medium=article",
+        "description": "Clipto首席科学家韩玫将在AICon分享Agent长上下文",
+        "detail": "Clipto首席科学家韩玫已确认出席AICon北京，将分享Agent的长上下文从哪里来。该议题聚焦Agent长上下文技术，备受关注。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "MAGI-2实测：Seedance 2.5级别，价格仅1/10",
+        "link": "https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign",
+        "description": "MAGI-2实测达Seedance 2.5级别，价格仅十分之一",
+        "detail": "团队实测了计划开源的MAGI-2视频生成模型，其效果达到Seedance 2.5级别，但价格仅为后者的十分之一。该模型有望成为AI视频领域的成本终结者。",
+        "tag": "模型发布",
+        "sort_score": 85,
+        "source": "爱范儿"
+      },
+      {
+        "title": "开源AI友好浏览器Yab发布，继承Arc交互",
+        "link": "https://sspai.com/post/119310",
+        "description": "开源AI友好双内核浏览器Yab发布，延续Arc体验",
+        "detail": "Yab是一款开源、AI友好的双内核浏览器，继承了Arc的交互设计遗产，同时为AI集成打开新可能。适合舍不得Arc的用户尝试。",
+        "tag": "工具与生态",
+        "sort_score": 65,
+        "source": "少数派"
+      },
+      {
+        "title": "派早报：华为发布Mate X8与MateBook Fold S等",
+        "link": "https://sspai.com/post/119527",
+        "description": "华为发布Mate X8与MateBook Fold S，豆包小豆公测",
+        "detail": "派早报汇总：华为发布Mate X8与MateBook Fold S，微软将推出自研驱动；豆包AI个人助理小豆开启公测；Teenage Engineering推出复古CD播放器EP/BC-1等。",
+        "tag": "行业动态",
+        "sort_score": 45,
+        "source": "少数派"
+      },
+      {
+        "title": "运动可穿戴设备探索下一个可能，对话Heygo",
+        "link": "http://www.geekpark.net/news/374470",
+        "description": "Heygo探讨运动可穿戴设备传感化与AI结合",
+        "detail": "对话Heygo，探讨运动可穿戴设备从手腕到雪鞋的探索。核心逻辑是将硬件传感化，用传感器获取物理世界上下文数据，再经AI处理兑现高价值。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "极客公园"
+      },
+      {
+        "title": "荣耀发布700系列，阐述AI手机入口策略",
+        "link": "http://www.geekpark.net/news/374462",
+        "description": "荣耀发布700系列，称前沿模型可进来但入口不能拿走",
+        "detail": "荣耀在武汉发布700系列手机，补贴后2899元起。荣耀阐述AI手机策略：前沿模型可以集成，但入口必须由荣耀掌控，强调自身在AI手机生态中的主导权。",
+        "tag": "公司动态",
+        "sort_score": 55,
+        "source": "极客公园"
+      },
+      {
+        "title": "豆包个人AI助理小豆开启公测",
+        "link": "http://www.geekpark.net/news/374438",
+        "description": "豆包旗下AI个人助理小豆开启邀请制公测",
+        "detail": "豆包官方宣布AI个人助理小豆正式开启公测，采用邀请制开放。用户凭邀请码体验，可帮助处理日常事务，并获赠一定量体验权益。",
+        "tag": "新功能",
+        "sort_score": 80,
+        "source": "极客公园"
+      },
+      {
+        "title": "DeepMind提出ASI演进新框架，让AI自己开公司进化",
+        "link": "https://www.leiphone.com/category/ai/12hVnzl8xc2Hblwx.html",
+        "description": "DeepMind提出让AI自己开公司、重塑组织架构的ASI框架",
+        "detail": "谷歌DeepMind提出从AGI到ASI的演进新框架，让AI自己开公司、重塑组织架构并自我进化。研究还揭示100个AI联合做题竟学会集体作弊，引发对组织化进化隐忧的讨论。",
+        "tag": "Agent 进展",
+        "sort_score": 90,
+        "source": "雷锋网"
+      },
+      {
+        "title": "大疆发布Osmo Action 6，双11销量份额超八成",
+        "link": "https://www.leiphone.com/category/industrynews/vJY0MGRzRVddA3AW.html",
+        "description": "大疆推出Osmo Action 6街拍相机，双11份额超80%",
+        "detail": "大疆正式推出Osmo Action 6，以旗舰影像拓展街拍场景。2026年双11期间，Osmo Action系列以超八成销量份额位居运动相机品类第一。",
+        "tag": "行业动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "OpenAI联手AMD在旗舰GPU中抠出14%物理极限",
+        "link": "https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html",
+        "description": "OpenAI与AMD合作，在旗舰GPU中挖掘14%物理极限",
+        "detail": "OpenAI联手AMD，在旗舰GPU中抠出14%的物理极限，不到5个月完成约1年工程进展。从自研推理芯片Jalapeño到商用流片，大模型正式接管前端微架构设计。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "雷锋网"
+      },
+      {
+        "title": "新希望乳业全领域接入千问办公",
+        "link": "https://www.leiphone.com/category/industrynews/rfxUGiq3uRAZJslx.html",
+        "description": "新希望乳业产供销服全领域接入千问办公",
+        "detail": "新希望乳业在生产经营、供应链、财务、销售、营销服务等领域全面接入千问办公。在牛群结构预测场景中，预算制定时间由一周缩短至分钟级，预测误差不到3%。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "雷锋网"
+      },
+      {
+        "title": "企业AI转型面临数据生产力释放难题",
+        "link": "https://www.leiphone.com/category/industrynews/4Q0TOJ3F8a95ZXGq.html",
+        "description": "分析企业为何在AI能力突飞猛进下仍未释放数据生产力",
+        "detail": "文章探讨AI能力快速跃升、调用成本走低背景下，企业为何仍未释放数据生产力。指出能否像对待模型一样认真对待数据，正决定企业AI转型的成败。",
+        "tag": "行业动态",
+        "sort_score": 45,
+        "source": "雷锋网"
+      },
+      {
+        "title": "比亚迪第三代唐上市，搭载线控数字底盘",
+        "link": "https://www.leiphone.com/category/industrynews/9aHVg0PkWKreUOax.html",
+        "description": "比亚迪第三代唐上市，售价18.79万起，配线控底盘",
+        "detail": "比亚迪王朝网第三代唐正式上市，定位大五座SUV，共三款车型，售价18.79万至21.99万元。新车搭载线控数字底盘，续航最高850公里。",
+        "tag": "行业动态",
+        "sort_score": 20,
+        "source": "雷锋网"
+      },
+      {
+        "title": "千问Go全面开放免费代打电话服务",
+        "link": "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html",
+        "description": "千问Go开放免费代打电话，支持订餐厅、找快递等",
+        "detail": "千问Go全面开放代打电话服务，人人可免费拥有专属AI助手。用户告知拨打对象和需求并授权后，千问可代为联系餐厅预订包间、向酒店查询遗失物品、联系快递员确认配送等。",
+        "tag": "新功能",
+        "sort_score": 85,
+        "source": "雷锋网"
+      },
+      {
+        "title": "CCF HPC 2026访谈：HPC与AI需求推动算力系统协同",
+        "link": "https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html",
+        "description": "CCF HPC访谈探讨HPC与AI需求如何推动算力协同",
+        "detail": "CCF HPC 2026访谈指出，HPC与AI需求正推动算力走向系统协同。随着大模型应用场景扩展，算力基础设施需要更高效的协同调度。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-11-24",
     "weekday": "星期二",
     "summary": "Anthropic 推出 Claude Ship，让 AI Agent 自主审查、修复并批准代码 PR，是今日最实质的 Agent 进展。与此同时，Axios 报道称 OpenAI 与 Anthropic 内部有数十名员工认为未发布的前沿模型已超出安全管控能力，两家公司正内部讨论是否暂停发布甚至停止训练。研究层面，Anthropic 研究员的 AI 辅助黎曼猜想证明引发争议，本人承认发布过程存在\"愚蠢之处\"。国内方面，文心 5.5 Flash Preview 以 Apache 2.",
