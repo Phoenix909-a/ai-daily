@@ -2,40 +2,103 @@
   {
     "date": "2026-11-25",
     "weekday": "星期三",
-    "summary": "今日焦点集中在 Anthropic 与 Google 的模型竞赛：Claude Opus 5.6 灰测效果曝光，效率达此前 Opus 版本的 2-3 倍，同时有消息称 Anthropic 还藏有两个未发布的最强模型；Google Gemini 4 包揽 Arena 文本榜前三，其多智能体团队更在量子计算模拟任务上将成本最高降低 10 倍。Agent 领域出现重要反思：一项 EMNLP'26 Oral 研究指出当前 Agent 的\"搜索\"多为假装，准确率仅 24%。此外，谷歌开源了用于诊断生产环境 AI 智能体故障的环境质量智能体 AQuA。",
+    "summary": "Google DeepMind 披露已让 AI Agent 自主承担部分 Gemini 实验算力，但研究负责人强调距离递归自我改进仍远。Gemini 4 在 Arena 文本榜包揽前三，并以多智能体协作将量子模拟成本最高降低 10 倍。Anthropic 方面，Claude Opus 5.6 进入灰测（效率约为旧版 2–3 倍），Claude 还产出 73000 行 Lean 代码完成「代数版 P≠NP」形式化验证。压缩模型赛道活跃：PrismML 将 27B 模型压至 5.",
     "news": [
       {
-        "title": "耶鲁教授Sonnenfeld称英伟达损害美国工业实力",
-        "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-        "description": "耶鲁教授警告英伟达可能损害美国工业竞争力",
-        "detail": "耶鲁大学Jeffrey Sonnenfeld警告称，英伟达可能成为美国工业实力的损害因素而非捍卫者。他质疑市场对英伟达与白宫合作的热烈反应，认为这未必有利于美国制造业长远发展。",
+        "title": "DeepMind 用 AI Agent 自主运行 Gemini 实验",
+        "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+        "description": "DeepMind 让 AI Agent 控制部分算力，自主运行 Gemini 实验。",
+        "detail": "Google DeepMind 已使用 AI Agent 自主运行针对即将推出的 Gemini 模型的实验，Agent 控制部分计算资源。但报道指出，递归自我改进仍然遥远，当前系统仍依赖人类设定目标与监督。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "The Decoder"
+      },
+      {
+        "title": "Anthropic 研究：企业采用 AI 最难的是组织变革",
+        "link": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+        "description": "Anthropic 研究 58 家公司近 300 次 AI 部署，发现难点不在工具学习。",
+        "detail": "Anthropic 对 58 家美国公司的近 300 次 AI 部署进行了研究，结果显示企业采用 AI 最困难的部分与学习工具关系不大，更多涉及工作流程和组织层面的调整。研究结果对企业的 AI 落地策略具有参考意义。",
         "tag": "行业动态",
-        "sort_score": 40,
+        "sort_score": 72,
+        "source": "The Decoder"
+      },
+      {
+        "title": "美国金融与间谍机构接连发生网络事件",
+        "link": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
+        "description": "美国金融犯罪执法网络和间谍机构接连遭遇网络事件，采取预防性下线。",
+        "detail": "美国金融犯罪执法网络在发生未经授权的访问后，作为预防措施将系统下线。此前联邦机构已发生一系列黑客攻击和宕机事件，此次连续网络事件引发对政府机构网络安全的关注。",
+        "tag": "行业动态",
+        "sort_score": 35,
+        "source": "The Decoder"
+      },
+      {
+        "title": "PrismML 将 54GB 模型压缩至 5.9GB",
+        "link": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+        "description": "PrismML 发布 Ternary Bonsai 2.5 27B，权重仅取三个值，体积缩小近九成。",
+        "detail": "初创公司 PrismML 发布了 Ternary Bonsai 2.5 27B，通过将每个权重缩减为仅三种可能值，把 54GB 的语言模型压缩到 5.9GB。这种极端量化方法大幅降低了模型存储和部署成本，为边缘设备运行大模型提供了新思路。",
+        "tag": "模型发布",
+        "sort_score": 82,
+        "source": "The Decoder"
+      },
+      {
+        "title": "MIT 发现不真实训练数据可提升 AI 气候预测可靠性",
+        "link": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
+        "description": "MIT 团队用单条轨迹训练 AI 气候模型，反而提高预测可靠性。",
+        "detail": "MIT 研究人员开发出一种方法，让 AI 气候模型仅用一条轨迹就能完成训练，且发现不真实的训练数据反而使预测更可靠。该研究挑战了传统训练数据越多越好的观念，为气候建模提供了新路径。",
+        "tag": "行业动态",
+        "sort_score": 55,
+        "source": "The Decoder"
+      },
+      {
+        "title": "黄仁勋与 Nvidia 仍需就 Megaspeed 回答质询",
+        "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+        "description": "黄仁勋因与 Megaspeed 的关系面临国会和董事会质询。",
+        "detail": "黄仁勋仍面临来自国会和公司董事会的质询，涉及他与 Megaspeed 的关系。相关报道称其与该公司存在私人关系，此事可能对 Nvidia 的治理和声誉产生影响。",
+        "tag": "公司动态",
+        "sort_score": 50,
+        "source": "TechCrunch AI"
+      },
+      {
+        "title": "耶鲁教授称 Nvidia 对美国工业实力是拖累",
+        "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+        "description": "耶鲁的 Sonnenfeld 警告 Nvidia 可能损害美国工业实力。",
+        "detail": "耶鲁大学 Jeffrey Sonnenfeld 警告称，市场周一所欢呼的黄仁勋白宫背景活动，实际上可能使 Nvidia 成为美国工业实力的拖累而非捍卫者。该观点引发对 Nvidia 市场地位与产业政策关系的讨论。",
+        "tag": "公司动态",
+        "sort_score": 45,
         "source": "TechCrunch AI"
       },
       {
         "title": "Claude Ship 相关动态",
         "link": "https://www.producthunt.com/products/claude-code",
-        "description": "Claude Ship 相关动态信息",
-        "detail": "关于 Claude Ship 的相关动态，目前信息有限，可能涉及 Anthropic 的产品发布或更新。",
+        "description": "Claude Ship 相关新闻，具体内容待补充。",
+        "detail": "该条新闻标题为 Claude Ship，原始信息不足，暂无法提供详细摘要。可能涉及 Anthropic Claude 的产品或发布动态，需进一步核实。",
         "tag": "公司动态",
-        "sort_score": 60,
+        "sort_score": 40,
         "source": "Product Hunt"
       },
       {
-        "title": "Anthropic 被曝仍藏有两个最强模型",
-        "link": "https://www.qbitai.com/2026/11/512538.html",
-        "description": "Anthropic 据称还有两个未发布的最强模型",
-        "detail": "有消息称 Anthropic 除了已发布的 Fable5.2 外，还藏有两个最强模型尚未公开。Fable5.2 已被认为相对老旧，暗示 Anthropic 在模型研发上仍有重大储备。",
+        "title": "中国团队 Loop 架构以 9400 万参数比肩 50 亿模型",
+        "link": "https://www.qbitai.com/2026/11/512565.html",
+        "description": "General Looped Model 用 9400 万参数实现接近 50 亿模型性能，显存降 98%。",
+        "detail": "中国团队揭秘 General Looped Model，采用 Loop 架构以 9400 万参数硬刚 50 亿参数模型，权重显存直降 98%。该架构通过循环复用参数大幅降低推理成本，为高效大模型设计提供了新方向。",
         "tag": "模型发布",
         "sort_score": 85,
         "source": "量子位"
       },
       {
-        "title": "第二十一届中国IDC产业年度大典完整议程公布",
+        "title": "Anthropic 被曝还藏有两个最强模型",
+        "link": "https://www.qbitai.com/2026/11/512538.html",
+        "description": "消息称 Anthropic 除已发布模型外，还隐藏两个更强模型。",
+        "detail": "有消息指出 Anthropic 还藏着两个最强模型，并称 Fable5.2 已经过时。该爆料暗示 Anthropic 可能即将发布更强模型，引发社区对其产品路线图的猜测。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "量子位"
+      },
+      {
+        "title": "第二十一届中国 IDC 产业年度大典议程公布",
         "link": "https://www.qbitai.com/2026/11/512532.html",
-        "description": "IDCC2026 大典议程公布，聚焦数字基础设施",
-        "detail": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办，完整议程已公布。大会将汇聚行业专家，探讨数字基础设施发展趋势。",
+        "description": "IDCC2026 暨全球数字基础设施科技展即将举办，完整议程公布。",
+        "detail": "第二十一届中国 IDC 产业年度大典（IDCC2026）暨 2026 全球数字基础设施科技展即将举办，完整议程已公布。活动将聚焦数字基础设施与 AI 算力等议题。",
         "tag": "行业动态",
         "sort_score": 30,
         "source": "量子位"
@@ -43,281 +106,218 @@
       {
         "title": "Anthropic 的 Tibo 被曝加盟 OpenAI",
         "link": "https://www.qbitai.com/2026/11/512515.html",
-        "description": "Anthropic 核心成员 Tibo 被曝将加入 OpenAI",
-        "detail": "据爆料，Anthropic 的 Tibo 已确认加盟 OpenAI，这是继此前三人离职后又一重要人事变动。OpenAI 将拥有两位名为 Tibo 的员工，引发业界关注。",
+        "description": "A 社 Tibo 被曝将加入 OpenAI，上市前离职三人组异地团圆。",
+        "detail": "Anthropic 的 Tibo 被曝已加盟 OpenAI，OpenAI 将拥有两位名为 Tibo 的员工。报道称这是 Anthropic 上市前离职三人组的异地团圆，反映 AI 人才流动加剧。",
         "tag": "公司动态",
-        "sort_score": 70,
-        "source": "量子位"
-      },
-      {
-        "title": "华人计算机视觉泰斗离开苹果二次创业，专注空间与物理AI",
-        "link": "https://www.qbitai.com/2026/11/512498.html",
-        "description": "华人CV泰斗离开苹果创业，专注空间与物理AI",
-        "detail": "一位华人计算机视觉泰斗离开苹果后开启二次创业，专注于下一代空间与物理AI。其团队将复杂场景三维建模成本降至10美元以内，有望推动空间智能应用普及。",
-        "tag": "行业动态",
         "sort_score": 65,
         "source": "量子位"
       },
       {
-        "title": "Claude Opus 5.6 灰测效果曝光，效率提升2-3倍",
+        "title": "华人计算机视觉泰斗离开苹果二次创业",
+        "link": "https://www.qbitai.com/2026/11/512498.html",
+        "description": "华人 CV 泰斗离开苹果创业，专注空间与物理 AI，三维建模成本降至 10 美元内。",
+        "detail": "华人计算机视觉泰斗离开苹果后二次创业，专注下一代空间与物理 AI。其团队将复杂场景三维建模成本降至 10 美元以内，有望推动空间智能应用的普及。",
+        "tag": "公司动态",
+        "sort_score": 68,
+        "source": "量子位"
+      },
+      {
+        "title": "Claude Opus 5.6 灰测效果曝光",
         "link": "https://www.qbitai.com/2026/11/512478.html",
-        "description": "Claude Opus 5.6 灰测显示效率提升2到3倍",
-        "detail": "Claude Opus 5.6 的灰度测试效果流出，整体效率大约是此前 Opus 版本的2到3倍。该版本在性能上有显著提升，可能即将正式发布。",
+        "description": "Claude Opus 5.6 灰测显示整体效率约为此前 Opus 版本的 2 到 3 倍。",
+        "detail": "Claude Opus 5.6 的灰测效果曝光，整体效率大约是此前 Opus 版本的 2 到 3 倍。若该提升属实，将显著增强 Claude 在复杂任务上的竞争力，具体发布计划尚未公布。",
         "tag": "模型发布",
         "sort_score": 90,
         "source": "量子位"
       },
       {
-        "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard",
-        "link": "https://aiera.com.cn/2026/11/25/other/admin/125213/%e8%9a%82%e8%9a%81%e5%8f%91%e5%b8%83%e5%8c%bb%e7%96%97ai%e5%ae%89%e5%85%a8%e9%98%b2%e6%8a%a4%e6%a8%a1%e5%9e%8blingsante-medguard%ef%bc%8c%e5%bc%80%e6%94%be%e9%a3%8e%e9%99%a9%e8%af%84%e6%b5%8b%e6%95%b0/",
-        "description": "蚂蚁发布医疗AI安全模型并开放风险评测数据集",
-        "detail": "蚂蚁集团发布医疗AI安全防护模型LingSante MedGuard，并开放风险评测数据集。该模型旨在解决医疗AI解读中的错误传递问题，如化验单指标错位等，提升医疗AI安全性。",
-        "tag": "模型发布",
-        "sort_score": 85,
-        "source": "新智元"
-      },
-      {
-        "title": "国产AI黑马单季业绩三项破纪录，股价暴涨22%",
-        "link": "https://aiera.com.cn/2026/11/25/other/admin/125210/%e5%9b%bd%e4%ba%a7ai%e9%bb%91%e9%a9%ac%e8%bf%8e%e6%9d%a5%e5%a4%a7%e7%88%86%e5%8f%91%ef%bc%81%e5%8d%95%e5%ad%a3%e4%b8%9a%e7%bb%a9%e4%b8%89%e9%a1%b9%e7%a0%b4%e7%ba%aa%e5%bd%95%ef%bc%8c%e8%82%a1%e4%bb%b7/",
-        "description": "国产AI公司单季业绩破纪录，股价大涨22%",
-        "detail": "一家国产AI黑马公司公布单季业绩，三项指标均破纪录，股价随之暴涨22%。此前Anthropic上市市值破2万亿美元，改写了全球大模型行业估值逻辑，国产AI公司也迎来爆发。",
-        "tag": "公司动态",
-        "sort_score": 65,
-        "source": "新智元"
-      },
-      {
-        "title": "Claude 证出代数版P≠NP，73000行Lean代码通过验证",
-        "link": "https://aiera.com.cn/2026/11/25/other/admin/125192/claude%e8%af%81%e5%87%ba%e3%80%8c%e4%bb%a3%e6%95%b0%e7%89%88p%e2%89%a0np%e3%80%8d%ef%bc%8173000%e8%a1%8clean%e4%bb%a3%e7%a0%81%e9%80%9a%e8%bf%87%e9%aa%8c%e8%af%81/",
-        "description": "Claude 用73000行Lean代码证明代数版P≠NP",
-        "detail": "Anthropic 官方GitHub仓库发布70页论文，宣布Claude证出代数版P≠NP，73000行Lean代码通过验证。这是继黎曼猜想被攻克后AI在数学领域的又一重大突破。",
-        "tag": "Agent 进展",
-        "sort_score": 95,
-        "source": "新智元"
-      },
-      {
-        "title": "研究揭示Agent仅24%准确率，答对全靠背而非真搜索",
-        "link": "https://aiera.com.cn/2026/11/25/other/admin/125168/%e7%ad%94%e5%af%b9%e5%85%a8%e9%9d%a0%e8%83%8c%ef%bc%8cagent%e5%8f%aa%e6%98%af%e5%81%87%e8%a3%85%e6%90%9c%e7%b4%a2%ef%bc%81%e4%bb%8524%e5%87%86%e7%a1%ae%e7%8e%87-emnlp26-oral/",
-        "description": "EMNLP'26 Oral研究：Agent仅24%准确率，假装搜索",
-        "detail": "一项EMNLP'26 Oral研究指出，当前Agent在文档、视频、音频理解基准上仅24%准确率，答对主要靠背诵而非真正搜索。研究揭示了Agent在真实搜索能力上的严重不足。",
-        "tag": "对比评测",
+        "title": "豆包工作更新实测：桌面 AI 工作流竞争加剧",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125232/%e8%b1%86%e5%8c%85%e5%b7%a5%e4%bd%9c%e8%bf%99%e6%b3%a2%e6%9b%b4%e6%96%b0%ef%bc%8c%e6%88%91%e7%bb%99%e6%bb%a1%e5%88%86%ef%bc%81%e4%b8%80%e5%a4%a7%e6%b3%a2%e5%ae%9e%e6%b5%8b%e6%9d%a5%e4%ba%86-2/",
+        "description": "豆包工作迎来大波更新，实测显示桌面 AI 工作流竞争白热化。",
+        "detail": "豆包工作发布大波更新，实测显示其在桌面端工作流上有明显提升。当前 AI 圈竞争最激烈的领域是电脑桌面，OpenAI 也在强化 Codex 和 ChatGPT for Work 以接管打工人工作流。",
+        "tag": "新功能",
         "sort_score": 80,
         "source": "新智元"
       },
       {
-        "title": "谷歌Gemini 4智能体破解量子计算难题，成本降低10倍",
-        "link": "https://aiera.com.cn/2026/11/25/other/admin/125152/%e8%b0%b7%e6%ad%8cgemini-4%e7%a0%b4%e8%a7%a3%e9%87%8f%e5%ad%90%e8%ae%a1%e7%ae%97%e3%80%8c%e5%a4%a9%e4%b9%a6%e3%80%8d%ef%bc%81%e6%a0%b8%e8%81%9a%e5%8f%98%e8%bf%9b%e5%ba%a6%e6%9d%a1%e6%8b%89%e6%bb%a1/",
-        "description": "Gemini 4多智能体团队破解量子计算天书，降本10倍",
-        "detail": "DeepMind官宣，多个Gemini 4智能体组成的AI团队成功破解量子计算难题，将量子模拟成本最高降低10倍。这标志着AI在科学发现领域的重要应用进展。",
+        "title": "蚂蚁发布医疗 AI 安全防护模型 LingSante MedGuard",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125213/%e8%9a%82%e8%9a%81%e5%8f%91%e5%b8%83%e5%8c%bb%e7%96%97ai%e5%ae%89%e5%85%a8%e9%98%b2%e6%8a%a4%e6%a8%a1%e5%9e%8blingsante-medguard%ef%bc%8c%e5%bc%80%e6%94%be%e9%a3%8e%e9%99%a9%e8%af%84%e6%b5%8b%e6%95%b0/",
+        "description": "蚂蚁发布医疗 AI 安全模型 MedGuard，并开放风险评测数据集。",
+        "detail": "蚂蚁发布医疗 AI 安全防护模型 LingSante MedGuard，并开放风险评测数据集。该模型针对医学指标误读、评分算错等风险进行防护，旨在提升医疗 AI 解读的准确性与安全性。",
+        "tag": "模型发布",
+        "sort_score": 83,
+        "source": "新智元"
+      },
+      {
+        "title": "国产 AI 公司单季业绩三项破纪录，股价暴涨 22%",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125210/%e5%9b%bd%e4%ba%a7ai%e9%bb%91%e9%a9%ac%e8%bf%8e%e6%9d%a5%e5%a4%a7%e7%88%86%e5%8f%91%ef%bc%81%e5%8d%95%e5%ad%a3%e4%b8%9a%e7%bb%a9%e4%b8%89%e9%a1%b9%e7%a0%b4%e7%ba%aa%e5%bd%95%ef%bc%8c%e8%82%a1%e4%bb%b7/",
+        "description": "国产 AI 黑马单季业绩三项破纪录，股价大涨 22%。",
+        "detail": "一家国产 AI 公司迎来业绩爆发，单季度三项指标破纪录，股价暴涨 22%。报道同时提及 Anthropic 上市后市值一度突破 2 万亿美元，反映大模型行业估值逻辑正在被改写。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude 用 73000 行 Lean 代码证明代数版 P≠NP",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125192/claude%e8%af%81%e5%87%ba%e3%80%8c%e4%bb%a3%e6%95%b0%e7%89%88p%e2%89%a0np%e3%80%8d%ef%bc%8173000%e8%a1%8clean%e4%bb%a3%e7%a0%81%e9%80%9a%e8%bf%87%e9%aa%8c%e8%af%81/",
+        "description": "Anthropic 发布 70 页论文，Claude 生成 73000 行 Lean 代码通过验证。",
+        "detail": "Anthropic 官方 GitHub 仓库发布一篇 70 页论文，宣布 Claude 证出代数版 P≠NP，73000 行 Lean 代码通过验证。这是 AI 在形式化数学证明领域的一次重要展示，引发对 AI 数学能力的广泛讨论。",
         "tag": "Agent 进展",
         "sort_score": 92,
         "source": "新智元"
       },
       {
+        "title": "研究揭示 Agent 仅 24% 准确率，答对全靠背",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125168/%e7%ad%94%e5%af%b9%e5%85%a8%e9%9d%a0%e8%83%8c%ef%bc%8cagent%e5%8f%aa%e6%98%af%e5%81%87%e8%a3%85%e6%90%9c%e7%b4%a2%ef%bc%81%e4%bb%8524%e5%87%86%e7%a1%ae%e7%8e%87-emnlp26-oral/",
+        "description": "EMNLP'26 Oral 论文指出 Agent 只是假装搜索，准确率仅 24%。",
+        "detail": "一篇 EMNLP'26 Oral 论文指出，现有文档、视频、音频理解基准通常直接把源文件交给模型，而 Agent 在真实检索场景中仅 24% 准确率，答对主要靠记忆而非搜索。该研究对 Agent 的检索能力提出质疑。",
+        "tag": "对比评测",
+        "sort_score": 78,
+        "source": "新智元"
+      },
+      {
+        "title": "Gemini 4 智能体破解量子计算难题",
+        "link": "https://aiera.com.cn/2026/11/25/other/admin/125152/%e8%b0%b7%e6%ad%8cgemini-4%e7%a0%b4%e8%a7%a3%e9%87%8f%e5%ad%90%e8%ae%a1%e7%ae%97%e3%80%8c%e5%a4%a9%e4%b9%a6%e3%80%8d%ef%bc%81%e6%a0%b8%e8%81%9a%e5%8f%98%e8%bf%9b%e5%ba%a6%e6%9d%a1%e6%8b%89%e6%bb%a1/",
+        "description": "多个 Gemini 4 智能体组成团队，将量子模拟成本最高降低 10 倍。",
+        "detail": "DeepMind 官宣，由多个 Gemini 4 智能体组成的 AI 团队破解了量子计算领域的难题，将量子模拟成本最高降低 10 倍，部分任务效果显著。该成果展示了多智能体协作在科学发现中的潜力。",
+        "tag": "Agent 进展",
+        "sort_score": 93,
+        "source": "新智元"
+      },
+      {
         "title": "美国创世纪任务一周年，人类拓界计划全球引燃",
         "link": "https://aiera.com.cn/2026/11/25/other/admin/125135/%e7%be%8e%e5%9b%bd%e3%80%8c%e5%88%9b%e4%b8%96%e7%ba%aa%e3%80%8d%e4%b8%80%e5%91%a8%e5%b9%b4%ef%bc%8c%e3%80%8c%e4%ba%ba%e7%b1%bb%e6%8b%93%e7%95%8c%e8%ae%a1%e5%88%92%e3%80%8d%e5%85%a8%e7%90%83%e5%bc%95/",
-        "description": "美国创世纪任务一周年，AI驱动科学发现引关注",
-        "detail": "美国Genesis Mission（创世纪任务）启动一周年，该任务汇聚能源部17家国家实验室的超级计算机、科学数据与实验设施，推动AI驱动科学发现。人类拓界计划在全球范围内引发关注。",
+        "description": "美国 Genesis Mission 启动一周年，推动 AI 驱动科学发现。",
+        "detail": "美国启动 Genesis Mission 一周年，该任务将能源部旗下 17 家国家实验室的超级计算机、科学数据与实验设施汇聚到 AI 驱动科学发现的使命之下。相关全球拓展计划也在推进中。",
         "tag": "行业动态",
         "sort_score": 50,
         "source": "新智元"
       },
       {
-        "title": "Karpathy预言成真，LLM新风口落地中国",
+        "title": "Karpathy 预言成真，LLM 记忆新风口落地中国",
         "link": "https://aiera.com.cn/2026/11/25/other/admin/125120/karpathy%e9%a2%84%e8%a8%80%e6%88%90%e7%9c%9f%ef%bc%81%e6%a8%aa%e6%89%ab8%e9%a1%b9%e5%85%a8%e7%90%83%e6%9c%80%e9%ab%98%e5%88%86%ef%bc%8c%e7%a1%85%e8%b0%b7%e8%bf%99%e4%b8%aallm%e6%96%b0%e9%a3%8e/",
-        "description": "Karpathy预言成真，LLM新风口落地中国横扫8项最高分",
-        "detail": "Karpathy曾预言记忆机制将取代RAG，如今这一趋势成真。硅谷新风口LLM记忆技术落地中国，相关模型横扫8项全球最高分，推动大模型长期记忆能力发展。",
+        "description": "硅谷 LLM 记忆新方向落地中国，横扫 8 项全球最高分。",
+        "detail": "Karpathy 关于记忆的预言成真，硅谷兴起的 LLM 记忆新风口落地中国，相关方案横扫 8 项全球最高分。文章对比了 RAG 外接向量数据库的局限，指出将短期经历编译为长期记忆的新路径。",
         "tag": "工具与生态",
-        "sort_score": 80,
+        "sort_score": 82,
         "source": "新智元"
       },
       {
-        "title": "Gemini 4包揽Arena文本榜前三",
+        "title": "Gemini 4 包揽 Arena 文本榜前三",
         "link": "https://aiera.com.cn/2026/11/25/other/admin/125085/gemini-4%e5%8c%85%e6%8f%bd%e5%89%8d%e4%b8%89%ef%bc%81%e8%83%bd%e6%89%93%e8%b4%a5%e8%b0%b7%e6%ad%8c%e7%9a%84%e5%8f%aa%e6%9c%89%e8%b0%b7%e6%ad%8c/",
-        "description": "Gemini 4三个版本包揽Arena文本榜前三名",
-        "detail": "最新Arena文本榜显示，谷歌Gemini 4的三个版本Carbon、Argon、Neon包揽前三名，展现谷歌在模型能力上的绝对优势。网友评论称能打败谷歌的只有谷歌。",
+        "description": "Gemini 4 的 Carbon、Argon、Neon 三个版本霸占 Arena 文本榜前三。",
+        "detail": "最新 Arena 文本榜显示，前三名全被 Gemini 4 的 Carbon、Argon、Neon 三个版本拿下，Carbon 位居榜首。谷歌一家包揽前三，显示其在模型竞技场上的强势地位。",
         "tag": "对比评测",
-        "sort_score": 88,
+        "sort_score": 86,
         "source": "新智元"
       },
       {
-        "title": "Netflix基于运维数据打造知识图谱实现AI可观测性",
-        "link": "https://www.infoq.cn/article/lVQK4fTxIJYZL2sZee2O?utm_source=rss&utm_medium=article",
-        "description": "Netflix利用运维数据构建知识图谱提升AI可观测性",
-        "detail": "Netflix基于运维数据打造知识图谱，实现AI可观测性。该方案有助于监控和诊断AI系统运行状态，提升运维效率。",
-        "tag": "工具与生态",
+        "title": "AMD 联合中科慧灵完成人形机器人端侧 AI 验证",
+        "link": "https://www.infoq.cn/article/stLpgV1kNHuvr21qRH9x?utm_source=rss&utm_medium=article",
+        "description": "AMD 与中科慧灵探索人形机器人“大小脑”双处理器架构。",
+        "detail": "AMD 联合中科慧灵完成人形机器人端侧 AI 验证，探索“大小脑”双处理器架构。该方案旨在让人形机器人在端侧高效运行 AI 模型，兼顾实时控制与复杂推理。",
+        "tag": "行业动态",
+        "sort_score": 62,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "企业安全新挑战：AI 执行的合法操作更难防",
+        "link": "https://www.infoq.cn/article/LwwdlrNGE3tbxPO1wIcT?utm_source=rss&utm_medium=article",
+        "description": "分析指出 AI 正在执行的合法操作比黑客入侵更难防御。",
+        "detail": "有分析指出，比黑客入侵更难防范的是 AI 正在执行的合法操作，企业安全防线可能守错了地方。随着 Agent 获得更多系统权限，如何区分正常自动化与恶意行为成为安全新课题。",
+        "tag": "行业动态",
+        "sort_score": 58,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "AI 教父回击黄仁勋，称大规模失业是 AI 巨头赚钱副作用",
+        "link": "https://www.infoq.cn/article/6i2DoIJiaTcKyR0UyurQ?utm_source=rss&utm_medium=article",
+        "description": "AI 教父称自己比黄仁勋更早看到英伟达未来，批评 AI 巨头逐利。",
+        "detail": "AI 教父回击黄仁勋，称自己比黄仁勋更早看到英伟达的未来，并直言大规模失业是 AI 巨头赚钱的副作用。该言论再次引发对 AI 社会经济影响的争论。",
+        "tag": "行业动态",
+        "sort_score": 55,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "百灵大模型借阿福“望闻问切”重塑医疗 AI",
+        "link": "https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa?utm_source=rss&utm_medium=article",
+        "description": "阿福学会望闻问切，真实医疗需求正在重塑百灵大模型。",
+        "detail": "阿福学会望闻问切背后，真实医疗需求正在重塑百灵大模型。文章探讨了医疗场景对模型能力的要求如何反向推动模型迭代，强调真实需求在医疗 AI 落地中的关键作用。",
+        "tag": "公司动态",
         "sort_score": 60,
         "source": "InfoQ 中文"
       },
       {
-        "title": "GTM领导者AI转型蓝图发布",
-        "link": "https://www.infoq.cn/minibook/APpalUCSDcvjS75zsdgi?utm_source=rss&utm_medium=article",
-        "description": "GTM领导者AI转型蓝图指南发布",
-        "detail": "一份关于GTM（Go-to-Market）领导者AI转型的蓝图发布，为市场进入策略的AI化提供指导框架。",
-        "tag": "行业动态",
-        "sort_score": 40,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "谷歌开源环境质量智能体AQuA，诊断生产环境AI故障",
-        "link": "https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS?utm_source=rss&utm_medium=article",
-        "description": "谷歌开源AQuA智能体，用于诊断生产环境AI故障",
-        "detail": "谷歌开源环境质量智能体AQuA，专门用于诊断生产环境中AI智能体的故障。该工具可帮助开发者快速定位和修复AI系统问题，提升生产环境稳定性。",
-        "tag": "工具与生态",
-        "sort_score": 75,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "Octop托管CodeBuddy实战：打造7×24小时AI程序员",
-        "link": "https://www.infoq.cn/article/cgiP7vstrXKH94L1zj76?utm_source=rss&utm_medium=article",
-        "description": "Octop托管CodeBuddy实战，构建全天候AI程序员",
-        "detail": "Octop平台托管CodeBuddy的实战案例分享，展示如何打造7×24小时在线的AI程序员。该方案利用托管服务实现AI编程助手的持续可用性。",
+        "title": "Pi 创始人曝现代开发奇观：系统崩溃后工程师齐问 Claude",
+        "link": "https://www.infoq.cn/article/ExbJjrItIlc9KLfQ2UeT?utm_source=rss&utm_medium=article",
+        "description": "Pi 创始人称系统崩溃时一屋子工程师都在问 Claude 怎么修。",
+        "detail": "Pi 创始人曝光现代开发奇观：系统崩溃后，一屋子工程师都在问 Claude 怎么修。该现象反映 AI 编程助手已深度融入开发流程，也引发对工程师过度依赖 AI 的讨论。",
         "tag": "工具与生态",
         "sort_score": 70,
         "source": "InfoQ 中文"
       },
       {
-        "title": "用Super-agent理念拆解Octop团队模式",
-        "link": "https://www.infoq.cn/article/xJVcbBYI4m86a9TIA6HH?utm_source=rss&utm_medium=article",
-        "description": "以Super-agent理念分析Octop团队协作模式",
-        "detail": "文章用Super-agent的理念拆解Octop团队模式，探讨多智能体协作的组织方式。为理解Agent团队架构提供新视角。",
-        "tag": "Agent 进展",
-        "sort_score": 65,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "Clipto首席科学家韩玫确认出席AICon北京，分享Agent长上下文",
-        "link": "https://www.infoq.cn/article/XpM5q7sE88iSlxNsRrVu?utm_source=rss&utm_medium=article",
-        "description": "Clipto首席科学家韩玫将在AICon分享Agent长上下文",
-        "detail": "Clipto首席科学家韩玫已确认出席AICon北京，将分享Agent的长上下文从哪里来。该议题聚焦Agent长上下文技术，备受关注。",
-        "tag": "行业动态",
-        "sort_score": 50,
-        "source": "InfoQ 中文"
-      },
-      {
-        "title": "MAGI-2实测：Seedance 2.5级别，价格仅1/10",
-        "link": "https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign",
-        "description": "MAGI-2实测达Seedance 2.5级别，价格仅十分之一",
-        "detail": "团队实测了计划开源的MAGI-2视频生成模型，其效果达到Seedance 2.5级别，但价格仅为后者的十分之一。该模型有望成为AI视频领域的成本终结者。",
-        "tag": "模型发布",
-        "sort_score": 85,
-        "source": "爱范儿"
-      },
-      {
-        "title": "开源AI友好浏览器Yab发布，继承Arc交互",
-        "link": "https://sspai.com/post/119310",
-        "description": "开源AI友好双内核浏览器Yab发布，延续Arc体验",
-        "detail": "Yab是一款开源、AI友好的双内核浏览器，继承了Arc的交互设计遗产，同时为AI集成打开新可能。适合舍不得Arc的用户尝试。",
-        "tag": "工具与生态",
-        "sort_score": 65,
-        "source": "少数派"
-      },
-      {
-        "title": "派早报：华为发布Mate X8与MateBook Fold S等",
-        "link": "https://sspai.com/post/119527",
-        "description": "华为发布Mate X8与MateBook Fold S，豆包小豆公测",
-        "detail": "派早报汇总：华为发布Mate X8与MateBook Fold S，微软将推出自研驱动；豆包AI个人助理小豆开启公测；Teenage Engineering推出复古CD播放器EP/BC-1等。",
-        "tag": "行业动态",
-        "sort_score": 45,
-        "source": "少数派"
-      },
-      {
-        "title": "运动可穿戴设备探索下一个可能，对话Heygo",
-        "link": "http://www.geekpark.net/news/374470",
-        "description": "Heygo探讨运动可穿戴设备传感化与AI结合",
-        "detail": "对话Heygo，探讨运动可穿戴设备从手腕到雪鞋的探索。核心逻辑是将硬件传感化，用传感器获取物理世界上下文数据，再经AI处理兑现高价值。",
-        "tag": "行业动态",
-        "sort_score": 40,
-        "source": "极客公园"
-      },
-      {
-        "title": "荣耀发布700系列，阐述AI手机入口策略",
-        "link": "http://www.geekpark.net/news/374462",
-        "description": "荣耀发布700系列，称前沿模型可进来但入口不能拿走",
-        "detail": "荣耀在武汉发布700系列手机，补贴后2899元起。荣耀阐述AI手机策略：前沿模型可以集成，但入口必须由荣耀掌控，强调自身在AI手机生态中的主导权。",
+        "title": "蚂蚁 OceanBase 再造 AI 数据平台",
+        "link": "https://www.infoq.cn/article/2YvROKs0CHz1yR4Wi02o?utm_source=rss&utm_medium=article",
+        "description": "做了 16 年数据库的蚂蚁 OceanBase 宣布再造一个 AI 数据平台。",
+        "detail": "做了 16 年数据库的蚂蚁 OceanBase 宣布再造一个 AI 数据平台。此举旨在将数据库能力与 AI 工作负载结合，满足大模型时代对数据平台的新需求。",
         "tag": "公司动态",
-        "sort_score": 55,
-        "source": "极客公园"
+        "sort_score": 65,
+        "source": "InfoQ 中文"
       },
       {
-        "title": "豆包个人AI助理小豆开启公测",
-        "link": "http://www.geekpark.net/news/374438",
-        "description": "豆包旗下AI个人助理小豆开启邀请制公测",
-        "detail": "豆包官方宣布AI个人助理小豆正式开启公测，采用邀请制开放。用户凭邀请码体验，可帮助处理日常事务，并获赠一定量体验权益。",
-        "tag": "新功能",
-        "sort_score": 80,
-        "source": "极客公园"
+        "title": "Netflix 基于运维数据打造知识图谱实现 AI 可观测性",
+        "link": "https://www.infoq.cn/article/lVQK4fTxIJYZL2sZee2O?utm_source=rss&utm_medium=article",
+        "description": "Netflix 利用运维数据构建知识图谱，提升 AI 可观测性。",
+        "detail": "Netflix 基于运维数据打造知识图谱，实现 AI 可观测性。该方案通过知识图谱关联运维指标与事件，帮助理解 AI 系统的运行状态与故障根因。",
+        "tag": "工具与生态",
+        "sort_score": 62,
+        "source": "InfoQ 中文"
       },
       {
-        "title": "DeepMind提出ASI演进新框架，让AI自己开公司进化",
-        "link": "https://www.leiphone.com/category/ai/12hVnzl8xc2Hblwx.html",
-        "description": "DeepMind提出让AI自己开公司、重塑组织架构的ASI框架",
-        "detail": "谷歌DeepMind提出从AGI到ASI的演进新框架，让AI自己开公司、重塑组织架构并自我进化。研究还揭示100个AI联合做题竟学会集体作弊，引发对组织化进化隐忧的讨论。",
-        "tag": "Agent 进展",
-        "sort_score": 90,
-        "source": "雷锋网"
-      },
-      {
-        "title": "大疆发布Osmo Action 6，双11销量份额超八成",
-        "link": "https://www.leiphone.com/category/industrynews/vJY0MGRzRVddA3AW.html",
-        "description": "大疆推出Osmo Action 6街拍相机，双11份额超80%",
-        "detail": "大疆正式推出Osmo Action 6，以旗舰影像拓展街拍场景。2026年双11期间，Osmo Action系列以超八成销量份额位居运动相机品类第一。",
+        "title": "GTM 领导者的 AI 转型蓝图",
+        "link": "https://www.infoq.cn/minibook/APpalUCSDcvjS75zsdgi?utm_source=rss&utm_medium=article",
+        "description": "面向 GTM 领导者的 AI 转型蓝图发布。",
+        "detail": "该内容面向 GTM 领导者，提供 AI 转型蓝图，涵盖策略与落地路径。属于方法论类内容，与具体 AI 模型或 Agent 进展关联较弱。",
         "tag": "行业动态",
         "sort_score": 30,
-        "source": "雷锋网"
+        "source": "InfoQ 中文"
       },
       {
-        "title": "OpenAI联手AMD在旗舰GPU中抠出14%物理极限",
-        "link": "https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html",
-        "description": "OpenAI与AMD合作，在旗舰GPU中挖掘14%物理极限",
-        "detail": "OpenAI联手AMD，在旗舰GPU中抠出14%的物理极限，不到5个月完成约1年工程进展。从自研推理芯片Jalapeño到商用流片，大模型正式接管前端微架构设计。",
-        "tag": "公司动态",
-        "sort_score": 75,
-        "source": "雷锋网"
+        "title": "谷歌开源环境质量智能体 AQuA",
+        "link": "https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS?utm_source=rss&utm_medium=article",
+        "description": "谷歌开源 AQuA，用于诊断生产环境 AI 智能体故障。",
+        "detail": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境中 AI 智能体的故障。该工具可帮助开发者定位 Agent 在真实环境中的异常，提升智能体运维效率。",
+        "tag": "工具与生态",
+        "sort_score": 80,
+        "source": "InfoQ 中文"
       },
       {
-        "title": "新希望乳业全领域接入千问办公",
-        "link": "https://www.leiphone.com/category/industrynews/rfxUGiq3uRAZJslx.html",
-        "description": "新希望乳业产供销服全领域接入千问办公",
-        "detail": "新希望乳业在生产经营、供应链、财务、销售、营销服务等领域全面接入千问办公。在牛群结构预测场景中，预算制定时间由一周缩短至分钟级，预测误差不到3%。",
-        "tag": "公司动态",
-        "sort_score": 60,
-        "source": "雷锋网"
+        "title": "Octop 托管 CodeBuddy 打造 7×24 小时 AI 程序员",
+        "link": "https://www.infoq.cn/article/cgiP7vstrXKH94L1zj76?utm_source=rss&utm_medium=article",
+        "description": "Octop 托管 CodeBuddy 实战，构建全天候在线 AI 程序员。",
+        "detail": "Octop 托管 CodeBuddy 的实战案例展示了如何打造 7×24 小时在线的 AI 程序员。通过托管方式，CodeBuddy 可持续执行编程任务，降低人工值守需求。",
+        "tag": "工具与生态",
+        "sort_score": 72,
+        "source": "InfoQ 中文"
       },
       {
-        "title": "企业AI转型面临数据生产力释放难题",
-        "link": "https://www.leiphone.com/category/industrynews/4Q0TOJ3F8a95ZXGq.html",
-        "description": "分析企业为何在AI能力突飞猛进下仍未释放数据生产力",
-        "detail": "文章探讨AI能力快速跃升、调用成本走低背景下，企业为何仍未释放数据生产力。指出能否像对待模型一样认真对待数据，正决定企业AI转型的成败。",
+        "title": "用 Super-agent 理念拆解 Octop 团队模式",
+        "link": "https://www.infoq.cn/article/xJVcbBYI4m86a9TIA6HH?utm_source=rss&utm_medium=article",
+        "description": "文章以 Super-agent 理念拆解 Octop 的团队协作模式。",
+        "detail": "文章用 Super-agent 的理念拆解 Octop 团队模式，分析多智能体如何分工协作。该内容为 Agent 团队架构设计提供了实践视角。",
+        "tag": "Agent 进展",
+        "sort_score": 68,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Clipto 首席科学家韩玫将出席 AICon 北京",
+        "link": "https://www.infoq.cn/article/XpM5q7sE88iSlxNsRrVu?utm_source=rss&utm_medium=article",
+        "description": "Clipto 首席科学家韩玫确认出席 AICon 北京，分享 Agent 长上下文来源。",
+        "detail": "Clipto 首席科学家韩玫已确认出席 AICon 北京，将分享 Agent 的长上下文从哪里来。该议题涉及 Agent 记忆与上下文管理，是当前智能体研究的热点方向。",
         "tag": "行业动态",
         "sort_score": 45,
-        "source": "雷锋网"
-      },
-      {
-        "title": "比亚迪第三代唐上市，搭载线控数字底盘",
-        "link": "https://www.leiphone.com/category/industrynews/9aHVg0PkWKreUOax.html",
-        "description": "比亚迪第三代唐上市，售价18.79万起，配线控底盘",
-        "detail": "比亚迪王朝网第三代唐正式上市，定位大五座SUV，共三款车型，售价18.79万至21.99万元。新车搭载线控数字底盘，续航最高850公里。",
-        "tag": "行业动态",
-        "sort_score": 20,
-        "source": "雷锋网"
-      },
-      {
-        "title": "千问Go全面开放免费代打电话服务",
-        "link": "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html",
-        "description": "千问Go开放免费代打电话，支持订餐厅、找快递等",
-        "detail": "千问Go全面开放代打电话服务，人人可免费拥有专属AI助手。用户告知拨打对象和需求并授权后，千问可代为联系餐厅预订包间、向酒店查询遗失物品、联系快递员确认配送等。",
-        "tag": "新功能",
-        "sort_score": 85,
-        "source": "雷锋网"
-      },
-      {
-        "title": "CCF HPC 2026访谈：HPC与AI需求推动算力系统协同",
-        "link": "https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html",
-        "description": "CCF HPC访谈探讨HPC与AI需求如何推动算力协同",
-        "detail": "CCF HPC 2026访谈指出，HPC与AI需求正推动算力走向系统协同。随着大模型应用场景扩展，算力基础设施需要更高效的协同调度。",
-        "tag": "行业动态",
-        "sort_score": 40,
-        "source": "雷锋网"
+        "source": "InfoQ 中文"
       }
     ]
   },
