@@ -1,5 +1,327 @@
 [
   {
+    "date": "2026-11-26",
+    "weekday": "星期四",
+    "summary": "今日焦点集中在模型竞赛与 Agent 能力跃迁：谷歌 Gemini 4 Neon 登顶 LiveBench 长流程榜，甩开 Claude 与 GPT；Anthropic 推出 Claude Ship，让 Claude 可自主审批代码，同时其未发布模型被曝「强到令人恐惧」。国产 AI 视频模型以 4800 亿参数登顶全球图生视频榜并宣布开源，价格仅一折。Agent 侧，Snowflake CoCo 进化为自主执行，Uber 发布智能体全生命周期治理框架。OpenAI 则收紧 GPT-6.2 使用限额，Astra 触顶速度快 40%。",
+    "news": [
+      {
+        "title": "Transept AI 发布新模型",
+        "link": "https://www.producthunt.com/products/transept-ai",
+        "description": "Transept AI 推出新模型，具体细节未披露。",
+        "detail": "Transept AI 发布了新的 AI 模型，但新闻内容较为简略，未提供具体功能或性能信息。这可能是一个新的模型发布，值得关注后续报道。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "AgentDE 推出新 Agent 框架",
+        "link": "https://www.producthunt.com/products/agentde",
+        "description": "AgentDE 发布新的 Agent 框架，细节有限。",
+        "detail": "AgentDE 推出了新的 Agent 框架，但新闻内容简短，缺乏具体细节。这可能是一个新的 Agent 开发工具或平台，对开发者有一定吸引力。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "WAIC 携手海聚英才峰会举办 AI 人才活动",
+        "link": "https://www.qbitai.com/2026/11/512942.html",
+        "description": "12月6日 WAIC 与海聚英才峰会联合举办 AI 人才讨论活动。",
+        "detail": "WAIC 宣布与第六届“海聚英才”全球创新创业峰会合作，于12月6日举办一场关于 AI 人才的现场讨论活动。报名即将截止，旨在连接 AI 领域的创造者。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "量子位"
+      },
+      {
+        "title": "中国开源 AI 视频模型实现每秒 5 毛商用级生成",
+        "link": "https://www.qbitai.com/2026/11/512916.html",
+        "description": "中国开源新势力推出商用级 AI 视频模型，成本极低。",
+        "detail": "一款中国开源 AI 视频模型声称达到顶尖商用级水平，每秒生成成本仅 5 毛，支持 30 秒一镜到底和自动镜头编排。该模型在性能上取得全球领先地位。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "量子位"
+      },
+      {
+        "title": "蔚来发布世界模型 3.0，智驾训练提效 5 倍",
+        "link": "https://www.qbitai.com/2026/11/512897.html",
+        "description": "蔚来推出世界模型 3.0，大幅提升智驾训练效率。",
+        "detail": "蔚来汽车发布世界模型 3.0，将智能驾驶训练效率提升 5 倍，并首次在座舱中应用强化学习。CEO 李斌表示，不做 AI 变革可能无法生存。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "沈向洋分享 AI 非共识观点",
+        "link": "https://www.qbitai.com/2026/11/512840.html",
+        "description": "沈向洋在演讲中提出多个 AI 非共识观点。",
+        "detail": "沈向洋在近期演讲中分享了关于 AI 的非共识观点，包括“灵巧手是人类最后的尊严”等论述，引发行业思考。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "量子位"
+      },
+      {
+        "title": "AI 影视高地在北京海淀崛起，一人制片厂基建完成",
+        "link": "https://www.qbitai.com/2026/11/512828.html",
+        "description": "北京海淀区形成 AI 影视产业聚集，基础设施就绪。",
+        "detail": "北京海淀区正在成为 AI 影视产业的高地，相关基础设施“一人制片厂”已搭建完成，叠加海淀最强 AI 资源，推动影视制作智能化。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "量子位"
+      },
+      {
+        "title": "黎曼猜想证明代码被精简 99.5%，仅剩 7.6 万行",
+        "link": "https://www.qbitai.com/2026/11/512819.html",
+        "description": "AI 辅助证明黎曼猜想的代码大幅精简至 7.6 万行。",
+        "detail": "此前由 AI 辅助生成的黎曼猜想证明代码经过优化，暴砍 99.5%，仅剩 7.6 万行。这显示了 AI 在数学证明和代码生成方面的强大能力。",
+        "tag": "行业动态",
+        "sort_score": 75,
+        "source": "量子位"
+      },
+      {
+        "title": "四大国产 AI 视频工具实测对比",
+        "link": "https://aiera.com.cn/2026/11/26/other/admin/120096/%e7%88%86%e8%82%9d%e5%ae%9e%e6%b5%8b%e5%9b%9b%e5%a4%a7%e5%9b%bd%e4%ba%a7ai%e7%a5%9e%e5%99%a8%ef%bc%817%e5%a4%a7%e5%8f%98%e6%80%81%e8%80%83%e9%a2%98%ef%bc%8c%e9%80%bc%e5%87%ba%e6%9c%80%e9%87%8e/",
+        "description": "对四款国产 AI 视频生成工具进行七大考题实测。",
+        "detail": "对可灵 4.0 等四款国产 AI 视频生成工具进行了深度实测，通过七大变态考题对比其性能。可灵 4.0 于 10 月 15 日全量上线，重点提升大幅度动作和复杂运镜，单次生成最长 30 秒。",
+        "tag": "对比评测",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic 的 Claude 证明代数版 P≠NP",
+        "link": "https://aiera.com.cn/2026/11/26/other/admin/125372/%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e4%b9%8b%e5%90%8e%ef%bc%8c%e4%bb%a3%e6%95%b0%e7%89%88p%e2%89%a0np%e8%af%81%e6%98%8e%e4%ba%86%ef%bc%81/",
+        "description": "Anthropic 宣布 Claude 证明了 VP≠VNP。",
+        "detail": "Anthropic 在 GitHub 上公开论文，宣布 Claude 证明了代数版 P≠NP（VP≠VNP），这是继黎曼猜想后的又一数学突破，展示了 AI 在高级数学证明中的潜力。",
+        "tag": "行业动态",
+        "sort_score": 90,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic 未发布 AI 模型强大到令人恐惧",
+        "link": "https://aiera.com.cn/2026/11/26/other/admin/125356/%e7%aa%81%e5%8f%91%ef%bc%81%e8%af%81%e6%98%8e%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e4%b9%8b%e5%90%8e%ef%bc%8canthropic%e6%9c%aa%e5%8f%91%e5%b8%83ai%e6%a8%a1%e5%9e%8b%e5%bc%ba%e5%88%b0%e4%bb%a4%e4%ba%ba/",
+        "description": "Axios 爆料 OpenAI 和 Anthropic 未发布模型过于强大。",
+        "detail": "据 Axios 独家报道，OpenAI 和 Anthropic 内部尚未发布的最新一代 AI 模型已经变得过于强大，引发安全担忧。此前 Anthropic 的模型刚证明了黎曼猜想。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic 上市后破发，股价一度跌三成",
+        "link": "https://aiera.com.cn/2026/11/26/other/admin/125338/%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%a4%a7ipo%ef%bc%8c4%e5%a4%a9%e7%a0%b4%e5%8f%91%ef%bc%81anthropic%e6%af%94%e9%a6%96%e6%97%a5%e5%bc%80%e7%9b%98%e4%b8%80%e5%ba%a6%e8%b7%8c%e4%b8%89%e6%88%90/",
+        "description": "Anthropic 完成史上最大 IPO 后四天破发。",
+        "detail": "Anthropic 完成全球史上规模最大的 IPO，但仅四个交易日便跌破发行价，股价盘中跌至 76.6 美元，跌幅达 12.6%，较首日开盘一度跌三成。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude 可通过摇杆操控，兼容 9 大 Agent",
+        "link": "https://aiera.com.cn/2026/11/26/other/admin/125336/claude%e4%b9%9f%e8%83%bd%e7%94%a8%e6%91%87%e6%9d%86%e6%93%8d%e6%8e%a7%e4%ba%86%ef%bc%81%e4%b8%80%e5%8f%b0%e5%b0%8f%e8%a1%97%e6%9c%ba%e9%80%9a%e5%90%839%e5%a4%a7agent/",
+        "description": "Claude 新增摇杆操控功能，支持 9 种 Agent。",
+        "detail": "Claude 现在可以通过摇杆进行操控，一台小街机兼容 9 大 Agent。这体现了 AI 交互方式的创新，可能拓展 Agent 的应用场景。",
+        "tag": "新功能",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic 推出 Claude Ship 测试版，可自动批改代码",
+        "link": "https://aiera.com.cn/2026/11/26/other/admin/125318/claude%e8%83%bd%e8%87%aa%e5%b7%b1%e6%89%b9%e4%bb%a3%e7%a0%81%e4%ba%86%ef%bc%818%e4%b8%aa%e6%9c%88%e5%89%8d%e8%bf%98%e8%af%b4%e9%82%a3%e6%98%af%e4%ba%ba%e7%9a%84%e4%ba%8b/",
+        "description": "Claude 新增自动代码审查功能，提升编程效率。",
+        "detail": "Anthropic 推出 Claude Ship 测试版，直击 AI 编程中“写得飞快、审不过来”的痛点，允许 Claude 自动批改代码。这与 8 个月前声称代码审查需人工的观点形成对比。",
+        "tag": "新功能",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "中国 AI 视频新模型 4800 亿参数登顶全球，开源且一折价格",
+        "link": "https://aiera.com.cn/2026/11/26/other/admin/125311/%e4%b8%ad%e5%9b%bdai%e8%a7%86%e9%a2%91%e6%96%b0%e7%8e%8b%e8%af%9e%e7%94%9f%ef%bc%814800%e4%ba%bf%e5%8f%82%e6%95%b0%e7%99%bb%e9%a1%b6%e5%85%a8%e7%90%83%ef%bc%8c%e4%b8%80%e6%8a%98%e4%bb%b7%e6%a0%bc/",
+        "description": "中国新 AI 视频模型以 4800 亿参数登顶全球榜单。",
+        "detail": "一款中国 AI 视频模型在 Artificial Analysis 图生视频榜单上力压 Seedance 2.5，登顶全球第一。该模型拥有 4800 亿参数，价格仅为对手一折，并计划开源。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "上海交大发布 RoboScopeKit，具身评测提速约 16 倍",
+        "link": "https://aiera.com.cn/2026/11/26/other/admin/125285/%e5%85%b7%e8%ba%ab%e8%af%84%e6%b5%8b%e6%8f%90%e9%80%9f%e7%ba%a616%e5%80%8d%ef%bc%9a%e4%b8%8a%e4%ba%a4%e5%8f%91%e5%b8%83%e4%b8%80%e7%ab%99%e5%bc%8f%e8%af%84%e6%b5%8b%e5%b7%a5%e5%85%b7roboscopekit/",
+        "description": "上交大推出一站式 VLA 模型评测工具 RoboScopeKit。",
+        "detail": "上海交通大学发布一站式评测工具 RoboScopeKit，用于视觉-语言-动作（VLA）模型的仿真评测，将评测速度提升约 16 倍，支持 LIBERO、RoboTwin 等环境。",
+        "tag": "工具与生态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "神秘模型 HungerG 突降热搜，身份未知",
+        "link": "https://aiera.com.cn/2026/11/26/other/admin/125268/%e7%a5%9e%e7%a7%98%e6%a8%a1%e5%9e%8b%e7%aa%81%e9%99%8d%e7%83%ad%e6%90%9c%ef%bc%81%e4%b8%80%e5%a4%9c%e7%88%86%e7%81%abhungerg%ef%bc%8c%e5%88%b0%e5%ba%95%e6%98%af%e8%b0%81%ef%bc%9f/",
+        "description": "代号 HungerG 的神秘模型一夜爆火，引发猜测。",
+        "detail": "一个名为 HungerG 的神秘模型突然空降 X 热搜，引发广泛关注和猜测。目前其来源和功能尚不明确，可能是一款新的 AI 模型。",
+        "tag": "模型发布",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "Gemini 4 Neon 登顶 LiveBench，长流程榜领先 Claude 和 GPT",
+        "link": "https://aiera.com.cn/2026/11/26/other/admin/125245/gemini-4-neon%e7%99%bb%e9%a1%b6livebench%ef%bc%81%e9%95%bf%e6%b5%81%e7%a8%8b%e6%a6%9c%e7%94%a9%e5%bc%80claude%e5%92%8cgpt/",
+        "description": "谷歌 Gemini 4 Neon 在 LiveBench 长流程榜上超越竞品。",
+        "detail": "谷歌发布的 Gemini 4 Neon 在 LiveBench 基准测试中登顶，尤其在长流程任务上甩开 Claude 和 GPT。11 月 AI 圈迎来密集发布，包括 Claude Fable 5.2、GPT-6.2 Astra 等。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic 编程团队被 OpenAI 挖角，编程王座动摇",
+        "link": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+        "description": "Claude Code 核心团队遭 OpenAI 挖角，Anthropic 编程优势受挑战。",
+        "detail": "Anthropic 的 Claude Code 核心班底被 OpenAI 大量挖角，加之 IPO 破发，其编程领域的领导地位面临挑战。人才流失可能影响其未来竞争力。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Snowflake CoCo 进化，数据开发进入 Agent 自主执行时代",
+        "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+        "description": "Snowflake CoCo 升级，实现数据开发 Agent 自主执行。",
+        "detail": "Snowflake 的 CoCo 平台再次进化，允许数据开发进入 Agent 自主执行时代，提升数据工程自动化水平。这代表了 AI 在数据领域的深入应用。",
+        "tag": "Agent 进展",
+        "sort_score": 85,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Uber 推出安全 AI 框架，全生命周期治理智能体",
+        "link": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY?utm_source=rss&utm_medium=article",
+        "description": "Uber 发布 AI 安全框架，对智能体进行全生命周期治理。",
+        "detail": "Uber 推出安全 AI 框架，旨在对 AI 智能体进行全生命周期的治理，确保其安全可靠。这反映了企业对 AI 安全管理的重视。",
+        "tag": "工具与生态",
+        "sort_score": 80,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Cohere 研究：自托管开放权重模型仍需出站控制",
+        "link": "https://www.infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ?utm_source=rss&utm_medium=article",
+        "description": "Cohere 研究表明自托管开放模型需出站控制。",
+        "detail": "Cohere 的研究结果表明，即使自托管开放权重模型，仍然需要出站控制以确保安全。这为 AI 模型部署提供了重要参考。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Siri AI 开发者预览版发布，支持应用集成",
+        "link": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&utm_medium=article",
+        "description": "苹果发布 Siri AI 开发者预览版，允许应用与 Siri 集成。",
+        "detail": "苹果推出 Siri AI 开发者预览版，使 iOS、iPadOS 和 macOS 应用能够与 Siri 集成，增强语音交互能力。这标志着 Siri 向更开放的 AI 平台迈进。",
+        "tag": "新功能",
+        "sort_score": 85,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "前苹果空间智能首席科学家权龙创业成立 Envision AI",
+        "link": "https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb?utm_source=rss&utm_medium=article",
+        "description": "权龙创立 Envision AI，研发空间物理基础模型。",
+        "detail": "前苹果空间智能首席科学家权龙再次创业，成立 Envision AI，专注于研发空间物理基础模型。这可能会推动空间智能和物理模拟领域的发展。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "讯飞语音大模型能力全解：从基座到应用",
+        "link": "https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&utm_medium=article",
+        "description": "讯飞全面解析语音大模型能力与应用。",
+        "detail": "科大讯飞详细介绍了其语音大模型的能力，从语音基座到应用层，展示了在语音识别、合成等方面的技术积累和应用场景。",
+        "tag": "模型发布",
+        "sort_score": 80,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "清华教授李宁将出席 AICon 北京，分享 AI 组织变革",
+        "link": "https://www.infoq.cn/article/xzQgJEw18ECxHGA7FFBx?utm_source=rss&utm_medium=article",
+        "description": "清华大学李宁教授确认出席 AICon 北京，探讨 AI 组织管理。",
+        "detail": "清华大学教授李宁已确认出席 AICon 北京，将分享生成式人工智能驱动的组织变革与组织管理。这体现了 AI 对企业管理的影响。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Anthropic 曝光 AI 整顿职场魔幻实录",
+        "link": "https://www.ifanr.com/1691748?utm_source=rss&utm_medium=rss&utm_campaign",
+        "description": "Anthropic 分享 AI 提升职场效率的案例。",
+        "detail": "Anthropic 曝光了一份 AI 整顿职场的魔幻实录，展示了员工使用公司 AI 节省时间的情况，并引发关于 AI 提效的讨论。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "爱范儿"
+      },
+      {
+        "title": "用 ChatGPT 和 Keynote 免费制作论文机理图",
+        "link": "https://sspai.com/post/119563",
+        "description": "教程分享如何用 ChatGPT 和 Keynote 免费绘制论文机理图。",
+        "detail": "一篇教程介绍了如何利用 ChatGPT 和 Keynote 免费搞定论文中的机理图，解决了科研人员作图难的问题。这展示了 AI 工具在学术领域的实用技巧。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "少数派"
+      },
+      {
+        "title": "派早报：蔚来创新科技日、Tidal 拒绝 AI 音乐等",
+        "link": "https://sspai.com/post/119560",
+        "description": "派早报汇总蔚来科技日、Tidal 拒绝 AI 音乐等新闻。",
+        "detail": "派早报报道了蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐、阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等消息。",
+        "tag": "行业动态",
+        "sort_score": 60,
+        "source": "少数派"
+      },
+      {
+        "title": "Sand.ai 发布 MAGI-2 视频模型，成本低九成且开源",
+        "link": "http://www.geekpark.net/news/374532",
+        "description": "Sand.ai 推出开源视频模型 MAGI-2，成本大幅降低。",
+        "detail": "Sand.ai 发布视频生成模型 MAGI-2，成本降低九成，并采用开源权重。该模型可能带动视频模型进入价格战时代，对标 Seedance 2.5。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "极客公园"
+      },
+      {
+        "title": "黄仁勋复职后首次全员大会道歉，Anthropic 跌破发行价",
+        "link": "http://www.geekpark.net/news/374500",
+        "description": "黄仁勋复职后道歉，Anthropic 股价破发等新闻汇总。",
+        "detail": "英伟达 CEO 黄仁勋在复职后首次全员大会上向员工道歉，承认违反公司行为准则。同时，Anthropic 跌破发行价，iPhone Duo 零部件成本创新高等消息也被报道。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "极客公园"
+      },
+      {
+        "title": "淘宝在韩国月活破百万，同比暴涨 93.9%",
+        "link": "https://www.leiphone.com/category/industrynews/7P7TJEooLlAQxqGH.html",
+        "description": "淘宝韩国月活跃用户首次突破百万，增速最快。",
+        "detail": "韩国数据研究机构 WiseApp·Retail 数据显示，今年 10 月淘宝在韩国的月活跃用户数达到 102 万，创历史新高，同比增长 93.9%，成为韩国增速最快的电商平台。",
+        "tag": "行业动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "淘宝在韩国月活破百万，同比暴涨 93.9%",
+        "link": "https://www.leiphone.com/category/industrynews/lG9YiDwwPFAq8Udm.html",
+        "description": "淘宝韩国月活跃用户首次突破百万，增速最快。",
+        "detail": "韩国数据研究机构 WiseApp·Retail 数据显示，今年 10 月淘宝在韩国的月活跃用户数达到 102 万，创历史新高，同比增长 93.9%，成为韩国增速最快的电商平台。",
+        "tag": "行业动态",
+        "sort_score": 30,
+        "source": "雷锋网"
+      },
+      {
+        "title": "Nest Designs 在 Shopee 找到新机会",
+        "link": "https://www.leiphone.com/category/industrynews/3zKYASqpb5PEKGwC.html",
+        "description": "Nest Designs 通过 Shopee 拓展孕产服饰市场。",
+        "detail": "Nest Designs 从婴儿睡袋扩展到时尚孕产服饰，在 Shopee 平台上找到了新的增长机会，满足年轻妈妈对时尚孕产服装的需求。",
+        "tag": "行业动态",
+        "sort_score": 20,
+        "source": "雷锋网"
+      },
+      {
+        "title": "国产模型在 AI4S 领域几毫秒破译尘封 18 年密码学悬案",
+        "link": "https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html",
+        "description": "国产 AI 模型在科学计算中快速解决密码学难题。",
+        "detail": "国产模型深入 AI4S（AI for Science）领域，在几毫秒内破译了一个尘封 18 年的密码学悬案，展示了 AI 在科学发现中的强大能力。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "雷锋网"
+      }
+    ]
+  },
+  {
     "date": "2026-11-25",
     "weekday": "星期三",
     "summary": "Google DeepMind 披露已让 AI Agent 自主承担部分 Gemini 实验算力，但研究负责人强调距离递归自我改进仍远。Gemini 4 在 Arena 文本榜包揽前三，并以多智能体协作将量子模拟成本最高降低 10 倍。Anthropic 方面，Claude Opus 5.6 进入灰测（效率约为旧版 2–3 倍），Claude 还产出 73000 行 Lean 代码完成「代数版 P≠NP」形式化验证。压缩模型赛道活跃：PrismML 将 27B 模型压至 5.",
