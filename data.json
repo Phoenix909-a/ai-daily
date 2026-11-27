@@ -1,5 +1,327 @@
 [
   {
+    "date": "2026-11-27",
+    "weekday": "星期五",
+    "summary": "OpenAI 今日动作最密集：官宣 GPT-6.2 接班并淘汰 GPT-5.6 Sol，同时传出破解矩阵乘法指数难题的消息。Anthropic CEO Dario Amodei 发布长文，配合 Claude 5.6 在演示文稿生成上的表现引发关注。",
+    "news": [
+      {
+        "title": "Spark AI 发布",
+        "link": "https://www.producthunt.com/products/spark-ai-7",
+        "description": "Spark AI 相关产品发布，具体细节待披露。",
+        "detail": "Spark AI 于 2026 年 11 月 27 日发布，目前公开信息有限，预计为 AI 领域的新产品或服务。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Prosed AI 2.0 集成 MCP 协议",
+        "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+        "description": "Prosed AI 2.0 版本发布，新增 MCP 协议支持。",
+        "detail": "Prosed AI 推出 2.0 版本，并集成 MCP（模型上下文协议），提升模型与外部工具的交互能力，增强 Agent 生态兼容性。",
+        "tag": "新功能",
+        "sort_score": 80,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Depost AI 发布",
+        "link": "https://www.producthunt.com/products/depost-ai",
+        "description": "Depost AI 相关产品发布，具体信息待披露。",
+        "detail": "Depost AI 于 2026 年 11 月 27 日发布，目前公开信息有限，预计为 AI 领域的新产品或服务。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Transept AI 发布",
+        "link": "https://www.producthunt.com/products/transept-ai",
+        "description": "Transept AI 相关产品发布，具体信息待披露。",
+        "detail": "Transept AI 于 2026 年 11 月 27 日发布，目前公开信息有限，预计为 AI 领域的新产品或服务。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Claude-Mem 推出云同步功能",
+        "link": "https://www.producthunt.com/products/claude-mem",
+        "description": "Claude-Mem 新增云同步，支持跨设备记忆管理。",
+        "detail": "Claude-Mem 发布云同步功能，用户可将记忆数据同步至云端，实现多设备间的无缝衔接，提升 Agent 的持续记忆能力。",
+        "tag": "新功能",
+        "sort_score": 82,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "韦东奕再获大奖，攻克近140年数学难题",
+        "link": "https://www.qbitai.com/2026/11/513320.html",
+        "description": "韦东奕因解决百年数学难题获大奖，两位院士提名。",
+        "detail": "数学家韦东奕再次获得重要奖项，其攻克了近 140 年未解的数学难题，并获得两位院士共同提名，彰显其在基础数学领域的卓越贡献。",
+        "tag": "行业动态",
+        "sort_score": 30,
+        "source": "量子位"
+      },
+      {
+        "title": "DeepSeek APP 更新账单功能，引发收费猜测",
+        "link": "https://www.qbitai.com/2026/11/513305.html",
+        "description": "DeepSeek APP 双端上线聊天账单，网友猜测将收费。",
+        "detail": "DeepSeek APP 在网页端和移动端突然更新，新增聊天账单功能，展示用户使用详情。此举引发网友对即将收费的猜测，官方尚未回应。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "量子位"
+      },
+      {
+        "title": "首个带跨任务空间记忆的原生基模开源，机器人端侧可跑",
+        "link": "https://www.qbitai.com/2026/11/513227.html",
+        "description": "开源首个具备跨任务空间记忆的原生基模，支持机器人端侧运行。",
+        "detail": "该开源模型首次实现跨任务空间记忆，地图可随时修正，记忆能跨任务复用，且能在机器人端侧直接运行，推动具身智能发展。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "量子位"
+      },
+      {
+        "title": "钛动科技与腾讯云达成战略合作，用 AI 助力企业全球增长",
+        "link": "https://www.qbitai.com/2026/11/513194.html",
+        "description": "钛动科技与腾讯云战略合作，以 AI 推动企业全球化增长。",
+        "detail": "钛动科技与腾讯云签署战略合作协议，双方将结合 AI 技术，为企业提供全球增长解决方案，强调 AI 的实用价值。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "量子位"
+      },
+      {
+        "title": "蚂蚁灵波发布 LingBot-Map 2.0，模型自主修正空间记忆",
+        "link": "https://www.qbitai.com/2026/11/513211.html",
+        "description": "蚂蚁灵波发布流式三维重建模型 LingBot-Map 2.0，提升地图精度。",
+        "detail": "蚂蚁灵波科技发布 LingBot-Map 2.0，该流式三维重建模型能自主修正空间记忆，使地图绘制更准确，补强具身智能的空间感知能力。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "20 个 AI Agents 组队，4 天跑 350 次实验超越 ClickBench 最佳成绩",
+        "link": "https://www.qbitai.com/2026/11/513163.html",
+        "description": "20 个 AI Agents 协作，4 天完成 350 次实验，刷新 ClickBench 纪录。",
+        "detail": "20 个 AI Agents 组队协作，在 4 天内完成 350 次实验，将 Quickwit 查询总耗时降低 31%，最高降幅达 87%，超越 ClickBench 最佳公开成绩。",
+        "tag": "Agent 进展",
+        "sort_score": 88,
+        "source": "量子位"
+      },
+      {
+        "title": "腾讯混元发布 Hy3D 3.6，3D 生成转向实用化",
+        "link": "https://www.qbitai.com/2026/11/513155.html",
+        "description": "腾讯混元发布 Hy3D 3.6，高模表面更整洁、结构更清晰。",
+        "detail": "腾讯混元推出 Hy3D 3.6 版本，在高模表面整洁度、结构清晰度和细节刻画上显著提升，标志着 3D 生成竞争重点从“能看”转向“能用”。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "量子位"
+      },
+      {
+        "title": "具身公司抱团回应通用大模型跨维打击",
+        "link": "https://www.qbitai.com/2026/11/513125.html",
+        "description": "具身智能公司集体回应通用大模型对具身领域的冲击。",
+        "detail": "多家具身智能公司抱团发声，回应通用大模型是否对具身领域形成“跨维打击”，认为没那么简单，强调具身智能的独特挑战与壁垒。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "量子位"
+      },
+      {
+        "title": "百亿具身独角兽破壁，玩家集体涌向牌桌",
+        "link": "https://www.qbitai.com/2026/11/513101.html",
+        "description": "百亿估值具身独角兽取得突破，吸引众多玩家入局。",
+        "detail": "一家估值百亿的具身智能独角兽实现技术破壁，引发行业玩家集体涌向该赛道，竞争加剧，推动具身智能生态发展。",
+        "tag": "行业动态",
+        "sort_score": 68,
+        "source": "量子位"
+      },
+      {
+        "title": "MEET2027 第三批嘉宾公布，报名倒计时两周",
+        "link": "https://www.qbitai.com/2026/11/513091.html",
+        "description": "MEET2027 大会公布第三批嘉宾，报名进入倒计时。",
+        "detail": "MEET2027 大会公布第三批嘉宾阵容，活动进入倒计时两周，呼吁速戳报名，共同探讨 AI 新共识。",
+        "tag": "行业动态",
+        "sort_score": 40,
+        "source": "量子位"
+      },
+      {
+        "title": "JustRUA 精简 harness 框架让 GPT-6 在 RoboDojo 得分从 29.7 提升至 50.3",
+        "link": "https://aiera.com.cn/2026/11/27/other/admin/125540/justrua-%e7%b2%be%e7%ae%80-harness%e6%a1%86%e6%9e%b6%e8%ae%a9-gpt-6-%e5%9c%a8-robodojo-%e4%b8%8a%e4%bb%8e-29-7-%e5%88%86%e5%88%b0-50-3-%e5%88%86/",
+        "description": "精简 harness 框架显著提升 GPT-6 在 RoboDojo 上的操控得分。",
+        "detail": "JustRUA 团队推出精简 harness 框架，在不训练策略、不自我改进、不针对任务调参的情况下，将 GPT-6 Astra 在 RoboDojo 上的得分从 29.7 提升至 50.3，展示框架优化对 Agent 性能的增益。",
+        "tag": "Agent 进展",
+        "sort_score": 86,
+        "source": "新智元"
+      },
+      {
+        "title": "蚂蚁灵波发布 LingBot-Map 2.0 和 LingBot-Navi，升级通用大脑",
+        "link": "https://aiera.com.cn/2026/11/27/other/admin/125531/%e9%80%9a%e7%94%a8%e5%a4%a7%e8%84%91%e5%86%8d%e5%8d%87%e7%ba%a7%ef%bc%9a%e8%9a%82%e8%9a%81%e7%81%b5%e6%b3%a2%e5%8f%91%e5%b8%83lingbot-map-2-0%e5%92%8clingbot-navi/",
+        "description": "蚂蚁灵波发布流式三维重建模型和开源导航模型，补强具身通用大脑。",
+        "detail": "蚂蚁灵波科技发布 LingBot-Map 2.0 流式三维重建模型，并开源带空间记忆的导航模型 LingBot-Navi，进一步补强具身原生通用大脑的空间导航能力。",
+        "tag": "模型发布",
+        "sort_score": 91,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic CEO 发长文，预告超级智能时代桌面 APP",
+        "link": "https://aiera.com.cn/2026/11/27/other/admin/125526/anthropic-ceo%e9%95%bf%e6%96%87%e5%88%b7%e5%b1%8f%ef%bc%81%e8%b6%85%e7%ba%a7%e6%99%ba%e8%83%bd%e6%97%b6%e4%bb%a3%e7%9a%84%e6%a1%8c%e9%9d%a2app%e6%9d%a5%e4%ba%86/",
+        "description": "Anthropic CEO Dario Amodei 发长文，透露超级智能时代桌面应用。",
+        "detail": "Anthropic CEO Dario Amodei 在 X 上发布长帖，阐述超级智能时代的愿景，并预告将推出桌面 APP，引发广泛关注。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "新智元"
+      },
+      {
+        "title": "前 Codex 负责人：dots 正成为 OpenAI 主要工作方式",
+        "link": "https://aiera.com.cn/2026/11/27/other/admin/125509/%e5%89%8dcodex%e8%b4%9f%e8%b4%a3%e4%ba%ba%ef%bc%9a%e5%9c%a8openai%ef%bc%8cdots%e6%ad%a3%e6%88%90%e4%b8%ba%e5%b9%b2%e6%b4%bb%e7%9a%84%e4%b8%bb%e8%a6%81%e6%96%b9%e5%bc%8f/",
+        "description": "前 Codex 负责人透露 dots 在 OpenAI 内部成为主要工作方式。",
+        "detail": "前 Codex 负责人 Tibo Sottiaux 在 X 上表示，dots 正在成为 OpenAI 内部干活的主要方式，暗示 AI 协作工具在研发流程中的普及。",
+        "tag": "公司动态",
+        "sort_score": 72,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI 破解矩阵乘法指数，答案 9/4 连破 8 大数学悬案",
+        "link": "https://aiera.com.cn/2026/11/27/other/admin/125497/%e9%9c%87%e6%92%bc%ef%bc%9aopenai%e7%a0%b4%e8%a7%a3%e7%9f%a9%e9%98%b5%e4%b9%98%e6%b3%95%e6%8c%87%e6%95%b0%ef%bc%8c%e7%ad%94%e6%a1%88%e6%98%af9-4%ef%bc%81%e8%bf%9e%e7%a0%b48%e5%a4%a7%e4%b8%96%e7%ba%aa/",
+        "description": "OpenAI 在矩阵乘法指数上取得突破，解开 9/4 并连破 8 大数学难题。",
+        "detail": "OpenAI 宣布在矩阵乘法指数问题上取得重大突破，找到答案 9/4，并连续破解 8 大世纪数学悬案，展示 AI 在基础数学研究中的潜力。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "OpenAI 官宣 GPT-6.2 接班，GPT-5.6 将于 12 月 23 日下线",
+        "link": "https://aiera.com.cn/2026/11/27/other/admin/125476/gpt-6-2%e6%ad%a3%e5%bc%8f%e6%8e%a5%e7%8f%ad%ef%bc%81openai%e5%ae%98%e5%ae%a3%e6%b7%98%e6%b1%b0gpt-5-6/",
+        "description": "OpenAI 正式宣布 GPT-6.2 接替 GPT-5.6，后者 12 月 23 日停用。",
+        "detail": "OpenAI 正式拍板，GPT-6.2 将接替 GPT-5.6 Sol，后者于 12 月 23 日彻底下线停用，ChatGPT 一夜换代，标志模型迭代加速。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "清华团队联手国产芯破局高端 GPU 短缺，推理性能暴涨 3 倍",
+        "link": "https://aiera.com.cn/2026/11/27/other/admin/125459/%e9%ab%98%e7%ab%afgpu%e4%b8%80%e5%8d%a1%e9%9a%be%e6%b1%82%ef%bc%81%e6%b8%85%e5%8d%8e%e5%9b%a2%e9%98%9f%e8%81%94%e6%89%8b%e5%9b%bd%e4%ba%a7%e8%8a%af%e7%a0%b4%e5%b1%80%ef%bc%8c%e6%8e%a8%e7%90%86/",
+        "description": "清华团队联合国产芯片解决 GPU 短缺，推理性能提升 3 倍。",
+        "detail": "面对高端 GPU 一卡难求的局面，清华团队联手国产芯片实现突破，推理性能暴涨 3 倍，为算力短缺提供新的解决方案。",
+        "tag": "行业动态",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "15 岁少年用 Claude 5.6 生成无限 PPT 火爆全网",
+        "link": "https://aiera.com.cn/2026/11/27/other/admin/125447/15%e5%b2%81%e5%b0%91%e5%b9%b4%e7%81%ab%e7%88%86%e5%85%a8%e7%bd%91%ef%bc%9a%e4%b8%80%e6%ae%b5%e8%af%9d%ef%bc%8cclaude-5-6%e6%8a%8appt%e7%82%b8%e5%88%b0%e2%88%9e/",
+        "description": "15 岁少年用 Claude Opus 5.6 制作 PPT 全程录屏，引发全网关注。",
+        "detail": "一位 15 岁少年使用 Claude Opus 5.6 制作演示稿，全程录屏展示 AI 生成 PPT 的能力，视频火爆全网，凸显 AI 在创意表达上的潜力。",
+        "tag": "工具与生态",
+        "sort_score": 78,
+        "source": "新智元"
+      },
+      {
+        "title": "中国团队推动 Loop 架构大爆发，打响 AI 架构翻身仗",
+        "link": "https://aiera.com.cn/2026/11/27/other/admin/125434/loop%e5%a4%a7%e7%88%86%e5%8f%91%ef%bc%81%e4%b8%ad%e5%9b%bd%e5%9b%a2%e9%98%9f%e6%89%93%e5%93%8dai%e6%9e%b6%e6%9e%84%e7%bf%bb%e8%ba%ab%e4%bb%97/",
+        "description": "中国团队在循环深度架构上取得突破，引领 AI 底层架构变革。",
+        "detail": "全球大模型技术风向转向循环深度（Recurrent Depth）架构，中国团队在此领域大爆发，推动 AI 底层架构创新，打响翻身仗。",
+        "tag": "模型发布",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic 重注的 2 万亿赛道被中国 AI 打穿，蛋白质版 Claude 吸金超 1 亿",
+        "link": "https://aiera.com.cn/2026/11/27/other/admin/125414/anthropic%e9%87%8d%e6%b3%a8%e7%9a%842%e4%b8%87%e4%ba%bf%e8%b5%9b%e9%81%93%ef%bc%8c%e8%a2%ab%e4%b8%ad%e5%9b%bdai%e6%89%93%e7%a9%bf%ef%bc%81%e8%9b%8b%e7%99%bd%e8%b4%a8%e7%89%88claude%e5%90%b8%e9%87%91/",
+        "description": "中国 AI 在蛋白质领域突破，蛋白质版 Claude 吸金超 1 亿。",
+        "detail": "Anthropic 重注的 2 万亿美元赛道被中国 AI 突破，蛋白质版 Claude 产品吸金超过 1 亿元，显示 AI 在生物科技领域的商业化潜力。",
+        "tag": "行业动态",
+        "sort_score": 82,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude 7 小时生成 4.5 万行代码，将美国装进《文明》地图",
+        "link": "https://aiera.com.cn/2026/11/27/other/admin/125387/7%e5%b0%8f%e6%97%b64-5%e4%b8%87%e8%a1%8c%ef%bc%81claude%e6%8a%8a%e7%be%8e%e5%9b%bd%e8%a3%85%e8%bf%9b%e4%b8%80%e5%bc%a0%e3%80%8a%e6%96%87%e6%98%8e%e3%80%8b%e5%9c%b0%e5%9b%be/",
+        "description": "Claude 用 7 小时写 4.5 万行代码，生成《文明》风格美国地图。",
+        "detail": "前 OpenAI 创始成员 Andrej Karpathy 分享，Claude 在 7 小时内生成 4.5 万行代码，将美国地图以《文明》风格呈现，展示 AI 编码智能体的强大能力。",
+        "tag": "Agent 进展",
+        "sort_score": 87,
+        "source": "新智元"
+      },
+      {
+        "title": "蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+        "link": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article",
+        "description": "蚂蚁灵波发布 LingBot-Map 2.0 和 LingBot-Navi，解决机器人走偏与健忘难题。",
+        "detail": "蚂蚁灵波针对机器人“走偏”与“健忘”两大难题，发布 LingBot-Map 2.0 和 LingBot-Navi 两大模型，补齐空间导航能力，提升具身智能实用性。",
+        "tag": "模型发布",
+        "sort_score": 90,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "给 AI 编码智能体装知识库反而更费 Token，JioHotstar 测试六种方案",
+        "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+        "description": "JioHotstar 测试六种方案发现，给编码智能体加知识库反而增加 Token 消耗。",
+        "detail": "JioHotstar 团队测试六种知识库集成方案，发现给 AI 编码智能体装上知识库反而更费 Token，而文件搜索方案依然高效，为 Agent 知识管理提供参考。",
+        "tag": "对比评测",
+        "sort_score": 76,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "DoorDash 利用 AI 智能体将生鲜杂货复购延迟从 16 秒降至 2 秒",
+        "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+        "description": "DoorDash 用 AI 智能体优化生鲜复购流程，延迟从 16 秒降至 2 秒。",
+        "detail": "DoorDash 借助 AI 智能体优化生鲜杂货复购体验，将延迟从 16 秒大幅降至 2 秒，显著提升用户下单效率。",
+        "tag": "Agent 进展",
+        "sort_score": 80,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "淘天集团 AI 研发负责人吕承飞确认出席 AICon 北京",
+        "link": "https://www.infoq.cn/article/Y6xTPR1bRWqmNNakCtXm?utm_source=rss&utm_medium=article",
+        "description": "淘天集团 AI 研发负责人吕承飞将出席 AICon 北京，分享淘宝 AI 原生研发系统。",
+        "detail": "淘天集团 AI 研发负责人吕承飞（吕行）确认出席 AICon 北京，将分享淘宝 AI 原生研发系统的实战经验，探讨 AI 在电商研发中的应用。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "Claude Opus 5.6 生成史上最牛 PPT，被指杀死比赛",
+        "link": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+        "description": "Claude Opus 5.6 生成高质量 PPT，引发“杀死比赛”热议。",
+        "detail": "Claude Opus 5.6 生成的 PPT 被评价为史上最牛，展示 AI 在演示文稿生成上的惊人进步，引发广泛讨论，被认为可能颠覆传统 PPT 制作。",
+        "tag": "工具与生态",
+        "sort_score": 79,
+        "source": "爱范儿"
+      },
+      {
+        "title": "Claude Code 灵魂人物反思 Vibe Coding 的未来",
+        "link": "https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign",
+        "description": "Claude Code 核心人物反思 Vibe Coding 的未来发展。",
+        "detail": "Claude Code 灵魂人物发文反思 Vibe Coding 的未来，认为 AI 既是工业革命也是文艺复兴，探讨 AI 编程范式的演进方向。",
+        "tag": "行业动态",
+        "sort_score": 70,
+        "source": "爱范儿"
+      },
+      {
+        "title": "B 站十几年家底在 AI 时代升值，财报给出意外答案",
+        "link": "http://www.geekpark.net/news/374593",
+        "description": "B 站财报显示其长期积累的内容资产在 AI 时代价值提升。",
+        "detail": "在 AI 能快速生成答案的背景下，B 站最新财报显示其十几年积累的长视频内容资产反而升值，回答了为何人们仍需长视频的问题。",
+        "tag": "行业动态",
+        "sort_score": 55,
+        "source": "极客公园"
+      },
+      {
+        "title": "AI 创作走过产能竞速，进入新阶段",
+        "link": "http://www.geekpark.net/news/374584",
+        "description": "AI 内容行业从追求产能转向更注重质量与创意。",
+        "detail": "2026 年 AI 内容行业进入新节点，回顾 2025 年 AI 视频的早期痕迹，行业已走过产能竞速阶段，开始关注质量、创意与真实感。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "极客公园"
+      },
+      {
+        "title": "智谱辟谣 GLM-5.5 延期，称性能达 Fable 级、国产卡进展顺利",
+        "link": "http://www.geekpark.net/news/374546",
+        "description": "智谱高管辟谣 GLM-5.5 跳票传闻，称性能达 Fable 级。",
+        "detail": "智谱高管杨昊翊公开辟谣 GLM-5.5 延期传闻，表示相关爆料均为假消息，模型性能达 Fable 级，上万张国产 AI 卡进展顺利。",
+        "tag": "公司动态",
+        "sort_score": 75,
+        "source": "极客公园"
+      }
+    ]
+  },
+  {
     "date": "2026-11-26",
     "weekday": "星期四",
     "summary": "Anthropic 成为今日绝对主角：Claude 被曝证明代数版 P≠NP（VP≠VNP），同时推出可自动批代码的 Claude Ship 测试版，但公司上市 4 天即破发。OpenAI 与 Anthropic 未发布的新一代模型被曝\"强到令人恐惧\"，引发安全讨论。视频生成赛道竞争白热化，中国新模型以 4800 亿参数登顶全球图生视频榜单。Agent 生态持续扩张，Google 推动 AI Agent 接入 Workspace MCP 服务器。",
