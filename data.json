@@ -1,5 +1,201 @@
 [
   {
+    "date": "2026-11-28",
+    "weekday": "星期六",
+    "summary": "今日焦点集中在模型能力边界与 Agent 落地：GPT-6 Astra 被曝冲刺“大一统理论”，Gemini 4 Carbon 据称破解 70 年几何悬案，两大前沿模型同时向科学发现发力。Anthropic 连发两项研究，揭示 AI“假遗忘”机制，并因 IPO 破发成为资本市场焦点。Agent 侧，Claude Code 核心成员跳槽 OpenAI，Codeforces 算法题横评显示 GPT 与 Claude 解题策略差异明显。此外，智源发布 66 款模型的物理 AI 评测体系，暴露行业普遍认知盲区。",
+    "news": [
+      {
+        "title": "Depost AI 发布",
+        "link": "https://www.producthunt.com/products/depost-ai",
+        "description": "Depost AI 推出新产品或服务。",
+        "detail": "Depost AI 今日正式发布，具体细节尚未披露，但预计将涉及 AI 模型或工具。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "Spark AI 发布",
+        "link": "https://www.producthunt.com/products/spark-ai-7",
+        "description": "Spark AI 推出新产品或服务。",
+        "detail": "Spark AI 今日正式发布，具体细节尚未披露，但预计将涉及 AI 模型或工具。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "Product Hunt"
+      },
+      {
+        "title": "卡帕西用 Claude 打造美国版《文明》游戏",
+        "link": "https://www.qbitai.com/2026/11/513428.html",
+        "description": "卡帕西利用 Claude 生成即时交互游戏，引发网友接力试玩。",
+        "detail": "卡帕西使用 Claude 模型快速开发出类似《文明》的即时交互游戏，网友在社交媒体上掀起全球接力试玩热潮，展示了大型语言模型在游戏生成领域的潜力。",
+        "tag": "工具与生态",
+        "sort_score": 75,
+        "source": "量子位"
+      },
+      {
+        "title": "Anthropic IPO 破发，四个交易日跌穿发行价",
+        "link": "https://aiera.com.cn/2026/11/28/other/admin/125710/anthropic%e7%a0%b4%e5%8f%91%ef%bc%81%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%a4%a7ipo%ef%bc%8c4%e4%b8%aa%e4%ba%a4%e6%98%93%e6%97%a5%e8%b7%8c%e7%a9%bf83%e7%be%8e%e5%85%83/",
+        "description": "Anthropic 完成史上最大 IPO，但股价迅速破发。",
+        "detail": "Anthropic 在 IPO 后仅四个交易日股价便跌破 83 美元的发行价，尽管 CEO 达里奥·阿莫迪在路演中表达了创造奇迹时代的愿景，市场反应却相对冷淡。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT-6 Astra 冲刺大一统理论，引物理界关注",
+        "link": "https://aiera.com.cn/2026/11/28/other/admin/125702/gpt-6-astra%e5%86%b2%e5%88%ba%e5%a4%a7%e4%b8%80%e7%bb%9f%e7%90%86%e8%ae%ba%ef%bc%8c%e6%af%94%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e6%9b%b4%e9%9c%87%e6%92%bc%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e5%8a%9b/",
+        "description": "GPT-6 Astra 在物理学大一统理论方面取得进展，获奥特曼转发。",
+        "detail": "斯坦福物理学家发表 83 页论文，借助 GPT-6 Astra 探索比黎曼猜想更震撼的大一统理论，OpenAI CEO 奥特曼转发相关消息，引发物理学界和 AI 圈震动。",
+        "tag": "模型发布",
+        "sort_score": 95,
+        "source": "新智元"
+      },
+      {
+        "title": "Gemini 4 Carbon 破解 70 年几何悬案",
+        "link": "https://aiera.com.cn/2026/11/28/other/admin/125680/gemini-4-carbon%e7%82%b9%e4%ba%ae8%e9%a2%97%e5%a4%aa%e9%98%b3%ef%bc%8170%e5%b9%b4%e5%87%a0%e4%bd%95%e6%82%ac%e6%a1%88%e5%91%8a%e7%a0%b4%ef%bc%8c%e5%8f%aa%e7%94%a86%e9%a1%b5%e7%a5%9e%e7%ba%a7%e8%af%81/",
+        "description": "Gemini 4 Carbon 用 6 页证明解决晨昏线几何难题。",
+        "detail": "Gemini 4 Carbon 成功解决一个长达 70 年的几何悬案，仅用 6 页证明便点亮 8 颗太阳，展示了 AI 在数学证明领域的强大能力。",
+        "tag": "模型发布",
+        "sort_score": 92,
+        "source": "新智元"
+      },
+      {
+        "title": "Anthropic 研究揭示 AI 假遗忘现象",
+        "link": "https://aiera.com.cn/2026/11/28/other/admin/125660/anthropic%e6%8b%86%e7%a9%bfai%e5%81%87%e9%81%97%e5%bf%98%ef%bc%8146%e4%b8%87%e7%a5%9e%e7%bb%8f%e5%85%83%e5%8a%a8%e5%87%a0%e5%8d%81%e4%b8%aa%ef%bc%8c%e9%bb%91%e5%ae%a2%e7%9f%a5%e8%af%86%e5%b0%b1/",
+        "description": "Anthropic 发现只需改动少量神经元即可恢复被删知识。",
+        "detail": "Anthropic 发布两篇新研究，指出 AI 模型存在假遗忘现象：在 46 万个神经元中仅需调整几十个，就能让被删除的黑客知识重新复活，这对 AI 安全与知识编辑提出新挑战。",
+        "tag": "行业动态",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "灵波发布空间记忆双王炸 2.0 版",
+        "link": "https://aiera.com.cn/2026/11/28/other/admin/125648/1-9%e4%b8%87star%e4%b8%ad%e5%9b%bd%e5%bc%80%e6%ba%90%e7%a5%9e%e4%bd%9c2-0%e6%9d%a5%e4%ba%86%ef%bc%81%e7%81%b5%e6%b3%a2%e5%8f%91%e5%b8%83%e3%80%8c%e7%a9%ba%e9%97%b4%e8%ae%b0%e5%bf%86%e3%80%8d%e5%8f%8c/",
+        "description": "中国开源项目灵波 2.0 发布，新增空间记忆功能。",
+        "detail": "灵波开源项目在获得 1.9 万 Star 后发布 2.0 版本，推出空间记忆双王炸功能，该 3D 建图模型已被 NVIDIA 研究员和科学家用于珊瑚礁研究等领域。",
+        "tag": "模型发布",
+        "sort_score": 88,
+        "source": "新智元"
+      },
+      {
+        "title": "GPT 与 Claude 在算法题上表现对比",
+        "link": "https://aiera.com.cn/2026/11/28/other/admin/125627/%e5%86%a0%e5%86%9b%e7%86%ac%e5%88%b0109%e5%88%86%e9%92%9f%e6%89%8d%e8%bf%87%e7%9a%84%e9%a2%98%ef%bc%8cgpt-12%e5%88%86%e9%92%9f%e4%ba%a4%e5%af%b9%ef%bc%8cclaude%e5%85%88%e5%86%99%e6%9a%b4%e5%8a%9b/",
+        "description": "GPT 12 分钟解出冠军耗时 109 分钟的算法题。",
+        "detail": "在 Codeforces 一级组算法题测试中，GPT 仅用 12 分钟便正确解答，而人类冠军耗时 109 分钟，Claude 则先写暴力验证自身，展示了不同模型在复杂推理上的差异。",
+        "tag": "对比评测",
+        "sort_score": 85,
+        "source": "新智元"
+      },
+      {
+        "title": "智源发布 REAL 物理 AI 评测体系，66 款模型横评",
+        "link": "https://aiera.com.cn/2026/11/28/other/admin/125617/66%e6%ac%be%e6%a8%a1%e5%9e%8b%e5%a4%a7%e6%a8%aa%e8%af%84%ef%bc%81%e7%89%a9%e7%90%86ai%e7%ab%9f%e6%9c%89%e8%bf%99%e4%b9%88%e5%a4%9a%e8%ae%a4%e7%9f%a5%e7%9b%b2%e5%8c%ba%ef%bc%9f/",
+        "description": "智源推出物理 AI 评测体系，揭示模型认知盲区。",
+        "detail": "北京智源人工智能研究院在 2026 智源 Open Day 上发布 REAL 物理 AI 评测体系，对 66 款模型进行大横评，发现物理 AI 存在诸多认知盲区。",
+        "tag": "对比评测",
+        "sort_score": 80,
+        "source": "新智元"
+      },
+      {
+        "title": "小鹏机器人 IRON 亮相车展，展示超级大脑",
+        "link": "https://aiera.com.cn/2026/11/28/other/admin/125583/%e5%b0%8f%e9%b9%8f%e6%9c%ba%e5%99%a8%e4%ba%ba%e6%8b%8e%e9%ba%a6%e5%bc%80%e5%9c%ba%ef%bc%8c%e5%b7%b4%e9%bb%8e%e8%bf%87%e6%8b%9bfsd%ef%bc%81%e3%80%8c%e8%b6%85%e7%ba%a7%e5%a4%a7%e8%84%91%e3%80%8d/",
+        "description": "小鹏人形机器人 IRON 担任发布会发言人，展示蒸馏技术。",
+        "detail": "在广州车展上，小鹏人形机器人 IRON 挂工牌担任发布会发言人，与 FSD 过招，其超级大脑通过蒸馏技术上车，展示了小鹏在机器人领域的最新进展。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "新智元"
+      },
+      {
+        "title": "Claude Code 核心成员 Thariq 跳槽 OpenAI",
+        "link": "https://aiera.com.cn/2026/11/28/other/admin/125554/%e6%95%99%e4%bc%9aclaude-code%e3%80%8c%e5%85%88%e9%97%ae%e5%86%8d%e5%b9%b2%e3%80%8d%e7%9a%84%e4%ba%ba%ef%bc%8c%e4%b9%9f%e8%b7%b3%e6%a7%bdopenai%e4%ba%86%ef%bc%81/",
+        "description": "教会 Claude Code 先问再干的 Thariq 加入 OpenAI。",
+        "detail": "曾推动 Claude Code 实现先问再干交互模式的 Thariq 在离开 Anthropic 一个多月后，于 11 月 26 日宣布加入 OpenAI，引发 AI 人才流动关注。",
+        "tag": "公司动态",
+        "sort_score": 65,
+        "source": "新智元"
+      },
+      {
+        "title": "谷歌更新 SRE 著作，拥抱 AI 时代",
+        "link": "https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&utm_medium=article",
+        "description": "谷歌更新站点可靠性工程著作，融入 AI 内容。",
+        "detail": "谷歌对其经典的 SRE 著作进行更新，新增 AI 时代下的运维实践与理念，以应对 AI 系统带来的新挑战。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "InfoQ 中文"
+      },
+      {
+        "title": "OpenAI 反诉苹果窃密，AI 硬件竞争白热化",
+        "link": "http://www.geekpark.net/news/374621",
+        "description": "OpenAI 起诉苹果窃取商业机密，iPhone 18 量产推迟。",
+        "detail": "OpenAI 在加州联邦法院对苹果提起反诉，指控苹果窃取商业机密并阻挠竞争，同时 iPhone 18 量产再度推迟，王兴回应美团与小微试点合作，AI 硬件领域竞争加剧。",
+        "tag": "公司动态",
+        "sort_score": 70,
+        "source": "极客公园"
+      },
+      {
+        "title": "共绩算力云平台首发，一站式跑通 AI 训推全流程",
+        "link": "https://www.leiphone.com/category/industrynews/mFpSlgs8pnwUk320.html",
+        "description": "共绩算力云平台推出，简化 AI 训推流程。",
+        "detail": "共绩算力云平台双城联动首发，提供从开发环境搭建到模型训练、推理部署的一站式服务，旨在降低 AI 应用落地门槛。",
+        "tag": "工具与生态",
+        "sort_score": 65,
+        "source": "雷锋网"
+      },
+      {
+        "title": "闪科光联完成数千万融资，瞄准 AI 算力连接",
+        "link": "https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html",
+        "description": "MicroLED 光互连芯片商闪科光联获天使轮融资。",
+        "detail": "闪科光联近日完成数千万元人民币天使轮融资，专注于 MicroLED 高速光互连芯片与光引擎研发，旨在解决 AI 算力成本中的连接瓶颈。",
+        "tag": "公司动态",
+        "sort_score": 60,
+        "source": "雷锋网"
+      },
+      {
+        "title": "润泽智造获数百万元天使轮融资，自研微水洗澡机",
+        "link": "https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html",
+        "description": "润泽智造完成天使轮融资，推出微水清洁产品。",
+        "detail": "润泽智造近期完成数百万元人民币天使轮融资，旗下品牌羽鸣 eoomii 主打微水洗澡机，由金隼投资担任独家财务顾问。",
+        "tag": "公司动态",
+        "sort_score": 40,
+        "source": "雷锋网"
+      },
+      {
+        "title": "房东 AI 助手误告租客可延迟交租，导致租客被驱逐",
+        "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "description": "房东 AI 助手错误告知租客可延迟交租，引发驱逐事件。",
+        "detail": "一名租客因房东的 AI 助手告知其可以延迟交租，最终遭到驱逐，事件在 Hacker News 上引发热议，凸显 AI 助手在关键事务中的责任问题。",
+        "tag": "行业动态",
+        "sort_score": 50,
+        "source": "hackernews"
+      },
+      {
+        "title": "52KB WebAssembly 引擎在浏览器运行 Qwen3.5-2B",
+        "link": "https://tesseracted.com/experiments-llm-os/",
+        "description": "开发者展示仅 52KB 的 WebAssembly 引擎运行大模型。",
+        "detail": "Show HN 上出现一个仅 52KB 的 WebAssembly 引擎，可在浏览器标签页中运行 Qwen3.5-2B 模型，展示了轻量级推理的新可能。",
+        "tag": "工具与生态",
+        "sort_score": 75,
+        "source": "hackernews"
+      },
+      {
+        "title": "谷歌为 Pi 编码代理添加官方 AI 计划支持",
+        "link": "https://github.com/earendil-works/pi/pull/12614",
+        "description": "谷歌在 Pi 编码代理中集成官方 AI 计划支持。",
+        "detail": "谷歌宣布为 Pi 编码代理添加官方 Google AI 计划支持，提升开发者在编码过程中的 AI 辅助体验。",
+        "tag": "新功能",
+        "sort_score": 70,
+        "source": "hackernews"
+      },
+      {
+        "title": "移除 Linux 和 llama.cpp 使 LLM 令牌生成提速 54%",
+        "link": "https://twitter.com/superalesha/status/2125682626056839259",
+        "description": "开发者通过移除 Linux 和 llama.cpp 实现令牌生成提速 54%。",
+        "detail": "有开发者分享称，通过移除 Linux 操作系统和 llama.cpp 框架，LLM 令牌生成速度提升 54%，为高性能推理提供新思路。",
+        "tag": "工具与生态",
+        "sort_score": 70,
+        "source": "hackernews"
+      }
+    ]
+  },
+  {
     "date": "2026-11-27",
     "weekday": "星期五",
     "summary": "OpenAI 今日动作密集：官宣 GPT-6.2 接班、将于 12 月 23 日下线 GPT-5.6 Sol，同时传出其模型破解矩阵乘法指数难题的消息。Agent 方向同样热闹，20 个 AI Agents 组队刷新 ClickBench 最佳公开成绩，蚂蚁灵波开源带跨任务空间记忆的导航模型。Anthropic CEO Dario Amodei 发长文谈超级智能时代的桌面应用，引发广泛讨论。",
